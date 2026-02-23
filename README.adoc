@@ -1,0 +1,58 @@
+= Japan End-User List Data Repository
+
+image:https://img.shields.io/github/license/ammitto/data-jp.svg[License]
+image:https://github.com/ammitto/data-jp/actions/workflows/update.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-jp/actions/workflows/update.yml"]
+
+== Purpose
+
+This repository contains sanctioned entities from the Japan End-User List
+published by the Ministry of Economy, Trade and Industry (METI).
+
+== Source
+
+* **Authority**: Japan Ministry of Economy, Trade and Industry (METI)
+* **URL**: https://www.meti.go.jp/policy/anpo/english/law/doc/EndUserListE.html
+* **Format**: PDF (requires manual conversion to structured data)
+* **Update Frequency**: As published by METI
+* **Country Code**: JP
+
+== Legal Basis
+
+The End-User List is maintained under Japan's Foreign Exchange and Foreign
+Trade Act (FEFTA) and related export control regulations.
+
+== Directory Structure
+
+```
+data-jp/
+├── downloaded/        # Raw downloaded files (PDF, HTML)
+├── processed/         # Processed YAML files (one per entity)
+├── reference-docs/    # Reference documentation and converted files
+└── README.adoc        # This file
+```
+
+== Data Format
+
+Each processed entity is stored as a YAML file with the following structure:
+
+[source,yaml]
+----
+id: JP-001
+name: Example Entity
+name_ja: 例の団体
+entity_type: organization
+addresses:
+  - city: Tokyo
+    country: JP
+source_url: https://www.meti.go.jp/...
+----
+
+== Usage
+
+This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions
+screening system.
+
+== License
+
+Data is sourced from official Japanese government publications.
+Repository structure and processing code are under the MIT License.

@@ -1,0 +1,82 @@
+name: Fetch Data
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch.yml'
+
+jobs:
+  fetch-data:
+    name: Fetch Japan Sanctions Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+
+      - name: Fetch data
+        run: |
+          bundle exec ammitto fetch jp --format yaml --output-dir processed --verbose
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes detected, skipping commit and push."
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected, will commit and push."
+          fi
+
+      - name: Commit and push changes
+        if: github.ref_name == github.event.repository.default_branch && steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update Japan sanctions data ($(date +%Y-%m-%d))"
+          git push
+
+      - name: Trigger harmonization
+        if: github.ref_name == github.event.repository.default_branch && steps.check_changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.HARMONIZE_TOKEN }}
+          script: |
+            try {
+              await github.rest.actions.createWorkflowDispatch({
+                owner: 'ammitto',
+                repo: 'data',
+                workflow_id: 'harmonize.yml',
+                ref: 'main'
+              });
+            } catch (error) {
+              console.log('Could not trigger harmonization: ' + error.message);
+            }
+
+      - name: Create issue on failure
+        if: github.ref_name == github.event.repository.default_branch && failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Data fetch failed - ${{ github.run_id }}',
+              body: 'The scheduled data fetch workflow failed. See: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}',
+              labels: ['automation', 'data-update']
+            })

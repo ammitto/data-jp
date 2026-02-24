@@ -47,6 +47,34 @@ addresses:
 source_url: https://www.meti.go.jp/...
 ----
 
+== Processing
+
+The source PDF must be converted to HTML before running the parser script.
+
+=== Converting PDF to HTML
+
+Install `poppler-utils` (for `pdftohtml`) or use an online converter:
+
+[source,shell]
+----
+# Using poppler-utils (macOS)
+brew install poppler
+
+# Convert PDF to HTML
+pdftohtml -c -noframes reference-docs/20250131-jp-end-user-list.pdf reference-docs/20250131-jp-end-user-list.html
+----
+
+=== Running the Parser
+
+After conversion, run the parser from the ammitto root:
+
+[source,shell]
+----
+bundle exec ruby scripts/parse_jp_end_user_list.rb
+----
+
+This will generate YAML files in the `processed/` directory.
+
 == Usage
 
 This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions

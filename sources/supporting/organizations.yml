@@ -1,0 +1,81 @@
+---
+organizations:
+# Japan organizations
+- id: jp/diet
+  name:
+    ja: 国会
+    en: National Diet of Japan
+- id: jp/cabinet
+  name:
+    ja: 内閣
+    en: Cabinet of Japan
+- id: jp/mof
+  name:
+    ja: 財務省
+    en: Ministry of Finance, Japan
+- id: jp/meti
+  name:
+    ja: 経済産業省
+    en: Ministry of Economy, Trade and Industry, Japan
+- id: jp/mofa
+  name:
+    ja: 外務省
+    en: Ministry of Foreign Affairs, Japan
+- id: jp/mhlw
+  name:
+    ja: 厚生労働省
+    en: Ministry of Health, Labour and Welfare, Japan
+- id: jp/mlit
+  name:
+    ja: 国土交通省
+    en: Ministry of Land, Infrastructure, Transport and Tourism, Japan
+- id: jp/maff
+  name:
+    ja: 農林水産省
+    en: Ministry of Agriculture, Forestry and Fisheries, Japan
+- id: jp/npa
+  name:
+    ja: 警察庁
+    en: National Police Agency, Japan
+- id: jp/meti-trade-control-department
+  name:
+    ja: 経済産業省貿易経済協力局
+    en: Trade and Economic Cooperation Bureau, METI
+- id: jp/meti-security-exports-control-office
+  name:
+    ja: 経済産業省貿易管理部安全保障貿易管理課
+    en: Security Export Control Office, Trade Control Department, METI
+
+# China organizations (retained for reference)
+- id: cn/unreliable-entity-list-working-mechanism
+  name:
+    zh-Hans: 不可靠实体清单工作机制
+    en: Unreliable Entity List Working Mechanism
+- id: cn/ministry-of-commerce
+  name:
+    zh-Hans: 中华人民共和国商务部
+    en: Ministry of Commerce, People's Republic of China
+- id: cn/ministry-of-commerce-information-office
+  name:
+    zh-Hans: 中华人民共和国商务部新闻办公室
+    en: Information Office of the Ministry of Commerce, People's Republic of China
+- id: cn/ministry-of-commerce-industry-security-and-import-export-control
+  name:
+    zh-Hans: 中华人民共和国商务部产业安全与进出口管制局
+    en: Department of Industry Security and Import-Export Control, Ministry of Commerce, People's Republic of China
+- id: cn/ministry-of-foreign-affairs
+  name:
+    zh-Hans: 中华人民共和国外交部
+    en: Ministry of Foreign Affairs, People's Republic of China
+- id: cn/npc-standing-committee
+  name:
+    zh-Hans: 全国人民代表大会常务委员会
+    en: Standing Committee of the National People's Congress
+- id: cn/npc
+  name:
+    zh-Hans: 全国人民代表大会
+    en: National People's Congress
+- id: cn/state-council
+  name:
+    zh-Hans: 中华人民共和国国务院
+    en: State Council of the People's Republic of China

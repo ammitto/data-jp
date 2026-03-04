@@ -1,0 +1,134 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 輸出等に係る禁止措置の対象となるロシア連邦及びベラルーシ共和国以外
+  - en: Third-Country Export Prohibition
+  publish_date: '2023-12-15'
+  authority: jp/mofa
+  type: jp/export-prohibition-announcement
+  source_file: 100595628.pdf
+  source_url: https://www.mofa.go.jp/mofaj/files/100595628.pdf
+entities:
+- id: jp.mofa.third-country.1
+  entry_number: 1
+  name:
+    ja: 有限会社タコ
+    en: Tako LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 17 Garegin Nzhdehi Street, Shengavit, Yerevan, 0026, Armenia.
+  aliases:
+    en:
+    - Taco LLC
+- id: jp.mofa.third-country.2
+  entry_number: 2
+  name:
+    ja: アイ・ジェット・グローバル DMCC
+    en: I JET GLOBAL DMCC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Damascus, Syria.
+  aliases:
+    ja:
+    - アイジェット
+    - アイジェット・アビエーション・サービス
+    - アイジェット・フライト・サポート・サービス
+    - トレード・メッド・ミドルイースト
+    - トレード・ミッド・ミドルイースト
+    en:
+    - iJet
+    - iJet Aviation Services
+    - iJET Flight Support Services
+    - Trade Med Middle East
+    - Trade Mid Middle East
+- id: jp.mofa.third-country.3
+  entry_number: 3
+  name:
+    ja: アイ・ジェット・グローバル DMCC
+    en: I JET GLOBAL DMCC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 'Unit No: 3504, 1 Lake Plaza, Plot No: JLT–PH2–T2A, Jumeirah Lakes Towers, Dubai, United Arab Emirates.'
+  aliases:
+    ja:
+    - アイジェット
+    - アイジェット・アビエーション・サービス
+    - アイジェット・フライト・サポート・サービス
+    - トレード・メッド・ミドルイースト
+    - トレード・ミッド・ミドルイースト
+    en:
+    - iJet
+    - iJet Aviation Services
+    - iJET Flight Support Services
+    - Trade Med Middle East
+    - Trade Mid Middle East
+- id: jp.mofa.third-country.4
+  entry_number: 4
+  name:
+    ja: サクセス・アビエーション・サービス FZC
+    en: Success Aviation Services FZC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 608, The Apricot Tower, Dubai Silicon Oasis, Dubai, United Arab Emirates; and Building L1, Sharjah International Airport, Sharjah, United Arab Emirates.
+  aliases:
+    ja:
+    - サクセス・アビエーション
+    - サクセス・アビエーション FZC
+    - サクセス・アビエーション・サービス
+    en:
+    - Success Aviation
+    - Success Aviation FZC
+    - Success Aviation Services
+- id: jp.mofa.third-country.5
+  entry_number: 5
+  name:
+    ja: 有限会社アルファ・ベータ・クリエイティブ
+    en: Alfa Beta Creative LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 16A Navoi Street, Shaykhantakhur District, Tashkent, 100011, Uzbekistan.
+- id: jp.mofa.third-country.6
+  entry_number: 6
+  name:
+    ja: 有限会社 GFK ロジスティック・アジア
+    en: GFK Logistic Asia LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 16A Navoi Street, Shaykhantakhur District, Tashkent, 100011, Uzbekistan.

@@ -1,0 +1,73 @@
+---
+document_types:
+# Japan document types
+- id: jp/act-of-diet
+  name:
+    ja: 法律
+    en: Act of Diet
+- id: jp/cabinet-order
+  name:
+    ja: 政令
+    en: Cabinet Order
+- id: jp/ministerial-ordinance
+  name:
+    ja: 省令
+    en: Ministerial Ordinance
+- id: jp/imperial-order
+  name:
+    ja: 勅令
+    en: Imperial Order
+- id: jp/regulation
+  name:
+    ja: 規則
+    en: Regulation
+- id: jp/public-notice
+  name:
+    ja: 告示
+    en: Public Notice
+- id: jp/notification
+  name:
+    ja: 通達
+    en: Notification
+- id: jp/end-user-list-announcement
+  name:
+    ja: 我が国の平和及び安全の維持のための措置に関するリスト
+    en: List concerning Measures for the Maintenance of Peace and Security of Japan
+- id: jp/asset-freeze-announcement
+  name:
+    ja: 資産凍結等の措置に関するお知らせ
+    en: Announcement concerning Asset Freeze Measures
+- id: jp/export-control-announcement
+  name:
+    ja: 輸出管理に関するお知らせ
+    en: Announcement concerning Export Control
+
+# China document types (retained for reference)
+- id: cn/unreliable-entity-list-working-mechanism-announcement
+  name:
+    zh-Hans: 不可靠实体清单工作机制公告
+    en: Unreliable Entity List Working Mechanism Announcement
+- id: cn/ministry-of-foreign-affairs-order
+  name:
+    zh-Hans: 中华人民共和国外交部令
+    en: Order of the Ministry of Foreign Affairs of the People's Republic of China
+- id: cn/npc-standing-committee-announcement
+  name:
+    zh-Hans: 全国人民代表大会常务委员会公告
+    en: Announcement of the Standing Committee of the National People's Congress
+- id: cn/ministry-of-commerce-announcement
+  name:
+    zh-Hans: 中华人民共和国商务部公告
+    en: Announcement of the Ministry of Commerce of the People's Republic of China
+- id: cn/ministry-of-commerce-spokesperson-speech
+  name:
+    zh-Hans: 中华人民共和国商务部新闻发言人谈话
+    en: Speech of the Spokesperson of the Ministry of Commerce of the People's Republic of China
+- id: cn/state-council-order
+  name:
+    zh-Hans: 中华人民共和国国务院令
+    en: Order of the State Council of the People's Republic of China
+- id: cn/ministry-of-commerce-order
+  name:
+    zh-Hans: 中华人民共和国商务部令
+    en: Order of the Ministry of Commerce of the People's Republic of China

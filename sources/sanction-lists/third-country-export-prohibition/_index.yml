@@ -1,0 +1,1142 @@
+# yaml-language-server: $schema=../../schemas/jp-sanction-list.yml
+---
+sanction_list:
+  id: jp/third-country-export-prohibition-list
+  name:
+    ja: ウクライナをめぐる国際平和のための国際的な努力に我が国として寄与するために講ずる輸出等に係る禁止措置の対象となるロシア連邦及びベラルー シ共和国以外の国の団体を指定する件（令和五年外務省告示第四百四十七号）
+    en: Japan Third-Country Export Prohibition List
+  authority: jp/mofa
+  type: jp/export-prohibition-list
+  source_file: list_daisangoku_tokutei.pdf
+  source_url: https://www.meti.go.jp/policy/external_economy/trade_control/02_export/17_russia/list_daisangoku_tokutei.pdf
+entities:
+- id: jp.mofa.third-country.1
+  entry_number: 1
+  name:
+    ja: 有限会社タコ
+    en: Tako LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 17 Garegin Nzhdehi Street, Shengavit, Yerevan, 0026, Armenia.
+  aliases:
+    en:
+    - Taco LLC
+- id: jp.mofa.third-country.2
+  entry_number: 2
+  name:
+    ja: アイ・ジェット・グローバル DMCC
+    en: I JET GLOBAL DMCC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Damascus, Syria.
+  aliases:
+    ja:
+    - アイジェット
+    - アイジェット・アビエーション・サービス
+    - アイジェット・フライト・サポート・サービス
+    - トレード・メッド・ミドルイースト
+    - トレード・ミッド・ミドルイースト
+    en:
+    - iJet
+    - iJet Aviation Services
+    - iJET Flight Support Services
+    - Trade Med Middle East
+    - Trade Mid Middle East
+- id: jp.mofa.third-country.3
+  entry_number: 3
+  name:
+    ja: アイ・ジェット・グローバル DMCC
+    en: I JET GLOBAL DMCC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 'Unit No: 3504, 1 Lake Plaza, Plot No: JLT–PH2–T2A, Jumeirah Lakes Towers, Dubai, United Arab Emirates.'
+  aliases:
+    ja:
+    - アイジェット
+    - アイジェット・アビエーション・サービス
+    - アイジェット・フライト・サポート・サービス
+    - トレード・メッド・ミドルイースト
+    - トレード・ミッド・ミドルイースト
+    en:
+    - iJet
+    - iJet Aviation Services
+    - iJET Flight Support Services
+    - Trade Med Middle East
+    - Trade Mid Middle East
+- id: jp.mofa.third-country.4
+  entry_number: 4
+  name:
+    ja: サクセス・アビエーション・サービス FZC
+    en: Success Aviation Services FZC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 608, The Apricot Tower, Dubai Silicon Oasis, Dubai, United Arab Emirates; and Building L1, Sharjah International Airport, Sharjah, United Arab Emirates.
+  aliases:
+    ja:
+    - サクセス・アビエーション
+    - サクセス・アビエーション FZC
+    - サクセス・アビエーション・サービス
+    en:
+    - Success Aviation
+    - Success Aviation FZC
+    - Success Aviation Services
+- id: jp.mofa.third-country.5
+  entry_number: 5
+  name:
+    ja: 有限会社アルファ・ベータ・クリエイティブ
+    en: Alfa Beta Creative LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 16A Navoi Street, Shaykhantakhur District, Tashkent, 100011, Uzbekistan.
+- id: jp.mofa.third-country.6
+  entry_number: 6
+  name:
+    ja: 有限会社 GFK ロジスティック・アジア
+    en: GFK Logistic Asia LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 16A Navoi Street, Shaykhantakhur District, Tashkent, 100011, Uzbekistan.
+- id: jp.mofa.third-country.7
+  entry_number: 7
+  name:
+    ja: アルファ・トレーディング・インベストメンツ有限会社
+    en: Alpha Trading Investments Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 617, 6/F, 131-132 Connaught Road West, Solo Workshops, Hong Kong, China.
+  aliases:
+    en:
+    - Alpha Trading Investments
+    - Alpha Trading Investments Ltd
+- id: jp.mofa.third-country.8
+  entry_number: 8
+  name:
+    ja: アジア・パシフィック・リンクス有限会社
+    en: Asia Pacific Links Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Office 8E and Room E 8/F, Shing Hing Commercial Building, 21-
+  aliases:
+    en:
+    - Asia Pacific Links Limited
+- id: jp.mofa.third-country.27
+  entry_number: 27
+  name:
+    en: Wing Kut Street, Central District, Hong Kong, 510000, China.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+- id: jp.mofa.third-country.9
+  entry_number: 9
+  name:
+    ja: グアンジョウ・オーサイ・テクノロジー有限会社（广州欧赛科技有限公司）
+    en: Guangzhou Ausay Technology Co. Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: R301, Block A of No 3 Building, West Area of Tongda Industrial Zone, Hebian 5 She Helong Street, Baiyun District, Guangzhou, Guangdong, China.
+  aliases:
+    en:
+    - Guangzhou Ausay Technology Co., Ltd
+    - Guangzhou Ausay Technology Co., Limited
+- id: jp.mofa.third-country.10
+  entry_number: 10
+  name:
+    ja: シェンジェン 5G ハイテク・イノベーション有限会社（深圳五力高科創新有限公司）
+    en: Shenzhen 5G High-Tech Innovation Co., Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 502, Block B, Rongchaolong Building, Longfu Road, Shangjing Community, Longcheng Street, Longgang District, Shenzhen, China; and
+  aliases:
+    ja:
+    - シェンジェン・ウーリー・ガオクー・チュアンシン・ヨウシエン・ゴンスー
+    - シェンジェン・ウーリー・ガオクー・イノベーション・サイエンス・アンド・テクノロジー有限会社
+    en:
+    - Shenzhen Wu Li Gaoke Chuangxin Youxian Gongsi
+    - Shenzhen Wu Li Gao Ke Innovation Science and Technology Co., Ltd
+- id: jp.mofa.third-country.306
+  entry_number: 306
+  name:
+    en: No. 66 Huayuan Road, Pingxi Community, Pingdi Street, Longgang District, Shenzhen, Guangdong Province, China.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+- id: jp.mofa.third-country.11
+  entry_number: 11
+  name:
+    ja: シェンジェン・ビーグアン・トレーディング有限会社（深圳比广贸易有限公司）
+    en: Shenzhen Biguang Trading Co. Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 18E, Block B, World Trade Square, No. 9 Fuhong Road, Funnan Community, Futian Street, Futian District, Shenzhen, Guangdong, China.
+  aliases:
+    en:
+    - Shenzhen Biguang Trading Co., Ltd
+- id: jp.mofa.third-country.12
+  entry_number: 12
+  name:
+    ja: トルダン・インダストリー有限会社
+    en: Tordan Industry Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 617, 6/F, 131-132 Connaught Road West, Solo Workshops, Hong Kong, China.
+  aliases:
+    en:
+    - Tordan Industry
+    - Tordan Industry Ltd
+- id: jp.mofa.third-country.13
+  entry_number: 13
+  name:
+    ja: イールーファ・エレクトロニクス有限会社（深圳市亿路发科技有限公司）
+    en: Yilufa Electronics Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 1806, Hanguo Center, No.3031, Shennan Middle Road, Futian District, Shenzhen, Guangdong, China.
+  aliases:
+    en:
+    - Yilufa Electronics Limited
+- id: jp.mofa.third-country.14
+  entry_number: 14
+  name:
+    ja: Si2 マイクロシステムズ有限会社
+    en: Si2 Microsystems Private Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: '84, Deep Towers, EPIP Industrial Area, Whitefield, Bangalore, Karnataka, 560066, India; #52/A, 1st Cross, 3rd Main KIADB Industrial Area, Hoskote, Bangalore, Karnataka, 562114, India; 3796, 7th Main, Hal II Stage, Bangalore, Karnataka, 560008, India; 493/3 Bramhalingeshwara Complex, Airport Road, Bangalore, Karnataka, 560008, India; and 177/2 Bannerghatta Road, Begur Hobli Bilekahalli Industrial Area, Bangalore, Karnataka, 560076, India.'
+  aliases:
+    en:
+    - Si2 Microsystems Pvt Ltd
+- id: jp.mofa.third-country.15
+  entry_number: 15
+  name:
+    ja: エレム・グループ有限会社
+    en: Elem Group, LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 8 Nauryzbai Batyr Street, Almaty, 050004, Kazakhstan; and
+  aliases:
+    ja:
+    - エレム・グループ
+    en:
+    - Elem Group
+    - Limited Liability Partnership Elem Group
+    - TOO Elem Group
+- id: jp.mofa.third-country.98
+  entry_number: 98
+  name:
+    en: Panfilov St., Almaty, 050000, Kazakhstan.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+- id: jp.mofa.third-country.16
+  entry_number: 16
+  name:
+    ja: エムヴィジョン有限会社
+    en: Mvizion LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 8 Katartal Street, 7th Block, Chilanzarskiy District, Tashkent, 100113, Uzbekistan; and
+  aliases:
+    en:
+    - OOO Mvizion
+- id: jp.mofa.third-country.313
+  entry_number: 313
+  name:
+    en: Gaydar Alieev Kuchasi, Tashkent, 100161, Uzbekistan.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+- id: jp.mofa.third-country.17
+  entry_number: 17
+  name:
+    ja: アグ･インフォメーション･テクノロジー有限会社（啊咕信息技術有限公司)
+    en: Agu Information Technology Co Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 2-2, 2/F, Fudu Building, 98 Argyle Street, Hong Kong, China; and Unit 22, 2/F, Foo To Building, 98 Argyle Street, Mongkok, Kowloon, Hong Kong, China.
+  aliases:
+    ja:
+    - メイクウェル･インダストリアル･トレーディング有限会社（麥克維爾工業貿易有限公司）
+    en:
+    - Makewell Industrial Trading Co., Limited
+- id: jp.mofa.third-country.18
+  entry_number: 18
+  name:
+    ja: オールパーツ･トレーディング有限会社
+    en: Allparts Trading Co., Ltd.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 13, 27/F, Ho King Commercial Centre, 2-16 Fa Yuen Street, Mongkok, Kowloon, Hong Kong, China; Room 803, Chevalier House,45-51 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong, China; Room 2901B,Bank of Communications, Futian District, Shenzhen, Guangdong, China; 3 Garden Road Central, Hong Kong, China; Unit 3, 6/F, Kam Hon Industrial Building,8 Wang Kwun Road, Kowloon Bay, Hong Kong, China; Room 1901H, Bank of Communications Building, Futian District, Shenzhen, Guangdong, China; and 4/F Building 6 Deguan Lighting Factory, No.2 South 1st, Guangzhou, Guangdong, China.
+  aliases:
+    en:
+    - All Parts Trading Company Limited
+- id: jp.mofa.third-country.19
+  entry_number: 19
+  name:
+    ja: チャングアン･サテライト･テクノロジー有限会社(长光卫星技术股份有限公司(长光卫星))
+    en: Chang Guang Satellite Technology Co., Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: No.1299, Mingxi Road, Beihu Science Technology Development District, Changchun, Jilin, China; and 1299, Mingxi Road, Beihu Technological Development Zone, Changchun City, Jilin Province, China.
+  aliases:
+    ja:
+    - チャーミング･グローブ
+    - チャングアン･サテライト有限会社
+    - CGST
+    en:
+    - Charming Globe
+    - Changguang Satellite Co., Ltd
+    - CGST
+- id: jp.mofa.third-country.20
+  entry_number: 20
+  name:
+    ja: チャンシャ･ティエンイー･スペース･サイエンス･アンド･テクノロジー･リサーチ･インスティチュート有限会社（长沙天仪空间科技研究院有限公司）
+    en: Changsha Tianyi Space Science and Technology Research Institute Co. Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 445, 9th Floor, Block B, No.18 Zhongguancun Street, Haidian District, Beijing, China; 9 Dengzhuang South Rd, Beijing, China; and 25th floor, A Building, Lugu Science&Technology Innovation and Entrepreneurship Park, 1698 Yuelu West Avenue, High- tech development zone, Changsha, Hunan, China.
+  aliases:
+    ja:
+    - チャン･シャ･ティアン･イー･コン･ジアン･ケー･ジ･ヤン･ジウ･ユアン･ユー･シェン･ゴン･スー
+    - スペースティー有限会社
+    - チャンシャ･ティアンイー･スペース･サイエンス･アンド・テクノロジー・リサーチ（スペースティー）
+    - スペースティー･チャイナ
+    - チャンシャ･ティアンイー･スペース･サイエンス･アンド･テクノロジー･リサーチ･インスティチュート
+    - スペースティー
+    en:
+    - Chang Sha Tian Yi Kong Jian Ke Ji Yan Jiu Yuan You Xian Gong Si
+    - Spacety Co., Ltd
+    - Changsha Tianyi Space Science and Technology Research (SpaceTy)
+    - Spacety China
+    - Changsha Tianyi Space Science and Technology Research Institute and
+    - Spacety
+- id: jp.mofa.third-country.21
+  entry_number: 21
+  name:
+    ja: チャイナ･ヘッド･エアロスペース・テクノロジー社（北京和德宇航技术有限公司）
+    en: China HEAD Aerospace Technology Co.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 5F, Bldg 5, Science and Technology Park, A-2 North Xisanhuan Road, Haidian District, Beijing, China; Room No.1, 13th floor, Building No.5, Defence Science and Technology Park, Compound A2, West 3rd Ring North Road, Haidian district, Beijing, China; and B- 11a-02 Keshi Plaza 28 Shangdi Xinxi Rd, Beijing, 100085, China.
+  aliases:
+    ja:
+    - チャイナ･ヘッド･テクノロジー社
+    - ヘッド･エアロスペース･グループ
+    - ヘッド･エアロスペース
+    - チャイナ･ヘッド
+    en:
+    - China HEAD Technology Co
+    - HEAD Aerospace Group
+    - HEAD Aerospace
+    - China HEAD Technology Company
+    - China HEAD
+- id: jp.mofa.third-country.22
+  entry_number: 22
+  name:
+    ja: DEXP インターナショナル有限会社
+    en: DEXP International Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 7103, 7/F Yf Life Tower 33 Lockhart Road Wan Chai, Hong Kong, China; and 7B, 1801-03, 18/F, East Town Building, 41 Lockhart Road, Wan Chai, Hong Kong, China.
+- id: jp.mofa.third-country.23
+  entry_number: 23
+  name:
+    ja: グランツ･プロモーション･サービス有限会社
+    en: Grants Promotion Service Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 89, 3/F, Yau Lee Centre, No. 45 Hoi Yuen Road, Kwun Tong, Hong Kong, China; and 430-436 Nathan Road, Nathan Commercial Building, 8th Floor, Room A, Yau Ma Tei, Hong Kong, China.
+  aliases:
+    ja:
+    - カタラーノ有限会社
+    - GPSL
+    - ジェナオ有限会社
+    en:
+    - Catalano Limited
+    - GPSL
+    - Zhenao Co. Ltd
+- id: jp.mofa.third-country.24
+  entry_number: 24
+  name:
+    ja: アイマックスチップ･テクノロジー有限会社（愛瑪芯科技有限公司）
+    en: Imaxchip Technology Co., Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 705, 7/F. Fa Yuen Commercial Building, No. 75-77, Fa Yuen Street, Mong Kok, Kowloon, Hong Kong, China; 18E, Building 2, China Phoenix Building, Shennan Road, Futian District,Shenzhen,518000, China; No.59 King Yip Street, King Yip Factory Building, 5th Floor, Unit D5, Kwun Tong, Kowloon, Hong Kong, China; Shennan Middle Road, International Culture Building, Room 2508B, Futian District, Shenzhen, Guangdong, China; Kwun Tong Industrial Center Phase 3, 3rd Floor, Unit L, Kwun Tong, Kowloon, Hong Kong, China; Nos.436–446 Kwun Tong Road, 13th Floor, Unit A15, Kowloon, Hong Kong, China; Shennan Road, Phoenix Building 2, Room 18E, Futian District, Shenzhen, Guangdong, China; Lianqiu Building, No.735 Renmin West Road, Wucheng District, Jinhua, Zhejiang, China; and Shenfang Building B3109, Futian District, Shenzhen, Guangdong, China.
+  aliases:
+    ja:
+    - エンマクシン･テクノロジー有限会社
+    en:
+    - Imaxchip Technology Co Ltd
+    - Emmaxin Technology Co., Ltd
+- id: jp.mofa.third-country.25
+  entry_number: 25
+  name:
+    ja: カイリ･インダストリアル HK 有限会社(香港凱利實業有限公司)
+    en: Kaili Industrial HK Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 803, Chevalier House, 45-51 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong, China.
+  aliases:
+    ja:
+    - ホンコン・カイリ・インダストリアル有限会社
+    en:
+    - Kaili Industrial H.K. Ltd
+    - Hong Kong Kaili Industrial Co., Ltd
+- id: jp.mofa.third-country.26
+  entry_number: 26
+  name:
+    ja: コビ･インターナショナル･カンパニー
+    en: Kobi International Company
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room A1, 14 Floor, Success Industrial Building, No.17 Sheung Hei St., San Po Kong, Kowloon, Hong Kong, China.
+- id: jp.mofa.third-country.27
+  entry_number: 27
+  name:
+    ja: クバンテク有限会社(別称、クバンテク及びクバンテク（HK）有限会社)
+    en: Kvantek Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 704, 7/F, 135 Bonham Strand Trade Center, Sheung Wan, Hong Kong, China.
+  aliases:
+    en:
+    - Kvantek
+    - Kvantek (HK) Limited
+- id: jp.mofa.third-country.28
+  entry_number: 28
+  name:
+    ja: モースト･ディベロップメント有限会社（莫斯特發展有限公司）(別称、モースト･ディベロップメント)
+    en: 'Most Development Limited, the following two aliases:'
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Rm 4, 16/F, Ho King Comm Ctr, 2-16 Fayuen St, Mongkok Kowloon, Hong Kong, China; 2–16 Fayuen Street, Office 4, 16/F, Ho King Commercial Center, Hong Kong, China; and 9 Yin Chong Street, 21F, Room 01, Prosper Commercial Building, Hong Kong, China.
+  aliases:
+    en:
+    - Most Development
+    - Most Development Ltd
+- id: jp.mofa.third-country.29
+  entry_number: 29
+  name:
+    ja: エム･スター･インターナショナル･トレーディング有限会社（美星國際貿易有限公司）
+    en: M Star International Trading Company Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit D19, 3/F Wong King Industrial Building, No. 2 Tai Yau Street, Kowloon, Hong Kong, China; Room 2501, International Science & Technology Building, Futian District, Shenzhen, Guangdong, China; and No. 52, Fu Hang Road, Tuen Mun, NT, Hong Kong, China.
+  aliases:
+    ja:
+    - メイシン･インターナショナル･トレード有限会社
+    en:
+    - M-Star International Trading Co., Ltd
+    - M Star International Trading Co Limited
+    - Meixing International Trade Co., Ltd
+- id: jp.mofa.third-country.30
+  entry_number: 30
+  name:
+    ja: RG ソリューションズ有限会社
+    en: RG Solutions Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 606, Celebrity Comm., Centre, 64 Castle Peak Road, Sham Shui Po, Hong Kong, China.
+- id: jp.mofa.third-country.31
+  entry_number: 31
+  name:
+    ja: ルイ･エン･クー･テクノロジー
+    en: Rui En Koo Technology Co Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: A27 2/F Hing Yip Centre, 31 Hing Yip Street, Kwun Tong KLN, Hong Kong, China; 59 King Yip Street, King Yip Factory Building, 7th Floor, Room B22, Kwun Tong, Kowloon, Hong Kong, China; and Fenghuang Street, Nantaiyun Chuanggu Center Building 4, Room 1202, Guangming District, Shenzhen, Guangdong, 518132, China.
+  aliases:
+    ja:
+    - ルイ･エン･クー･テクノロジー有限会社
+    - ルイ･エン･ケー･テクノロジー有限会社
+    en:
+    - Rui En Koo Technology Co Ltd
+    - Rui En Ke Technology Co Ltd
+- id: jp.mofa.third-country.32
+  entry_number: 32
+  name:
+    ja: スーパーチップ有限会社
+    en: Superchip Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 704, 7/F, 135 Bonham Strand Trade Center, Sheung Wan, Hong Kong, China.
+  aliases:
+    ja:
+    - スーパーチップ（HK）有限会社
+    en:
+    - Superchip Ltd
+    - Superchip (HK) Limited
+- id: jp.mofa.third-country.33
+  entry_number: 33
+  name:
+    ja: ウィン･キー有限会社(別称、ウィン･キー)
+    en: Win Key Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 1606,16/F., Workingbond Commercial Centre, 162-164 Prince Edward Road West, Hong Kong, China; and Unit 1008, 10/F, Sun Cheong Industrial Building, 2-4 Cheung Yee Street, Hong Kong, China.
+  aliases:
+    en:
+    - Win Key
+    - Win Key Ltd
+- id: jp.mofa.third-country.34
+  entry_number: 34
+  name:
+    ja: ジクシス有限会社
+    en: Zixis Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit A22, Block A, 10/F, Prince Industrial Building, 706 Prince Edward Road East, San Po Kong, Kln, Hong Kong, China; 501–503 Castle Peak Road, Unit B090, International Industrial Building, Kowloon, Hong Kong, China; and Unit D, 16/F One Capital Place, 18 Luard Rd, Wan Chai, Hong Kong, China.
+  aliases:
+    en:
+    - Zixis Ltd
+- id: jp.mofa.third-country.35
+  entry_number: 35
+  name:
+    ja: 有限会社ダ・グループ 22
+    en: Limited Liability Partnership DA Group 22
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Office 1309, ISKER Business Center, 13, Abay Avenue, Saryarka District, Astana, Kazakhstan.
+  aliases:
+    ja:
+    - ダ･グループ 22
+    en:
+    - Da Group 22
+- id: jp.mofa.third-country.36
+  entry_number: 36
+  name:
+    ja: ムラー･マルクト有限会社
+    en: Muller Markt LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Bishkek, Leninsky District, 95, Kalyk Akieva Str., 3rd Floor, Kyrgyzstan; and 720005, Bishkek, Fatyanova Str., 43, Kyrgyzstan.
+  aliases:
+    ja:
+    - ミュラー･マルクト
+    - 有限会社ミュラー･マルクト
+    - ミュラー･マーケット有限会社
+    - 有限会社ミュラー･マルクト
+    - ミュラー･マルクト有限会社
+    en:
+    - Müller Markt
+    - OOO Myuller Markt
+    - Müller Market LLC
+    - LLC Müller Markt
+    - Müller Markt Limited Liability Company
+    - Limited Liability Company Müller Markt
+- id: jp.mofa.third-country.37
+  entry_number: 37
+  name:
+    ja: 有限会社プロフラブ
+    en: Limited Liability Company Profflab
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 720001, Bishkek, Leninsky District, Toktogula Str., 179/2, Kyrgyzstan.
+  aliases:
+    ja:
+    - OSOO プロフラブ
+    - プロフラブ OSOO
+    en:
+    - LLC Profflab
+    - Profflab Limited Liability Company
+    - OSOO Profflab
+    - Profflab OSOO
+    - Profflab LLC
+- id: jp.mofa.third-country.38
+  entry_number: 38
+  name:
+    ja: タイ IT ハードウェア有限会社
+    en: Thai IT Hardware Co., Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 315/85 Floor 3, Moo 12, Nongprue, Banglamung, Chonburi, Thailand.
+  aliases:
+    ja:
+    - タイ IT ハードウェア
+    - ロール･アップ有限会社
+    en:
+    - Thai IT Hardware
+    - Roll Up Co., Ltd
+- id: jp.mofa.third-country.39
+  entry_number: 39
+  name:
+    ja: ビー･インシャート･ミーマルルック株式会社
+    en: Bee Insaat Mimarlik Anonim Sirketi
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: No:4B/397 Skyland Sitesi B Azerbaycan Cad., Huzur Mah., Sariyer, Istanbul, Turkey; and Merkez Mah., Seckin Sok. Z Ofis 2-4 A, Kagithane, Istanbul, Turkey.
+  aliases:
+    ja:
+    - ビー･インシャート
+    en:
+    - Bee Insaat Mimarlik AS
+    - Bee İnșaat Mimarlik Anonim Șirketi
+    - Bee Insaat
+    - Bee İnșaat Mimarlik A.Ș
+- id: jp.mofa.third-country.40
+  entry_number: 40
+  name:
+    ja: ビオン･グループ･イチ･ヴェ･ドゥシュ･ティジャーレット有限会社
+    en: Bion Group Ic Ve Dis Ticaret Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Maslak Mah. Büyükdere Cad. Noramin İș Merkezi No:237 İç Kapi No:202, Sariyer, Istanbul, Turkey.
+  aliases:
+    ja:
+    - ビオン･トレード･グループ有限会社
+    - ビオン･グループ有限会社
+    en:
+    - Bion Group İç Ve Diș Ticaret Limited Șirketi
+    - Bion Trade Group Limited
+    - Bion Group Ltd Sti
+- id: jp.mofa.third-country.41
+  entry_number: 41
+  name:
+    ja: CTL ドゥシュ・ティジャーレット有限会社(別称、CTL フォーリン･トレード有限会社及び CTL 有限会社)
+    en: CTL Dis Ticaret Limited Sirketi
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Nisbetiye Mah. Gazi Gucnar Sok. Uygur Is Merkezi Blok No:4, Ic Kapi No:2 Besiktas, Istanbul, Turkey.
+  aliases:
+    en:
+    - CTL Foreign Trade Limited Company
+    - CTL Dis Ticaret Limited
+    - CTL Diș Ticaret Limited Șirketi
+    - CTL Foreign Trade Limited
+    - CTL Limited
+- id: jp.mofa.third-country.42
+  entry_number: 42
+  name:
+    ja: エルヴァジャン･マキナ･エキプマンラル･ヴェ･サナーイ･テダーリッキ有限会社
+    en: Ervacan Makina Ekipmanlari Ve San Ted Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Küçükbakkalköy Mah., Defne Sok., Flora Suite Office, KNo:1, DNo:365, PK:34750, Atasehir, Istanbul, Turkey.
+  aliases:
+    ja:
+    - エルヴァジャン
+    - エルヴァジャン･マシーナリー･エクイプメント･アンド･インダストリー･サプライ有限会社
+    - エルヴァジャン･マキナ
+    - エルヴァジャン･マキナ有限会社
+    en:
+    - Ervacan Makina Ekipmanlari Ve Sanayi Tedarik Limited Șirketi
+    - Ervacan Makina Ekipmanları ve Sanayi Tedarik Ltd Ști
+    - Ervacan
+    - Ervacan Machinery Equipment and Industry Supply Ltd
+    - Ervacan Makina
+    - Ervacan Makina Ltd
+- id: jp.mofa.third-country.43
+  entry_number: 43
+  name:
+    ja: カラサニ･ドゥシュ・ティジャーレット有限会社
+    en: Karasani Dis Ticaret Limited Sirketi
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 'Cevval Sokak No: 1/3, Ic Kapi No: 180, Cumhuriyet Mahallesi, Buyukcekmece, Istanbul, 34500, Turkey; and Selale Caddesi No.13E, Bahcesehir 2, Kısım Mahallesi, Basaksehir, Istanbul, Turkey.'
+  aliases:
+    ja:
+    - カラサニ･ドゥシュ・ティジャーレット有限会社連合
+    - カラサニ･フォーリン･トレード有限会社
+    - カラサニ・グループ・カンパニーズ
+    - カラサニ・トレード
+    - カラサニ・ロジスティクス
+    - カラサニ・パッキング
+    - カルヴァン・インターナショナル・ロジスティクス
+    - アリザイ・グダ・ティジャーレット有限会社
+    - インプロテックス・フォーリン・トレード有限会社
+    - インプロテックス有限会社
+    - インプロテックス
+    - インプロテックス・ドゥシュ・ティジャーレット有限会社
+    en:
+    - Karasani Diș Ticaret Limited Șirketi
+    - Karasani Foreign Trade Limited Company
+    - Karasani Group Companies
+    - Karasani Trade
+    - Karasani Logistic
+    - Karasani Packing
+    - Karvan International Logistics
+    - Arizai Gida Ticaret Limited Sirketi
+    - Improtex Foreign Trade Limited Liability Company
+    - Improtex LLC
+    - Improtex
+    - Improtex Dis Ticaret Limited Sirketi
+- id: jp.mofa.third-country.44
+  entry_number: 44
+  name:
+    ja: メガサン･エレクトロニック･ティジャーレット･ヴェ･サナーイ株式会社
+    en: Megasan Elektronik Ticaret Ve Sanayi Anonim Sirketi
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: One Block Umraniye Blok, No.16-72 Fatih Sultan Mahallesi, Istanbul,34771,Turkey; Poligon Caddesi, Oneblock İş Merkezi Kat:11, Umraniye, Istanbul, 34771, Turkey; Perpa Ticaret Merkezi No.1409 Kat 11, Istanbul, 34384, Turkey; and Beylikdüzü Organize Sanayi Mahallesi Mermerciler Sanayi Sitesi 5. Cad. No.15, Beylikdüzü, Istanbul, Turkey.
+  aliases:
+    ja:
+    - メガサン
+    en:
+    - Megasan Elektronik Ticaret Ve Sanayi Anonim Șirketi
+    - Megasan
+- id: jp.mofa.third-country.45
+  entry_number: 45
+  name:
+    ja: オレール･ドゥシュ･ティジャーレット有限会社
+    en: Orel Dis Tic. Ltd. Sti
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 632. Sokak No.6/A, Alaaddinbey Mahallesi, Nilufer, Bursa, 16120, Turkey.
+  aliases:
+    ja:
+    - オレール･フォーリン･トレード有限会社
+    en:
+    - Orel Diș Ticaret Limited Șirketi
+    - Orel Dis Ticaret Ltd
+    - Orel Foreign Trade Limited Company
+- id: jp.mofa.third-country.46
+  entry_number: 46
+  name:
+    ja: スマート･トレーディング･トランスポーテーション･インダストリー･アンド･トレード有限会社
+    en: Smart Trading Transportation Industry and Trade Limited Company
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Esentepe Mah, 1 Harman St., Duran Business Center, Building 4, Door 8, Sisli, Istanbul, Turkey.
+  aliases:
+    ja:
+    - スマート・トレーディング・タシュマジュルック・サナーイ・ヴェ・ティジャーレット有限会社
+    en:
+    - Smart Trading Tasimacilik San Ve Tic Ltd Sti
+- id: jp.mofa.third-country.47
+  entry_number: 47
+  name:
+    ja: クリノフィスト･アビエーション FZCO (別称、クリノフィスト･アビエーション及びクリノフィスト･デザイン･アンド･エンジニアリング･ソリューションズ非公開会社)
+    en: Crynofist Aviation FZCO
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 9WB 159-SO-26, First Floor, 9WB, Dubai, United Arab Emirates.
+  aliases:
+    en:
+    - Crynofist Aviation
+    - Crynofist Design and Engineering Solutions Pvt Ltd
+- id: jp.mofa.third-country.48
+  entry_number: 48
+  name:
+    ja: エレ・テクノロジー・カンパニー・リミテッドEle Technology Co LTD（深圳市易络电子有限公司）別称：イーエルイー・テクノロジー・コーポレーション・リミテッド
+    en: ELE Technology CO LTD
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 3714 Duhuixuan Buildings, 3018 Shennan Road, Futian Area, Shenzhen, China
+- id: jp.mofa.third-country.49
+  entry_number: 49
+  name:
+    ja: イーステック・エレクトロニクス・リミテッド
+    en: Eastech Electronics Limited Eastech Electronics Ltd; Eastech Electronics; Shenzhen East Technology Limited; Shenzhen Yitai Technology Co Ltd; Yitai Technology; Yitai International Electronics Co Ltd; EASTECH
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 17F, Block A Huaqiang Square, No. 1019 Huaqiang North Road, Futian District, Shenzhen, Guangdong, China; Room 32, 11/F, Lee Ka Industrial Building, 8 Ng Fong Street, San Po Kong, Kowloon, Hong Kong, China
+- id: jp.mofa.third-country.50
+  entry_number: 50
+  name:
+    ja: アライン・トレーディング・カンパニー・リミテッド
+    en: Align Trading Company Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room A1-13, Building A 3/F, Yee Lim Ind Center, 2-28, Kwai Lok Street, Kwai Chung, Hong Kong, China; Room 2901B, Bank of Communications Building, No. 3018, Shennan Middle Road, Futian District, Shenzhen, Guangdong, China
+- id: jp.mofa.third-country.51
+  entry_number: 51
+  name:
+    ja: エーフォックス・コーポレーションAfox Corporation（元富科技集團股份有限公司）別称：エーエフオーエックス・コーポレーション・リミテッド
+    en: AFOX Corporation Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Ft F 10/F, Hung Cheung Ind Ctr Phs 1, 12 Tsing Yeung Circuit Tuen Mun, Nt, Hong Kong, China; 807, Yan Hing Centre, 9-13 Wong Chuk Yeung St., Fo Tan, NT, Hong Kong, China; 2F, No.13, Lane 5, Wu Kai Sha Village, Ma On Shan, Shatin, Nt, Hong Kong, China
+- id: jp.mofa.third-country.52
+  entry_number: 52
+  name:
+    ja: タイム・アート・インターナショナル・リミテッドTime Art International LTD（時亞國際有限公司）別称：Time Art International Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Workshop 7(a), 12/f, Wah Lai Industrial Centre, Nos. 10-14 Kweitei Street, Shatin, Hong Kong, China
+- id: jp.mofa.third-country.53
+  entry_number: 53
+  name:
+    ja: ホンコン・チースー・エレクトロニック・テクノロジー・カンパニー・リミテッドHong Kong Qisu Electronic Technology Co Ltd（香港旗速電子有限公司、香港旗速電子科技有限公司）
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Room 12G, Block A, Guangbo Modern Window Building, 1058 Huaqiang North Road, Futian District, Shenzhen, Guangdong 518028, China; Room 705, 7th Floor, Fa Yuen Commercial Building, 75-77 Fa Yuen St., Mong Kok, Hong Kong, China
+- id: jp.mofa.third-country.54
+  entry_number: 54
+  name:
+    ja: イクス・メディカル・ビュロ・マルゼメレリ･ティジャーレット有限会社
+    en: Ix Medikal Buro Malzemeleri Ticaret Limited Sirketi Ix Elektronik Ic Ve Dis Ticaret Ltd Sirketi; Ix Elektronik Ic Ve Dis Ticaret Limited Serketi; Ix Elektronik Ic Ve Dis Ticaret Limited Sirkety; Ix Electronics Domestic and Foreign Trade Limited; Ix Electronics Domestic and Foreign Trade Limited Company Istanbul Industry and Trade Free Zone Branch; Ix Elektronik Ic Ve Dis Ticaret Limited Sirketi; Ix Elektronik Ic Ve Dis Ticaret Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 'Mah 225, Sokak-1 Summ, Alanya, Antalya 07460, Turkey; No:8D- 23, D Block, Summer Park Sitesi, Oba Mahallesi 225, Alanya, Antalya 07450, Turkey; Block No:4, Inside Door No: z01, PiloT Deri BinasI, Kosar Cad, Aydinli Sb Mah, Tuzla, Istanbul 34953, Turkey'
+- id: jp.mofa.third-country.55
+  entry_number: 55
+  name:
+    ja: ユルドゥズ・チップ・テクノロジ・エレクトロニック・エレクトリック・ビルギサヤル・マルゼメレリ・ティジャーレット・サナイ有限会社
+    en: Yildiz Çip Teknoloji Elektronik Elektrik Bilgisayar Malzemeleri Ticaret Sanayi Limited Sirketi Yildiz Cip Teknoloji Elektronik Elektrik Bilg. Malz. Tic. San. Ltd. Sti; Yildiz Chip; Yildiz Chip Technology Electronic Electric Computer Materials Trade Industry Limited; Yildiz Çip; Yildiz Çip Teknoloji Elektronik Elektrik Bilgisayar Malzemeleri Tic. San. Ltd.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Blok No:118 Ic Kapi No:401, Sehit Binbasi Cengiz Toytunç Cad. Antelsan Is Merkezi Antelsan Is Merkezi, Kisla Mah., Muratpasa, Antalya, Turkey
+- id: jp.mofa.third-country.56
+  entry_number: 56
+  name:
+    ja: レーザーチップス FZCO
+    en: Laserchips FZCO
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Dubai Silicon Oasis, DSO-IFZA-21645, IFZA Properties, Dubai, United Arab Emirates

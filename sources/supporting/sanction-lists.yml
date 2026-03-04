@@ -1,0 +1,46 @@
+---
+sanction_lists:
+- id: jp/meti-foreign-user-list
+  name:
+    ja: 外国ユーザーリスト
+    en: Foreign User List
+  short_name:
+    ja: 外国ユーザーリスト
+    en: Foreign User List
+  authority: jp/meti
+  url: https://www.meti.go.jp/policy/anpo/law00.html
+  description:
+    ja: 大量破壊兵器等の開発等への関与が懸念される企業・組織のリスト
+    en: List of companies and organizations with concerns about involvement in WMD development
+
+- id: jp/fefta-end-user-list
+  name:
+    ja: 我が国の平和及び安全の維持のための措置に関するリスト
+    en: List concerning Measures for the Maintenance of Peace and Security of Japan
+  short_name:
+    ja: 輸出規制リスト
+    en: End-User List
+  authority: jp/meti
+  url: https://www.meti.go.jp/policy/anpo/index.html
+  description:
+    ja: 外国為替及び外国貿易法に基づく輸出規制の対象となるエンドユーザーリスト
+    en: List of end users subject to export controls under the Foreign Exchange and Foreign Trade Act
+
+- id: jp/asset-freeze-list
+  name:
+    ja: 資産凍結等リスト
+    en: Asset Freeze List
+  authority: jp/mof
+  url: https://www.mof.go.jp/policy/international_policy/financial_cooperation/asset_freeze/index.html
+  description:
+    ja: 資産凍結等の措置の対象となる者
+    en: Persons subject to asset freeze and other measures
+
+- id: jp/travel-ban-list
+  name:
+    ja: 入国禁止リスト
+    en: Travel Ban List
+  authority: jp/mofa
+  description:
+    ja: 入国禁止措置の対象となる者
+    en: Persons subject to entry ban measures

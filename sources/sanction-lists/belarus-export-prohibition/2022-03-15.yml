@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 輸出等に係る禁止措置の対象となるベラルーシ共和国の特定団体
+  - en: Belarus Export Prohibition
+  publish_date: '2022-03-15'
+  authority: jp/mofa
+  type: jp/export-prohibition-announcement
+  source_file: 100312394.pdf
+  source_url: https://www.mofa.go.jp/mofaj/files/100312394.pdf
+entities:
+- id: jp.mofa.belarus.1
+  entry_number: 1
+  name:
+    ja: 国防省 （ベラルーシ軍及び場所を問わず全ての運用部隊を含む。 ）。これには、ベラルーシ軍（陸軍及び空軍・防空軍） 、国家国境委員会と警察、諜報及び偵察機関が含まれる。
+    en: The Ministry of Defence of the Republic of Belarus, including the Armed Forces of Belarus and all operating units wherever located. This includes the national armed services (army and air force), as well as the national guard and national police, government intelligence or reconnaissance organizations of the Republic of Belarus.
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: &1
+    ja: ベラルーシ共和国
+    en: Republic of Belarus
+  address: All addresses located in Belarus
+- id: jp.mofa.belarus.2
+  entry_number: 2
+  name:
+    ja: 株式会社インテグラル
+    en: JSC Integral
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 121A, Kazintsa I.P. Str., Minsk, 220108, Belarus; and 12 Korzhenevskogo Str., Minsk, 220108, Belarus; and 137 Brestskaya Str., Pinsk, Brest region, 225710, Belarus
+  aliases:
+    ja:
+    - OAO インテグラル、株式会社インテグラル＝ホールディング・マネージング
+    en:
+    - OAO Integral
+    - Joint-Stock Company Integral-Holding Managing Company

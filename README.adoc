@@ -1,103 +1,411 @@
-= Japan End-User List Data Repository
+= Japan Sanctions Data Repository
 
 image:https://img.shields.io/github/license/ammitto/data-jp.svg[License]
 image:https://github.com/ammitto/data-jp/actions/workflows/update.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-jp/actions/workflows/update.yml"]
 
 == Purpose
 
-This repository contains sanctioned entities from the Japan End-User List
-published by the Ministry of Economy, Trade and Industry (METI).
+This repository stores downloaded and processed sanctions data from the
+Government of Japan sanctions announcements.
 
-== Source
-
-* **Authority**: Japan Ministry of Economy, Trade and Industry (METI)
-* **URL**: https://www.meti.go.jp/policy/anpo/english/law/doc/EndUserListE.html
-* **Format**: PDF (requires manual conversion to structured data)
-* **Update Frequency**: As published by METI
-* **Country Code**: JP
+The data is maintained by the Ammitto project and used by the `ammitto` Ruby
+gem for querying international sanctions information.
 
 == Legal Basis
 
-The End-User List is maintained under Japan's Foreign Exchange and Foreign
-Trade Act (FEFTA) and related export control regulations.
+Japan maintains several sanctions and restricted entity lists under the
+Foreign Exchange and Foreign Trade Act (FEFTA):
 
-== Directory Structure
+* **End-User List** (輸出規制リスト) - Ministry of Economy, Trade and Industry (METI)
+* **Asset Freeze List** (資産冻结等リスト) - Ministry of Finance (MOF)
+* **Travel Ban List** (入国禁止リスト) - Ministry of Foreign Affairs (MOFA)
+
+These are implemented through the Foreign Exchange and Foreign Trade Act
+(昭和二十四年法律第二百二十八号) and various cabinet orders and ministerial ordinances.
+
+== Data Source
+
+Japan maintains multiple sanctions lists:
+
+.End-User List (輸出規制リスト)
+* **Authority**: Ministry of Economy, Trade and Industry (経済産業省)
+* **URL**: https://www.meti.go.jp/policy/anpo/
+* **Effects**: Export license requirement, asset freeze
+
+.Asset Freeze List (資産冻结等リスト)
+* **Authority**: Ministry of Finance (財務省)
+* **Effects**: Asset freeze, transaction ban
+
+.Travel Ban List (入国禁止リスト)
+* **Authority**: Ministry of Foreign Affairs (外務省)
+* **Effects**: Entry ban, visa ban
+
+== Source Data Structure
+
+The `sources/` directory contains raw source data organized by type:
 
 ```
-data-jp/
-├── downloaded/        # Raw downloaded files (PDF, HTML)
-├── processed/         # Processed YAML files (one per entity)
-├── reference-docs/    # Reference documentation and converted files
-└── README.adoc        # This file
+sources/
+├── sanction-lists/                          # Sanction list announcements
+│   ├── fefta-list/                          # FEFTA End-User List (METI)
+│   │   ├── 20250131.yml
+│   │   └── ...
+│   ├── russia-sanctions/                    # Russia sanctions (Ukraine situation)
+│   │   ├── 20250912.yml
+│   │   └── ...
+│   ├── foreign-user-list/                   # Foreign User List (METI)
+│   │   ├── 20250929.yml
+│   │   └── ...
+│   ├── asset-freeze-list/                   # Asset Freeze List (MOF)
+│   └── travel-ban-list/                     # Travel Ban List (MOFA)
+├── legal-instruments/                       # Legal instruments (laws, regulations)
+│   ├── diet-foreign-exchange-and-foreign-trade-act.yml
+│   ├── cabinet-order-foreign-exchange.yml
+│   └── ...
+├── supporting/                              # Supporting data
+│   ├── organizations.yml
+│   └── document-types.yml
+└── schemas/                                 # YAML schemas
+    ├── jp-legal-instrument.yml
+    └── jp-announcement.yml
 ```
 
-== Data Format
+=== Schema Types
 
-Each processed entity is stored as a YAML file with the following structure:
+Each YAML file follows one of two schema types:
+
+. **Announcement Schema** - Standard sanction announcements with `sanction_details`
+. **Legal Instrument Schema** - Laws and regulations with structured content
+
+Schema files are located in `schemas/`:
+
+* `schemas/jp-announcement.yml` - For sanction list announcements
+* `schemas/jp-legal-instrument.yml` - For legal instruments (laws, regulations)
+
+=== Legal Instruments
+
+Legal instruments in `legal-instruments/` are stored as structured YAML files
+with full text content organized hierarchically:
 
 [source,yaml]
 ----
-id: JP-001
-name: Example Entity
-name_ja: 例の団体
-entity_type: organization
-addresses:
-  - city: Tokyo
-    country: JP
-source_url: https://www.meti.go.jp/...
+# yaml-language-server: $schema=../../schemas/jp-legal-instrument.yml
+---
+id: jp/diet-foreign-exchange-and-foreign-trade-act
+title:
+  - ja: 外国為替及び外国貿易法
+  - en: Foreign Exchange and Foreign Trade Act (Act No. 228 of 1949)
+url: https://www.japaneselawtranslation.go.jp/ja/laws/view/4857
+type: jp/act-of-diet
+authority: jp/diet
+publisher: jp/diet
+document_id: 昭和二十四年法律第二百二十八号
+lang: ja
+publish_date: '1949-12-01'
+effective_date: '1949-12-01'
+
+content:
+  - type: chapter
+    index: 1
+    label: 第一章
+    title: 総則
+    content:
+      - type: clause
+        index: 1
+        label: 第一条
+        title: （目的）
+        content:
+          - この法律は、外国為替、外国貿易その他の対外取引が自由に行われることを基本とし...
 ----
 
-== Processing
+Content types supported:
 
-The source PDF must be converted to HTML before running the parser script.
+[cols="1,3"]
+|===
+| Type | Description
 
-=== Converting PDF to HTML
+| `chapter`
+| Chapter (章) with optional title and nested content
 
-Install `poppler-utils` (for `pdftohtml`) or use an online converter:
+| `clause`
+| Article/Clause (条) with label (e.g., "第一条")
+
+| `numbered-list`
+| Numbered list container (号)
+
+| `list-item`
+| Individual list item with label (e.g., "一", "イ")
+
+|===
+
+== Normalized Knowledge Graph Structure
+
+The data follows a normalized structure where:
+
+* **Entities are LIST-AGNOSTIC** - A person or organization can appear on multiple lists
+* **Lists define sanctions regimes** - Each list has its own metadata
+* **Entries are junction records** - They link entities to lists with list-specific data
+
+=== Directory Structure
+
+```
+data-jp/processed/
+├── entities/                      # NORMALIZED - unique per source
+│   ├── example-entity.yaml
+│   └── ...
+├── entries/                       # Links entity to list via list_type field
+│   ├── entry-example-export-control.yaml
+│   └── ...
+├── announcements/                 # NORMALIZED - can affect multiple lists
+│   ├── meti-2025-01.yaml
+│   └── ...
+├── legal_instruments/             # NORMALIZED - can authorize multiple lists
+│   ├── foreign-exchange-and-foreign-trade-act.yaml
+│   └── ...
+├── lists/                         # List definitions
+│   ├── fefta-export-control-list.yaml
+│   ├── asset-freeze-list.yaml
+│   └── travel-ban-list.yaml
+└── _index.yaml
+```
+
+=== IRI Structure
+
+All resources use normalized IRIs:
+
+```
+# Entity (list-agnostic)
+https://www.ammitto.org/entity/jp/{local_id}
+
+# Entry (list-specific)
+https://www.ammitto.org/entry/jp/{list_type}/{local_id}
+
+# List
+https://www.ammitto.org/list/jp/{list_type}
+```
+
+Example IRIs:
+
+```
+https://www.ammitto.org/entity/jp/al-qaida
+https://www.ammitto.org/entry/jp/fefta-list/al-qaida
+https://www.ammitto.org/list/jp/fefta-list
+```
+
+=== Available List Types
+
+[cols="1,2,2"]
+|===
+| List Type | Name (English) | Name (Japanese)
+
+| `fefta-list` | End-User List | 輸出規制リスト
+| `asset-freeze-list` | Asset Freeze List | 資産凍結等リスト
+| `travel-ban-list` | Travel Ban List | 入国禁止リスト
+|===
+
+== Source Data Format
+
+The source YAML files in `sources/` follow the announcement schema:
+
+=== Announcement Schema
+
+Standard sanction announcements with `sanction_details`:
+
+[source,yaml]
+----
+announcement:
+  title:
+    - ja: 我が国の平和及び安全の維持のための措置に関するリスト
+    - en: List concerning Measures for the Maintenance of Peace and Security of Japan
+  url: https://www.meti.go.jp/policy/anpo/index.html
+  publish_date: '2025-01-31'
+  authority: jp/meti
+  type: jp/fefta-end-user-list-announcement
+
+sanction_details:
+  instruments:
+    - id: jp/diet-foreign-exchange-and-foreign-trade-act
+    - id: jp/cabinet-order-foreign-exchange
+  entities:
+    - name:
+        ja: アルカイダ
+        en: Al Qa'ida
+      type: organization
+      effective_date: '2025-01-31'
+      sanction_list: jp/fefta-end-user-list
+      country_code: AF
+      country_name:
+        ja: アフガニスタン
+        en: Islamic Republic of Afghanistan
+      reason:
+        - ja: 化学兵器の開発・拡散に関与
+          en: Involved in development or proliferation of chemical weapons
+      measures:
+        - type:
+          - export_license_requirement
+          ja: 輸出に際して許可が必要
+          en: Export license required
+      aliases:
+        - Al Qaeda
+        - Islamic Salvation Foundation
+        - The Base
+----
+
+=== Field Definitions
+
+[cols="1,4"]
+|===
+| Field | Description
+
+| `announcement.title`
+| Bilingual title array with `ja` and `en` entries
+
+| `announcement.publish_date`
+| Date of publication (YYYY-MM-DD)
+
+| `announcement.authority`
+| Issuing authority ID (e.g., jp/meti, jp/mof)
+
+| `sanction_details.instruments`
+| Legal instruments providing authority
+
+| `sanction_details.entities`
+| Array of sanctioned entities
+
+| `entity.name.ja`
+| Japanese name
+
+| `entity.name.en`
+| English name
+
+| `entity.type`
+| Entity type: individual, organization, vessel, aircraft
+
+| `entity.country_code`
+| ISO 3166-1 alpha-2 country code (e.g., AF, CN, IR)
+
+| `entity.country_name`
+| Bilingual country name with `ja` and `en` entries
+
+| `entity.sanction_list`
+| Sanction list ID reference (e.g., `jp/fefta-end-user-list`)
+
+| `entity.aliases`
+| Array of alternative names
+
+| `entity.measures`
+| Sanction measures imposed
+
+| `entity.reason`
+| Array of bilingual reasons for sanction
+
+|===
+
+== JP-Specific Measure Types
+
+The following measure types are supported:
+
+[cols="1,3"]
+|===
+| Measure Type | Description
+
+| `asset_freeze`
+| 資産凍結 (Asset freeze)
+
+| `export_license_requirement`
+| 輸出に際して許可が必要 (Export license required)
+
+| `import_license_requirement`
+| 輸入に際して許可が必要 (Import license required)
+
+| `prohibit_transactions`
+| 取引禁止 (Prohibit transactions)
+
+| `prohibit_transfer_provide_dual_use_items`
+| 넘两市用物項の移転・提供禁止 (Prohibit transfer/provision of dual-use items)
+
+| `entry_ban`
+| 入国禁止 (Entry ban)
+
+| `visa_ban`
+| ビザ発給拒否 (Visa ban)
+
+| `financial_prohibition`
+| 金融取引禁止 (Financial prohibition)
+
+| `arms_embargo`
+| 武器禁輸 (Arms embargo)
+
+|===
+
+== Updating Data
+
+=== METI Foreign User List (外国ユーザーリスト)
+
+The Foreign User List is fully automated. Simply run:
 
 [source,shell]
 ----
-# Using poppler-utils (macOS)
-brew install poppler
-
-# Convert PDF to HTML
-pdftohtml -c -noframes reference-docs/20250131-jp-end-user-list.pdf reference-docs/20250131-jp-end-user-list.html
+ruby scripts/update_foreign_user_list.rb
 ----
 
-=== Running the Parser
+This script will:
+1. Download the latest Excel file from the METI website
+2. Convert it to YAML format
+3. Save to `sources/sanction-lists/foreign-user-list/YYYYMMDD.yml`
 
-After conversion, run the parser from the ammitto root:
+The entity IDs follow the format `jp.meti.ful.{id}` where `{id}` is the original list number.
+
+=== FEFTA End-User List (Manual Process)
+
+For the FEFTA End-User List published as PDF:
+
+. **Download the PDF** from the METI website
+   * URL: https://www.meti.go.jp/policy/anpo/index.html
+   * Look for the latest end-user list publication
+
+. **Convert PDF to HTML** using Adobe Acrobat
+   * Open the PDF in Adobe Acrobat
+   * Export to HTML (not "HTML with embedded images")
+   * Save to `reference-docs/YYYYMMDD-jp-end-user-list.html`
+
+. **Fix table structure** in the HTML file
+   * Tables spanning multiple pages need to be joined
+   * Ensure all entity rows are in a single table
+
+. **Run the conversion script**
++
+[source,shell]
+----
+ruby scripts/convert_html_to_yaml.rb reference-docs/YYYYMMDD-jp-end-user-list.html sources/sanction-lists/fefta-list/YYYYMMDD.yml
+----
+
+=== Russia Sanctions List (ロシア制裁リスト)
+
+For Russia sanctions related to the Ukraine situation:
+
+. **Download the PDF** from the METI website
+   * URL: https://www.meti.go.jp/policy/external_economy/trade_control/01_seido/04_seisai/crimea.html
+   * Look for "輸出等に係る禁止措置の対象となるロシア連邦の特定団体"
+   * Save to `reference-docs/russia-sanctions/YYYYMMDD.pdf`
+
+. **Run the PDF parser script**
++
+[source,shell]
+----
+ruby scripts/parse_russia_sanctions_pdf.rb
+----
+
+This will generate YAML files in `sources/sanction-lists/russia-sanctions/YYYYMMDD.yml`.
+
+=== Legal Instruments
+
+To convert XML legal instruments to YAML:
 
 [source,shell]
 ----
-bundle exec ruby scripts/parse_jp_end_user_list.rb
+ruby scripts/convert_xml_to_yaml.rb reference-docs/324AC0000000228_20250601_504AC0000000068.xml sources/legal-instruments/diet-foreign-exchange-and-foreign-trade-act.yml
 ----
-
-This will generate YAML files in the `processed/` directory.
-
-== Knowledge Graph Integration
-
-This repository's processed YAML data feeds into the Ammitto knowledge graph.
-
-When the harmonization process runs:
-
-[source,shell]
-----
-# Auto-detect all data-* repos and harmonize
-ammitto harmonize --scan --sources-dir /path/to/repos --output-dir ./api/v1
-----
-
-The jp data is transformed into:
-
-* Individual JSON-LD nodes in `api/v1/node/entity/jp/{id}.jsonld`
-* Sanction entries in `api/v1/node/entry/jp/{id}.jsonld`
-* Lightweight search index entries
-* Facet counts for filtering
-
-== Usage
-
-This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions
-screening system.
 
 == Related Repositories
 
@@ -107,5 +415,5 @@ screening system.
 
 == License
 
-Data is sourced from official Japanese government publications.
-Repository structure and processing code are under the MIT License.
+Data in this repository is sourced from official Japanese government
+publications. The data processing code is part of the Ammitto project.

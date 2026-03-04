@@ -1,0 +1,11 @@
+{
+  "id": "https://www.ammitto.org/entity/jp/jp-666",
+  "entity_type": "organization",
+  "source_references": [
+    {
+      "source_code": "jp",
+      "reference_number": "JP-666"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

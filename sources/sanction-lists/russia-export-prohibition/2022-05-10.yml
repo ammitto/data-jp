@@ -1,0 +1,1524 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 輸出等に係る禁止措置の対象となるロシア連邦の特定団体
+  - en: Russia Export Prohibition
+  publish_date: '2022-05-10'
+  authority: jp/mofa
+  type: jp/export-prohibition-announcement
+  source_file: 100341993.pdf
+  source_url: https://www.mofa.go.jp/mofaj/files/100341993.pdf
+entities:
+- id: jp.mofa.russia.131
+  entry_number: 131
+  name:
+    ja: 第５造船所
+    en: 5th Shipyard
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: &1
+    ja: ロシア連邦
+    en: Russian Federation
+  address: 67 Lenina Street, Port, Temryuk, Krasnodarskiy Kray, 353500, Russia.
+  aliases:
+    ja:
+    - ５SRZ
+    - 株式会社 GF５SRZ 株式会社 TsS ズヴョーズダチカ
+    en:
+    - 5-y Sudoremontnyy Zavod
+    - 5 SRZ
+    - JSC GF 5 SRZ JSC TsS Zvezdochka
+- id: jp.mofa.russia.132
+  entry_number: 132
+  name:
+    ja: アラギル抵抗器工場
+    en: Alagir Resistor Factory
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 202 L. Tolstogo Street, Alagir, Alagirsky District, Severnaya Ossetia-Alania Republic, 363240, Russia.
+  aliases:
+    ja:
+    - アラギルスキー抵抗器工場
+    en:
+    - Alagirsky Resistor Factory
+- id: jp.mofa.russia.133
+  entry_number: 133
+  name:
+    ja: 全ロシア科学研究所株式会社エタロン(別称、株式会社 VNII エタロン)
+    en: All-Russian Scientific-Research Institute Etalon JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 19/1 1st Yamskogo Polya St., Moscow, 125124, Russia.
+  aliases:
+    en:
+    - VNII Etalon JSC
+- id: jp.mofa.russia.134
+  entry_number: 134
+  name:
+    ja: アルマズ株式会社
+    en: Almaz JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 16 Tupoleva Street, Rostov-na-Donu, Rostovskaya Oblast, 344093, Russia.
+  aliases:
+    ja:
+    - アルマズ
+    en:
+    - Almaz
+- id: jp.mofa.russia.135
+  entry_number: 135
+  name:
+    ja: ドルゴプルドニー自動設計局
+    en: Dolgoprudniy Design Bureau of Automatics
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Lyotnaya Street, Dolgoprudniy, Moskovskaya Oblast, 141700, Russia.
+  aliases:
+    ja:
+    - 株式会社 DKBA
+    - ドルゴプルドニー
+    - ドルゴプルドノ自動設計局
+    en:
+    - DKBA JSC
+    - Dolgoprudny
+    - Dolgoprudno Design Bureau of Automation
+- id: jp.mofa.russia.136
+  entry_number: 136
+  name:
+    ja: 電子コンピューター・テクノロジー科学研究所
+    en: Electronic Computing Technology Scientific-Research Center
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 125 Varshavskoye Highway, Moscow, 117587, Russia.
+  aliases:
+    ja:
+    - NICEVEY
+    en:
+    - NICEVEY
+- id: jp.mofa.russia.137
+  entry_number: 137
+  name:
+    ja: エレクトロシグナル株式会社
+    en: Electrosignal JSC,
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Electrosignalnaya Street, Voronezh, Voronezhskaya Oblast, 394026, Russia.
+- id: jp.mofa.russia.138
+  entry_number: 138
+  name:
+    ja: 公共株式会社インテルテク
+    en: Inteltech PJSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Electrosignalnaya Street, Voronezh, Voronezhskaya Oblast, 394026, Russia.
+  aliases:
+    ja:
+    - 公共株式会社情報テレコミュニケーションズ・テクノロジー
+    - インテルテック
+    - インテルテフ
+    en:
+    - Information Telecommunications Technology PJSC
+    - Inteltech
+    - Inteltekh
+- id: jp.mofa.russia.139
+  entry_number: 139
+  name:
+    ja: 株式会社学術生産公団エレクトロメカニキ
+    en: Joint Stock Company NPO Elektromechaniki
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 31 Mendeleeva street, Miass, Chelyabinsk Region, 456320, Russia.
+  aliases:
+    ja:
+    - 株式会社エレクトロ・メカニック学術生産団体
+    en:
+    - JSC Scientific and Production Association of Electro Mechanic
+- id: jp.mofa.russia.140
+  entry_number: 140
+  name:
+    ja: 株式会社クロン科学研究所
+    en: Kulon Scientific-Research Institute JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 14 Murmankiv proezd, Moscow, 129075, Russia.
+  aliases:
+    ja:
+    - 株式会社 NII クロン
+    en:
+    - NII Kulon JSC
+- id: jp.mofa.russia.141
+  entry_number: 141
+  name:
+    ja: 株式会社ルッチ設計所
+    en: Lutch Design Office JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 25 Pobeda Blvd. Rybinsk, Yaroslavskaya Oblast, 152920, Russia.
+  aliases:
+    ja:
+    - 株式会社ルッチ設計局
+    - 株式会社ルッチ
+    - KB ルッチ
+    en:
+    - Lutch Design Bureau JCS
+    - Lutch JSC
+    - KB-Lutch
+- id: jp.mofa.russia.142
+  entry_number: 142
+  name:
+    ja: 株式会社メテオールプラント
+    en: Meteor Plant JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 1 Gorky St., Volzhkiy, Volgograd Oblast, 404130, Russia.
+- id: jp.mofa.russia.143
+  entry_number: 143
+  name:
+    ja: 株式会社モスクワ通信研究所
+    en: Moscow Communications Research Institute JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 34 Kutuzovsky prospect, Moscow, Russia, 121170; and 3/2 Kirovogradsky proezd, Moscow, 109044, Russia.
+  aliases:
+    ja:
+    - 株式会社 MNIIS
+    en:
+    - MNIIS JSC
+- id: jp.mofa.russia.144
+  entry_number: 144
+  name:
+    ja: 株式会社モスクワ労働赤旗勲章無線工学研究所
+    en: Moscow Order of the Red Banner of Labor Research Radio Engineering Institute JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 2/1 Boshoy Trehsvyatitelskiy per., Moscow, 109028, Russia.
+  aliases:
+    ja:
+    - 株式会社 MNIRTI
+    en:
+    - MNIRTI JSC
+- id: jp.mofa.russia.145
+  entry_number: 145
+  name:
+    ja: 株式会社オムスク・イルティシュ生産組合
+    en: Omsk Production Union Irtysh JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 18 Gurt'yeva St., Omsk, 644060, Russia.
+  aliases:
+    ja:
+    - OmPO イルティシュ
+    en:
+    - OmPO Irtysh
+- id: jp.mofa.russia.146
+  entry_number: 146
+  name:
+    ja: 株式会社オムスク計器工学科学研究所
+    en: Omsk Scientific-Research Institute of Instrument Engineering JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 231 Maslennikova St., Omsk, 644009, Russia.
+  aliases:
+    ja:
+    - 株式会社 ONIP
+    en:
+    - JSC ONIP
+- id: jp.mofa.russia.147
+  entry_number: 147
+  name:
+    ja: 株式会社オプトロン
+    en: Optron JSC,
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 53 Sherbakovskaya St., Office 37, Moscow, 105187, Russia.
+- id: jp.mofa.russia.148
+  entry_number: 148
+  name:
+    ja: 株式会社パリョット・チェリャビンスク無線プラント
+    en: Polyot Chelyabinsk Radio Plant JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 6 Ternopol'skaya St., Chelyabinsk, 454126, Russia.
+  aliases:
+    ja:
+    - 株式会社 ChRZパリョット（フライト）
+    en:
+    - ChRZ Polyot (flight) JSC
+- id: jp.mofa.russia.149
+  entry_number: 149
+  name:
+    ja: プスコフ遠隔通信機器プラント
+    en: Pskov Distance Communications Equipment Plant
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 4 Yuri Gagarin Street, Pskov, Pskovskaya Oblast, 180004, Russia.
+  aliases:
+    ja:
+    - 株式会社プスコフ ADS プラント
+    - 株式会社プスコフ遠隔通信機器(ADS)プラント
+    en:
+    - Pskov Plant ADS JSC
+    - Pskov Distance Communications Equipment (ADS) Plant JSC
+- id: jp.mofa.russia.150
+  entry_number: 150
+  name:
+    ja: 株式会社ラジオザヴォド
+    en: Radiozavod JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 1 Baydukova Street, Penza, Penzenskaya Oblast, 440015, Russia.
+- id: jp.mofa.russia.151
+  entry_number: 151
+  name:
+    ja: 株式会社ラズリャド
+    en: Razryad JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 233 Kosta Avenue, Vladikavkaz, Severnaya Ossetia-Alania Republic, 362035, Russia.
+- id: jp.mofa.russia.152
+  entry_number: 152
+  name:
+    ja: 学術生産団体マース
+    en: Research Production Association Mars
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 20 Solnechnaya Street, Ulyanovsk, 432022, Russia.
+  aliases:
+    ja:
+    - RPA マース
+    - 学術生産公団マース
+    en:
+    - RPA Mars
+    - NPO Mars
+- id: jp.mofa.russia.153
+  entry_number: 153
+  name:
+    ja: リャザン無線プラント
+    en: Ryazan Radio-Plant
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 11 Lermontova Street, Ryazan, Ryazanskaya Oblast, 390023, Russia.
+- id: jp.mofa.russia.154
+  entry_number: 154
+  name:
+    ja: 学術生産団体・無線部品科学研究所
+    en: Scientific-Production Association and Scientific-Research Institute of Radio-Components
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 3 Krymsky Val Street, Building 1, Office 1, Moscow, 119049, Russia.
+  aliases:
+    ja:
+    - NIIRK
+    en:
+    - NIIRK
+- id: jp.mofa.russia.155
+  entry_number: 155
+  name:
+    ja: 株式会社学術生産企業アルマズ
+    en: Scientific-Production Enterprise Almaz JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 1 I.V. Panfilov St., Saratov, 410033, Russia.
+  aliases:
+    en:
+    - JSC NPP Almaz
+- id: jp.mofa.russia.156
+  entry_number: 156
+  name:
+    ja: 学術生産企業「カント」
+    en: Scientific-Production Enterprise “Kant”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 12 Talalikhina Street Floor 7, Moscow, 109316, Russia.
+  aliases:
+    ja:
+    - カント
+    en:
+    - Kant
+    - NPP Kant
+- id: jp.mofa.russia.157
+  entry_number: 157
+  name:
+    ja: 学術生産企業「ラジオスヴャジ」
+    en: Scientific Production Enterprise “Radiosviaz”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 19 Dekabristov Street, Krasnoyarsk, 660021, Russia.
+  aliases:
+    ja:
+    - ラジオスヴャジ
+    en:
+    - Radiosviaz
+- id: jp.mofa.russia.158
+  entry_number: 158
+  name:
+    ja: 学術生産企業「スヴャジ」
+    en: Scientific-Production Enterprise “Svyaz”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 19 Shkolnaya Street, Yasnaya Polyana Village, Shekinsky District, Tulskaya Oblast, 301214, Russia.
+  aliases:
+    ja:
+    - スヴャジ
+    en:
+    - Svyaz
+    - NPP Svyaz
+- id: jp.mofa.russia.159
+  entry_number: 159
+  name:
+    ja: 学術生産企業ヴォルナ
+    en: Scientific-Production Enterprise Volna
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 26 Varshavskoe Highway, Moscow, 117105, Russia.
+  aliases:
+    en:
+    - NPP Volna
+- id: jp.mofa.russia.160
+  entry_number: 160
+  name:
+    ja: 株式会社学術生産企業ヴォストーク
+    en: Scientific-Production Enterprise Vostok JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 276, D. Kovalchuk St., Novosibirsk, 630075, Russia.
+  aliases:
+    en:
+    - JSC NPP Vostok
+- id: jp.mofa.russia.161
+  entry_number: 161
+  name:
+    ja: 科学研究所「アルゴン」
+    en: Scientific-Research Institute “Argon”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 4 Karla Marksa Street, Kaluga, 248000, Russia; and 125 Varshavskoe Shosse, Building 1, Moscow, 117587, Russia.
+  aliases:
+    ja:
+    - 株式会社アルゴン科学研究所
+    - 株式会社NII アルゴン
+    en:
+    - Argon Scientific-Research Institute JSC
+    - NII Argon JSC
+- id: jp.mofa.russia.162
+  entry_number: 162
+  name:
+    ja: 科学研究所フェルリット・ドメン
+    en: Scientific Research Institute Ferrite-Domen
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 25/3B Zvetochnaya St., Room 417, St. Petersburg, 196006, Russia.
+  aliases:
+    ja:
+    - NII ドメン
+    - フェルリット・ドメン・コーポレーション
+    en:
+    - NII Domen
+    - Ferrite-Domen Co
+- id: jp.mofa.russia.163
+  entry_number: 163
+  name:
+    ja: 株式会社ネプチューン自動システム・複合通信科学研究所
+    en: Scientific-Research Institute of Automated Systems and Communications Complexes Neptune JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 80-1/A, 7th Line of Vasilyavskiy Island, St. Petersburg, 199178, Russia.
+  aliases:
+    ja:
+    - 株式会社 NII ネプチューン
+    en:
+    - NII Neptune JSC
+- id: jp.mofa.russia.164
+  entry_number: 164
+  name:
+    ja: 通信管理システム科学研究所
+    en: Scientific Research Institute of Communication Management Systems
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 25/3B Zvetochnaya St., Room 417, St. Petersburg, 196006, Russia.
+  aliases:
+    ja:
+    - NIISU
+    - 株式会社 NIISU
+    en:
+    - NIISU
+    - NIISU JSC
+- id: jp.mofa.russia.165
+  entry_number: 165
+  name:
+    ja: リレー・テクノロジー特別設計技術局
+    en: Special Design and Technical Bureau for Relay Technology
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 55 Nehinskaya St., Velikiy Novgorod, 173021, Russia.
+  aliases:
+    ja:
+    - 株式会社リレー・テクノロジー局
+    - JSCT SKTB RT
+    en:
+    - Relay Technology Bureau JSC
+    - JSCT SKTB RT
+- id: jp.mofa.russia.166
+  entry_number: 166
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、711 航空機修理工場（711 ARZ）
+    en: Tactical Missile Corporation, 711 Aircraft Repair Plant (711 ARZ),
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 18 Chkalova Pereulok, Borisoglebsk, Voronezhskaya Oblast, 397171, Russia.
+- id: jp.mofa.russia.167
+  entry_number: 167
+  name:
+    ja: 戦術ミサイル兵器コーポレーション､株式会社国立学術・製造企業 「レギオン」
+    en: Tactical Missile Corporation, AO GNPP “Region”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 10 Turaevo I.Z., Lytkarino City, Moscow Region, 140080, Russia.
+  aliases:
+    ja:
+    - 公共株式会社国立学術・製造企業レギオン
+    - 株式会社科学製造企業「レギオン」
+    en:
+    - GNPP Region, PAO
+    - Aktsionernoe Obshchestvo Gosudarstvennoe Nauchno-Proizvodstvennoe Predpriyatie “Region”
+    - "“Region” Scientific & Production Enterprise JSC"
+- id: jp.mofa.russia.168
+  entry_number: 168
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社 TMKB「ソユーズ」
+    en: Tactical Missile Corporation, AO TMKB “Soyuz”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 10 Turaevo I.Z., Lytkarino City, Moscow Region, 140080, Russia.
+  aliases:
+    ja:
+    - トゥラエヴォ MKB「ソユーズ」
+    - 株式会社トゥラエヴォ機械製造設計局「ソユーズ」
+    - 公共株式会社「ソユーズ」
+    - 株式会社トゥラエヴォ機械建築設計局「ソユーズ」
+    en:
+    - Turaevskoe MKB “Soyuz”
+    - Aktsionernoe Obshchestvo Turaevskoe Mashinostroitelnoe Konstruktorskoe Byuro “Soyuz”
+    - Soyuz PAO
+    - JSC Turaevskoe Machine-Building Design Bureau “Soyuz”
+- id: jp.mofa.russia.169
+  entry_number: 169
+  name:
+    ja: 戦術ミサイル兵器コーポレーション､アゾフ光学機械工場
+    en: Tactical Missile Corporation, Azov Optical and Mechanical Plant
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 5 Promyshlennaya Street, Azov, Rostovskaya Oblast, 346780, Russia.
+  aliases:
+    ja:
+    - 第一労働組合組織アゾフ工学機械工場
+    - 第一労働組合組織「アゾフ光学機械工場」ロシア工業労働者労働組合
+    - 株式会社 AOMZ
+    en:
+    - PPO Azovski Optiko-Mekhanicheski Zavod
+    - Pervichnaya Profsoyuznaya Organizatsiya “Azovski Optiko- Mekhanicheski Zavod” Rossiskogo Profsoyuza Rabotnikov Promyshlennosti
+    - JSC AOMZ
+- id: jp.mofa.russia.170
+  entry_number: 170
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、 「中央自動設計局」
+    en: Tactical Missile Corporation, “Central Design Bureau of Automation”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 24A Kosmicheski Prospekt, Omsk, Omskaya Oblast, 44027, Russia.
+  aliases:
+    ja:
+    - 株式会社「TsKBA」
+    - 株式会社「中央自動設計局」
+    en:
+    - JSC“TsKBA”
+    - AO“TsKBA”
+    - Aktsionernoe Obshchestvo “Tsentralnoe Konstruktorskoe Byuro Avtomatiki”
+- id: jp.mofa.russia.171
+  entry_number: 171
+  name:
+    ja: 戦術ミサイル兵器コーポレーション・コンツェルン 「MPO ギドロプリボル」
+    en: Tactical Missile Corporation, Concern “MPO—Gidropribor”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 24, Sampsonievskiy pr., Saint Petersburg, 194044, Russia.
+  aliases:
+    ja:
+    - 株式会社コンツェルン海洋水中兵器ギドロプリボル
+    - "「ギドロプリボル」研究所"
+    - "「ギドロプリボル」中央研究所"
+    en:
+    - Joint Stock Company Concern Sea Underwater Weapons Gidropribor
+    - Research Institute “Gidpropridor”
+    - Central Research Institute “Gidropribor”
+- id: jp.mofa.russia.172
+  entry_number: 172
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社アヴァンガルド
+    en: Tactical Missile Corporation, Joint Stock Company Avangard
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 78 Oktyabrskaya Street, Safonovo, Smolensk Region, 215500, Russia.
+- id: jp.mofa.russia.173
+  entry_number: 173
+  name:
+    ja: 戦術ミサイル兵器コーポレーション､株式会社コンツェルン・グラニット・エレクトロン
+    en: Tactical Missile Corporation, Joint Stock Company Concern Granit- Electron
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 3 Gospitalnaya St., St. Petersburg, 191014, Russia.
+- id: jp.mofa.russia.174
+  entry_number: 174
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、 株式会社エレクトロチャーガ
+    en: Tactical Missile Corporation, Joint Stock Company Elektrotyaga
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 50-A Kalinina Str., St. Petersburg, 198095, Russia.
+  aliases:
+    ja:
+    - エレクトリック・トラクション
+    - 非公開株式会社エレクトロジャガ
+    en:
+    - Electric Traction
+    - ZAO Elekrotjaga
+- id: jp.mofa.russia.175
+  entry_number: 175
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社 GosNIIMash
+    en: Tactical Missile Corporation, Joint Stock Company GosNIIMash
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 11 Sverdlova Prospekt, Dzerzhinsk, Nizhegorodskaya Oblast, 606002, Russia.
+  aliases:
+    ja:
+    - 第一労働組合組織工業労働者労働組合 V 「GOSNIIMASH」
+    - 国立機械工学研究所
+    - ロシア工業労働者労働組合 V 「GOSNIIMASH」
+    - 株式会社 V.V.バヒレフ名称「国立機械工学研究所」
+    - SKB DNIKhTI
+    en:
+    - PPO Rosprofprom V “GOSNIIMASH”
+    - State Research Institute of Mechanical Engineering
+    - Pervichnaya Profsoyuznaya Organizatsiya Rossiskogo Profsoyuza Rabotnikov Promyshlennosti V “GOSNIIMASH”
+    - Joint Stock Company “State Research Institute of Mechanical Engineering” named after V.V. Bakhirev
+    - SKB DNIKhTI
+- id: jp.mofa.russia.176
+  entry_number: 176
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社 PA ストレラ
+    en: Tactical Missile Corporation, Joint Stock Company PA Strela
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 26 Shevchenko Str., Orenburg, 460005, Russia.
+  aliases:
+    ja:
+    - 生産団体ストレラ
+    en:
+    - Production Association Strela
+- id: jp.mofa.russia.177
+  entry_number: 177
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社「ダグディエセル・プラント」
+    en: Tactical Missile Corporation, Joint Stock Company “Plant Dagdiesel”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 1 Lenina Street, Kaspiysk, Republic of Dagestan, 368300, Russia.
+- id: jp.mofa.russia.178
+  entry_number: 178
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、 株式会社クラコフ・プラント
+    en: Tactical Missile Corporation, Joint Stock Company Plant Kulakov
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 12 Yablochkova Street, St. Petersburg, 197198, Russia.
+  aliases:
+    ja:
+    - A.A.クラコフ名称株式会社プラント
+    en:
+    - JSC Plant Named After A.A. Kulakov
+- id: jp.mofa.russia.179
+  entry_number: 179
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社ラヴェンストヴォ
+    en: Tactical Missile Corporation, Joint Stock Company Ravenstvo
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 19 Promyshlennaya Street, St. Petersburg, 198099, Russia.
+  aliases:
+    en:
+    - Joint-Stock Company Ravenstvo
+- id: jp.mofa.russia.180
+  entry_number: 180
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社ラヴェンストヴォ・サービス
+    en: Tactical Missile Corporation, Joint Stock Company Ravenstvo-service
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 19 Promyshlennaya Street, St. Petersburg, 198099, Russia.
+- id: jp.mofa.russia.181
+  entry_number: 181
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社「自動設計研究所」
+    en: Tactical Missile Corporation, Joint-Stock Company “Research Center for Automated Design”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 37 Leningradsky Prospekt, Room 12, Moscow, 125167, Russia.
+  aliases:
+    ja:
+    - NIC ASK、株式会社 ASK
+    en:
+    - NIC ASK
+    - ASK JSC
+- id: jp.mofa.russia.182
+  entry_number: 182
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社「サリュート」
+    en: Tactical Missile Corporation, Joint Stock Company “Salute”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 20 Moskovskoe Shosse, Samara, 443028, Russia.
+  aliases:
+    ja:
+    - 公共株式会社サリュート
+    - クイブシェフ機械プラント
+    en:
+    - Salyut, PAO
+    - Kuibyshev Mechanical Plant
+- id: jp.mofa.russia.183
+  entry_number: 183
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社サラトフ無線機器プラント
+    en: Tactical Missile Corporation, Joint Stock Company Saratov Radio Instrument Plant
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 108 50 Years of October, Saratov, 410040, Russia.
+- id: jp.mofa.russia.184
+  entry_number: 184
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社「海洋熱工学科学研究所」
+    en: Tactical Missile Corporation, Joint Stock Company “Scientific Research Institute of Marine Heat Engineering”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 44 Chernikova Street, Lomonosov, St. Petersburg, 198412, Russia.
+  aliases:
+    ja:
+    - 海洋熱技術研究所
+    en:
+    - Research Institute of Morteplotehniki
+- id: jp.mofa.russia.185
+  entry_number: 185
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、 株式会社セーヴェルヌィ・プレス
+    en: Tactical Missile Corporation, Joint Stock Company Severny Press
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 7 Tallinskaya Street, St. Petersburg, 195196, Russia.
+  aliases:
+    ja:
+    - 北方プレス
+    en:
+    - Northern Press
+- id: jp.mofa.russia.186
+  entry_number: 186
+  name:
+    ja: 戦術ミサイル兵器コーポレーション､株式会社 I.I.トロポフ名称国立機械製造設計局「ヴィンペル」
+    en: Tactical Missile Corporation, Joint Stock Company “State Machine Building Design Bureau “Vympel” By Name I.I. Toropov”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 90 Voloklamskoe Shosse, Moscow, 125424, Russia.
+  aliases:
+    ja:
+    - 株式会社 I.I.トロポフ名称国営 MKB「ヴィンペル」
+    - 学術生産公団ヴィンペル
+    en:
+    - AO Gos MKB “Vympel” named for II Toropov
+    - Vympel NPO
+- id: jp.mofa.russia.187
+  entry_number: 187
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、 株式会社 「ウラルエレメント」
+    en: Tactical Missile Corporation, Joint Stock Company “URALELEMENT”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 24 Dmitrieva St., Verkhny Ufaley, Chelyabinsk Region, 456800, Russia.
+  aliases:
+    ja:
+    - ヴェルフネウファレイ・プラント「ウラルエレメント」
+    en:
+    - Verkhneufalei Plant “Uralelement”
+- id: jp.mofa.russia.188
+  entry_number: 188
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、株式会社「クラースヌィ・ギドロプレス」
+    en: Tactical Missile Corporation JSC “KRASNY GIDROPRESS”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 3 Severnaya Place, Taganrog, Rostovskaya Oblast, 347928, Russia.
+  aliases:
+    ja:
+    - 公開株式会社「クラースヌィ・ギドロプレス」
+    - レッド液圧プレス
+    - タガンログ・クラースヌィ・ギドロプレス・プラン
+    en:
+    - Aktsionernoe Obshchestvo “Krasny Gidropress”
+    - Krasny Gidropress, PAO
+    - Red Hydraulic Press
+    - Krasny Gidropress JSC
+    - Taganrog Krasnyy Gidropress Plan
+- id: jp.mofa.russia.189
+  entry_number: 189
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、KB 機械製造
+    en: Tactical Missile Corporation, KB Mashinostroeniya
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 42 Oksky Prospect, Kolomna, Moscow Region, 140402, Russia.
+  aliases:
+    ja:
+    - 株式会社学術生産コーポレーション機械工学設計局
+    - 株式会社 NPK KBM
+    en:
+    - JSC Research and Production Corporation Design Bureau of Mechanical Engineering
+    - JSC NPK KBM
+- id: jp.mofa.russia.190
+  entry_number: 190
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、学術生産公団エレクトロメカニクス
+    en: Tactical Missile Corporation, NPO Electromechanics
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 31 Mendeleev Street, Chelyabinsk Region, 456320, Russia.
+- id: jp.mofa.russia.191
+  entry_number: 191
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、学術生産公団ライトニング
+    en: Tactical Missile Corporation, NPO Lightning
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 5K1 Lodochnaya Street, Moscow, Russia.
+  aliases:
+    ja:
+    - 研究・生産団体ライトニング 株式会社学術生産公団モールニヤ
+    en:
+    - Research and Production Association Lightning JSC NPO Molniya
+- id: jp.mofa.russia.192
+  entry_number: 192
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、ペテロフスク電気機械プラント「モロト」
+    en: Tactical Missile Corporation, Petrovsky Electromechanical Plant
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 40 Gogol Street, Petrovsk, Saratov Region, 412541, Russia.
+- id: jp.mofa.russia.193
+  entry_number: 193
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、公共株式会社 ANPP テンプ・アヴィア
+    en: Tactical Missile Corporation, PJSC ANPP Temp Avia
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 26 G. Arzamas G.Arzamas. Street, Kirov, Nizhny Novgorod, 607220 Russia.
+  aliases:
+    ja:
+    - ANPP「テンプ・アヴィア」
+    - 公共株式会社「アルザマス研究製造企業」
+    - テンプ・アヴィア
+    - ANPP テンプ・エアー
+    - 株式会社アルザマス研究製造企業「テンプ・アヴィア」
+    - 公共株式会社アルザマス学術製造企業「テンプ・アヴィア」
+    en:
+    - ANPP “TEMP AVIA”
+    - Public Joint Stock Company “Arzamas Research and Production Enterprise”
+    - TEMP-AVIA
+    - ANPP TEMP AIR
+    - Joint Stock Company Arzamas Research And Production Enterprise
+    - Publichnoe Aktsionernoe Obshchestvo Arzamasskoe Nauchno- Proizvodstvennoe Predpriyatie “TEMP-AVIA”
+- id: jp.mofa.russia.194
+  entry_number: 194
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、公共株式会社「MBDB イスクラ」
+    en: Tactical Missile Corporation, PJSC “MBDB ISKRA”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 35 Leningradsky Prospekt, Moscow, 125284, Russia.
+  aliases:
+    ja:
+    - 株式会社「I.I.カルトゥコフ名称機械製造設計局「イスクラ」
+    - 株式会社 MKB「イスクラ」
+    en:
+    - Aktsionernoe Obshchestvo “Mashinostroitelnoe Konstruktorskoe Byuro “Iskra” imeni Ivana Ivanovicha Kartukova”
+    - AO MKB “ISKRA”
+- id: jp.mofa.russia.195
+  entry_number: 195
+  name:
+    ja: 戦術ミサイル兵器コーポレーション､ラドゥガ設計局
+    en: Tactical Missile Corporation, Raduga Design Bureau
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 2A Zhukovskogo, Dubna, Moscowvskaya Oblast, 141983, Russia.
+  aliases:
+    ja:
+    - 株式会社「A.Ya.ベレズニャク名称国営 MKB「ラドゥガ」
+    - 株式会社国立機械製造設計局「ラドゥガ」
+    - MKB ラドゥガ
+    - I.ベレズニャク名称国営 MKB「レインボー」
+    en:
+    - AO “GosMKB “Raduga” im. A.Ya.Bereznyaka”
+    - Joint Stock Company State Machine-Building Design Bureau
+    - MKB Raduga
+    - GosMKB “Rainbow” them. AND I. Bereznyak
+- id: jp.mofa.russia.196
+  entry_number: 196
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、RKB グローブス
+    en: Tactical Missile Corporation, RKB Globus
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 6 Vysokovoltnaya Street, Ryazan, 390013, Russia.
+  aliases:
+    ja:
+    - 株式会社リャザン設計局グローブス、連邦国家単一企業 RKB グローブス
+    en:
+    - JSC Ryazan Design Bureau Globus
+    - Federal State Unitary Enterprise RKB Globus
+- id: jp.mofa.russia.197
+  entry_number: 197
+  name:
+    ja: 戦術ミサイル兵器コーポレーション､スモレンスク航空プラント
+    en: Tactical Missile Corporation, Smolensk Aviation Plant
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 74 Frunze Street, Smolensk, 214006, Russia.
+  aliases:
+    ja:
+    - 株式会社「SmAZ」
+    en:
+    - JSC “SmAZ”
+- id: jp.mofa.russia.198
+  entry_number: 198
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、TRV エンジニアリング
+    en: Tactical Missile Corporation, TRV Engineering
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 2A Ordzhonikidze Street, Korolev, Moscow Region, Russia.
+  aliases:
+    ja:
+    - 有限会社ズヴェズダ・ストレラ商会
+    en:
+    - Zvezda-Strela Trading House LLC
+- id: jp.mofa.russia.199
+  entry_number: 199
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、ウラル設計局「デタル」
+    en: Tactical Missile Corporation, Ural Design Bureau “Detal”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 8 Pionerskaya Street, Kamensk-Uralski, Sverdlovskaya Oblast, 623409, Russia.
+  aliases:
+    ja:
+    - 株式会社ウラル設計局「デタル」
+    - 株式会社ウラル設計建設局「デタル」
+    - 株式会社 UPKB「デタル」
+    - 公共株式会社ウラル設計建設局デタル
+    en:
+    - Joint-Stock Company Ural Design Bureau “Detal”
+    - Aktsionernoe Obshchestvo Uralskoe Proektno-Konstruktorskoe Byuro
+    - AO UPKB “Detal”
+    - Uralskoe Proektno-Konstruktorskoe Byuro Detal, Pao
+- id: jp.mofa.russia.200
+  entry_number: 200
+  name:
+    ja: 戦術ミサイル兵器コーポレーション、有限会社ズヴェズダ・ストレラ
+    en: Tactical Missile Corporation, Zvezda-Strela Limited Liability Company
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 3 Taganrog Severnaya Square, Rostov Region, 347928, Russia.
+  aliases:
+    ja:
+    - スター・アロー
+    - ズヴェズダ・アロー・コーポレーション
+    en:
+    - Star Arrow
+    - Zvezda-Arrow Corporation
+- id: jp.mofa.russia.201
+  entry_number: 201
+  name:
+    ja: 統一造船会社「生産連合体北方機械製造企業」
+    en: United Shipbuilding Corporation “Production Association Northern Machine Building Enterprise”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 58 Archangelskoye Shosse, Severodvinsk, Archangelsk Region, 164500, Russia.
+  aliases:
+    ja:
+    - 株式会社 PO セヴマシュ
+    en:
+    - JSC PO Sevmash

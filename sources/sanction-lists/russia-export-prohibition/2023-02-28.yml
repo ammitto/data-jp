@@ -1,0 +1,462 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 輸出等に係る禁止措置の対象となるロシア連邦の特定団体
+  - en: Russia Export Prohibition
+  publish_date: '2023-02-28'
+  authority: jp/mofa
+  type: jp/export-prohibition-announcement
+  source_file: 100465348.pdf
+  source_url: https://www.mofa.go.jp/mofaj/files/100465348.pdf
+entities:
+- id: jp.mofa.russia.337
+  entry_number: 337
+  name:
+    ja: 連邦汎用技術センター(FTsDT)ソユーズ
+    en: Federal Center for Dual-Use Technology (FTsDT) Soyuz
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: &1
+    ja: ロシア連邦
+    en: Russian Federation
+  address: 42 Academician Zhukov St., Dzerzhinsky, 140090, Russia.
+  aliases:
+    ja:
+    - FSUE FCDT ソユーズ
+    en:
+    - FSUE FCDT Soyuz
+- id: jp.mofa.russia.338
+  entry_number: 338
+  name:
+    ja: ロシア科学アカデミー(RAS)Ａ．Ａ．ハルケヴィチ情報伝達問題研究所(IITP)
+    en: 'A.A. Kharkevich Institute for Information Transmission Problems two aliases:'
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 19 Bolshoi Karetny, building 1, Moscow, Russia, 127051.
+  aliases:
+    ja:
+    - 情報伝達問題研究所、情報伝達問題研究所 RAN
+    en:
+    - Institute for Information Transmission Problems
+    - Institut Problem Peredachi Informatsii RAN
+- id: jp.mofa.russia.339
+  entry_number: 339
+  name:
+    ja: 持株会社アク・バルス
+    en: Ak Bars Holding
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 58a Korolenko St., Kazan, Republic of Tatarstan, Russia, 420094.
+  aliases:
+    en:
+    - Holding Company Ak Bars
+- id: jp.mofa.russia.340
+  entry_number: 340
+  name:
+    ja: ロシア科学アカデミー極東支部自動海洋研究特別研究局
+    en: DVO RAN） Special Research Bureau for Automation of Marine Researches Far East Branch Russian Academy of Sciences
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  aliases:
+    ja:
+    - SKB SAMI
+    en:
+    - SKB SAMI DVO RAN Sakhalinskaya Oblast, 693010, Russia
+- id: jp.mofa.russia.341
+  entry_number: 341
+  name:
+    ja: 有限会社生合成システムズ
+    en: Systems of Biological Synthesis LLC.
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Akademika Koroleva Street, Building 13/1, Office 35-39, Moscow, 129515, Russia.
+  aliases:
+    ja:
+    - 有限会社 SBS
+    en:
+    - Sistemy Biologicheskogo Sinteza
+    - OOO SBS
+    - SBS LLC
+- id: jp.mofa.russia.342
+  entry_number: 342
+  name:
+    ja: ロシア科学・高等教育省所管連邦国家予算学術機関ロシア科学アカデミーＫ．Ａ．ヴァリエフ名称物理・技術研究所
+    en: RAS、FTI RAS、FTIAN） Federal State Budgetary Institution of Science P.I. K.A. Valiev RAS of the Ministry of Science and Higher Education of Russia
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 34 Nakhimovski Prospekt, Moscow, 117218, Russia; and 36 Nakhimovsky Prospekt, Moscow, 117218, Russia.
+  aliases:
+    ja:
+    - FTIAN IM K.A. Valiev
+    en:
+    - FTIAN IM K.A. Valiev RAS
+    - FTI RAS
+    - FTIAN
+- id: jp.mofa.russia.343
+  entry_number: 343
+  name:
+    ja: 連邦国家単一企業全ロシア物理・技術・無線工学観測研究所
+    en: VNIIFTRI） Federal State Unitary Enterprise All-Russian Research Institute of Physical, Technical and Radio Engineering Measurements
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Mendeleevo Village, Mendeleevo, Moscow Oblast, 141570, Russia.
+  aliases:
+    en:
+    - VNIIFTRI
+- id: jp.mofa.russia.344
+  entry_number: 344
+  name:
+    ja: 連邦技術規制・計量庁
+    en: Federal Technical Regulation and Metrology Agency
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 10 Naberezhnaya Presnenskaya, Building 2, Floor 7, Moscow, 123112, Russia; and 10 Presnenskaya Embankment, Building 2 (IQ Block), Moscow, 123112, Russia.
+  aliases:
+    ja:
+    - ロススタンダード
+    en:
+    - Rosstandart
+- id: jp.mofa.russia.345
+  entry_number: 345
+  name:
+    ja: ロシア科学アカデミーＰ．Ｎ．レベデフ名称物理学研究所
+    en: Institute of Physics Named After P.N. Lebedev of the Russian Academy of Sciences
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 53 Leninsky Prospekt, Moscow, 119991, Russia.
+  aliases:
+    ja:
+    - レベデフ物理研究所、LPI RAS、FIAN
+    en:
+    - Lebedev Physical Institute
+    - LPI RAS
+    - FIAN
+- id: jp.mofa.russia.346
+  entry_number: 346
+  name:
+    ja: ロシア科学アカデミー固体物理学研究所
+    en: Institute of Solid-State Physics of the Russian Academy of Sciences
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 2 Akademika Osipyana Street, Chernogolovka, Moscow Region, 142432, Russia.
+  aliases:
+    ja:
+    - ISSP、科学アカデミーSSSR固体物理学研究所、連邦国家予算機関ロシア科学アカデミーＹｕ．Ａ．オシピャン名称固体物理学研究所
+    en:
+    - ISSP
+    - Institute of Solid-State Physics of the Academy of Sciences SSSR and
+    - Federal State Budgetary Institution of Science Institute of Solid
+    - State Physics N.A. Yu. A. Osipyan of the Russian Academy of Sciences
+- id: jp.mofa.russia.347
+  entry_number: 347
+  name:
+    ja: ロシア科学アカデミーシベリア支部、ルジャノフ半導体物理学研究所
+    en: Rzhanov Institute of Semiconductor Physics, Siberian Branch of Russian Academy of Sciences
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 13 Prospekt Akademika Lavrentyeva, Novosibirsk, Novosibirk Oblast, 630090, Russia; and 13 Lavrentiev Avenue, Novosibirsk, 630090, Russia.
+  aliases:
+    ja:
+    - IPP SB RAS、Ａ．Ｖ．ルジャノフ名称半導体物理学研究所
+    en:
+    - IPP SB RAS
+    - Institute of Semiconductor Physics IM A.V. Rzhanov
+- id: jp.mofa.russia.348
+  entry_number: 348
+  name:
+    ja: 株式会社クラフトウェイコーポレーション PSC
+    en: AO Kraftway Corporation PSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 16, 3rd Mytishchinskaya Street, Moscow, 129626, Russia; and
+  aliases:
+    ja:
+    - クラフトウェイコーポレーション PLS、株式会社クラフトウェイコーポレーション PLS
+    en:
+    - Craftway Corporation PLS
+    - JSC Kraftway Corporation PLS
+    - KRAFTVEI KORPOREISHN PLS, AO
+- id: jp.mofa.russia.64
+  entry_number: 64
+  name:
+    en: Kievskoe Hwy, Obninsk, Kaluga Region, 249032, Russia.
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+- id: jp.mofa.russia.349
+  entry_number: 349
+  name:
+    ja: 株式会社 PKK ミランドル
+    en: AO PKK Milandr
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Georgievsky Prospekt, 5, Floor 2, Room 38, Zelenograd, Moscow, 124498, Russia; and Office 38, Premises I, 2nd Floor, 5, Georgievskiy Prospekt, Zelenograd, 124498, Moscow, Russia.
+  aliases:
+    ja:
+    - ミランドル、有限会社 MPK ミランドル
+    en:
+    - JSC PKK Milandr
+    - Milandr
+    - MPK Milandr, OOO
+    - PKK Milandr AO
+- id: jp.mofa.russia.350
+  entry_number: 350
+  name:
+    ja: 有限会社ファイバーセンス
+    en: LLC Fibersense
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 6A Sosnovaya Alley, Building 5, Zelenograd, Moscow, 124489, Russia.
+  aliases:
+    en:
+    - LLC Fibersens
+    - OOO Fibersense
+- id: jp.mofa.russia.351
+  entry_number: 351
+  name:
+    ja: 有限会社ミランドル EK
+    en: Milandr EK OOO
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Georgievskiy Prospekt, 5, Floor 2, Room 40, Zelenograd, Moscow, 124498, Russia.
+- id: jp.mofa.russia.352
+  entry_number: 352
+  name:
+    ja: 株式会社ミランドル ICC
+    en: Milandr ICC JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Office 38, Premises 1, 2nd Floor, 5, Georgievskiy Prospekt, Zelenograd, 124498, Moscow, Russia.
+- id: jp.mofa.russia.353
+  entry_number: 353
+  name:
+    ja: 有限会社ミルル IS
+    en: Milur IS, OOO
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Georgievskiy Prospekt, 5, Zelenograd, Moscow, 124498, Russia.
+- id: jp.mofa.russia.354
+  entry_number: 354
+  name:
+    ja: "（有限会社）マイクロエレクトロニクスコンプレックス（MPK）ミランドル"
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Georgievskiy Prospekt, 5, Floor 3, Room 1, Room 13, Zelenograd, Moscow, 124498, Russia.
+- id: jp.mofa.russia.355
+  entry_number: 355
+  name:
+    ja: 株式会社ロスエレクトロニクス
+    en: Ruselectronics JSC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Bldg. 1, 38, Berezhkovskaya Naberezhnaya, Moscow, Russia; and 12 Volkova Kosmonavta Moscow Russia; and Tverskaya, 9, Building 7, Moscow, Russia.
+- id: jp.mofa.russia.356
+  entry_number: 356
+  name:
+    ja: 科学製造会社オプトリンク
+    en: Scientific Production Company Optolink
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 6A Sosnovaya Alley, Building 5, Zelenograd, Moscow, 124489, Russia.
+  aliases:
+    ja:
+    - 有限会社研究製造会社オプトリンク、有限会社 NPK オプトリンク、有限会社 RPC オプトリンク、SPC オプトリンク
+    en:
+    - Limited Liability Company Research and Production Company Optolink
+    - OOO NPK Optolink
+    - LLC RPC Optolink
+    - SPC Optolink
+    - NPK Optolink LLC
+    - Optolink RPC LLC
+- id: jp.mofa.russia.357
+  entry_number: 357
+  name:
+    ja: 民間軍事会社「ワグナー」
+    en: Private Military Company “Wagner”
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 15 Zolnaya Street, Saint Petersburg, 195213, Russia.
+  aliases:
+    ja:
+    - 民間軍事会社「ワグネル」 、Chvk ワグネル、PMC ワグナー、ワグナー・グループ、ワグネル・グループ
+    en:
+    - Chastnaya Voennaya Kompaniya “Vagner”
+    - Chvk Vagner
+    - PMC Wagner
+    - Wagner Group
+    - Vagner Group

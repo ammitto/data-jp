@@ -1,0 +1,229 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 輸出等に係る禁止措置の対象となるロシア連邦及びベラルーシ共和国以外の国の特定団体
+  - en: Third-Country Export Prohibition
+  publish_date: '2024-06-21'
+  authority: jp/mofa
+  type: jp/export-prohibition-announcement
+  source_file: 100687428.pdf
+  source_url: https://www.mofa.go.jp/mofaj/files/100687428.pdf
+entities:
+- id: jp.mofa.third-country.7
+  entry_number: 7
+  name:
+    ja: アルファ・トレーディング・インベストメンツ有限会社
+    en: Alpha Trading Investments Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 617, 6/F, 131-132 Connaught Road West, Solo Workshops, Hong Kong, China.
+  aliases:
+    en:
+    - Alpha Trading Investments
+    - Alpha Trading Investments Ltd
+- id: jp.mofa.third-country.8
+  entry_number: 8
+  name:
+    ja: アジア・パシフィック・リンクス有限会社
+    en: Asia Pacific Links Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Office 8E and Room E 8/F, Shing Hing Commercial Building, 21-27 Wing Kut Street, Central District, Hong Kong, 510000, China.
+  aliases:
+    en:
+    - Asia Pacific Links Limited
+- id: jp.mofa.third-country.9
+  entry_number: 9
+  name:
+    ja: グアンジョウ・オーサイ・テクノロジー有限会社（广州欧赛科技有限公司）
+    en: Guangzhou Ausay Technology Co. Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: R301, Block A of No 3 Building, West Area of Tongda Industrial Zone, Hebian 5 She Helong Street, Baiyun District, Guangzhou, Guangdong, China.
+  aliases:
+    en:
+    - Guangzhou Ausay Technology Co., Ltd
+    - Guangzhou Ausay Technology Co., Limited
+- id: jp.mofa.third-country.10
+  entry_number: 10
+  name:
+    ja: シェンジェン 5G ハイテク・イノベーション有限会社 （深圳五力高科創新有限公司）
+    en: Shenzhen 5G High-Tech Innovation Co., Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 502, Block B, Rongchaolong Building, Longfu Road, Shangjing Community, Longcheng Street, Longgang District, Shenzhen, China; and
+  aliases:
+    ja:
+    - シェンジェン・ウーリー・ガオクー・チュアンシン・ヨウシエン・ゴンスー
+    - シェンジェン・ウーリー・ガオクー・イノベーション・サイエンス・アンド・テクノロジー有限会社
+    en:
+    - Shenzhen Wu Li Gaoke Chuangxin Youxian Gongsi
+    - Shenzhen Wu Li Gao Ke Innovation Science and Technology Co., Ltd
+- id: jp.mofa.third-country.306
+  entry_number: 306
+  name:
+    en: No. 66 Huayuan Road, Pingxi Community, Pingdi Street, Longgang District, Shenzhen, Guangdong Province, China.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+- id: jp.mofa.third-country.11
+  entry_number: 11
+  name:
+    ja: シェンジェン・ビーグアン・トレーディング有限会社（深圳比广贸易有限公司）
+    en: Shenzhen Biguang Trading Co. Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 18E, Block B, World Trade Square, No. 9 Fuhong Road, Funnan Community, Futian Street, Futian District, Shenzhen, Guangdong, China.
+  aliases:
+    en:
+    - Shenzhen Biguang Trading Co., Ltd
+- id: jp.mofa.third-country.12
+  entry_number: 12
+  name:
+    ja: トルダン・インダストリー有限会社
+    en: Tordan Industry Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: Unit 617, 6/F, 131-132 Connaught Road West, Solo Workshops, Hong Kong, China.
+  aliases:
+    en:
+    - Tordan Industry
+    - Tordan Industry Ltd
+- id: jp.mofa.third-country.13
+  entry_number: 13
+  name:
+    ja: イールーファ・エレクトロニクス有限会社（深圳市亿路发科技有限公司）
+    en: Yilufa Electronics Ltd
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 1806, Hanguo Center, No.3031, Shennan Middle Road, Futian District, Shenzhen, Guangdong, China.
+  aliases:
+    en:
+    - Yilufa Electronics Limited
+- id: jp.mofa.third-country.14
+  entry_number: 14
+  name:
+    ja: Si2 マイクロシステムズ有限会社
+    en: Si2 Microsystems Private Limited
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: '84, Deep Towers, EPIP Industrial Area, Whitefield, Bangalore, Karnataka, 560066, India; #52/A, 1st Cross, 3rd Main KIADB Industrial Area, Hoskote, Bangalore, Karnataka, 562114, India; 3796, 7th Main, Hal II Stage, Bangalore, Karnataka, 560008, India; 493/3 Bramhalingeshwara Complex, Airport Road, Bangalore, Karnataka, 560008, India; and 177/2 Bannerghatta Road, Begur Hobli Bilekahalli Industrial Area, Bangalore, Karnataka, 560076, India.'
+  aliases:
+    en:
+    - Si2 Microsystems Pvt Ltd
+- id: jp.mofa.third-country.15
+  entry_number: 15
+  name:
+    ja: エレム・グループ有限会社
+    en: Elem Group, LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 8 Nauryzbai Batyr Street, Almaty, 050004, Kazakhstan; and
+  aliases:
+    ja:
+    - エレム・グループ
+    en:
+    - Elem Group
+    - Limited Liability Partnership Elem Group
+    - TOO Elem Group
+- id: jp.mofa.third-country.98
+  entry_number: 98
+  name:
+    en: Panfilov St., Almaty, 050000, Kazakhstan.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+- id: jp.mofa.third-country.16
+  entry_number: 16
+  name:
+    ja: エムヴィジョン有限会社
+    en: Mvizion LLC
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  address: 8 Katartal Street, 7th Block, Chilanzarskiy District, Tashkent, 100113, Uzbekistan; and
+  aliases:
+    en:
+    - OOO Mvizion
+- id: jp.mofa.third-country.313
+  entry_number: 313
+  name:
+    en: Gaydar Alieev Kuchasi, Tashkent, 100161, Uzbekistan.
+  type: organization
+  sanction_list: jp/third-country-export-prohibition-list
+  sanction_list_en: Japan Third-Country Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures

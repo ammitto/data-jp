@@ -1,0 +1,577 @@
+# yaml-language-server: $schema=../../schemas/jp-sanction-list.yml
+---
+sanction_list:
+  id: jp/belarus-export-prohibition-list
+  name:
+    ja: 国際平和のための国際的な努力に我が国として寄与するために講ずる輸出等に係る禁止措置の対象となるベラルーシ共和国の団体（令和四年外務省告示第百四号）
+    en: Japan Belarus Export Prohibition List
+  authority: jp/mofa
+  type: jp/export-prohibition-list
+  source_file: list_belarus_tokutei.pdf
+  source_url: https://www.meti.go.jp/policy/external_economy/trade_control/02_export/17_russia/list_belarus_tokutei.pdf
+entities:
+- id: jp.mofa.belarus.1
+  entry_number: 1
+  name:
+    ja: 国防省 （ベラルーシ軍及び場所を問わず全ての運用部隊を含む。 ）。これには、 ベラルーシ軍 （陸軍及び空軍・防空軍） 、国家国境委員会と警察、諜報及び偵察機関が含まれる。
+    en: The Ministry of Defence of the Republic of Belarus, including the Armed Forces of Belarus and all operating units wherever located. This includes the national armed services (army and air force), as well as the national guard and national police, government intelligence or reconnaissance organizations of the Republic of Belarus.
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: &1
+    ja: ベラルーシ共和国
+    en: Republic of Belarus
+  address: All addresses located in Belarus
+- id: jp.mofa.belarus.2
+  entry_number: 2
+  name:
+    ja: 株式会社インテグラル
+    en: JSC Integral
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 121A, Kazintsa I.P. Str., Minsk, 220108, Belarus12 Korzhenevskogo Str., Minsk, 220108, Belarus; 137 Brestskaya Str., Pinsk, Brest region, 225710, Belarus
+  aliases:
+    ja:
+    - OAO インテグラル、株式会社インテグラル＝ホールディング・マネージング
+    en:
+    - OAO Integral
+    - Joint-Stock Company Integral-Holding Managing Company
+- id: jp.mofa.belarus.3
+  entry_number: 3
+  name:
+    ja: 株式会社第 140 修理工場
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+- id: jp.mofa.belarus.140
+  entry_number: 140
+  name:
+    en: Repair Plant JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 19 Lyusi Chalovskoy str., Borisov, Minsk Region, 222512, Belarus
+  aliases:
+    en:
+    - Open Joint Stock Company 140 Repair Plant
+    - JSC 140 Repair Plant
+- id: jp.mofa.belarus.4
+  entry_number: 4
+  name:
+    ja: 株式会社第 558 航空機修理工場
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  aliases:
+    ja:
+    - 株式会社 558 ARP
+- id: jp.mofa.belarus.558
+  entry_number: 558
+  name:
+    en: Aircraft Repair Plant JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 7, 50 let VLKSM str., Baranovichi, Brest Region, 225320, Belarus
+  aliases:
+    en:
+    - JSC 558 ARP
+- id: jp.mofa.belarus.5
+  entry_number: 5
+  name:
+    ja: 株式会社第 2566 無線電子装備品修理工場
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  aliases:
+    ja:
+    - 株式会社 2566 ZRREV
+- id: jp.mofa.belarus.2566
+  entry_number: 2566
+  name:
+    en: Radioelectronic Armament Repair Plant JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 54 Gagarina str., Borisov, Minsk Region, 222511, Belarus
+  aliases:
+    en:
+    - JSC 2566 ZRREV
+- id: jp.mofa.belarus.6
+  entry_number: 6
+  name:
+    ja: 株式会社アガト管制システム・地理情報管理システムホールディング運営社
+    en: AGAT – Control Systems – Managing Company of Geoinformation Control Systems Holding JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 117/1 Nezavisimosti ave., Minsk, 220114, Belarus
+  aliases:
+    ja:
+    - アガト管制システム
+    en:
+    - AGAT – Control Systems
+- id: jp.mofa.belarus.7
+  entry_number: 7
+  name:
+    ja: 株式会社アガト電子機器工場
+    en: AGAT-Electromechanical Plant OJSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 6 Volgogradskaya str., Minsk, 220012, Belarus; and 117, bid.3, Nezavisimosti ave., Minsk, 220114, Belarus
+  aliases:
+    en:
+    - JSC Agat Electromechanical Plant
+    - Agat-Elektromekhanicheski Zavod
+- id: jp.mofa.belarus.8
+  entry_number: 8
+  name:
+    ja: アガトシステム
+    en: Agat-System
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 51B Frantsiska Skorina str., Minsk, 220141, Belarus
+- id: jp.mofa.belarus.9
+  entry_number: 9
+  name:
+    ja: 有限会社 ATE エンジニアリング
+    en: ATE-Engineering LLC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 15A Smolenskaya str., Minsk, 220088, Belarus
+- id: jp.mofa.belarus.10
+  entry_number: 10
+  name:
+    ja: ベルオモホールディング
+    en: BelOMO Holding
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 23 Makaenka str., Minsk, 220114, Belarus
+  aliases:
+    ja:
+    - ベラルーシ総合光学機器
+    en:
+    - The Belarusian Optical and Mechanical Association
+- id: jp.mofa.belarus.11
+  entry_number: 11
+  name:
+    ja: 純国営対外貿易企業ベラルーシ対外特殊機材公社
+    en: Belspetsvneshtechnika SFTUE
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 8 Kalinovskogo str., Minsk, 220103, Belarus
+  aliases:
+    ja:
+    - BSVT
+    en:
+    - State-Owned Foreign Trade Unitary Enterprise Belspetsvneshtechnika
+    - BSVT
+- id: jp.mofa.belarus.12
+  entry_number: 12
+  name:
+    ja: 株式会社ベラルーシ機材輸出公社
+    en: Beltechexport CJSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 86b Nezavisimosti ave., Minsk, 220012, Belarus
+- id: jp.mofa.belarus.13
+  entry_number: 13
+  name:
+    ja: BSVT 新技術
+    en: BSVT-New Technologies
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 187 Soltysa str., Minsk, 220012, Belarus
+- id: jp.mofa.belarus.14
+  entry_number: 14
+  name:
+    ja: ゴメリ州執行委員会内務局
+    en: Department of Internal Affairs of the Gomel Region Executive Committee
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 3 Kommunarov str., Gomel, Gomel Region, 246050, Belarus
+  aliases:
+    en:
+    - UVD of the Gomel Region Executive Committee
+- id: jp.mofa.belarus.15
+  entry_number: 15
+  name:
+    ja: ベラルーシ共和国内務省国内軍
+    en: Internal Troops of the Ministry of Internal Affairs of the Republic of Belarus
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 4 Golodskoy Val, Minsk, 220030, Belarus
+  aliases:
+    en:
+    - MVD Internal Troops
+- id: jp.mofa.belarus.16
+  entry_number: 16
+  name:
+    ja: KGB アルファ
+    en: KGB Alpha
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: Belarus
+  aliases:
+    ja:
+    - ベラルーシ共和国国家保安委員会アルファ、アルファ部隊、部隊 A
+    en:
+    - The State Security Committee Alpha
+    - Alpha Group
+    - Group A
+- id: jp.mofa.belarus.17
+  entry_number: 17
+  name:
+    ja: 株式会社キドマテック
+    en: Kidma Tech OJSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 187 Soltysa str., Minsk, 220070, Belarus; and 5/1 Ag. Ustye, Ustenskiy Selsovet, Orsha District, Vitebsk Region, 211003, Belarus
+  aliases:
+    ja:
+    - BSVT 新技術、BSVT-NT
+    en:
+    - BSVT-New Technologies
+    - BSVT-NT
+- id: jp.mofa.belarus.18
+  entry_number: 18
+  name:
+    ja: ミノトルサービス
+    en: Minotor-Service
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 40 Radialnaya str., Minsk, 220070, Belarus
+  aliases:
+    ja:
+    - 純民営製造販売企業ミノトルサービス
+    en:
+    - Industrial-Commercial Private Unitary Enterprise Minotor-Service
+- id: jp.mofa.belarus.19
+  entry_number: 19
+  name:
+    ja: 株式会社ミンスク装輪牽引車工場
+    en: Minsk Wheel Tractor Plant
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 150 Paritizansky ave., Minsk, 220021, Belarus
+  aliases:
+    ja:
+    - MZKT、純国営製造企業ミンスク装輪牽引車工場
+    en:
+    - MZKT
+    - Production Republican Unitary Enterprise Minsk Wheeled Tractor Plant
+- id: jp.mofa.belarus.20
+  entry_number: 20
+  name:
+    ja: 有限会社防衛イニシアチブ
+    en: Oboronnye Initsiativy LLC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 18, 1-y per. F. Skorina, Minsk, 220131, Belarus
+  aliases:
+    en:
+    - LLC Defense Initiatives
+- id: jp.mofa.belarus.21
+  entry_number: 21
+  name:
+    ja: 株式会社「KB レーダー」 ・「レーダーシステム」ホールディング運営企業
+    en: JSC“KB Radar” – Managing Company of “Radar Systems” Holding
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 64a Partizansky ave., Minsk, 220026, Belarus
+  aliases:
+    ja:
+    - 株式会社 KBレーダー、KB レーダー
+    en:
+    - JSC KB Radar
+    - KB Radar
+- id: jp.mofa.belarus.22
+  entry_number: 22
+  name:
+    ja: 株式会社ペレング
+    en: Peleng JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 25 Makaenka str., Minsk, 220114, Belarus
+- id: jp.mofa.belarus.23
+  entry_number: 23
+  name:
+    ja: ベラルーシ共和国国家軍需産業委員会
+    en: State Authority for Military Industry of the Republic of Belarus
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 115 Nezavisimosti ave., Minsk, 220114, Belarus
+- id: jp.mofa.belarus.24
+  entry_number: 24
+  name:
+    ja: ベラルーシ共和国国家保安委員会
+    en: State Security Committee of the Republic of Belarus
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 17 Nezavisimosti ave., Minsk, 220030, Belarus
+- id: jp.mofa.belarus.25
+  entry_number: 25
+  name:
+    ja: 株式会社トランスアヴィアエクスポート航空
+    en: Transaviaexport Airlines JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 44 Zakharova str., Minsk, 220034, Belarus
+- id: jp.mofa.belarus.26
+  entry_number: 26
+  name:
+    ja: 株式会社ヴォラトアフト
+    en: Volatavto JSC
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: Office 1-143, 2/1 Kulman str., Minsk, 220013, Belarus; and 133 Socialist str., Slutsk, Minsk Region, 223603, Belarus
+  aliases:
+    ja:
+    - 研究開発製造企業ヴォラトオート
+    en:
+    - NPP VOLATauto
+- id: jp.mofa.belarus.27
+  entry_number: 27
+  name:
+    ja: 株式会社エレロン
+    en: Joint Stock Company Eleron
+  type: organization
+  sanction_list: jp/belarus-export-prohibition-list
+  sanction_list_en: Japan Belarus Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: BY
+  country_name: *1
+  address: 11 per. Kalinina, Minsk, 220012, Belarus
+  aliases:
+    ja:
+    - 株式会社 FCS&HT「SNPO エレロン」 、SNPO エレロン
+    en:
+    - JSC FCS&HT “SNPO “Eleron”
+    - SNPO Eleron

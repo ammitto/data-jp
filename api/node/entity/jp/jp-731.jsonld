@@ -1,0 +1,11 @@
+{
+  "id": "https://www.ammitto.org/entity/jp/jp-731",
+  "entity_type": "organization",
+  "source_references": [
+    {
+      "source_code": "jp",
+      "reference_number": "JP-731"
+    }
+  ],
+  "@context": "https://www.ammitto.org/ontology/context.jsonld"
+}

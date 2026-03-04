@@ -1,0 +1,394 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 輸出等に係る禁止措置の対象となるロシア連邦の特定団体
+  - en: Russia Export Prohibition
+  publish_date: '2024-06-21'
+  authority: jp/mofa
+  type: jp/export-prohibition-announcement
+  source_file: 100687427.pdf
+  source_url: https://www.mofa.go.jp/mofaj/files/100687427.pdf
+entities:
+- id: jp.mofa.russia.524
+  entry_number: 524
+  name:
+    ja: デバイス・コンサルティング
+    en: Device Consulting
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: &1
+    ja: ロシア連邦
+    en: Russian Federation
+  address: Aerodromnaya St. 6-A-45, St. Petersburg, 197348, Russia.
+  aliases:
+    ja:
+    - デバイス・コンサルティング有限会社
+    en:
+    - Device Consulting Co. Ltd
+- id: jp.mofa.russia.525
+  entry_number: 525
+  name:
+    ja: SMT アイロジック
+    en: SMT-iLogic
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: ul. Mineralnaya, Dom 13, Litera A, Pomeshtenie 15N, Saint Petersburg, 195197, Russia; and Nepokorennykh Avenue, 17, Building 4, B, Room 5-N, St. Petersburg, 195220, Russia.
+  aliases:
+    ja:
+    - SMT アイロジック有限会社、SMT アイロギク
+    en:
+    - SMT iLogic LLC
+    - SMT Aylogik
+- id: jp.mofa.russia.526
+  entry_number: 526
+  name:
+    ja: 株式会社コンペル
+    en: JSC Kompel
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: ul. Novokhokhlovskaya d. 23, str.1, Moscow, 109052, Russia; Pr-kt Volgogradskii d. 28A, pom. I, et. 3 kom.6, Moscow, 109316, Russia; Bolshoi pr-t V.O., 18, Saint Petersburg, 199034, Russia; and K. Marksa pr-t, 57, Novosibirsk, 630073, Russia.
+  aliases:
+    en:
+    - Joint Stock Company Compel
+    - AO Kompel
+- id: jp.mofa.russia.527
+  entry_number: 527
+  name:
+    ja: ハーティス DV 有限会社
+    en: Hartis DV LLC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 35 Svobody Street, Building 5, Floor 1, Kom. 4, Moscow, 125362, Russia.
+  aliases:
+    ja:
+    - トレード・ハウス・アルコパネル有限会社
+    en:
+    - Trade House Alkopanel Limited Liability Company
+    - OOO Khartis DV
+- id: jp.mofa.russia.528
+  entry_number: 528
+  name:
+    ja: ID ソリューション有限会社
+    en: ID Solution LLC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Annino Plaza Business Center, 60B Dorozhnaya Street, Room 421, Moscow, 117405, Russia; and
+  aliases:
+    ja:
+    - 有限会社アイディ・ソリューション
+    en:
+    - OOO Aidi Solyushn
+- id: jp.mofa.russia.2
+  entry_number: 2
+  name:
+    en: Donbasskaya Street, Vidnoe, Moscow Oblast, 142700, Russia.
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+- id: jp.mofa.russia.529
+  entry_number: 529
+  name:
+    ja: オレルメタルポリマー有限会社
+    en: Orelmetallpolimer LLC
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 1 Yu Avtomagistral Street, Mtsensk, Orovskaya Oblast, 303032, Russia;
+  aliases:
+    ja:
+    - オーエムピー有限会社、有限会社オリョールメタルポリマー
+    en:
+    - OMP LLC
+    - OrelMetallPolimer LLC
+    - OOO Orelmetallpolimer
+- id: jp.mofa.russia.45
+  entry_number: 45
+  name:
+    en: Olkhovskaya Street, Building 3, Floor 1, Room 1/10, Munitsipalny Okrug Krasnoselski, Moscow, 105066, Russia; 19B Novosushchevskaya Street, Moscow, 127055, Russia; and 24/8 Vatutina Street, Office 204, Dzerzhinsk, Nizhny Novgorod Oblast, 606019, Russia.
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+- id: jp.mofa.russia.530
+  entry_number: 530
+  name:
+    ja: 株式会社ゲオミール
+    en: AO Geomir
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 50 Olimpiyskiy Prospekt, Mytishchi, Moscow Oblast, 141006, Russia;
+  aliases:
+    ja:
+    - インジェネルニー・センター・ゲオミール株式会社、インジェネルニー・センター・ゲオミール、非公開株式会社インジェネルニー・センター・ゲオミール、非公開株式会社エンジニアリング・センター・ジオミール
+    en:
+    - Inzhenerny Tsentr Geomir, AO
+    - Inzhenerny Center Geomir
+    - ZAO Inzhenernyy Tsentr Geomir
+    - CJSC Engineering Center Geomir
+    - JSC Geomir
+- id: jp.mofa.russia.24
+  entry_number: 24
+  name:
+    en: Mel'nichnyy pereulok, Voronezh, 394030, Russia;
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+- id: jp.mofa.russia.249
+  entry_number: 249
+  name:
+    en: Krasnykh Partizan St., Office 209/2, Krasnodar, 350047, Russia; and
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+- id: jp.mofa.russia.39
+  entry_number: 39
+  name:
+    en: Molodogvardeysky Lane, Office 2, Rostov-on-Don, 344029, Russia.
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+- id: jp.mofa.russia.531
+  entry_number: 531
+  name:
+    ja: 株式会社セット 1
+    en: AO SET-1
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 38A 2nd Khutorskaya St., Bldg. 1, office 614, Moscow, 127287, Russia; and St. Pervomaiskaya Verkhn, 43, Moscow, 105264, Russia.
+  aliases:
+    en:
+    - AO Set-1
+    - Set-1 JSC
+    - Cet-1 JSC
+- id: jp.mofa.russia.532
+  entry_number: 532
+  name:
+    ja: 有限会社アラブガ・ヴォロクノ
+    en: OOO Alabuga-Volokno
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Territoriya Oez Alabuga, Ul. Sh-2 Korp. 4/1, Yelabuga 423600, Russia; ul. Sh-2 Oez Alabuga Terr. Str. 11/9, Volga 423601, Russia; and ul. Krzhizhanovskogo D. 14, Korp. 3, Moscow, 117218, Russia.
+  aliases:
+    ja:
+    - アラブガ・ファイバー有限会社
+    en:
+    - Alabuga-Fibre LLC
+- id: jp.mofa.russia.533
+  entry_number: 533
+  name:
+    ja: 有限会社アルバトロス
+    en: OOO Albatross
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Sh-1 St., Building 8/1, SEZ Alabuga, Yelabuga, Tatarstan, 423601, Russia; Sh-1 St., Building 4/1 First Floor, SEZ Alabuga, Yelabuga, Tatarstan, Russia; and Bldg. 34 St. Mykluho-Maklay, Moscow, 117229, Russia.
+  aliases:
+    en:
+    - OOO Albatros
+    - Albatross LLC
+- id: jp.mofa.russia.534
+  entry_number: 534
+  name:
+    ja: 株式会社ヴェガ無線工学コーポレーション
+    en: Joint Stock Company Vega Radio Engineering Corporation
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: 34 Kutuzovsky Avenue, Moscow, 121170, Russia.
+  aliases:
+    ja:
+    - 株式会社コンツェルン・ヴェガ
+    - コンツェルン・ヴェガ
+    - 株式会社無線工学コーポレーション・ヴェガ
+    - コンツェルン・無線工学ヴェガ
+    en:
+    - AO Kontsern Vega
+    - Concern Vega
+    - JSC Concern Vega
+    - JSC Radio Engineering Corporation Vega
+    - Kontsern Radiostroeniya Vega
+    - Vega Radio Engineering Corporation
+    - JSC Vega Corp
+- id: jp.mofa.russia.535
+  entry_number: 535
+  name:
+    ja: 株式会社 VNIIR プログレス
+    en: JSC VNIIR Progress
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Prospekt I.Ya.Yakovleva, d. 4, Cheboksary, 428024, Russia.
+  aliases:
+    en:
+    - Joint Stock Company VNIIR Progress
+- id: jp.mofa.russia.536
+  entry_number: 536
+  name:
+    ja: 株式会社 SEZ アラブガ
+    en: JSC SEZ Alabuga
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Ul. Sh-2 (Oez Alabuga Ter.) 4/1, Yelabuga, Tatarstan, 423600, Russia; and Promploshchadka Alabuga, ul. Sh-2, Korp. 4/1, Yelabuga, Volga federal region, Republic of Tatarstan, 423600, Russia.
+  aliases:
+    ja:
+    - 株式会社工業生産型経済特区アラブガ
+    - 株式会社 OEZ PPT アラブガ
+    en:
+    - Joint Stock Company Special Economic Zone of Industrial Production Alabuga
+    - AO OEZ PPT Alabuga
+    - Aktsionernoe Obshchestvo Osobaya Ekonomicheskaya Zona Promyshlenno-Proizvodstvennogo tipa Alabuga
+- id: jp.mofa.russia.537
+  entry_number: 537
+  name:
+    ja: 有限会社アラブガ・デベロップメント
+    en: LLC Alabuga Development
+  type: organization
+  sanction_list: jp/mofa-russia-export-prohibition-list
+  sanction_list_en: Japan Russia Export Prohibition List
+  measures:
+  - type:
+    - prohibit_export_dual_use_items
+    ja: 輸出等に係る禁止措置の対象
+    en: Subject to export prohibition measures
+  country_code: RU
+  country_name: *1
+  address: Ter. OEZ Alabuga, ul. Sh-2, K. 4, Pomeshch. 8, 9, 11, 12, 13, 14, Yelabuga, Volga federal region, Republic of Tatarstan, 423601, Russia.
+  aliases:
+    en:
+    - Alabuga Development OOO
+    - Obshchestvo s Ogranichennoi Otvetstvennostyu Alabuga Development and
+    - Limited Liability Company Alabuga Development

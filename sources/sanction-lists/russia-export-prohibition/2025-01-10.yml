@@ -17,7 +17,6 @@ entities:
     en: VMK Limited Liability Company
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -43,7 +42,6 @@ entities:
     en: Radiopriborsnab LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -66,7 +64,6 @@ entities:
     en: LLC Rezonit
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -88,7 +85,6 @@ entities:
     en: Federal State Enterprise Perm Powder Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -113,7 +109,6 @@ entities:
     en: Proton JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -136,7 +131,6 @@ entities:
     en: Joint Stock Company Concern Sozvezdie
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -160,7 +154,6 @@ entities:
     en: Inelso LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -182,7 +175,6 @@ entities:
     en: Ultran Electronic Components LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -207,7 +199,6 @@ entities:
     en: LLC Fregat
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -230,7 +221,6 @@ entities:
     en: Leningrad Laser Systems
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -253,7 +243,6 @@ entities:
     en: OOO Staut
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -276,7 +265,6 @@ entities:
     en: LLC NVS Navigation Technologies
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -299,7 +287,6 @@ entities:
     en: Federal State Unitary Enterprise Scientific and Production Enterprise Gamma
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -324,7 +311,6 @@ entities:
     en: Streloi Ekommerts
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -346,7 +332,6 @@ entities:
     en: LLC Chipdevice
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -366,7 +351,6 @@ entities:
     en: OOO Novelco
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -390,7 +374,6 @@ entities:
     en: JSC Emergency Digital Solutions (EDS)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -413,7 +396,6 @@ entities:
     en: 48th Central Scientific Research Institute
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -439,7 +421,6 @@ entities:
     en: 27th Scientific Center of the Russian Ministry of Defense
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -466,7 +447,6 @@ entities:
     en: 33rd Scientific Research and Testing Institute
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -494,7 +474,6 @@ entities:
     en: Engineering Center of Innovative Technologies
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -518,7 +497,6 @@ entities:
     en: Limited Liability Company Technology Flybridge
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

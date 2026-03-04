@@ -2,7 +2,7 @@
 ---
 announcement:
   title:
-  - ja: 輸出等に係る禁止措置の対象となるロシア連邦及びベラルーシ共和国以外
+  - ja: 輸出等に係る禁止措置の対象となるロシア連邦及びベラルーシ共和国以外の国の団体
   - en: Third-Country Export Prohibition
   publish_date: '2023-12-15'
   authority: jp/mofa
@@ -17,7 +17,6 @@ entities:
     en: Tako LLC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -34,7 +33,6 @@ entities:
     en: I JET GLOBAL DMCC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -61,7 +59,6 @@ entities:
     en: I JET GLOBAL DMCC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -88,7 +85,6 @@ entities:
     en: Success Aviation Services FZC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -111,7 +107,6 @@ entities:
     en: Alfa Beta Creative LLC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -125,7 +120,6 @@ entities:
     en: GFK Logistic Asia LLC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

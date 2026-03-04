@@ -2,7 +2,7 @@
 ---
 announcement:
   title:
-  - ja: 輸出等に係る禁止措置の対象となるロシア連邦の特定団体
+  - ja: '輸出等に係る禁止措置の対象となるロシア連邦の特定団体 267 第 46TSNII 中央科学研究所（別称、46 TsNII、46 TsNII MO RF） 46th TSNII Central Scientific Research Institute, a.k.a., the following two aliases: —46 TsNII; and —46 TsNII MO RF. 所在地：10 Chukotskiy Proyezd, Moscow, 129327, Russia. 268 全ロシア光学物理計測科学研究所（別称、連邦国家単一企業全ロシア光学物理計測科学研究所、FSUE VNIIOFI） All Russia Scientific Research Institute of Optical Physical Measurements, a.k.a., the following two aliases: — All-Russian Research Institute for Optical and Physical Measurements Federal State Unitary Enterprise; and —FSUE VNIIOFI. 所在地：46 Ozernaya St., Moscow, 119361, Russia. 269 アルザマス学術・製造企業テンプ・アヴィア（別称、OKB テンプ、株式会社テンプ・アヴィア・アルザマス学術・製造団体、 ANPP テンプ・アヴィア） Arzamas Scientific Production Enterprise Temp Avia, a.k.a., the following three aliases: —OKB Temp; —Temp-Avia Arzamas Research and Production Association JSC; and —ANPP Temp-Avia. 所在地：26 Kirov St., Arzamas, 607220, Russia. 270 有限会社国家防衛発注自動入札システム（別称、有限会社 AST GOZ） Automated Procurement System for State Defense Orders, LLC, a.k.a., the following one alias: —AST GOZ LLC. 所在地：78/1 Profsoyuznaya St., Moscow, 117393, Russia. 271 エンジニアリングセンター「モスエレクトロンプロエクト」 （別称、株式会社モスエレクトロンプロエクト、株式会社 MosEP） Engineering Center Moselectronproekt, a.k.a., the following two aliases: —Moselectronproekt (JSC); and —MosEP JSC. 所在地：12 Kosmonavta Volkova St., Room 22, Moscow, 127299, Russia. 272 学術生産団体エタロン（別称、NPO エタロン） Etalon Scientific and Production Association, a.k.a., the following one alias: —NPO Etalon. 所在地：3 Tsentralny Proezd, Dobryanka, Perm, Russia. 273 エヴゲーニー・クラユシン Evgeny Krayushin 所在地：Building 41, 3 Zheleznodorozhniy Lane, Dmitrov, Moscow, Russia; and 9 Melitopolskaya ul., Str. 3, Moscow, Russia. 274 対外経済団体'
   - en: Russia Export Prohibition
   publish_date: '2022-09-26'
   authority: jp/mofa
@@ -17,7 +17,6 @@ entities:
     en: 46th TSNII Central Scientific Research Institute
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -41,7 +40,6 @@ entities:
     en: All Russia Scientific Research Institute of Optical Physical Measurements
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -63,7 +61,6 @@ entities:
     en: Arzamas Scientific Production Enterprise Temp Avia
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -86,7 +83,6 @@ entities:
     en: Automated Procurement System for State Defense Orders, LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -107,7 +103,6 @@ entities:
     en: Engineering Center Moselectronproekt
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -129,7 +124,6 @@ entities:
     en: Etalon Scientific and Production Association
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -150,7 +144,6 @@ entities:
     en: Evgeny Krayushin
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -166,7 +159,6 @@ entities:
     en: Foreign Trade Association Mashpriborintorg
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -187,7 +179,6 @@ entities:
     en: Ineko LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -206,7 +197,6 @@ entities:
     en: Informakustika JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -222,7 +212,6 @@ entities:
     en: Institute of High Energy Physics
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -243,7 +232,6 @@ entities:
     en: Institute of Theoretical and Experimental Physics
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -265,7 +253,6 @@ entities:
     en: ISE SO RAN Institute of High-Current Electronics
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -288,7 +275,6 @@ entities:
     en: JSC Energiya
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -304,7 +290,6 @@ entities:
     en: Kaluga Scientific-Research Institute of Telemechanical Devices JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -325,7 +310,6 @@ entities:
     en: OJSC Pella Shipyard
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -346,7 +330,6 @@ entities:
     en: Scientific Production Center Vigstar JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -368,7 +351,6 @@ entities:
     en: Scientific-Production Enterprise Salyut JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -387,7 +369,6 @@ entities:
     en: Scientific-Research Institute and Factory Platan
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -408,7 +389,6 @@ entities:
     en: Special Design Bureau Salute JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -430,7 +410,6 @@ entities:
     en: Tambov Plant (TZ) “October”
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

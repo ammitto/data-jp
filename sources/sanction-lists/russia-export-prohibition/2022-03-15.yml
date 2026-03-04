@@ -17,7 +17,6 @@ entities:
     en: Admiralty Shipyard JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -35,7 +34,6 @@ entities:
     en: Aleksandrov Scientific Research Technological Institute NITI
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -51,7 +49,6 @@ entities:
     en: Argut OOO
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -67,7 +64,6 @@ entities:
     en: Communication center of the Ministry of Defence
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -83,7 +79,6 @@ entities:
     en: Federal Research Center Boreskov Institute of Catalysis
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -99,7 +94,6 @@ entities:
     en: Federal Security Service (FSB)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -118,7 +112,6 @@ entities:
     en: Federal State Budgetary Enterprise of the Administration of the President of Russia
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -134,7 +127,6 @@ entities:
     en: Federal State Budgetary Enterprise Special Flight Unit Rossiya of the Administration of the President of Russia
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -150,7 +142,6 @@ entities:
     en: Federal State Unitary Enterprise Dukhov Automatics Research Institute (VNIIA)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -166,7 +157,6 @@ entities:
     en: Foreign Intelligence Service (SVR)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -182,7 +172,6 @@ entities:
     en: Forensic Center of Nizhniy Novgorod Region Main Directorate of the Ministry of Interior Affairs
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -198,7 +187,6 @@ entities:
     en: International Center for Quantum Optics and Quantum Technologies LLS
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -221,7 +209,6 @@ entities:
     en: Irkut Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -237,7 +224,6 @@ entities:
     en: Irkut Research and Production Corporation Public Joint Stock Company
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -253,7 +239,6 @@ entities:
     en: Joint Stock Company Scientific Research Institute of Computing Machinery
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -269,7 +254,6 @@ entities:
     en: JSC Central Research Institute of Machine Building (JSC TsNIIMash)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -285,7 +269,6 @@ entities:
     en: JSC Kazan Helicopter Plant Repair Service
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -308,7 +291,6 @@ entities:
     en: JSC Rocket and Space Centre – Progress
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -324,7 +306,6 @@ entities:
     en: Kamensk-Uralsky Metallurgical Works J.S. Co.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -340,7 +321,6 @@ entities:
     en: Kazan Helicopter Plant PJSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -356,7 +336,6 @@ entities:
     en: Komsomolsk-na-Amur Aviation Production Organization (KNAAPO)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -372,7 +351,6 @@ entities:
     en: Main Intelligence Directorate
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -397,7 +375,6 @@ entities:
     en: Ministry of Defence of the Russian Federation, including the Armed Forces of Russia and all operating units wherever located. This includes the national armed services (army, navy, marine, air force, or coast guard), as well as the national guard and national police, government intelligence or reconnaissance organizations of the Russian Federation.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -413,7 +390,6 @@ entities:
     en: Moscow Institute of Physics and Technology
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -436,7 +412,6 @@ entities:
     en: NPO High Precision Systems JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -452,7 +427,6 @@ entities:
     en: NPO Splav JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -468,7 +442,6 @@ entities:
     en: Oboronprom OJSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -484,7 +457,6 @@ entities:
     en: PJSC Beriev Aircraft Company
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -500,7 +472,6 @@ entities:
     en: PJSC Irkut Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -516,7 +487,6 @@ entities:
     en: PJSC Kazan Helicopters
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -532,7 +502,6 @@ entities:
     en: POLYUS Research Institute of M.F. Stelmakh Joint Stock Company
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -548,7 +517,6 @@ entities:
     en: Promtech-Dubna, JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -564,7 +532,6 @@ entities:
     en: Public Joint Stock Company United Aircraft Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -580,7 +547,6 @@ entities:
     en: Radiotechnical and Information Systems (RTI) Concern
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -596,7 +562,6 @@ entities:
     en: Rapart Services LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -612,7 +577,6 @@ entities:
     en: Rosoboronexport OJSC (ROE)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -628,7 +592,6 @@ entities:
     en: Rostec (Russian Technologies State Corporation)
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -644,7 +607,6 @@ entities:
     en: Rostekh – Azimuth
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -660,7 +622,6 @@ entities:
     en: Russian Aircraft Corporation MiG
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -676,7 +637,6 @@ entities:
     en: Russian Helicopters JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -692,7 +652,6 @@ entities:
     en: SP Kvant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -717,7 +676,6 @@ entities:
     en: Sukhoi Aviation JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -733,7 +691,6 @@ entities:
     en: Sukhoi Civil Aircraft
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -748,7 +705,6 @@ entities:
     en: Tupoleva Street, OP JSC SCA, Zukhovskiy 140180, Russia; and 23b Bld 2 Polikarpova St, Moscow 125824, Russia; and 26, Bld. 5, Leninskaya Sloboda Street, Moscow, 115280, Russia; and Antonova Avenue 1, Ulianovsk 432072, Russia; and Leningradskaya Street 80 / 4A, Komsomolsk-On-Amur 681007, Russia.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -763,7 +719,6 @@ entities:
     en: Tactical Missiles Corporation JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -779,7 +734,6 @@ entities:
     en: Tupolev JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -795,7 +749,6 @@ entities:
     en: UEC-Saturn
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -811,7 +764,6 @@ entities:
     en: United Aircraft Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -827,7 +779,6 @@ entities:
     en: United Engine Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -843,7 +794,6 @@ entities:
     en: United Instrument Manufacturing Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

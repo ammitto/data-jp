@@ -17,7 +17,6 @@ entities:
     en: Device Consulting
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -40,7 +39,6 @@ entities:
     en: SMT-iLogic
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -62,7 +60,6 @@ entities:
     en: JSC Kompel
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -82,7 +79,6 @@ entities:
     en: Hartis DV LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -104,7 +100,6 @@ entities:
     en: ID Solution LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -124,7 +119,6 @@ entities:
     en: Donbasskaya Street, Vidnoe, Moscow Oblast, 142700, Russia.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -139,7 +133,6 @@ entities:
     en: Orelmetallpolimer LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -161,7 +154,6 @@ entities:
     en: Olkhovskaya Street, Building 3, Floor 1, Room 1/10, Munitsipalny Okrug Krasnoselski, Moscow, 105066, Russia; 19B Novosushchevskaya Street, Moscow, 127055, Russia; and 24/8 Vatutina Street, Office 204, Dzerzhinsk, Nizhny Novgorod Oblast, 606019, Russia.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -176,7 +168,6 @@ entities:
     en: AO Geomir
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -200,7 +191,6 @@ entities:
     en: Mel'nichnyy pereulok, Voronezh, 394030, Russia;
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -214,7 +204,6 @@ entities:
     en: Krasnykh Partizan St., Office 209/2, Krasnodar, 350047, Russia; and
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -228,7 +217,6 @@ entities:
     en: Molodogvardeysky Lane, Office 2, Rostov-on-Don, 344029, Russia.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -243,7 +231,6 @@ entities:
     en: AO SET-1
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -264,7 +251,6 @@ entities:
     en: OOO Alabuga-Volokno
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -285,7 +271,6 @@ entities:
     en: OOO Albatross
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -305,7 +290,6 @@ entities:
     en: Joint Stock Company Vega Radio Engineering Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -335,7 +319,6 @@ entities:
     en: JSC VNIIR Progress
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -354,7 +337,6 @@ entities:
     en: JSC SEZ Alabuga
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -378,7 +360,6 @@ entities:
     en: LLC Alabuga Development
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

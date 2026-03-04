@@ -17,7 +17,6 @@ entities:
     en: AO Rubin
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -38,7 +37,6 @@ entities:
     en: Branch of AO Company Sukhoi Yuri Gagarin Komsomolsk on Amur Aircraft Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -60,7 +58,6 @@ entities:
     en: Branch of PAO IL – Aviastar
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -81,7 +78,6 @@ entities:
     en: Branch of RSK MiG Nizhny Novgorod Aircraft Construction Plant Sokol
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -102,7 +98,6 @@ entities:
     en: Chkalov Novosibirsk Aviation Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -124,7 +119,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Aeropribor Voskhod
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -145,7 +139,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company All Russian Scientific Research Institute Gradient
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -166,7 +159,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Almetyevsk Radiopribor Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -188,7 +180,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Experimental Design Bureau Elektroavtomatika in the name of P.A. Efimov
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -209,7 +200,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Industrial Controls Design Bureau
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -231,7 +221,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Kazan Instrument Engineering and Design Bureau
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -252,7 +241,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Microtechnology
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -271,7 +259,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Phazotron Scientific Research Institute of Radio Engineering
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -292,7 +279,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Radiopribor
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -313,7 +299,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Ramenskoe Instrument Engineering Bureau
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -334,7 +319,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Research and Production Center SAPSAN
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -355,7 +339,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Rychag
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -376,7 +359,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Scientific Production Enterprise Izmeritel
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -397,7 +379,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Scientific Production Union for Radioelectronics named after V.I. Shimko
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -418,7 +399,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Taganrog Communications Scientific Research Institute
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -439,7 +419,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Ural Instrument Engineering Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -460,7 +439,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Joint Stock Company Vzlet Engineering Testing Support
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -481,7 +459,6 @@ entities:
     en: ZhRZ） Concern Radio-Electronic Technologies, Joint Stock Company Zhiguli Radio Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -500,7 +477,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Public Joint Stock Company Bryansk Special Design Bureau
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -521,7 +497,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Public Joint Stock Company Moscow Institute of Electro Mechanics and Automation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -542,7 +517,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Public Joint Stock Company Stavropol Radio Plant Signal
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -563,7 +537,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Public Joint Stock Company Techpribor
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -584,7 +557,6 @@ entities:
     en: Concern Radio-Electronic Technologies, Ramensky Instrument Engineering Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -603,7 +575,6 @@ entities:
     en: Concern Radio-Electronic Technologies, V.V. Tarasov Avia Avtomatika
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -625,7 +596,6 @@ entities:
     en: KhimMash） Design Bureau of Chemical Machine Building KBKhM
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -647,7 +617,6 @@ entities:
     en: Far Eastern Shipbuilding and Ship Repair Center
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -668,7 +637,6 @@ entities:
     en: 'Ilyushin Aviation Complex Branch: Myasishcheva Experimental Mechanical Engineering Plant'
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -689,7 +657,6 @@ entities:
     en: Institute of Marine Technology Problems Far East Branch Russian Academy of Sciences
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -710,7 +677,6 @@ entities:
     en: Irkutsk Aviation Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -726,7 +692,6 @@ entities:
     en: Joint Stock Company Aerocomposit
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -747,7 +712,6 @@ entities:
     en: Joint Stock Company Avtomatika
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -768,7 +732,6 @@ entities:
     en: Joint Stock Company Bryansk Electromechanical Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -789,7 +752,6 @@ entities:
     en: Joint Stock Company Eleron
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -810,7 +772,6 @@ entities:
     en: Generala Belova St., Moscow, 115563, Russia; and 11 Oktyabrskava St., Ozersk, Chelyabinsk Region, 456780, Russia.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -825,7 +786,6 @@ entities:
     en: Joint Stock Company Experimental Design Bureau named after A.S. Yakovlev
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -846,7 +806,6 @@ entities:
     en: Joint Stock Company Federal Research and Production Center Altai
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -862,7 +821,6 @@ entities:
     en: Joint Stock Company Head Special Design Bureau Prozhektor
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -878,7 +836,6 @@ entities:
     en: Joint Stock Company Ilyushin Aviation Complex
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -899,7 +856,6 @@ entities:
     en: Joint Stock Company Lazurit Central Design Bureau
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -920,7 +876,6 @@ entities:
     en: Joint Stock Company Ramensky Instrument Engineering Plant
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -941,7 +896,6 @@ entities:
     en: Joint Stock Company Research and Development Enterprise Protek
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -962,7 +916,6 @@ entities:
     en: Joint Stock Company SPMDB Malachite
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -983,7 +936,6 @@ entities:
     en: Joint Stock Company Votkinsky Zavod
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -999,7 +951,6 @@ entities:
     en: Kalyazinsky Machine Building Factory – Branch of RSK MiG
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1015,7 +966,6 @@ entities:
     en: Main Directorate of Deep-Sea Research
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1038,7 +988,6 @@ entities:
     en: NPP Start
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1059,7 +1008,6 @@ entities:
     en: OAO Radiofizika
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1080,7 +1028,6 @@ entities:
     en: P.A. Voronin Lukhovitsky Aviation Plant, branch of RSK MiG
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1101,7 +1048,6 @@ entities:
     en: Public Joint Stock Company Voronezh Joint Stock Aircraft Company
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1122,7 +1068,6 @@ entities:
     en: Radio Technical Institute named after A. L. Mints
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1144,7 +1089,6 @@ entities:
     en: VNIIEF） Russian Federal Nuclear Center – All Russian Research Institute of Experimental Physics
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1168,7 +1112,6 @@ entities:
     en: Shvabe JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1189,7 +1132,6 @@ entities:
     en: Special Technological Center LLC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1210,7 +1152,6 @@ entities:
     en: St. Petersburg Marine Bureau of Machine Building Malakhit
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1232,7 +1173,6 @@ entities:
     en: St. Petersburg Naval Design Bureau Almaz
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1254,7 +1194,6 @@ entities:
     en: St. Petersburg Shipbuilding Institution Krylov
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1275,7 +1214,6 @@ entities:
     en: Strategic Control Posts Corporation
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1297,7 +1235,6 @@ entities:
     en: TsKB MT Rubin
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1319,7 +1256,6 @@ entities:
     en: RAS、IPU RAS） V.A. Trapeznikov Institute of Control Sciences of Russian Academy of Sciences
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1341,7 +1277,6 @@ entities:
     en: Vladimir Design Bureau for Radio Communications OJSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -1362,7 +1297,6 @@ entities:
     en: Voentelecom JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

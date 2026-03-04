@@ -17,7 +17,6 @@ entities:
     en: The Ministry of Defence of the Republic of Belarus, including the Armed Forces of Belarus and all operating units wherever located. This includes the national armed services (army and air force), as well as the national guard and national police, government intelligence or reconnaissance organizations of the Republic of Belarus.
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -35,7 +34,6 @@ entities:
     en: JSC Integral
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

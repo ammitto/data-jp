@@ -17,7 +17,6 @@ entities:
     en: ELE Technology CO LTD
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -31,7 +30,6 @@ entities:
     en: Eastech Electronics Limited Eastech Electronics Ltd; Eastech Electronics; Shenzhen East Technology Limited; Shenzhen Yitai Technology Co Ltd; Yitai Technology; Yitai International Electronics Co Ltd; EASTECH
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -45,7 +43,6 @@ entities:
     en: Align Trading Company Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -59,7 +56,6 @@ entities:
     en: AFOX Corporation Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -72,7 +68,6 @@ entities:
     ja: タイム・アート・インターナショナル・リミテッドTime Art International LTD（時亞國際有限公司）別称：Time Art International Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -85,7 +80,6 @@ entities:
     ja: ホンコン・チースー・エレクトロニック・テクノロジー・カンパニー・リミテッドHong Kong Qisu Electronic Technology Co Ltd（香港旗速電子有限公司、香港旗速電子科技有限公司）
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -99,7 +93,6 @@ entities:
     en: Ix Medikal Buro Malzemeleri Ticaret Limited Sirketi Ix Elektronik Ic Ve Dis Ticaret Ltd Sirketi; Ix Elektronik Ic Ve Dis Ticaret Limited Serketi; Ix Elektronik Ic Ve Dis Ticaret Limited Sirkety; Ix Electronics Domestic and Foreign Trade Limited; Ix Electronics Domestic and Foreign Trade Limited Company Istanbul Industry and Trade Free Zone Branch; Ix Elektronik Ic Ve Dis Ticaret Limited Sirketi; Ix Elektronik Ic Ve Dis Ticaret Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -113,7 +106,6 @@ entities:
     en: Yildiz Çip Teknoloji Elektronik Elektrik Bilgisayar Malzemeleri Ticaret Sanayi Limited Sirketi Yildiz Cip Teknoloji Elektronik Elektrik Bilg. Malz. Tic. San. Ltd. Sti; Yildiz Chip; Yildiz Chip Technology Electronic Electric Computer Materials Trade Industry Limited; Yildiz Çip; Yildiz Çip Teknoloji Elektronik Elektrik Bilgisayar Malzemeleri Tic. San. Ltd.
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -127,7 +119,6 @@ entities:
     en: Laserchips FZCO
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

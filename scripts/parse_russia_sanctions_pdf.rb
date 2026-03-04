@@ -77,6 +77,94 @@ class RussiaSanctionsPdfParser
     }
   }.freeze
 
+  # Country name to ISO 3166-1 alpha-2 code mapping for address detection
+  COUNTRY_CODE_MAP = {
+    # Common countries in sanctions lists
+    'Armenia' => 'AM',
+    'Syria' => 'SY',
+    'United Arab Emirates' => 'AE',
+    'UAE' => 'AE',
+    'Dubai' => 'AE',
+    'China' => 'CN',
+    'Hong Kong' => 'HK',
+    'Hong Kong, China' => 'HK',
+    'Uzbekistan' => 'UZ',
+    'India' => 'IN',
+    'Turkey' => 'TR',
+    'Türkiye' => 'TR',
+    'Singapore' => 'SG',
+    'Malaysia' => 'MY',
+    'Thailand' => 'TH',
+    'Vietnam' => 'VN',
+    'Viet Nam' => 'VN',
+    'Indonesia' => 'ID',
+    'Philippines' => 'PH',
+    'Pakistan' => 'PK',
+    'Iran' => 'IR',
+    'North Korea' => 'KP',
+    "Democratic People's Republic of Korea" => 'KP',
+    'Myanmar' => 'MM',
+    'Cambodia' => 'KH',
+    'Sri Lanka' => 'LK',
+    'Bangladesh' => 'BD',
+    'Nepal' => 'NP',
+    'Georgia' => 'GE',
+    'Kazakhstan' => 'KZ',
+    'Kyrgyzstan' => 'KG',
+    'Tajikistan' => 'TJ',
+    'Turkmenistan' => 'TM',
+    'Azerbaijan' => 'AZ',
+    'Moldova' => 'MD',
+    'Serbia' => 'RS',
+    'Belarus' => 'BY',
+    'Russia' => 'RU',
+    'Ukraine' => 'UA',
+    'Israel' => 'IL',
+    'Egypt' => 'EG',
+    'South Africa' => 'ZA',
+    'Nigeria' => 'NG',
+    'Kenya' => 'KE',
+    'Morocco' => 'MA',
+    'Algeria' => 'DZ',
+    'Tunisia' => 'TN',
+    'Libya' => 'LY',
+    'Sudan' => 'SD',
+    'Ethiopia' => 'ET',
+    'Somalia' => 'SO',
+    'Yemen' => 'YE',
+    'Iraq' => 'IQ',
+    'Jordan' => 'JO',
+    'Lebanon' => 'LB',
+    'Saudi Arabia' => 'SA',
+    'Kuwait' => 'KW',
+    'Qatar' => 'QA',
+    'Bahrain' => 'BH',
+    'Oman' => 'OM',
+    'Afghanistan' => 'AF',
+    'Panama' => 'PA',
+    'Cayman Islands' => 'KY',
+    'British Virgin Islands' => 'VG',
+    'Virgin Islands' => 'VG',
+    'Cyprus' => 'CY',
+    'Malta' => 'MT',
+    'Luxembourg' => 'LU',
+    'Switzerland' => 'CH',
+    'United Kingdom' => 'GB',
+    'UK' => 'GB',
+    'United States' => 'US',
+    'USA' => 'US',
+    'Canada' => 'CA',
+    'Australia' => 'AU',
+    'New Zealand' => 'NZ',
+    'Japan' => 'JP',
+    'South Korea' => 'KR',
+    'Republic of Korea' => 'KR',
+    'Korea' => 'KR',
+    'Taiwan' => 'TW',
+    'Macao' => 'MO',
+    'Macau' => 'MO'
+  }.freeze
+
   def initialize
     @processed_files = []
     @metadata = load_metadata
@@ -346,6 +434,12 @@ class RussiaSanctionsPdfParser
     if config[:default_country_code]
       entity[:country_code] = config[:default_country_code]
       entity[:country_name] = config[:default_country_name]
+    elsif address
+      # Detect country from address for third-country entities
+      country_code, country_name = detect_country_from_address(address)
+      if country_code
+        entity[:country_name] = detected_name
+      end
     end
 
     # Combine aliases (language-specific)

@@ -17,7 +17,6 @@ entities:
     en: Alpha Trading Investments Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -35,7 +34,6 @@ entities:
     en: Asia Pacific Links Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -52,7 +50,6 @@ entities:
     en: Guangzhou Ausay Technology Co. Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -70,7 +67,6 @@ entities:
     en: Shenzhen 5G High-Tech Innovation Co., Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -90,7 +86,6 @@ entities:
     en: No. 66 Huayuan Road, Pingxi Community, Pingdi Street, Longgang District, Shenzhen, Guangdong Province, China.
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -103,7 +98,6 @@ entities:
     en: Shenzhen Biguang Trading Co. Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -120,7 +114,6 @@ entities:
     en: Tordan Industry Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -138,7 +131,6 @@ entities:
     en: Yilufa Electronics Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -155,7 +147,6 @@ entities:
     en: Si2 Microsystems Private Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -172,7 +163,6 @@ entities:
     en: Elem Group, LLC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -192,7 +182,6 @@ entities:
     en: Panfilov St., Almaty, 050000, Kazakhstan.
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -205,7 +194,6 @@ entities:
     en: Mvizion LLC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -221,7 +209,6 @@ entities:
     en: Gaydar Alieev Kuchasi, Tashkent, 100161, Uzbekistan.
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

@@ -16,7 +16,6 @@ entities:
     ja: 株式会社第 140 修理工場
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -32,7 +31,6 @@ entities:
     en: Repair Plant JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -51,7 +49,6 @@ entities:
     ja: 株式会社第 558 航空機修理工場
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -68,7 +65,6 @@ entities:
     en: Aircraft Repair Plant JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -86,7 +82,6 @@ entities:
     ja: 株式会社第 2566 無線電子装備品修理工場
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -103,7 +98,6 @@ entities:
     en: Radioelectronic Armament Repair Plant JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -122,7 +116,6 @@ entities:
     en: AGAT – Control Systems – Managing Company of Geoinformation Control Systems Holding JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -143,7 +136,6 @@ entities:
     en: AGAT-Electromechanical Plant OJSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -163,7 +155,6 @@ entities:
     en: Agat-System
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -179,7 +170,6 @@ entities:
     en: ATE-Engineering LLC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -195,7 +185,6 @@ entities:
     en: BelOMO Holding
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -216,7 +205,6 @@ entities:
     en: Belspetsvneshtechnika SFTUE
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -238,7 +226,6 @@ entities:
     en: Beltechexport CJSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -254,7 +241,6 @@ entities:
     en: BSVT-New Technologies
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -270,7 +256,6 @@ entities:
     en: Department of Internal Affairs of the Gomel Region Executive Committee
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -289,7 +274,6 @@ entities:
     en: Internal Troops of the Ministry of Internal Affairs of the Republic of Belarus
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -308,7 +292,6 @@ entities:
     en: KGB Alpha
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -331,7 +314,6 @@ entities:
     en: Kidma Tech OJSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -353,7 +335,6 @@ entities:
     en: Minotor-Service
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -374,7 +355,6 @@ entities:
     en: Minsk Wheel Tractor Plant
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -396,7 +376,6 @@ entities:
     en: Oboronnye Initsiativy LLC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -415,7 +394,6 @@ entities:
     en: JSC“KB Radar” – Managing Company of “Radar Systems” Holding
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -437,7 +415,6 @@ entities:
     en: Peleng JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -453,7 +430,6 @@ entities:
     en: State Authority for Military Industry of the Republic of Belarus
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -469,7 +445,6 @@ entities:
     en: State Security Committee of the Republic of Belarus
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -485,7 +460,6 @@ entities:
     en: Transaviaexport Airlines JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -501,7 +475,6 @@ entities:
     en: Volatavto JSC
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -521,7 +494,6 @@ entities:
     en: Socialist str., Slutsk, Minsk Region, 223603, Belarus
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -536,7 +508,6 @@ entities:
     en: Joint Stock Company Eleron
   type: organization
   sanction_list: jp/belarus-export-prohibition-list
-  sanction_list_en: Japan Belarus Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

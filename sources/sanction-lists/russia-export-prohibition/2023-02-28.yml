@@ -17,7 +17,6 @@ entities:
     en: Federal Center for Dual-Use Technology (FTsDT) Soyuz
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -40,7 +39,6 @@ entities:
     en: 'A.A. Kharkevich Institute for Information Transmission Problems two aliases:'
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -62,7 +60,6 @@ entities:
     en: Ak Bars Holding
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -81,7 +78,6 @@ entities:
     en: DVO RAN） Special Research Bureau for Automation of Marine Researches Far East Branch Russian Academy of Sciences
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -101,7 +97,6 @@ entities:
     en: Systems of Biological Synthesis LLC.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -124,7 +119,6 @@ entities:
     en: RAS、FTI RAS、FTIAN） Federal State Budgetary Institution of Science P.I. K.A. Valiev RAS of the Ministry of Science and Higher Education of Russia
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -147,7 +141,6 @@ entities:
     en: VNIIFTRI） Federal State Unitary Enterprise All-Russian Research Institute of Physical, Technical and Radio Engineering Measurements
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -166,7 +159,6 @@ entities:
     en: Federal Technical Regulation and Metrology Agency
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -187,7 +179,6 @@ entities:
     en: Institute of Physics Named After P.N. Lebedev of the Russian Academy of Sciences
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -210,7 +201,6 @@ entities:
     en: Institute of Solid-State Physics of the Russian Academy of Sciences
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -234,7 +224,6 @@ entities:
     en: Rzhanov Institute of Semiconductor Physics, Siberian Branch of Russian Academy of Sciences
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -256,7 +245,6 @@ entities:
     en: AO Kraftway Corporation PSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -278,7 +266,6 @@ entities:
     en: Kievskoe Hwy, Obninsk, Kaluga Region, 249032, Russia.
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -293,7 +280,6 @@ entities:
     en: AO PKK Milandr
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -317,7 +303,6 @@ entities:
     en: LLC Fibersense
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -337,7 +322,6 @@ entities:
     en: Milandr EK OOO
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -353,7 +337,6 @@ entities:
     en: Milandr ICC JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -369,7 +352,6 @@ entities:
     en: Milur IS, OOO
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -384,7 +366,6 @@ entities:
     ja: "（有限会社）マイクロエレクトロニクスコンプレックス（MPK）ミランドル"
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -400,7 +381,6 @@ entities:
     en: Ruselectronics JSC
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -416,7 +396,6 @@ entities:
     en: Scientific Production Company Optolink
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -442,7 +421,6 @@ entities:
     en: Private Military Company “Wagner”
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

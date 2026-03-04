@@ -17,7 +17,6 @@ entities:
     en: Alfa Machinery Group LLC Company AMG; Kompaniya AMG
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -35,7 +34,6 @@ entities:
     en: LLC Vneshekostil
   type: organization
   sanction_list: jp/mofa-russia-export-prohibition-list
-  sanction_list_en: Japan Russia Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

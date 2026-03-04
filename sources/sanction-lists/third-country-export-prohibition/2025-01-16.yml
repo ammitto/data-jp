@@ -17,7 +17,6 @@ entities:
     en: Agu Information Technology Co Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -36,7 +35,6 @@ entities:
     en: Allparts Trading Co., Ltd.
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -53,7 +51,6 @@ entities:
     en: Chang Guang Satellite Technology Co., Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -76,7 +73,6 @@ entities:
     en: Changsha Tianyi Space Science and Technology Research Institute Co. Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -105,7 +101,6 @@ entities:
     en: China HEAD Aerospace Technology Co.
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -131,7 +126,6 @@ entities:
     en: DEXP International Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -145,7 +139,6 @@ entities:
     en: Grants Promotion Service Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -168,7 +161,6 @@ entities:
     en: Imaxchip Technology Co., Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -188,7 +180,6 @@ entities:
     en: Kaili Industrial HK Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -208,7 +199,6 @@ entities:
     en: Kobi International Company
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -222,7 +212,6 @@ entities:
     en: Kvantek Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -240,7 +229,6 @@ entities:
     en: 'Most Development Limited, the following two aliases:'
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -258,7 +246,6 @@ entities:
     en: M Star International Trading Company Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -279,7 +266,6 @@ entities:
     en: RG Solutions Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -293,7 +279,6 @@ entities:
     en: Rui En Koo Technology Co Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -314,7 +299,6 @@ entities:
     en: Superchip Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -334,7 +318,6 @@ entities:
     en: Win Key Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -352,7 +335,6 @@ entities:
     en: Zixis Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -369,7 +351,6 @@ entities:
     en: Limited Liability Partnership DA Group 22
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -388,7 +369,6 @@ entities:
     en: Muller Markt LLC
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -416,7 +396,6 @@ entities:
     en: Limited Liability Company Profflab
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -440,7 +419,6 @@ entities:
     en: Thai IT Hardware Co., Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -461,7 +439,6 @@ entities:
     en: Bee Insaat Mimarlik Anonim Sirketi
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -483,7 +460,6 @@ entities:
     en: Bion Group Ic Ve Dis Ticaret Limited
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -505,7 +481,6 @@ entities:
     en: CTL Dis Ticaret Limited Sirketi
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -526,7 +501,6 @@ entities:
     en: Ervacan Makina Ekipmanlari Ve San Ted Ltd
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -553,7 +527,6 @@ entities:
     en: Karasani Dis Ticaret Limited Sirketi
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -594,7 +567,6 @@ entities:
     en: Megasan Elektronik Ticaret Ve Sanayi Anonim Sirketi
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -614,7 +586,6 @@ entities:
     en: Orel Dis Tic. Ltd. Sti
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -635,7 +606,6 @@ entities:
     en: Smart Trading Transportation Industry and Trade Limited Company
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items
@@ -654,7 +624,6 @@ entities:
     en: Crynofist Aviation FZCO
   type: organization
   sanction_list: jp/third-country-export-prohibition-list
-  sanction_list_en: Japan Third-Country Export Prohibition List
   measures:
   - type:
     - prohibit_export_dual_use_items

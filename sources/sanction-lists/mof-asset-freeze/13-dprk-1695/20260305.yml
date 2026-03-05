@@ -1,0 +1,272 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 北朝鮮(決議1695号)
+  - en: DPRK (Resolution 1695)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.dprk-1695.1
+    name:
+      ja: コハス・AG
+      en: Kohas AG
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: Route des Arsenaux 15, Fribourg, FR1700, スイス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.239
+    name:
+      ja: コリア・インターナショナル・ケミカル・ジョイント・ベンチャー・カンパニー
+      en: Korea International Chemical Joint Venture Company
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮咸鏡南道咸興 北朝鮮平壌特別市万景台区域 北朝鮮平壌特別市万景台区
+    aliases:
+    - チョソン・インターナショナル・ケミカルズ・ジョイント・オペレーション・カンパニー
+    - チョスン・インターナショナル・ケミカルズ・ジョイント・オペレーション・カンパニー
+    - インターナショナル・ケミカル・ジョイント・ベンチャー・カンパニー Choson International Chemicals Joint Operation Company
+    - Chosun International Chemicals Joint Operation Company
+    - International Chemical Joint Venture Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.326
+    name:
+      ja: コリア・クァンソン・トレーディング・コーポレーション
+      en: KOREA KWANGSONG TRADING CORPORATION
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市普通江区楽園洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.419
+    name:
+      ja: コリア・コンプレックス・エクイップメント・インポート・コーポレーション
+      en: Korea Complex Equipment Import Corporation
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市普通江区域楽園洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.5
+    name:
+      ja: コリア・トンヘ・シッピング・カンパニー
+      en: Korea Tonghae Shipping Company
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.638
+    name:
+      ja: コリア・プガン・トレーディング・コーポレーション
+      en: Korea Pugang Trading Corporation
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市普通江区域楽園洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.71
+    name:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション
+      en: Korea Mining Development Trading Corporation(KOMID）
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市中区域
+    aliases:
+    - チャングァン・シンヨン・コーポレーション
+    - エクスターナル・テクノロジー・ジェネラル・コーポレーション
+    - ノース・コリアン・マイニング・デベロップメント・トレーディング・コーポレーション Changgwang Sinyong Corporation
+    - External Technology General Corporation
+    - North Korean Mining Development Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.816
+    name:
+      ja: コリア・リョンハ・マシナリー・ジョイント・ベンチャー・コーポレーション
+      en: Korea Ryonha Machinery Joint Venture Corporation
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市中区域 北朝鮮平壌特別市万景台区域
+    aliases:
+    - チョスン・ヨンハ・マシナリー・ジョイント・オペレーション・カンパニー
+    - コリア・リョンハ・マシナリー・J/V・コーポレーション
+    - リョンハ・マシナリー・ジョイント・ベンチャー・コーポレーション Chosun Yunha Machinery Joint Operation Company, Korea Ryenha Machinery J/V Corporation
+    - Ryonha Machinery Joint Venture Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.92
+    name:
+      ja: コリア・リョンボン・ジェネラル・コーポレーション
+      en: Korea Ryonbong General Corporation(KRGC)
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市普通江区域楽園洞
+    aliases:
+    - コリア・ヨンボン・ジェネラル・コーポレーション Korea Yonbong General Corporation
+    - リョンガクサン・ジェネラル・トレーディング・コーポレーション Lyongaksan General Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.10
+    name:
+      ja: コリア・リョンワン・トレーディング・コーポレーション
+      en: Korea Ryongwang Trading Corporation
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    aliases:
+    - コリア・リョングァン・トレーディング・コーポレーション Korea Ryengwang Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.113
+    name:
+      ja: タンチョン・コマーシャル・バンク
+      en: Tanchon Commercial Bank
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市平川区域セマウル１洞
+    aliases:
+    - コリア・チャングァン・クレジット・バンク
+    - チャングァン・クレジット・バンク Korea Changgwang Credit Bank, Changgwang Credit Bank
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.1215
+    name:
+      ja: トソン・テクノロジー・トレーディング・コーポレーション
+      en: Tosong Technology Trading Corporation
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.13
+    name:
+      ja: ピョンヤン・インフォマティックス・センター
+      en: Pyongyang Informatics Centre
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市普通江区域慶興洞
+    aliases:
+    - ピョンヤン・インフォメーション・センター Pyongyang Information Center
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.1424
+    name:
+      ja: ヘソン・トレーディング・カンパニー
+      en: HESONG TRADING COMPANY
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.15
+    name:
+      ja: ポンファ・ホスピタル
+      en: Ponghwa Hospital
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: 北朝鮮平壌特別市普通江区域
+    aliases:
+    - ボンファ Bonghwa
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-1695.16
+    name:
+      ja: ヤコブ・スタイガー
+      en: Jakob Steiger
+    type: organization
+    effective_date: '2006-09-19'
+    sanction_list: jp/mof-asset-freeze-dprk-1695
+    sanction_list_en: DPRK (Resolution 1695)
+    address: Fribourg, FR, スイス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: コハス・AG（上記1．）社長 生年月日：1941年4月27日

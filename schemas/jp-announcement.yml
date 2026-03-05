@@ -162,6 +162,20 @@ $defs:
               type: string
             en:
               type: string
+      remarks:
+        type: array
+        description: Additional remarks or notes
+        items:
+          type: object
+          properties:
+            ja:
+              type: string
+            en:
+              type: string
+      un_designation_date:
+        type: string
+        format: date
+        description: UN Sanctions Committee designation date
       measures:
         type: array
         description: Sanction measures imposed
@@ -194,6 +208,20 @@ $defs:
         type: string
         format: date
         description: Date of birth (for individuals)
+      remarks:
+        type: array
+        description: Additional remarks or notes
+        items:
+          type: object
+          properties:
+            ja:
+              type: string
+            en:
+              type: string
+      un_designation_date:
+        type: string
+        format: date
+        description: UN Sanctions Committee designation date
       identification:
         type: object
         description: Identification information
@@ -203,6 +231,8 @@ $defs:
           national_id:
             type: string
           tax_id:
+            type: string
+          other:
             type: string
 
   measure:

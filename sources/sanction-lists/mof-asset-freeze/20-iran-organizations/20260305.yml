@@ -1,0 +1,1413 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: イラン (団体)
+  - en: Iran (Entities)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.iran-organizations.1
+    name:
+      ja: イラン原子力庁
+      en: ATOMIC ENERGY ORGANISATION OF IRAN
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - サーズマーネ・エナジー・アトミー
+    - エー・イー・オー・アイ Sazeman-e Energy Atomi
+    - AEOI
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.2
+    name:
+      ja: メスバーフ・エナジー・カンパニー
+      en: MESBAH ENERGY COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - メスバーフ・エナジー
+    - エム・イー・シー Messbah Energy
+    - MEC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.3
+    name:
+      ja: カラ・エレクトリック
+      en: KALA-ELECTRIC
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - カラエ・エレクトリック
+    - カラエ・エレクトリック・カンパニー
+    - コラ・エレクトリック
+    - コラ・エレクトリック・カンパニー Kalaye Electric
+    - Kalaye Electric Company
+    - Kola Electric
+    - Kola Electric Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.4
+    name:
+      ja: パルス・トラッシュ・カンパニー
+      en: PARS TRASH COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - パルス・トラッシュ
+    - パルス・テラッシュ・カンパニー Pars Trash
+    - Pars Terash Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.5
+    name:
+      ja: ファラーヤンド・テクニック
+      en: FARAYAND TECHNIQUE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.6
+    name:
+      ja: ディフェンス・インダストリーズ・オーガナイゼーション
+      en: DEFENCE INDUSTRIES ORGANISATION
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - ディフェンス・インダストリアル・オーガナイゼーション
+    - ディフェンス・インダストリーズ・オーガナイゼーション
+    - サーゼマーネ・サナーエ・デファー
+    - サーセマン・サナージェ・デファー
+    - ササドジャー Defence Industrial Organization
+    - DIO
+    - Defense Industries Organization
+    - Sazemane Sanaye Defa
+    - SASAD
+    - Saseman Sanaje Defa
+    - Sasadja
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.7
+    name:
+      ja: セブンス・オブ・ティール
+      en: 7TH OF TIR
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - セブンス・オブ・ティール・インダストリーズ・コンプレックス
+    - モジュタメ・サナアテ・ハフトメ・ティール
+    - サナーエ・ハフトメ・ティール
+    - セブンス・オブ・ティール・インダストリーズ・オブ・イスファハン
+    - セブンス・オブ・ティール・インダストリーズ・オブ・エスファハン
+    - セブンス・オブ・ティール・コンプレックス
+    - エスファハン・ハフトメ・ティール・インダストリーズ
+    - イスファハン・ハフトメ・ティール・インダストリーズ 7th of Tir Industries Complex
+    - Mojtamae Sanate Haftome Tir
+    - Sanaye Haftome Tir
+    - 7th of Tir Industries of Isfahan
+    - 7th of Tir Industries of Esfahan
+    - 7th of Tir Complex
+    - Esfahan Haftome Tir Industries
+    - Isfahan Haftome Tir industries
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.8
+    name:
+      ja: シャヒード・ヘンマット・インダストリアル・グループ
+      en: SHAHID HEMMAT INDUSTRIAL GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - シャヒード・ヘンマット・インダストリアル・コンプレックス
+    - エス・エイチ・アイ・シー
+    - シャヒード・ヘンマット・インダストリアル・ファクトリーズ
+    - エス・エフ・アイ・エフ
+    - シャヒード・ヘマト・インダストリアル・グループ
+    - ヘンマット・ミサイル・インダストリーズ・ファクトリー Shahid Hemmat Industrial Complex
+    - SHIC
+    - Shahid Hemmat Industrial Factories
+    - SHIF
+    - Shahid Hemat Industrial Group
+    - Hemmat Missile Industries Factory
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.9
+    name:
+      ja: シャヒード・バーゲリー・インダストリアル・グループ
+      en: SHAHID BAGHERI INDUSTRIAL GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - シャヒード・バーヘリー・インダストリーズ・グループ
+    - エス・ビー・アイ・ジー
+    - シャヒード・バーケリー・インダストリアル・グループ
+    - デパートメント　140／14
+    - シャヒード・バーゲリー・インダストリーズ・グループ
+    - シャヒード・ハッサン・バーゲリー・インダストリアル・ファクトリーズ・グループ
+    - マフターブ・テクニカル・エンジニアリング・カンパニー
+    - コンポジット・プロペラント・ミサイル・インダストリー
+    - サナーエ・ソーフテ・モラッキャブ
+    - エス・エス・エム　 Shahid Baheri Industries Group
+    - SBIG
+    - Shahid Bakeri Industrial Group
+    - Department 140／14
+    - Shahid Bagheri Industries Group
+    - Shahid Hassan Bagheri Industrial Factories Group
+    - SHBIFG
+    - Mahtab Technical Engineering Company
+    - Composite Propellant Missile Industry
+    - Sanaye Sokhte Morakab
+    - SSM
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.10
+    name:
+      ja: ファジュル・インダストリアル・グループ
+      en: FAJR INDUSTRIAL GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - インストルメンテーション・ファクトリーズ・プラン
+    - アイ・エフ・ピー
+    - インストルメンテーション・ファクトリーズ・オブ・プレシジョン・マシーナリー
+    - インダストリアル・ファクトリーズ・オブ・プレシジョン・マシーナリー
+    - ファジュル・インダストリーズ・グループ
+    - プレシジョン・コンポーネント・プロジェクト・グループ
+    - ササドジャ・プレシジョン・インダストリアル・コンプレックス
+    - モジタメ・サンティ・アズザエ・ダギーグ
+    - ナスル・インダストリーズ・グループ Instrumentation Factories Plan
+    - IFP
+    - Instrumentation Factories of Precision-Machinery
+    - Industrial Factories of Precision Machinery
+    - Fadjr Industries Group
+    - FIG
+    - Precision Component Project Group
+    - Sasadja Precision Industrial Complex
+    - Mojtame Santy Ajzae Daghigh
+    - Nasr Industries Group
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.11
+    name:
+      ja: アミュニション・アンド・メタラジー・インダストリーズ・グループ
+      en: AMMUNITION AND METALLURGY INDUSTRIES GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - エー・エム・アイ・ジー
+    - アミュニション・インダストリーズ・グループ
+    - アミュニション・アンド・メタラジー・インダストリー・グループ
+    - サナーイェ・モヘマトサーズィー
+    - アミュニション・グループ
+    - アミュニション・アンド・メタラジー・インダストリーズ AMIG
+    - Ammunition Industries Group
+    - Ammunition and Metallurgy Industry Group
+    - Sanaye Mohematsazi
+    - Ammunition Group
+    - Ammunition and Metallurgy Industries
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.12
+    name:
+      ja: イスファハン・ニュークリアー・フュール・リサーチ・アンド・プロダクション・センター
+      en: ESFAHAN NUCLEAR FUEL RESEARCH AND PRODUCTION CENTRE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - イスファハン・ニュークリアー・テクノロジー・センター
+    - エヌ・エフ・アール・ピー・シー
+    - イー・エヌ・ティー・シー Esfahan Nuclear Technology Centre
+    - NFRPC
+    - ENTC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.13
+    name:
+      ja: カボシャール・カンパニー
+      en: KAVOSHYAR COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - カーボシュ・ヤール
+    - カボシャール Kaavosh Yaar
+    - Kavoshyar
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.14
+    name:
+      ja: パルチン・ケミカル・インダストリーズ
+      en: PARCHIN CHEMICAL INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.15
+    name:
+      ja: キャラジ・ニュークリアー・リサーチ・センター
+      en: KARAJ NUCLEAR RESEARCH CENTRE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - キャラジ・アグリカルチュラル・アンド・メディカル・リサーチ・センター
+    - ニュークリアー・リサーチ・センター・フォー・アグリカルチャー・アンド・メディシン
+    - エヌ・アール・シー・エー・エム Karaj Agricultural and Medical Research Centre
+    - Nuclear Research Centre for Agriculture and Medicine
+    - NRCAM
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.16
+    name:
+      ja: ノヴィン・エナジー・カンパニー
+      en: NOVIN ENERGY COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - パルス・ノヴィン
+    - ノヴィーン・エナジー・カンパニー
+    - エナジー・ノヴィン Pars Novin
+    - Noveen Energy Company
+    - Energy Novin
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.17
+    name:
+      ja: クルーズ・ミサイル・インダストリー・グループ
+      en: CRUISE MISSILE INDUSTRY GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - ネイヴァル・ディフェンス・ミサイル・インダストリー・グループ Naval Defence Missile Industry Group
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.18
+    name:
+      ja: バンク・セパ
+      en: BANK SEPAH
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン; 英国 Iran; United Kingdom
+    aliases:
+    - バンク・セパ・インターナショナル Bank Sepah International
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.19
+    name:
+      ja: サナム・インダストリアル・グループ
+      en: SANAM INDUSTRIAL GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - サナム・インダストリーズ・グループ
+    - ミサイル・インダストリーズ・グループ
+    - サナム・インダストリーズ・カンパニー
+    - サナーイェ・ムーシャキー・パルチン
+    - エス・エム・ピー Sanam Industries Group
+    - Missile Industries Group
+    - Sanam Industries CO.
+    - Sanaye Moushaki Parchin
+    - SMP
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.20
+    name:
+      ja: ヤー・マヘディ・インダストリーズ・グループ
+      en: YA MAHDI INDUSTRIES GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - ヤー・マへディ・エー・ジー・インダストリアル・リサーチ・コンプレックス
+    - ヤー・マヘディ・グループ
+    - ヤー・マヘディ・インダストリアル・コンプレックス
+    - ヤー・マヘディ・インダストリアル・リサーチ・コンプレックス Ya Mahdi AG Industrial Research Complex
+    - Ya Mahdi Group
+    - Ya Mahdi Industrial Complex
+    - Ya Mahdi Industrial Research Complex
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.21
+    name:
+      ja: コッヅ・エアロノーティクス・インダストリーズ
+      en: QODS AERONAUTICS INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.22
+    name:
+      ja: パルス・アヴィエーション・サービシーズ・カンパニー
+      en: PARS AVIATION SERVICES COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.23
+    name:
+      ja: ショーア・アヴィエーション
+      en: SHO’A’ AVIATION
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.24
+    name:
+      ja: アブザール・ボーレシュ・カーベー・カンパニー
+      en: ABZAR BORESH KAVEH CO.
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - ビー・ケー・カンパニー BK Co.
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 遠心分離機の部品の生産に関与。
+  - id: jp.mof.iran-organizations.25
+    name:
+      ja: バルザガーニー・テジャーラット・タヴァーンマッド・サッカール・カンパニーズ
+      en: BARZAGANI TEJARAT TAVANMAD SACCAL COMPANIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: サッカール・システム・カンパニーズ（SACCAL SYSTEM COMPANIES）の子会社。この会社は決議第1737号（2006年）に記載された団体のために機微な物品の購入を試みた。
+  - id: jp.mof.iran-organizations.26
+    name:
+      ja: エレクトロ・サナム・カンパニー
+      en: ELECTRO SANAM COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - イー・エス・カンパニー
+    - イー・エックス・カンパニー E.S.Co
+    - E.X.Co
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 航空宇宙産業機構(AIO)のフロント・カンパニー、弾道ミサイル計画に関与。
+  - id: jp.mof.iran-organizations.27
+    name:
+      ja: エッテハード・テクニカル・グループ
+      en: ETTEHAD TECHNICAL GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: AIOのフロント・カンパニー、弾道ミサイル計画に関与。
+  - id: jp.mof.iran-organizations.28
+    name:
+      ja: インダストリアル・ファクトリーズ・オブ・プレシジョン・マシーナリー
+      en: INDUSTRIAL FACTORIES OF PRECESION MACHINERY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - インストルメンテイション・ファクトリーズ・プラント
+    - アイ・エフ・ピー Instrumentation Factories Plant
+    - IFP
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: AIOによって幾つかの調達を試みる際に利用された。
+  - id: jp.mof.iran-organizations.29
+    name:
+      ja: ジャッベル・イブン・ハヤーン
+      en: JABBER IBN HAYAN
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - ジャベル・イブン・ハヤーン
+    - ジャベル・イブン・ハヤーン・リサーチ・デパートメント
+    - ジャビール・ビン・アル・ハッヤーン・ラボラトリー
+    - ジャブル・イブン・ハヤーン・マルチパーパス・ラボラトリーズ
+    - ジャベル・イブン・ハヤーン・リサーチ・ラボラトリーズ
+    - ジャベル・イブン・ハヤーン・ラボラトリーズ
+    - ジャベル・イブン・ハッヤーン・ラボラトリー
+    - ジェイ・アイ・エイチ・アール・ディー
+    - ジェイ・エイチ・エル Jaber Ibn Hayan
+    - Jaber Ibn Hayan Research Department
+    - Jabir bin al-Hayyan Laboratory
+    - Jabr Ibn Hayan Multipurpose Laboratories
+    - Jaber Ibn Hayan Research Laboratories
+    - Jaber Ibn Hayan Laboratories
+    - Jaber ibn Hayyan Laboratory
+    - JIHRD
+    - JHL
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 燃料サイクル活動に関与するイラン原子力庁（AEOI）研究所。
+  - id: jp.mof.iran-organizations.30
+    name:
+      ja: ジョザー・インダストリアル・カンパニー
+      en: JOZA INDUSTRIAL CO.
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: AIOのフロント・カンパニー、弾道ミサイル計画に関与。
+  - id: jp.mof.iran-organizations.31
+    name:
+      ja: ホラサーン・メタラジー・インダストリーズ
+      en: KHORASAN METALLURGY INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 防衛産業機構(DIO)に従属するアミュニション・アンド・メタラジー・インダストリーズ・グループ(AMIG)の子会社、遠心分離機の部品生産に関与。
+  - id: jp.mof.iran-organizations.32
+    name:
+      ja: ニールー・バッテリー・マニュファクチュアリング・カンパニー
+      en: NIRU BATTERY MANUFACTURING COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: DIOの子会社、その役割はミサイル・システムを含むイラン軍用動力装置を製造すること。
+  - id: jp.mof.iran-organizations.33
+    name:
+      ja: ピーシュガーム・エナジー・インダストリーズ
+      en: PISHGAM ENERGY INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - パイオニア・エナジー・インダストリーズ
+    - パイオニア・エナジー・インダストリーズ・デヴェロップメント・カンパニー
+    - パイオニア・エナジー・インダストリーズ・カンパニー
+    - パイオニア・エナジー・インダストリー・Co
+    - ピーシュガーム・エナジー・インダストリーズ・デヴェロップメント・Co．
+    - ピーシュガーム・デヴェロップメント・インダストリアル・エナジー
+    - ピーシュガーム・エナジー・インダストリーズ・エル・ティー・ディー
+    - ピーシュガーム・エナジー・デヴェロップメント
+    - ピー・イー・アイ Pioneer Energy Industries
+    - Pioneer Energy Industries Development Company
+    - Pioneer Energy Industries Company
+    - Pioneer Energy Industry Co
+    - Pishgam Energy Industries Development Co.
+    - Pishgam Development Industrial Energy
+    - Pishgam Energy Industries, LTD
+    - Pishgam Energy Development
+    - PEI
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: イスファハン（Esfahan）のウラン転換施設（Uranium Conversion Facility （UCF））の建設に参加。
+  - id: jp.mof.iran-organizations.34
+    name:
+      ja: セイフティー・エクイップメント・プロキュアメント
+      en: SAFETY EQUIPMENT PROCUREMENT
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - エス・イー・ピー SEP
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: AIOのフロント・カンパニー、弾道ミサイル計画に関与。
+  - id: jp.mof.iran-organizations.35
+    name:
+      ja: タマース・カンパニー
+      en: TAMAS COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 濃縮関連活動に関与。TAMASはその下に設立された４子会社（１社は精錬のためのウラン抽出、もう１社はウランの加工、濃縮及び廃棄を担当。）を支配する組織。
+  - id: jp.mof.iran-organizations.36
+    name:
+      ja: アミーン・インダストリアル・コンプレックス
+      en: AMIN INDUSTRIAL COMPLEX
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - アミーン・インダストリアル・コンパウンド
+    - アミーン・インダストリアル・カンパニー Amin Industrial Compound
+    - Amin Industrial Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アミーン・インダストリアル・コンプレックスは、原子力研究及び操業・生産施設において使用される温度制御装置を入手しようとした。アミーン・インダストリアル・コンプレックスは、決議第1737号（2006年）で指定されたDIOにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.37
+    name:
+      ja: アーマメント・インダストリーズ・グループ
+      en: ARMAMENT INDUSTRIES GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アーマメント・インダストリーズ・グループ(AIG)は、種々の小型武器（大口径及び中口径銃並びに関連技術を含む。）を製造及び提供している。AIGは、ハディード・インダストリー・コンプレックスを通じ、その多くの調達活動を実施している。
+  - id: jp.mof.iran-organizations.38
+    name:
+      ja: ディフェンス・テクノロジー・アンド・サイエンス・リサーチ・センター
+      en: DEFENSE TECHNOLOGY AND SCIENCE RESEARCH CENTER
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ディフェンス・テクノロジー・アンド・サイエンス・リサーチ・センター(DTSRC)は、イランの国防研究及び開発、生産、維持、輸出及び調達を監督しているイラン国防軍需省(MODAFL)により所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.39
+    name:
+      ja: ドゥースターン・インターナショナル・カンパニー
+      en: DOOSTAN INTERNATIONAL COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ドゥースターン・インターナショナル・カンパニー(DICO)は、イランの弾道ミサイル計画に設備を供給している。
+  - id: jp.mof.iran-organizations.40
+    name:
+      ja: ファラーサーフト・インダストリーズ
+      en: FARASAKHT INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ファラーサーフト・インダストリーズは、MODAFLにより所有又は管理されているイラン・エアークラフト・マニュファクチュアリング・カンパニーにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.41
+    name:
+      ja: ファースト・イースト・エクスポート・バンク・ピー・エル・シー
+      en: FIRST EAST EXPORT BANK, P.L.C.
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: マレーシア Malaysia
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ファースト・イースト・エクスポート・バンク、ＰＬＣは、バンク・メッラットにより所有又は管理され、若しくは代理として行動している。バンク・メッラットは、過去七年にわたり、イランの核、ミサイル及び国防機関のための取引において数億ドルを得てきた。
+  - id: jp.mof.iran-organizations.42
+    name:
+      ja: カーヴェ・カッティング・ツールズ・カンパニー
+      en: KAVEH CUTTING TOOLS COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: カーヴェ・カッティング・ツールズ・カンパニーは、DIOにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.43
+    name:
+      ja: M・バーバーイ・インダストリーズ
+      en: M. BABAIE INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: M．バーバーイ・インダストリーズは、イランのAIOのシャヒード・アフマド・カーゼミ・インダストリーズ・グループ（公式にはエアー・ディフェンス・ミサイル・インダストリーズ・グループ）の下部団体である。AIOは、決議第1737号（2006年）で指定されたミサイル組織であるシャヒード・ヘムマット・インダストリアル・グループ(SHIG)及びシャヒード・バーケリー・インダストリアル・グループ(SBIG)を管理している。
+  - id: jp.mof.iran-organizations.44
+    name:
+      ja: マレク・アシュタル・ユニバーシティー
+      en: MALEK ASHTAR UNIVERSITY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: MODAFL内のDTRSCの下部組織である。これは従前のフィジックス・リサーチ・センター(PHRC)に該当する研究グループを含んでいる。IAEAの査察官は、イランの核計画の軍事的側面の可能性についての未解決の問題を解決するために、職員に面談をすること又はこの組織の管理下にある文書を調べることを認められていない。
+  - id: jp.mof.iran-organizations.45
+    name:
+      ja: ミニストリー・オブ・ディフェンス・ロジスティクス・エクスポート
+      en: MINISTRY OF DEFENSE LOGISTICS EXPORT
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミニストリー・オブ・ディフェンス・ロジスティクス・エクスポート(MODLEX)は、イランが武器及び関連物資を販売することを禁止した決議第千七百四十七号（二千七年）に違反して、イランが製造した武器を全世界の顧客に販売している。
+  - id: jp.mof.iran-organizations.46
+    name:
+      ja: ミーザン・マシーナリー・マニュファクチュアリング
+      en: MIZAN MACHINERY MANUFACTURING
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - スリー・エム・ジー 3MG
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミーザン・マシーナリー・マニュファクチュアリング(3MG)は、SHIGにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.47
+    name:
+      ja: モダン・インダストリーズ・テクニック・カンパニー
+      en: MODERN INDUSTRIES TECHNIQUE COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - ラーフカール・カンパニー
+    - ラーフカール・インダストリーズ
+    - ラーフカール・サナーイェ・カンパニー
+    - ラーフカール・サナーイェ・ノヴィン Rahkar Company
+    - Rahkar Industries
+    - Rahkar Sanaye Company
+    - Rahkar Sanaye Novin
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: モダン・インダストリーズ・テクニック・カンパニーは(MITEC)は、アラクにおけるIR-40重水炉の設計及び建設に責任を有している。MITECは、IR-40重水炉の建設のための調達を主導した。
+  - id: jp.mof.iran-organizations.48
+    name:
+      ja: ニュークリアー・リサーチ・センター・フォー・アグリカルチャー・アンド・メディシン
+      en: NUCLEAR RESEARCH CENTER FOR AGRICULTURE AND MEDICINE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - センター・フォー・アグリカルチュラル・リサーチ・アンド・ニュークリアー・メディシン
+    - キャラジ・アグリカルチュラル・アンド・メディカル・リサーチ・センター Center for Agricultural Research and Nuclear Medicine
+    - Karaji Agricultural and Medical Research Center
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ニュークリアー・リサーチ・センター・フォー・アグリカルチャー・アンド・メディシン(NFRPC)は、決議第1737号（2006年）で指定されたイラン原子力庁(AEOI)の大規模な研究部門である。NFRPCは、核燃料の開発のためのAEOIの中心であり、濃縮関連活動に関与している。
+  - id: jp.mof.iran-organizations.49
+    name:
+      ja: ペジュマーン・インダストリアル・サービシーズ・コーポレーション
+      en: PEJMAN INDUSTRIAL SERVICES CORPORATION
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ペジュマーン・インダストリアル・サービシーズ・コーポレーションは、SBIGにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.50
+    name:
+      ja: サバーラーン・カンパニー
+      en: SABALAN COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: サバーラーンは、SHIGの別名である。
+  - id: jp.mof.iran-organizations.51
+    name:
+      ja: サハンド・アルミニウム・パーツ・インダストリアル・カンパニー
+      en: SAHAND ALUMINUM PARTS INDUSTRIAL COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - SAPICO
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: サハンド・アルミニウム・パーツ・インダストリアル・カンパニー（SAPICO）は、SHIGの別名である。
+  - id: jp.mof.iran-organizations.52
+    name:
+      ja: シャヒード・ハッラーズィ・インダストリーズ
+      en: SHAHID KARRAZI INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: シャヒード・ハッラーズィ・インダストリーズは、SBIGにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.53
+    name:
+      ja: シャヒード・サッターリ・インダストリーズ
+      en: SHAHID SATTARI INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - シャヒード・サッターリ・グループ・エクイップメント・インダストリーズ Shahid Sattari Group Equipment Industries
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: シャヒード・サッターリ・インダストリーズは、SBIGにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.54
+    name:
+      ja: シャヒード・サイヤーデ・シーラーズィ・インダストリーズ
+      en: SHAHID SAYYADE SHIRAZI INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: シャヒード・サイヤーデ・シーラーズィ・インダストリーズ(SSSI)は、DIOにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.55
+    name:
+      ja: スペシャル・インダストリーズ・グループ
+      en: SPECIAL INDUSTRIES GROUP
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: スペシャル・インダストリーズ・グループ(SIG)は、DIOの下部組織である。
+  - id: jp.mof.iran-organizations.56
+    name:
+      ja: ティーズ・パールス
+      en: TIZ PARS
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ティーズ・パールスは、SHIGの別名である。ティーズ・パールスは、2007年の４月と７月の間、SHIGのために、イランのミサイル計画に実質的に寄与し得る五軸レーザー溶接・切断機を調達することを試みた。
+  - id: jp.mof.iran-organizations.57
+    name:
+      ja: ヤズド・メタラージー・インダストリーズ
+      en: YAZD METALLURGY INDUSTRIES
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - ヤズド・アミュニション・マニュファクチュアリング・アンド・メタラージー・インダストリーズ
+    - ディレクトレート・オブ・ヤズド・アミュニション・アンド・メタラージー・インダストリーズ Yazd Ammunition Manufacturing and Metallurgy Industries
+    - Directorate of Yazd Ammunition and Metallurgy Industries
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ヤズド・メタラージー・インダストリーズ(YMI)は、DIOの下部組織である。
+  - id: jp.mof.iran-organizations.58
+    name:
+      ja: ファーテル・インスティチュート
+      en: FATER INSTITUTE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    aliases:
+    - ファアテル・インスティチュート FAATER INSTITUTE
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ハタモル・アンビア(KAA)の子会社。ファーテルは、イランにおけるイスラム革命ガード(IRGC)のプロジェクトにおいて、おそらく他のKAAの会社のために、外国の供給者と協力している。
+  - id: jp.mof.iran-organizations.59
+    name:
+      ja: ガラールガーヘ・サーザンデギー・ガーエム
+      en: GHARAGAHE SAZANDEGI GHAEM
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ガラールガーヘ・サーザンデギー・ガーエムは、KAAにより所有又は管理されている。
+  - id: jp.mof.iran-organizations.60
+    name:
+      ja: ゴルブ・カルバラ
+      en: GHORB KARBALA
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ゴルブ・カルバラは、KAAにより所有又は管理されている。
+  - id: jp.mof.iran-organizations.61
+    name:
+      ja: ゴルブ・ヌーフ
+      en: GHORB NOOH
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ゴルブ・ヌーフは、KAAにより所有又は管理されている。
+  - id: jp.mof.iran-organizations.62
+    name:
+      ja: ハラ・カンパニー
+      en: HARA COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ゴルブ・ヌーフにより所有又は管理されている。
+  - id: jp.mof.iran-organizations.63
+    name:
+      ja: イーメンサーザーン・コンサルタント・エンジニアーズ・インスティチュート
+      en: IMENSAZAN CONSULTANT ENGINEERS INSTITUTE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: KAAにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.64
+    name:
+      ja: ハタモル・アンビア・コンストラクション・ヘッドクウォーターズ
+      en: KHATAM AL-ANBIYA CONSTRUCTION HEADQUARTERS
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ハタモル・アンビア・コンストラクション・ヘッドクウォーターズ(KAA)は、大規模な非軍事上及び軍事上の建設計画及びその他の技術活動に関与しているIRGCが所有する会社である。同社は、パッシブ・ディフェンス・オーガナイゼイション・プロジェクトの相当の量の業務を行っている。特に、KAAの子会社は、コム・フォルドにおけるウラン濃縮サイトの建設に深く関与していた。
+  - id: jp.mof.iran-organizations.65
+    name:
+      ja: マキン
+      en: MAKIN
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: マキンは、KAAにより所有又は管理され、若しくは代理として行動しており、KAAの下部団体である。
+  - id: jp.mof.iran-organizations.66
+    name:
+      ja: オムラーン・サーヘル
+      en: OMRAN SAHEL
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ゴルブ・ヌーフにより所有又は管理されている。
+  - id: jp.mof.iran-organizations.67
+    name:
+      ja: オリエンタル・オイル・キーシュ
+      en: ORIENTAL OIL KISH
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: オリエンタル・オイル・キーシュは、KAAにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.68
+    name:
+      ja: ラーフ・サーヘル
+      en: RAH SAHEL
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ラーフ・サーヘルは、KAAにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.69
+    name:
+      ja: ラハーブ・エンジニアリング・インスティチュート
+      en: RAHAB ENGINEERING INSTITUTE
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ラハーブは、KAAにより所有又は管理され、若しくは代理として行動しており、KAAの下部団体である。
+  - id: jp.mof.iran-organizations.70
+    name:
+      ja: サーヘル・コンサルタント・エンジニアーズ
+      en: SAHEL CONSULTANT ENGINEERS
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ゴルブ・ヌーフにより所有され又は管理されている。
+  - id: jp.mof.iran-organizations.71
+    name:
+      ja: セパニール
+      en: SEPANIR
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: セパニールは、KAAにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.72
+    name:
+      ja: セパーサッド・エンジニアリング・カンパニー
+      en: SEPASAD ENGINEERING COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: セパーサッド・エンジニアリング・カンパニーは、KAAにより所有又は管理され、若しくは代理として行動している。
+  - id: jp.mof.iran-organizations.73
+    name:
+      ja: イラノ・ヒンド・シッピング・カンパニー
+      en: IRANO HIND SHIPPING COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.74
+    name:
+      ja: IRISL・ベネルックス・NV
+      en: IRISL BENELUX NV
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: ベルギー Belgium
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.75
+    name:
+      ja: サウス・シッピング・ライン・イラン
+      en: SOUTH SHIPPING LINE IRAN
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    aliases:
+    - SSL
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-organizations.76
+    name:
+      ja: ベヒーネ・トレーディング・カンパニー
+      en: BEHINEH TRADING CO.
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: イランの西アフリカへの不法な武器移送に主要な役割を果たしたイラン企業であり、武器移送の船積み会社として、決議1747号(2007年）により指定されたカセム・ソレイマニ准将コッヅ部隊司令官の指揮下にあるIRGCコッヅ部隊の代理として行動している。電話番号：98-919-538-2305,ウェブサイト：http://www.behinehco.ir
+  - id: jp.mof.iran-organizations.77
+    name:
+      ja: SADインポート・エクスポート・カンパニー
+      en: SAD IMPORT EXPORT COMPANY
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SADインポート・エクスポート・カンパニーは、決議第1747号(2007年）の5の規定に違反し、指定団体であるパルチン・ケミカル・インダストリーズ及びセブンス・オブ・ティール・インダストリーズを支援している。
+  - id: jp.mof.iran-organizations.78
+    name:
+      ja: ヤス・エア
+      en: YAS AIR
+    type: organization
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-organizations
+    sanction_list_en: Iran (Entities)
+    address: イラン Iran
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ヤス・エアは、決議第1747号(2007年）により指定されたパルス・アヴィエーション・サービシーズ・カンパニーによって所有されていたパルス・エアの新しい名称である。ヤス・エアは、決議第1747号(2007年）の5の規定に違反し、パルス・アヴィエーション・サービシーズ・カンパニーを支援している。

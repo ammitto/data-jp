@@ -1,0 +1,211 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 南スーダン
+  - en: South Sudan
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.south-sudan.1
+    name:
+      ja: ガブリエル・ジョック・リアク・マコル
+      en: GABRIEL JOK RIAK MAKOL
+    type: individual
+    effective_date: '2015-09-18'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    address: 南スーダン、ユニティ州（Unity State）、又は、南スーダン、西バハル・エル・ガザル州（Western Bahr El Ghazal）、ワウ（Wau）
+    title:
+      ja: "(a)元スーダン人民解放軍（SPLA）第一師団司令官 (b）参謀総長"
+    date_of_birth: 1966 年1月1日
+    place_of_birth: 南スーダン、ボル（Bor）
+    nationality: 南スーダン
+    list_date: 2015 年 7 月 1 日 （2018年11月21日改訂）
+    aliases:
+    - "(a)ガブリエル・ジョック（Gabriel Jok） (b)ジョック・リアク（Jok Riak） (c)ジョック・リアク（Jock Riak）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 南スーダン旅券、D00008623
+      national_id: M6600000258472
+    remarks:
+    - ja: 2018年5月2日に参謀総長に任命された。2013年1月以来、主にユニティ州で活動するスーダン人民解放軍第一師団を指揮してきている。スーダン人民解放軍第一師団の司令官としての地位において、敵対行為停止合意に違反し、南スーダンにおける衝突を拡大又は延長させてきた。スーダン人民解放軍は、2014年1月の敵対行為停止合意、及び、敵対行為停止合意への再犯であった 2014年5月9日の南スーダンにおける危機解決合意の違反を含む、南スーダンにおける衝突を延長させている行為に関与し、政府間開発機構（IGAD）監視検証メカニズムの活動を妨害してきた南スーダンの軍事組織である。同人に対するインターポール（国際刑事警察機構）・ 国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/notice/search/un/5879060
+  - id: jp.mof.south-sudan.2
+    name:
+      ja: サイモン・ガトウェッチ・デュアル
+      en: SIMON GATWECH DUAL
+    type: individual
+    effective_date: '2015-09-18'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    address: 南スーダン、ジョングレイ州
+    title:
+      ja: スーダン人民解放軍反体制派（SPLA-IO）参謀総長
+    date_of_birth: 1953-XX-XX
+    place_of_birth: 南スーダン、ジョングレイ州（Jonglei State）、アコボ（Akobo）、又は、南スーダン、ジョングレイ州（Jonglei State）、ウロル郡（Uror Country）
+    list_date: 2015 年 7 月 1 日 （2016年11月3日改訂）
+    aliases:
+    - "(a)サイモン・ガトウィッチ・デュアル（Simon Gatwich Dual） (b)サイモン・ゲトウェッチ・デュアル（Simon Getwech Dual） (c)サイモン・ガトウェク・デュエル（Simon Gatwec Duel） (d) サイモン・ガトウェアッチ（Simon Gatweach） (e)サイモン・ガトウィック（Simon Gatwick） (f)サイモン・ガトウェッチ（Simon Gatwech） (g)サイモン・ガルウィッチ（Simon Garwich）"
+    - "(a)ガデュエル将軍（General Gaduel） (b)デュアル（Dhual）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: スーダン人民解放軍反体制派陸軍参謀総長で、以前はジョングレイ州の反政府軍の指令官であった。同人の部隊は、2015 年 2 月上旬のジョングレイ州における攻撃を実施し、 2015年3月時点で、民間人に対する攻撃を通じてジョングレイ州における平和を破壊しようと試みていた。 写真はインターポール（国際警察刑事機構）･国連安全保障理事会特別手配書に含まれているものを利用可能。
+  - id: jp.mof.south-sudan.3
+    name:
+      ja: ジェームズ・コアン・チュオル
+      en: JAMES KOANG CHUOL
+    type: individual
+    effective_date: '2015-09-18'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    title:
+      ja: 少将
+    date_of_birth: 1961-XX-XX
+    nationality: 南スーダン
+    list_date: '2015-07-01'
+    aliases:
+    - "(a)ジェームズ・コアン・チョル・ランレイ（James Koang Chol Ranley） (b)ジェームズ・コアン・チョル（James Koang Chol） (c)コアン・チョル・ランレイ（Koang Chuol Ranley） (d)ジェームズ・コアン・チュアル（James Koang Chual）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 南スーダン旅券、R00012098
+    remarks:
+    - ja: 2014 年 12 月にスーダン人民解放軍反体制派（SPLA-IO）特別部隊の指揮官に任命された。同人の部隊は、民間人に対する攻撃に関与している。2014年2月、同人の指揮下にある部隊は、政府側の民間人、軍人、警察官を排除しようとして、広い範囲での強姦、拷問、器物破壊に関与し、国連駐屯地、病院、教会、学校を攻撃した。
+  - id: jp.mof.south-sudan.4
+    name:
+      ja: サンティノ・デン・ウォル
+      en: SANTINO DENG WOL
+    type: individual
+    effective_date: '2015-09-18'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    title:
+      ja: スーダン人民解放軍（SPLA）第三師団司令官
+    date_of_birth: '1962-11-09'
+    place_of_birth: 南スーダン、アウェイル（Aweil）
+    list_date: '2015-07-01'
+    aliases:
+    - "(a)サンティノ・デン・ウオル（Santino Deng Wuol）"
+    - "(b) サンティノ・デン・クオル（Santino Deng Kuol）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 反政府勢力に対する軍事活動を主導及び指揮し、敵対行為停止合意に違反して対立的な部隊移動を実施した。2015年5月の間、同人指揮下の部隊は、ユニティ州を通過してトロハス（Thorjath）油田の方角へ進軍する際、子供、女性、高齢者を殺害し、所有物に放火し、家畜を盗んだ。
+  - id: jp.mof.south-sudan.5
+    name:
+      ja: マリアル・チャヌノング・ヨル・マンゴック
+      en: MARIAL CHANUONG YOL MANGOK
+    type: individual
+    effective_date: '2015-09-18'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    title:
+      ja: スーダン人民解放軍（SPLA）少将、大統領警護隊指揮官
+    date_of_birth: '1960-01-01'
+    place_of_birth: レイク州、イロル（Yirol）
+    nationality: 南スーダン
+    list_date: '2015-07-01'
+    aliases:
+    - "(a)マリアル・チヌオング（Marial Chinuong） (b) マリアル・チャン（Marial Chan） (c)マリアル・チャヌノング・ヨル（Marial Chanoung Yol） (d)マリアル・チノウム（Marial Chinoum）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 南スーダン旅券、R00005943
+    remarks:
+    - ja: 同人の大統領警護隊はジュバ市内及びその周辺のヌエル系市民の虐殺を主導し、その多くが共同墓地に埋葬された。そのような墓地の一つには、200から300人の民間人が埋葬されているとされた。
+  - id: jp.mof.south-sudan.6
+    name:
+      ja: ピーター・ガデット
+      en: PETER GADET
+    type: individual
+    effective_date: '2015-09-18'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    title:
+      ja: 大将、又は、 少将
+    date_of_birth: 1957-XX-XX
+    place_of_birth: ユニティ州、マヨム郡（Mayom County）、又は、ユニティ州、マヤン（Mayan）
+    list_date: '2015-07-01'
+    aliases:
+    - "(a)ピーター・ガッデット・ヤカ（Peter Gatdet Yaka） (b)ピーター・ガデット・ヤク（Peter Gadet Yak） (c)ピーター・ガデット・ヤアク（Peter Gadet Yaak） (d)ピーター・ガッデット・ヤアク（Peter Gatdet Yaak） (e)ピーター・ガッデット（Peter Gatdet） (f)ピーター・ガッデート・ヤカ（Peter Gatdeet Yaka）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2014年12月21日に、スーダン人民解放軍反体制派の作戦担当幕僚副長に任命された。同人指揮下の部隊は、2014年4月のベンティウにおける襲撃の間、民族に基づき対象を特定した殺人を含め、女性を含む民間人を標的にした。
+  - id: jp.mof.south-sudan.7
+    name:
+      ja: マレク・ルーベン・リアク・レング
+      en: MALEK REUBEN RIAK RENGU
+    type: individual
+    effective_date: '2018-08-17'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    title:
+      ja: "(a)兵站担当参謀副長 (b)参謀副長兼陸軍監察総監"
+    date_of_birth: '1960-01-01'
+    place_of_birth: 南スーダン、イエイ（Yei）
+    nationality: 南スーダン
+    list_date: '2018-07-13'
+    aliases:
+    - マレク・ルーベン（Malek Ruben）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: スーダン人民解放軍兵站担当参謀副長として、リアクは、広範な破壊と大規模な住民避難を引き起こした２０１５年のユニティ州での攻撃を計画及び監督した南スーダン政府高官の一人であった。
+  - id: jp.mof.south-sudan.8
+    name:
+      ja: ポール・マロン・アワン・アネイ
+      en: PAUL MALONG AWAN ANEI
+    type: individual
+    effective_date: '2018-08-17'
+    sanction_list: jp/mof-asset-freeze-south-sudan
+    sanction_list_en: South Sudan
+    title:
+      ja: "(a)元スーダン人民解放軍（SPLA）参謀総長 (b)元北バハル・エル・ガザル州知事"
+    date_of_birth: '1960-12-04'
+    place_of_birth: "(a)南スーダン、マルアルコン（Malualkon） (b)ウガンダ、コティド（Kotido）"
+    nationality: "(a)南スーダン (b)ウガンダ"
+    list_date: 2018年7月13日 （2019年6月25日改訂）
+    aliases:
+    - "(a)ポール・マロン・アワン・アネイ（Paul Malong Awan Anei） (b)ポール・マロン（Paul Malong） (c)ボル・マロン（Bol Malong）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)南スーダン S00004370号 (b)南スーダン D00001369号 (c)スーダン 003606号 (d)スーダン 00606号 (e)スーダン B002606号 (f)ウガンダ DA025963号"
+    remarks:
+    - ja: SPLA参謀総長として、マロンは、敵対行為停止合意違反及び2015年の南スーダン衝突解決合意（ARCSS）違反を通じ、南スーダンにおける紛争を拡大又は延長した。同人は、反政府側指導者リエク・マシャールを殺害する取組を指示したとされる。同人は、人道物資の輸送を妨げるようSPLAの部隊に命令した。マロンの指導の下、SPLAは、市民、学校及び病院を攻撃し、市民の避難を強要し、強制失踪を実施し、市民を恣意的に拘留し、拷問行為を実施し、性的暴行を加えた。同人は、児童兵を使用するディンカ族民兵マシィアン・アニョールを動員した。同人の指導の下、SPLAは、UNMISS、共同監視評価委員会（JMEC）及びCTSAMMが虐待を調査及び記録するために現地にアクセスすることを制限した。

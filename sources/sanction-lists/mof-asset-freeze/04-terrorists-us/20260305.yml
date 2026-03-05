@@ -1,0 +1,998 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: テロリスト等 (2)
+  - en: Terrorists (US Designated)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.terrorists-us.2
+    name:
+      ja: ハサン・イズ・アル・ディン
+      en: Hasan Izz-al-Din
+    type: individual
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1963-XX-XX
+    place_of_birth: レバノン
+    nationality: レバノン
+    aliases:
+    - アフメド・ガルバヤ
+    - サイード
+    - サミール・サルワン （Ahmed Garbaya, Sa-id
+    - Samir Salwwan）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.3
+    name:
+      ja: アリ・アトワ
+      en: Ali Atwa
+    type: individual
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1960-XX-XX
+    place_of_birth: レバノン
+    nationality: レバノン
+    aliases:
+    - アマール・マンスール・ボウスリム
+    - ハッサン・ロストム・サリム （a.k.a. Ammar Mansour Bouslim
+    - Hassan Rostom Salim）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.4
+    name:
+      ja: ハーリド・シャイク・ムハンマド
+      en: Khalid Shaikh Mohammed
+    type: individual
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1965-XX-XX
+    place_of_birth: クウェイト
+    nationality: クウェイト
+    aliases:
+    - サレム・アリ
+    - ファハド・ビン・アドゥバラフ・ビン・ハーリド
+    - アシュラフ・レファアト・ナビス・ヘニン
+    - ハーリド・アドブル・ワドゥード （a.k.a. Salem Ali, Fahd Bin Adballah Bin Khalid, Ashraf Refaat Nabith Henin, Khalid Adbul Wadood）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.5
+    name:
+      ja: アハマド・イブラヒム・アル・ムガシル
+      en: Ahmad Ibrahim al-Mughassil
+    type: individual
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1967-XX-XX
+    place_of_birth: サウディ・アラビア（カティフ・バブ・アル・シャマル）
+    nationality: サウディ・アラビア
+    aliases:
+    - アブ・オムラン
+    - アハメド・イブラヒム・アル・ムガシル （a.k.a. Abu Omran, Ahmed Ibrahim al-Mughassil）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.6
+    name:
+      ja: アリ・サイド・ビン・アリ・エル・ホーリエ
+      en: Ali Saed bin Ali el-Hoorie
+    type: individual
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1965-XX-XX
+    place_of_birth: サウディ・アラビア（エル・ディバビヤ）
+    nationality: サウディ・アラビア
+    aliases:
+    - アリ・サイド・ビン・アリ・アル・ホウリ
+    - アリ・サイド・ビン・アリ・エル・ホウリ （a.k.a. Ali Saed Bin Ali al-Houri
+    - Ali Saed Bin Ali el-Houri）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.7
+    name:
+      ja: イブラヒム・サリーフ・ムハンマド・アル・ヤコブ
+      en: Ibrahim Salih Mohammed al-Yacoub
+    type: individual
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1966-XX-XX
+    place_of_birth: サウディ・アラビア（タルート）
+    nationality: サウディ・アラビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.8
+    name:
+      ja: アブドルカリーム・フセイン・モハメド・アル・ナセル
+      en: Abdelkarim Hussein Mohamed al-Nasser
+    type: organization
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    place_of_birth: サウディ・アラビア（アル・イハサ）
+    nationality: サウディ・アラビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.9
+    name:
+      ja: ホーリー・ランド・ファウンデーション・フォア・リリーフ・アンド・デベロップメント
+      en: Holy Land Foundation for Relief and Development
+    type: organization
+    effective_date: '2001-12-19'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    address: "・525, International Parkway, Suite 509, Richardson, Texas 75081, U.S.A. ・P.O. Box 832390, Richardson, Texas 75083, U.S.A. ・9250 S. Harlem Avenue, Bridgeview, Illinois, U.S.A. ・345 E. Railway Avenue, Patterson, New Jersey 07503, U.S.A. ・12798 Rancho Penasquitos Blvd., Suite F, San Diego, California 92128, U.S.A. ・その他の活動地域：西岸・ガザ地区及び米国内での上記以外の地域"
+    aliases:
+    - オキュパイド・ランド・ファウンデーション （f.k.a. Occupied Land Foudation）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.11
+    name:
+      ja: パレスティナ・イスラミック・ジハード
+      en: Palestinian Islamic Jihad（PIJ）
+    type: organization
+    effective_date: '2002-01-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.12459
+    name:
+      ja: ラシュカレ・タイバ
+      en: LASHKAR-E-TAYYIBA
+    type: organization
+    effective_date: '2002-01-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - "(a)ラシュカレ・タイバ(b)ラシュカレ・タイバ（c）アル・マンスリーン（ｄ）アル・マンスリーン（e）アーミー・オブ・ザ・ピュアー（f）アーミー・オブ・ザ・ライチャス（g）アーミー・オブ・ザ・ピュアー・アンド・ライチャス（h）パースバーネ・カシミール（i）パースバーネ・アヘレ・ハディース（j）パースバーネ・カシミール（k）パースバーネ・アヘレ・ハディース（l）パースバーネ・アヘレ・ハディース(m)パースハーネ・アヘレ・ハディース(n)ラシュカレ・タイバ(o)エル・イー・ティー(p)ジャマーアットゥドゥ・ダーワ(q)ジェー・ユー・ディー(r)ジャマー・アットゥル・ダーワ(s)ジャマーアットゥドゥ・ダーワ(t)ジャマーアットゥル・ダーワ(u)ジャマーアットゥル・ダーワ(v)ジャマー・アッテ・ダーワット(w)ジャマーアットゥドゥ・ダーワ(x)ジャマー・アットゥドゥ・ダ・アワ(y)ジャマー・アットゥドゥ・ダ・アワ(z)ジャマーアットゥドゥ・ダーワ(aa)ファラーヒ・インサニアット財団（FIF） (a.k.a.: (a)Lashkar-e-Toiba (b)Lashkar-i-Taiba (c)al Mansoorian (d)al Mansooreen (e)Army of the Pure (f)Army of the Righteous (g)Army of the Pure and Righteous (h)Paasban-e-Kashmir (i)Paasban-i-Ahle-Hadith (j)Pasban-e-Kashmir (k)Pasban-e-Ahle-Hadith (l)Paasban-e-Ahle-Hadis (m)Pashan-e-ahle Hadis (n)Lashkar e Tayyaba (o)LET (p)Jamaat-ud-Dawa (q)JUD (r)Jama'at al-Dawa (s)Jamaat ud-Daawa (t)Jamaat ul-Dawah (u)Jamaat-ul-Dawa (v)Jama'at-i-Dawat (w)Jamaiat-ud-Dawa (x)Jama'at-ud-Da'awah (y)Jama'at-ud-Da'awa (z)Jamaati-ud-Dawa (aa)Falah-i-Insaniat Foundation (FIF))"
+    reason:
+    - ja: '国連制裁員会による指定日: ２００５年５月２日（２００５年１１月３日、２００８年１２月１０日、２０１２年３月１４日、２０２０年１１月２４日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ラシュカレ・タイバの指導者であるハフィーズ・ムハンマド・サイードと関係がある。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年６月８日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０２０年１１月２４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.terrorists-us.13
+    name:
+      ja: アブ・ニダル組織（ANO）
+      en: Abu Nidal Organisation（ANO）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - ファタハ・レボルーショナリー・カウンシル
+    - アラブ・レボルーショナリー・ブリゲイズ
+    - ブラック・セプテンバー
+    - レボルーショナリー・オーガニゼーション・オブ・ソーシャリスト・ムスリムズ （a.k.a. Fatah Revolutionary Council, Arab Revolutionary Brigades, Black September
+    - Revolutionary Organisation of Socialist Muslims）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.14
+    name:
+      ja: ガマーア・アル・イスラミーヤ（イスラム集団（IG））
+      en: Gama'a al-Islamiyya（Islamic Group（IG））
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - アル・ガマーア・アル・イスラミーヤ （a.k.a. Al-Gama'a al-Islamiyya）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.15
+    name:
+      ja: カッハ及びカハネ・ハイ
+      en: Kahane Chai（Kach）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.16
+    name:
+      ja: クルド労働者党
+      en: Kurdistan Workers' Party（PKK）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.18
+    name:
+      ja: パレスチナ解放戦線
+      en: Palestine Liberation Front（PLF）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.19
+    name:
+      ja: パレスチナ人民解放戦線
+      en: Popular Front for the Liberation of Palestine（PFLP）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.20
+    name:
+      ja: パレスチナ人民解放戦線－総司令部派
+      en: Popular Front for the Liberation of Palestine-General Command
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - PFLP-ジェネラル・コマンド
+    - PFLP-GC （a.k.a. PFLP-General Command,PFLP-GC）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.21
+    name:
+      ja: 革命人民解放党／戦線（DHKP/C）
+      en: Revolutionary People's Liberation Army/Front/Party （DHKP/C）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - デブリジ・ソル（レボルーショナリー・レフト）
+    - デブ・ソル （a.k.a. Devrimci Sol （Revolutionary Left）, Dev Sol）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.22
+    name:
+      ja: センデロ・ルミノソ（輝く道）
+      en: Shining Path （SL） （Sendero Luminoso）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.23
+    name:
+      ja: アル・アクサー殉教者旅団
+      en: Al-Aqsa Martyr's Brigade
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.24
+    name:
+      ja: ババル・カルサ
+      en: Babbar Khalsa
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - ババル・カルサ・インターナショナル （a.k.a. Babbar Khalsa International）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.25
+    name:
+      ja: 国際シーク青年連盟
+      en: International Sikh Youth Federation （ISYF）
+    type: organization
+    effective_date: '2002-07-06'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.26
+    name:
+      ja: ハマス（ハマス・イッザッディーン・アル・カッサームを含む）
+      en: Hamas （including Hamas-Izz al-Din al-Qassem）
+    type: organization
+    effective_date: '2003-10-01'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.29
+    name:
+      ja: 国民解放軍
+      en: National Liberation Army（ELN）
+    type: organization
+    effective_date: '2004-03-24'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.30
+    name:
+      ja: 新人民軍
+      en: New People’s Army（NPA）
+    type: organization
+    effective_date: '2019-11-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.31
+    name:
+      ja: アル・シャバーブ
+      en: Al-Shabaab
+    type: organization
+    effective_date: '2019-11-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.32
+    name:
+      ja: ISILシナイ州
+      en: ISIL Sinai Province
+    type: organization
+    effective_date: '2019-11-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.33795
+    name:
+      ja: 東南アジアのイラクとレバント地方のイスラム国（ISIL-SEA、ISIL東南アジア）
+      en: Islamic State In Iraq And the Levant In South-East Asia (ISIL-SEA, ISIL-South East Asia)(original script：不明)
+    type: organization
+    effective_date: '2019-11-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - "(a)イスラム国東アジア支部 (b)ダウラツル・イスラミーヤ・ワリヤツル・マシュリク） (a)Islamic State East Asia Division (b)Dawlatul Islamiyah Waliyatul Mashriq"
+    - "(a)ISIL東アジア(b)ISISフィリピン (a)IS East Asia Division(b)ISIS-Philippines"
+    reason:
+    - ja: '国連制裁員会による指定日: 44953'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ２０１６年６月、故・イスニロン・ハピロン（４７７．に指定した個人）による宣言に基づき設立された。イラクのアル・カーイダ（４５３．に指定した団体）としてリストに掲載されているイラクとレバント地方のイスラム国と関係がある。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.terrorists-us.34
+    name:
+      ja: マウテ・グループ
+      en: The Maute Group
+    type: organization
+    effective_date: '2019-11-12'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.35
+    name:
+      ja: インディアン・ムジャヒディン
+      en: Indian Mujahideen（IM）
+    type: organization
+    effective_date: '2020-03-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.36
+    name:
+      ja: インド亜大陸のアル・カーイダ
+      en: al-Qa’ida in the Indian Subcontinent (AQIS)
+    type: organization
+    effective_date: '2020-03-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.37
+    name:
+      ja: ネオJMB
+      en: Neo-JMB
+    type: organization
+    effective_date: '2020-03-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.38
+    name:
+      ja: ムーサー・ムハンマド・サーレム・ドゥッディーン
+      en: Musa Muhammad Salim DUDIN
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1972-06-12'
+    nationality: パレスチナ
+    aliases:
+    - "(a) ドウディーン"
+    - モウサー (b)ドゥッディーン
+    - ムーサー (c)ドゥッディーン
+    - ムーサー (a)DOUDIN
+    - Mousa (b)DODIN
+    - Mussa (c)DUDIN
+    - Musa
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.39
+    name:
+      ja: アブドルバースィト・ハムザ・アルハサン・ムハンマド・ハイル
+      en: Abdelbasit Hamza Elhassan Mohamed KHAIR
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1955-08-28'
+    place_of_birth: Marawi, Sudan
+    nationality: スーダン
+    aliases:
+    - "(a)ハムザ"
+    - アブドルバースィト (b)ハムザ
+    - アブド・アルバースィト (a)HAMZA, Abdelbasit (b)HAMZA, Abd al-Basit
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.40
+    name:
+      ja: アーミル・カマール・シャリーフ・アッシャワー
+      en: Amer Kamal Sharif ALSHAWA
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1964-04-29'
+    place_of_birth: Kuwait
+    nationality: トルコ、ヨルダン
+    aliases:
+    - "(a)アッシャワー"
+    - アーミル・カマール (b)アッシャワー
+    - アーミル (c)アッシャワー
+    - アーミル (d)アッシャワー
+    - アマル (e) アッシャワー
+    - アーミル） (a)ALSHAWA, Amer Kamel (b)ALSHAVA, Amer (c)AL-SHAVA, Amer (d)AL-SHAVA, Amar (e)AL-SHAWA, Amer
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.41
+    name:
+      ja: アフマド・サドゥ・ジャフレブ
+      en: Ahmed Sadu JAHLEB
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1976-12-23'
+    nationality: エジプト
+    aliases:
+    - "(a)ジャフレブ"
+    - アフマド・サドゥ・ユーセフ (b)ジャフレブ, アフマド (c)アルジャフレブ
+    - ユーセフ (d)ジャフレブ
+    - アフマド・サドゥ・ユースフ (a)JAHLEB
+    - Ahmed Sadu Yousef(b)JAHLEB, Ahmed (c)ALJIHLIB, Yousef (d)JAKHLAB
+    - Ahmad Saado Yusuf
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.42
+    name:
+      ja: アイマン・アフマド・アッドゥウェイク
+      en: Aiman Ahmad AL-DUWAIK
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1962-09-24'
+    nationality: ヨルダン
+    aliases:
+    - "(a)アッドゥウェイク"
+    - アイマン・アフマド・ラシード (b)アルドゥウェイク
+    - アイマン・アフマド・ R (a)AL-DUWAIK, Aiman Ahmad Rashed (b)AL DUWAIK, Aiman Ahmad R
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.43
+    name:
+      ja: ワリード・ムハンマド・ムスタファー・ジャードッラー
+      en: Walid Mohammed Mustafa JADALLAH
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1958-01-01'
+    nationality: ヨルダン
+    aliases:
+    - "(a)ジャド・アッラー"
+    - ワリード・ムハンマド・ムスタファー (b) ジャードッラー
+    - ワリード (a)JAD ALLAH, Waleed Mohammad Mustafa (b)JADALLAH, Walid
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.44
+    name:
+      ja: ムハンマド・アフマド・アブドルダーイム・ナスラッラー
+      en: Muhammad Ahmad‘ABD-AL-DAYIM NASRALLAH
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1964-10-03'
+    place_of_birth: Aqbat Jabr, Jordan
+    nationality: ヨルダン
+    aliases:
+    - "(a)ナスラッラー"
+    - ムハンマド (b)アブドルダーイム
+    - ムハンマド・アフマド (c)アビド・アル・ダーイム・ナスル・アッラー
+    - ムハンマド・アフマド (d)ナスル
+    - ムハンマド (e)アブド・エル・ダーイム
+    - ムハンマド・アフマド (f) アビド・アルダーイム・ナスル・アッラー
+    - ムハンマド・アフマド (g)ナスラッラー
+    - ムハンマド (h)アブドル・ダーイム・ナスラッラー
+    - ムハンマド・アフマド (a)NASRALLAH, Muhammad (b)'ABD-AL-DA'IM, Muhammad Ahmad (c) ABID AL DAIM NASR ALLAH, Mohammad Ahmad (d)NASR, Muhammad (e)ABD EL DAIM, Mohamed Ahmed (f)ABID ALDAIM NASR ALLAH, Mohammad Ahmad (g)NASRALLAH, Mohammed (h)ABDUL DA'IM NASRALLAH, Mohammed Ahmed
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.45
+    name:
+      ja: アイマン・ノーファル
+      en: Ayman NOFAL
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1965-XX-XX
+    place_of_birth: Gaza Strip
+    nationality: パレスチナ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.46
+    name:
+      ja: アフマド・M・M・アルアッカード
+      en: Ahmed M. M. ALAQAD
+    type: individual
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1978-11-21'
+    place_of_birth: Khan Yunis, Gaza Strip
+    nationality: パレスチナ
+    aliases:
+    - "(a)アルアッカード"
+    - アブー・ヤミーン (b)アルアッカード
+    - アフマド (c)アルアッカード
+    - アフマド (a) ALAQAD, Abu Yamin (b)ALAQAD, Ahmed (c)AL-AQAD, Ahmed
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.47
+    name:
+      ja: バイ・キャッシュ・マネー・アンド・マネー・トランスファー・カンパニー
+      en: BUY CASH MONEY AND MONEY TRANSFER COMPANY
+    type: organization
+    effective_date: '2023-10-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - バイ・キャッシュ (a.k.a.:BUY CASH)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.48
+    name:
+      ja: ヤヒヤ・シンワル
+      en: Yahya SINWAR
+    type: individual
+    effective_date: '2023-12-26'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1961-XX-XX
+    aliases:
+    - "(a)シンワル"
+    - ヤヒヤ・イブラヒム・ハッサン (b)アル・シンワル
+    - イェヒヤ (c)シンワル
+    - イェヒア (d)シンワル
+    - イェヒイェ (a)SINWAR
+    - Yahya Ibrahim Hassan (b)AL-SINWAR, Yehya (c)SINWAR, Yehia (d)SINWAR, Yehiyeh
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.49
+    name:
+      ja: ムハンマド・デイフ
+      en: Muhammed DEIF
+    type: individual
+    effective_date: '2023-12-26'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1963-XX-XX
+    place_of_birth: Khan Younis, Gaza
+    nationality: パレスチナ
+    aliases:
+    - "(a)アル・ダイフ"
+    - ムハンマド (b)アル・マスリ
+    - モハンメド (a)AL-DAYF, Muhammad (b)AL-MASRI, Mohammed
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.50
+    name:
+      ja: マルワン・イーサー
+      en: Marwan ISSA
+    type: individual
+    effective_date: '2023-12-26'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1965-XX-XX
+    place_of_birth: Gaza
+    nationality: パレスチナ
+    aliases:
+    - イーサー
+    - マルワン (a.k.a.:’ISSA, Marwan)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.51
+    name:
+      ja: ザワヤ・グループ・フォー・デベロップメント・アンド・インベストメント・カンパニー・リミテッド
+      en: ZAWAYA GROUP FOR DEVELOPMENT AND INVESTMENT CO., LTD.
+    type: organization
+    effective_date: '2024-01-30'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - "（a）ザワヤ・グループ・フォー・デベロップメント・アンド・インベストメント （b）ザワヤ・グループ・カンパニー（c）ザワヤ・グループ・フォー・デベロップメント・アンド・インベストメント・カンパニー（d）ザワヤ・グループ・フォー・デベロップメント・アンド・インベストメント・カンパニー （a）ZAWAYA GROUP FOR DEVELOPMENT AND INVESTMENT（b）ZAWAYA GROUP CO（c）ZAWAYA GROUP FOR DEVELOPMENT AND INVESTMENT COMPANY（d）ZAWAYA GROUP FOR DEVELOPMENT AND INVESTMENT CO."
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.52
+    name:
+      ja: アル・ザワヤ・グループ・フォー・デベロップメント・アンド・インベストメント・ソシエダッド・リミターダ
+      en: AL ZAWAYA GROUP FOR DEVELOPMENT AND INVESTMENT SOCIEDAD LIMITADA
+    type: organization
+    effective_date: '2024-01-30'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.53
+    name:
+      ja: ラリーコム・フォー・インベストメント・リミテッド
+      en: LARRYCOM FOR INVESTMENT LTD
+    type: organization
+    effective_date: '2024-01-30'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.54
+    name:
+      ja: ナビール・シューマーン・アンド・カンパニー
+      en: NABIL CHOUMAN & CO
+    type: organization
+    effective_date: '2024-01-30'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    aliases:
+    - "（a）ナビール・シューマーン・アンド・カンパニー （b）ナビール・シューマーン・アンド ・パートナーズ・エクスチェンジ・カンパニー （c）シューマーン・カレンシー・エクスチェンジ （d）スーマーン・カレンシー・エクスチェンジ・エス・アー・エール・エル （e）シューマーン・グループ（a）NABIL CHOUMAN AND CO （b）NABIL SHOMAN AND PARTNERS EXCHANGE COMPANY （c）SHUMAN CURRENCY EXCHANGE （d）SUMAN CURRENCY EXCHANGE SARL （e）SHUMAN GROUP"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.55
+    name:
+      ja: ナビール・ハーレド・ハリル・シューマーン
+      en: Nabil Khaled Halil CHOUMAN
+    type: individual
+    effective_date: '2024-01-30'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1954-09-01'
+    nationality: レバノン
+    aliases:
+    - "（a）シューマーン・ナビール・ハーレド・ハリール （b）シューマーン・ナビール （c）シューマーン・ナビール （a）SHOMAN, NABIL KHALED KHALIL （b）SHUMAN, NABIL （c）CHOUMAN, NABIL"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.56
+    name:
+      ja: ハーレド・シューマーン
+      en: Khaled CHOUMAN
+    type: individual
+    effective_date: '2024-01-30'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1987-04-02'
+    nationality: レバノン
+    aliases:
+    - シューマーン・ハーレド・ハリール （a.k.a.：SHOMAN, KHALED KHALIL）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.57
+    name:
+      ja: アフメド・シャリーフ・アブダッラー・オデー
+      en: Ahmed Sharif Abdallah ODEH
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1951-01-01'
+    nationality: ヨルダン
+    aliases:
+    - "（a）オウダ・アフメド・シャリーフ・アブデッラー（b）ウディ・アハマド（c）オデー・アフマド（d）オデー・アハメド（e）オデー・アフメド・シャリーフ・アブドゥッラー （a）OUDA, Ahmed Charif Abdellah（b）UDIH, Ahmad（c）ODEH, Ahmad（d）ODEH, Ahmed（e）ODEH, Ahmed Sharif Abdullah"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.58
+    name:
+      ja: レダー・アリー・ハミース
+      en: Reda Ali KHAMIS
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1967-09-20'
+    nationality: レバノン
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.59
+    name:
+      ja: マフムード・ハーレド・ザハール
+      en: Mahmoud Khaled ZAHHAR
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1945-XX-XX
+    nationality: パレスチナ
+    aliases:
+    - "（a）アル・ザハール・マフムード・ハーレド（b）ザハール・マフムード（c）アル・ザハール・マフムード （a）AL ZAHAR, Mahmoud Khaled（b）ZAHAR, Mahmoud（c）AL-ZAHAR, Mahmoud"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.60
+    name:
+      ja: アリー・アブドル・ラフマーン・バラカ
+      en: Ali Abed Al Rahman BARAKA
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: 1966-XX-XX
+    nationality: レバノン
+    aliases:
+    - "（a）バラカ・アリ（b）バラカ・アリ （a）BARAKAH, Ali（b）BARAKA, Ali"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.61
+    name:
+      ja: マーヘル・リブヒー・オベイド
+      en: Maher Rebhi OBEID
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1958-03-10'
+    nationality: パレスチナ
+    aliases:
+    - "（a）オベイド・マーヘル・リブヒー・ナムル（b）オベエド・マーヘル・リブヒー・ニムル（c）オベイド・マーヘル （d）オベイド・マーヘル・ビン・リブヒー（e）オベイド・マーヘル・ビン・リブヒー・ビン・ナムル（f）オベエド・マーヘル （a）OBEID, Maher Rebhi Namr（b）OBAID, Maher Ribhi Nimr（c）OBEID, Maher（d）OBEID, Maher bin Rebhi（e）OBEID, Maher bin Rebhi bin Namr（f）OBAID, Maher"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.62
+    name:
+      ja: イスマーイール・ムーサー・アフマド・バルフーム
+      en: Ismail Musa Ahmad BARHUM
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1968-12-23'
+    nationality: パレスチナ
+    aliases:
+    - "（a）バルフーム・イスマーイール・ムーサー・アフマド（b）バルフーム・イスマーイール （a）BARHUM, Isma’il Musa Ahmad（b）BARHOUM, Ismail"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.63
+    name:
+      ja: ハッサン・アルワルディヤーン
+      en: Hassan AL-WARDIAN
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1954-12-28'
+    nationality: パレスチナ
+    aliases:
+    - "（a）ワルディヤーン・ハサン（b）アルワルディヤーン・ハサン・モハメド・アリー （c）アルワルディヤーン・ハッサン・ムハンマド・アリー （a）WARDYAN"
+    - Hasan（b）ALWARDIAN
+    - Hasan Mohamed Ali（c）AL-WARDIAN
+    - Hassan Muhammad ‘Ali
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.terrorists-us.64
+    name:
+      ja: ズハイル・シャムラク
+      en: Zuhair SHAMLAKH
+    type: individual
+    effective_date: '2024-03-05'
+    sanction_list: jp/mof-asset-freeze-terrorists-us
+    sanction_list_en: Terrorists (US Designated)
+    date_of_birth: '1980-11-15'
+    nationality: パレスチナ
+    aliases:
+    - "（a）シュマラーク・ザヒール・ユーニス（b）シャムラーク・ズヘイル （c）シャマラーク・ズヒール・ユーヌス・ハンメド （a）SHMALACH, Zahir Younes（b）SHAMLAKH, Zuheir（c）SHAMALCH, Zuhir Yunes Hammed"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

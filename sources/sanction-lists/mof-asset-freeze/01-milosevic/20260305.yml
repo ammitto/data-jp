@@ -1,0 +1,188 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ミロシェビッチ前ユーゴ大統領関係者
+  - en: Associates of Former Yugoslav President Milosevic
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.milosevic.1
+    name:
+      ja: ミロシェヴィッチ・スロボダン
+      en: Milosevic Slobodan
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1941年8月20日セルビア共和国ポジャレヴァッツ生 Born at Pozarevac, Republic of Serbia, on 20 August 1941'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ユーゴースラヴィア連邦共和国前大統領 Former President of the Federal Republic of Yugoslavia
+  - id: jp.mof.milosevic.2
+    name:
+      ja: ガイッチ＝ミロシェヴィッチ・ミリッツァ
+      en: Gajic-Milosevic Milica
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1970年生 Born 1970'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミロシェヴィッチ・スロボダンの義理の娘 Daughter-in-law
+  - id: jp.mof.milosevic.3
+    name:
+      ja: マルコヴィッチ・ミリャナ
+      en: Markovic Mirjana
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1942年7月10日生 Born on 10 July 1942'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミロシェヴィッチ・スロボダンの夫人 Wife
+  - id: jp.mof.milosevic.4
+    name:
+      ja: ミロシェヴィッチ・ボリスラフ
+      en: Milosevic Borislav
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1936年生 Born 1936'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミロシェヴィッチ・スロボダンの兄 Brother
+  - id: jp.mof.milosevic.5
+    name:
+      ja: ミロシェヴィッチ・マリヤ
+      en: Milosevic Marija
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1965年生 Born 1965'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミロシェヴィッチ・スロボダンの娘 Daughter
+  - id: jp.mof.milosevic.6
+    name:
+      ja: ミロシェヴィッチ・マルコ
+      en: Milosevic Marko
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1974年7月2日生 Born on 2 July 1974'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ミロシェヴィッチ・スロボダンの息子 Son
+  - id: jp.mof.milosevic.7
+    name:
+      ja: ミルティノヴィッチ・ミラン
+      en: Milutinovic Milan
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1942年12月19日セルビア共和国ベオグラード生 Born at Belgrade, Republic of Serbia, on 19 December 1942'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: セルビア共和国大統領 President of Serbia
+  - id: jp.mof.milosevic.8
+    name:
+      ja: オイダニッチ・ドラゴリュブ
+      en: Ojdanic Dragoljub
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1941年6月1日セルビア共和国ラヴニ生 Born at Ravni, Republic of Serbia, on 1 June 1941'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ユーゴースラヴィア連邦共和国前国防大臣 Former Minister of Defence of the Federal Republic of Yugoslavia
+  - id: jp.mof.milosevic.9
+    name:
+      ja: シャイノヴィッチ・ニコラ
+      en: Sainovic Nikola
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1948年12月7日セルビア共和国ボル生 Born at Bor, Republic of Serbia, on 7 December 1948'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ユーゴースラヴィア連邦共和国前副首相 Former Deputy Prime Minister of the Federal Republic of Yugoslavia
+  - id: jp.mof.milosevic.10
+    name:
+      ja: ストイリコヴィッチ・ヴライコ
+      en: Stojiljkovic Vlajko
+    type: individual
+    effective_date: '2002-03-01'
+    sanction_list: jp/mof-asset-freeze-milosevic
+    sanction_list_en: Associates of Former Yugoslav President Milosevic
+    reason:
+    - ja: '生年月日・出生地: 1937年セルビア共和国マーラ・クルスナ生 Born at Mala Krsna, Republic of Serbia, in 1937'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: セルビア共和国前内務大臣 Former Minister of Interior of the Republic of Serbia

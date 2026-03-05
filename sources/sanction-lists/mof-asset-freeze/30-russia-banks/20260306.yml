@@ -1,0 +1,286 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 'ロシア連邦(特定銀行） '
+  - en: Russian Federation (Designated Banks)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.russia-banks.1
+    name:
+      ja: バンク・ロシア
+      en: Bank Rossiya
+    type: organization
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 2 Rastrelli Square, Liter A, St. Petersburg, 191124, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.2
+    name:
+      ja: プロムスヴャジバンク
+      en: Promsvyazbank
+    type: organization
+    effective_date: '2022-03-01'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 10-22 Smirnovskaya Str., Moscow, 109052, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.3
+    name:
+      ja: ＶＥＢ．ＲＦ（ロシア対外経済銀行）
+      en: VEB.RF（Vnesheconombank）
+    type: organization
+    effective_date: '2022-03-01'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 9 Akademika Sakharova Prospekt, Moscow, 107996, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.4
+    name:
+      ja: 対外貿易銀行
+      en: VTB Bank
+    type: organization
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 29 Bolshaya Morskaya St., St. Petersburg, 190000, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.5
+    name:
+      ja: ソフコムバンク
+      en: Sovcombank
+    type: organization
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 46 Prospekt Tekstilshchikov, Kostroma 156000, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.6
+    name:
+      ja: ノヴィコムバンク
+      en: Novikombank
+    type: organization
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: bld.1,Polyanka Bolshaya str. 50/1, Moscow 119180, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.7
+    name:
+      ja: アトクリチエ
+      en: Otkritie
+    type: organization
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: d. 2, str. 4, ul. Letnikovskaya, Moscow 115114, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.8
+    name:
+      ja: ズベルバンク
+      en: Sberbank
+    type: organization
+    effective_date: '2022-04-12'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 19 ul. Vavilova, Moscow, 117312, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.9
+    name:
+      ja: アルファバンク
+      en: Alfa-bank
+    type: organization
+    effective_date: '2022-04-12'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: Kalanchevskaya Street 27, Moscow, 107078, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.10
+    name:
+      ja: モスクワ・クレジット・バンク
+      en: Credit Bank of Moscow
+    type: organization
+    effective_date: '2022-06-07'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 2(bldg.1), Lukov pereulok, Moscow, 107045, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.11
+    name:
+      ja: ロシア農業銀行
+      en: Russian Agricultural Bank (Rosselkhozbank)
+    type: organization
+    effective_date: '2022-06-07'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 3, Gagarinsky pereulok, Moscow, 119034, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.12
+    name:
+      ja: 公共株式会社ロスバンク
+      en: Public Joint Stock Company Rosbank
+    type: organization
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: 34, Mashi Poryvaevoy Street, Moscow, 107078, Russia; POBox 208, Moscow 107078, Russia
+    aliases:
+    - "（旧称"
+    - 株式商業銀行公開株式会社ロスバンク
+    - 株式商業銀行公共株式会社ロスバンク
+    - 商業銀行ネザヴィシモスチ
+    - 株式商業銀行ロスバンク） (f.k.a. AKB Rosbank OAO
+    - f.k.a. AKB Rosbank PAO
+    - f.k.a. Commercial Bank Nezavisimost
+    - f.k.a. Joint Stock Commercial Bank Rosbank
+    - a.k.a. Rosbank PJSC)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.13
+    name:
+      ja: 株式会社ティンコフ・バンク
+      en: JSC Tinkoff Bank
+    type: organization
+    effective_date: '2024-03-01'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: building 26, 38A, Ul. 2nd Khutorskaya, Moscow, 127287, Russia
+    aliases:
+    - "(旧称"
+    - ヒムマシュバンク
+    - 非公開株式会社ティンコフ・クレジット・システムズ・バンク) (f.k.a. Khimmashbank
+    - f.k.a. Tinkoff Credit Systems Bank Closed Joint Stock Company)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.14
+    name:
+      ja: ツィムルバンク有限会社
+      en: TsMRBank, OOO
+    type: organization
+    effective_date: '2025-01-10'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: ul. Palikha, d. 10, Str. 7, Moscow, 127055, Russia
+    aliases:
+    - "(別称"
+    - 国際決済銀行センター有限会社
+    - 有限会社ツィムルバンク
+    - CMRバンク
+    - ツィムルバンク） (a.k.a. Bank Center for International Settlements LLC
+    - a.k.a. Bank Tsentr Mezhdunarodnykh Raschetov Obshchestvo s Ogranichennoi Otvetstvennostyu
+    - a.k.a. LLC TsMRBank
+    - a.k.a. CMRBank
+    - a.k.a. TsMRBank)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.15
+    name:
+      ja: ロシアン・フィナンシャル・コーポレーション
+      en: Russian Financial Corporation
+    type: organization
+    effective_date: '2025-01-10'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: St. George's Lane, D. 1, p. 1, Moscow, 125009, Russia; d. 1 korp, 1 per. Georgievski, Moscow, 125009, Russia
+    aliases:
+    - "(別称"
+    - 株式会社RFKバンク
+    - RFCバンク
+    - ロシアン・フィナンシャル・コーポレーション・バンク株式会社） (a.k.a. AO RFK-BANK
+    - a.k.a. Bank Rossiskaya Finansovaya Korporatsiya Aktsionernoe Obshchestvo
+    - a.k.a. RFC-BANK
+    - a.k.a. Russian Financial Corporation Bank JSC)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.russia-banks.16
+    name:
+      ja: チメル・バンク株式会社
+      en: Timer Bank, AO
+    type: organization
+    effective_date: '2025-01-10'
+    sanction_list: jp/mof-asset-freeze-russia-banks
+    sanction_list_en: Russian Federation (Designated Banks)
+    address: d. 23 str, 2, ul. Bakhrushina, Moscow, 115054, Russia; 58, prospekt Ibragimova, Kazan, Tatarstan, 420066, Russia; Bldg. 2, St. Bakhrushina, 23, Moscow, 115054, Russia
+    aliases:
+    - "(別称"
+    - 株式会社チメル・バンク
+    - 公共株式会社チメル・バンク
+    - タイマー・バンク有限会社
+    - タイマー・バンク株式会社
+    - チメル・バンク公共株式会社) (a.k.a. Aktsionernoe Obshchestvo Timer Bank
+    - a.k.a. Publichnoe Aktsionernoe Obshchestvo Timer Bank
+    - a.k.a. Timer Bank CO., LTD
+    - a.k.a. Timer Bank　Joint-Stock Company
+    - a.k.a. Timer Bank PAO)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

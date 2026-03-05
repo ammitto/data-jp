@@ -1,0 +1,187 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: イラク前政権関係者等 (Ⅲ)
+  - en: Former Iraqi Regime Officials (III)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.iraq-3.197
+    name:
+      ja: アル・ワセル・バーベル総合貿易LLC
+      en: AL WASEL AND BABEL GENERAL TRADING LLC
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: アラブ首長国連邦、ドバイ、ラシディーヤ、私書箱10631号及び638号、アル・ラムール通り、イブラーヒーム・サイード ルータ ビルディング アラブ首長国連邦、ドバイ、ラシディーヤ、航空クラブ近く、空港通り、ルータビルディング イラク、バグダッド、ハラシーヤ地区のヴィラ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アル・ワセル・バーベル総合貿易LLC（AWB）は前イラク政権が国連石油食糧交換（OFF）計画を通じて購入した物資の10%のリベートを獲得し、国連により認可されていない物資を調達するために利用されていたアラブ首長国連邦にある会社である。 2001年1月2日付の前政権イラク副首相兼財務相ヒクマト・ミズバン・イブラヒーム・アル・アッザウィが署名した書簡には、国連石油食糧交換計画の下で他国から購入したすべての物資に対してイラク政府が10％の手数料支払を得る旨の指示が記述されている。同書簡には、イラク政府職員に対する貿易会社を通じた物資購入の指示があるが、その貿易会社の一つがAWBである。 アル・アッザウィからの別の書類には、イラクとの貿易に従事している会社から10％の手数料を集めるための手続きが示されている。同書類にはヨルダンにあるラーフィダイーン銀行がこうした取引における資金の受け皿として使うことができること、また、AWBが物資取引のために使われることとなる旨が明記されている。 米国が保有する情報によれば、AWBはイラクによる高性能地対空ミサイルシステム購入の試みに関わっていたとされる。約43.5百万米ドルがUAE銀行に残されていたが、これは、当該ミサイル購入契約の条件の下で、このシステムの部分的な支払いとして使われるべきものであった。軍事用品を含むこの種の購入は、対イラク国連制裁下で禁止されていた。 フロリダ・タンパのアメリカ入国管理局（BICE）による、当該ミサイル取引に関する調査は、以下のことを明らかにした。 － AWBの商用口座は、UAE国籍の者1名と旅券からイラク政府職員であると判明したイラク人のヒクマト・ジョルジュース・バーナムによって、2000年12月にアブダビ国立銀行（NBAD）に開設された。両名は、AWBへの取引が許可されたとして指名を受けている。イラク国籍保持者であるターリク・ナーセル・Ｓ・アル・オバイディーもこの口座の名義人であった。 － NBAD商用口座の初期取引の一つには、2000年12月のヒクマト・マズバーン・イブラヒーム（おそらくはヒクマト・ミズバーン・イブラヒーム・アル・アッザーウィである。）の指示による7百万米ドルの入金があった。その直後、7百万米ドルのうち6.9百万米ドルが、アル・アッザーウィーの指示により、ＡＷＢの2番目の口座へ送金された。 － 2001年初頭から2002年初頭にかけてＡＷＢの二つの口座間で多数の追加送金があり、その結果、一方の口座の残高は43.5百万米ドルとなった。 － 調査中に得られた文書によると、その43.5百万米ドルの残高は、レーダーコントロールによる地対空ミサイルシステムをイラクに売却することを目的とする「契約Ｎ24398」に直接関連していた。 アブダビ国立銀行のある職員はアメリカ合衆国BICE調査員に対して、43.5百万米ドルの残高を有するAWBの口座が、イラク人のみを預金にアクセスできる署名者としていたことは異常である旨述べた。その銀行職員は調査員に対し、UAE市民である同社の社長は当該預金を管理することができず、イラク政府及びその代理人がAWBの実質的な所有者であったと述べた。 以前にイラク中央銀行の総裁を務め、2001年時点で、AWB事務所職員の一人であったイラク人、ターリク・アル・ウバイディーと、以前イラク中央銀行に雇用されていたイラク人のジョセフ・ギルギースはドバイにおけるウダイ・サッダーム・フセインの代理人として活動していた。
+  - id: jp.mof.iraq-3.199
+    name:
+      ja: アビアトランス・アンスタルト
+      en: AVIATRANS ANSTALT
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: リヒテンシュタイン、ルッゲル
+    aliases:
+    - アビアトランス機構
+    - AVIATRANS ESTABLISHMENT
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ロガルチェオS.Aとアビアトランス・アンスタルトは前イラク政権と前政権高官の財産を管理するために設立された2つの関連会社である。スイスの会社であるロガルチェロは、最終的にはサッダーム・フセインによって所有されるフランスの不動産管理会社の所有者であり管理者であると伝えられている。リヒテンシュタインの会社であるアビアトランスは、イラク通信省がイラク空軍の財源で購入し、イラク政府高官の移動に用いられるジェット機ファルコン50の登録された所有者、管理者であったと報じられている。 イラク諜報機関の投資責任者であるハラフ・アル・ドゥレィミーはロガルチェロとアビアトランスを管理していた。ジェット機ファルコン50の真正な所有権を更に隠蔽するため、イラクの航空整備士のハサン・アフマド・S・アドナーンがその所有者としてリストに掲載されていた。当該航空機に対するイラク前政権の権益を認識したことから、リヒテンシュタイン当局は最近になって当該ジェット機の登録を抹消し、法定所有者であるアビアトランスに対する精算手続きを開始した。リヒテンシュタイン当局は、「この航空機をイラク再建のために利用できるように」したい旨の意図を表明した。 通商報告とジュネーブ商業登記所によれば、アル・ドゥレイミーはスイスの会社であるミドコ・ファイナンスS.A.の社長、管理者であり、権限ある署名者であったことが示されている。同報告によれば、同人は、モンタネ・マネージメントINCの代表でもある。報道によれば、モンタネはフランスの出版社のハチェッテの8.4％、フランスのミサイル防衛電子機器製造業者マトラの2.5％を所有している。（ハチェッテとマトラは後にフランスの会社ラガルデレＳＣＡに統合された。）
+  - id: jp.mof.iraq-3.200
+    name:
+      ja: ロガチェオS.A.
+      en: LOGARCHEO S.A.
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: スイス・レ・パンクイアーモントバリー1661・チェミニ ドゥ カーメル
+    aliases:
+    - ロガチェオ
+    - AGLOGARCHEO AG
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: "（連盟番号）CH-2 17-0-431-423-3（スイス） ［概要の説明は本リストの199番を参照］"
+  - id: jp.mof.iraq-3.203
+    name:
+      ja: アル・アラビー貿易会社
+      en: AL-ARABI TRADING COMPANY
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: バグダッド、929地区、通路11、ハーイ、バビル バグダッド、オフィス10、エリア902、通路15、ハーイ・アル・ワフダ バグダッド、アルウィーヤ、私書箱2337号
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アル・アルビー社は前イラク政権の軍事調達に従事していた多数の会社の最終的な親会社である。1991年には、新聞記事の中で、アル・アラビー社はイラクの核・生物兵器やミサイル計画のための部品と機材調達に従事していたイラク政府の団体であるとされた。 アル・アラビー社は以前、軍事産業委員会の下にあり、1993年11月に清算されたとしてイラク側から主張されていた。当時、アル・アラビー社は産業省や特別プロジェクト技術協力（TECOまたはTechcorp）と呼ばれる軍事産業傘下により管理されていた。 アル・アラビー社は12もの偽装会社の最終的な親会社である。アル・アラビー社はTMG Enginerring Limitedを所有する英国の株式会社Technology and Development Group Limitedの99％を所有している。TDG/TMGは1980年代後半にイラクの武器調達ネットワークに関与していた。
+  - id: jp.mof.iraq-3.204
+    name:
+      ja: アル・バシャーイル貿易有限会社
+      en: AL-BASHAIR TRADING COMPANY LTD
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: バグダッド・サアドゥーン通り、アル・アニービルディング1階
+    aliases:
+    - アル・バシャーエル貿易有限会社
+    - アル・バシール貿易有限会社
+    - アル・バシャー・イル貿易有限会社
+    - アル・バシャーイル貿易有限会社
+    - アル・ブシャーイル貿易有限会社 AL-BASHAER TRADING COMPANY, LTD
+    - AL-BASHIR TRADING COMPANY, LTD
+    - AL-BASHA'IR TRADING COMPANY, LTD
+    - AL-BASHAAIR TRADING COMPANY, LTD
+    - AL-BUSHAIR TRADING COMPANY, LTD
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 報道及び米国政府が入手した情報によれば、アル・バシャーイル貿易有限会社はイラクの自由作戦の開始までイラク最大の軍事調達の偽装会社として活動し、前政権にかわって一連の制裁破りや腐敗の枠組みに関与していた。アル・バシャーイル社は、前副首相アブドル・タワブ・ムッラー・フワイシャが率いるイラクの軍事調達計画に責任を持つイラク国営企業である軍事産業機構に直接報告していた。フワイシャは安全保障理事会決議1483に基づき作成されたリスト上で前イラク政権の高官として国連により名指しされている。アル・バシャーイル社のバグダッド本部から持ち出された文書に基づく2003年12月30日付ロサンゼルスタイムスの調査報告は、国連査察官を欺き、ミサイル部品、監視装置、戦車の砲身等を前イラク政権に届けるべく計画された虚偽契約、賄賂、虚偽の輸出書類及び資金洗浄を含む数多くの取引について記述している。 この会社は、前政権高官による資金洗浄及びイラク政府資金の隠匿を助けたとされている。アル・バシャーイル社の重役であるムニール・アル・クバイシーはイラクの自由作戦以前にイラクを去り、現在シリアに居住している。
+  - id: jp.mof.iraq-3.205
+    name:
+      ja: 貿易運輸サービス有限会社
+      en: TRADING AND TRANSPORT SERVICES COMPANY, LTD.
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: ヨルダン、アンマン、ジャバル・アル・フセイン、アル・ラジ・メディカル・コンプレックス ヨルダン、アンマン11121、私書箱212953号； ヨルダン、アンマン11191、私書箱910606号
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 貿易運輸サービス有限会社は、ウダイ・サッダーム・フセインの複数の偽装会社と結びついていた。［事案の更なる詳細については、個人リストの82番を参照］
+  - id: jp.mof.iraq-3.206
+    name:
+      ja: アルファ国際貿易マーケティング会社
+      en: ALFA COMPANY LIMITED FOR INTERNATIONAL TRADING AND MARKETING
+    type: organization
+    effective_date: '2004-08-26'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: ヨルダン、アンマン11191、私書箱910606号
+    aliases:
+    - アルファ貿易会社
+    - アルファ投資・国際貿易
+    - ALFA TRADING COMPANY
+    - ALFA INVESTMENT AND INTERNATIONAL TRADING
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アルファ国際貿易マーケティング会社は、ナビール・ビクトール・カラムによって運営されていた。［個人リストの82番を参照］
+  - id: jp.mof.iraq-3.207
+    name:
+      ja: 技術開発グループ有限会社
+      en: TECHNOLOGY AND DEVELOPMENT GROUP LIMITED
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: 53/64 Chancery Lane ロンドン　WC2A 1QU　英国
+    aliases:
+    - TDG有限会社 TDG Ltd.
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 登録された会社番号：02150590 最新の既知の管理者：ハナ・ポール・ジョン Hana Paul JON、アドナン・タリブ・ハーシム・アル・アミーリーAdnan Talib Hashim AL-AMIRI、サファ・ハディ・ジャワード・アル・ハボビ博士Dr. Safa Hadi Jawad AL-HABOBI 最新の既知の株主：99通常債権：アル・アラビー貿易有限会社Al-Arabi Trading Co. Ltd.、1通常債権：アル・ハボビ博士Dr. Al-Habobi TDG Ltd.は、1987年に英国で設立、登録され、イラクで設立されたアル・アラビー貿易会社が所有している。英国の会社登記所（Companies House）の最新のTDG Ltd.に関するAnnual Return はアル・アラビー貿易会社が2002年4月にTDGの99パーセントの株式を保有していたことを示している。アル・アラビー貿易会社は、2004年4月26日に、国連安保理決議1518に基づき設立された委員会により、決議1483主文23(b)に基づく団体に指定された［上記リスト203番を参照］。 　T.M.G.エンジニアリング有限会社［下記リスト208番参照］は、TDG Ltd.がほぼ全てを所有する英国で登録された会社である。したがって、T.M.G.エンジニアリング有限会社はアル・アラビー貿易会社の事実上の子会社と見られる。TDG Ltd.は、子会社であるT.M.G.エンジニアリング有限会社を通じて、1980年代にイラクの軍工業化の調達努力において鍵となる役割を果たしていたことで知られるMatrix Churchill企業グループのかなりの株式を所有していた。T.M.G. Shareholders Echosabre Ltd.とAdminchck Ltd.はMatrix Churchill グループの一部であった。
+  - id: jp.mof.iraq-3.208
+    name:
+      ja: T.M.G.エンジニアリング有限会社
+      en: T.M.G. ENGINEERING LIMITED
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-3
+    sanction_list_en: Former Iraqi Regime Officials (III)
+    address: 53/64 Chancery Lane ロンドン　WC2A 1QU　英国
+    aliases:
+    - TMG有限会社 TMG Ltd.
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 登録された会社番号：02142819 最新の既知の管理者：ハナ・ポール・ジョン Hana Paul JON、アドナン・ターリブ・ハーシム・アル・アミーリー Adnan Talib Hashim AL-AMIRI、サファ・ハディ・ジャワード・アル・ハボビ博士Dr. Safa Hadi Jawad AL-HABOBI 最新の既知の株主：3,700,000　通常債権：TDG Ltd.、100,000　通常債権：Admincheck Ltd.、200,000　通常債権：Echosabre Ltd. T.M.G.エンジニアリング有限会社は、TDG Ltd.がほぼ全てを所有する英国で登録された会社である［上記リスト207番参照］。したがって、T.M.G.エンジニアリング有限会社はアル・アラビー貿易会社の事実上の子会社と見られる［上記リスト203番参照］。TDG Ltd.は、子会社であるT.M.G.エンジニアリング有限会社を通じて、1980年代にイラクの軍工業化の調達努力において鍵となる役割を果たしていたことで知られるMatrix Churchill企業グループのかなりの株式を所有していた。T.M.G. Shareholders Echosabre Ltd.とAdminchck Ltd.はMatrix Churchill グループの一部であった。

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ロシア及びベラルーシ以外（個人）
+  - en: Other Countries (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.other-individuals.1
+    name:
+      ja: リム・ヨン・ヒョク
+      en: Rim Yong Hyok
+    type: individual
+    effective_date: '2025-01-10'
+    sanction_list: jp/mof-asset-freeze-other-individuals
+    sanction_list_en: Other Countries (Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション(KOMID)のシリア副代表 Deputy Representative for Korea Mining Development Trading Corporation (KOMID) in Syria
+    date_of_birth: '1972-03-04'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

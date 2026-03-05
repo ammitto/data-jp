@@ -1,0 +1,5361 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: クリミア等（個人）
+  - en: Crimea and Sevastopol (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.crimea-individuals.1
+    name:
+      ja: ヴィクトル・ヤヌコーヴィチ
+      en: Viktor YANUKOVYCH(YANUKOVICH)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ウクライナ前大統領 Former President of Ukraine
+    date_of_birth: '1950-07-09'
+    place_of_birth: イェナキエヴェ(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.2
+    name:
+      ja: セルゲイ・アクショーノフ　
+      en: Sergey(Sergei) AKSYONOV(AKSENOV)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国首長代行」 “Acting Head of the Republic of Crimea”"
+    date_of_birth: '1972-11-26'
+    place_of_birth: ベリツィ(モルドバ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.3
+    name:
+      ja: ウラジーミル・コンスタンチノフ
+      en: Vladimir KONSTANTINOV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国国家議会議長」 “Speaker of the State Council of the Republic of Crimea”"
+    date_of_birth: '1956-11-19'
+    place_of_birth: ウラジーミロヴカ(モルドバ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.4
+    name:
+      ja: ルスタム・テミルガリエフ
+      en: Rustam TEMIRGALIEV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 元「クリミア共和国閣僚会議副議長」 Former “Deputy Chairman of the Council of Ministers of the Republic of Crimea”
+    date_of_birth: '1976-08-15'
+    place_of_birth: ウラン・ウデ(ロシア)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.5
+    name:
+      ja: デニス・ベレゾフスキー　
+      en: Denis (Denys)　BEREZOVSKIY(BEREZOVSKY/BEREZOVSKII)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 露黒海艦隊副司令官 Deputy Commander of the Black Sea Fleet of the Russian Navy
+    date_of_birth: '1974-07-15'
+    place_of_birth: ハルキウ(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.6
+    name:
+      ja: アレクセイ・チャーリー
+      en: Aleksei(Alexey) CHALIY(CHALYY)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 元「セヴァストーポリ市長」 Former “Governor of the City of Sevastopol”
+    date_of_birth: '1961-06-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.7
+    name:
+      ja: ピョートル・ジマ
+      en: Petr(Pyotr) ZIMA
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: クリミア自治共和国元保安局長 Former Head of the Security Service of the Autonomous Republic of Crimea
+    date_of_birth: 1965-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.8
+    name:
+      ja: ユーリー・ジェレブツォフ
+      en: Yuriy (Yurii) ZHEREBTSOV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国国家議会議長顧問」 “Counsellor of the Speaker of the State Council of the Republic of Crimea”"
+    date_of_birth: 1969-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.9
+    name:
+      ja: セルゲイ・ツェコフ
+      en: Sergey(Sergei) TSEKOV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦院議員(「クリミア共和国」選出) Member of the Federation Council of the Russian Federation (from “the Republic of Crimea”)
+    date_of_birth: 1953-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.10
+    name:
+      ja: ミハイル・マルィシェフ　
+      en: Mikhail MALYSHEV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国選挙管理委員会委員長」 “Chairman of the Electoral Commission of the Republic of Crimea”"
+    date_of_birth: 1955-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.11
+    name:
+      ja: ヴァレリー・メドヴェージェフ
+      en: Valery(Valeriy/Valerii) MEDVEDEV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「セヴァストーポリ市選挙管理委員会委員長」 “Chairman of the Electoral Commission of the City of Sevastopol”"
+    date_of_birth: 1946-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.12
+    name:
+      ja: セルゲイ・メニャイロ
+      en: Sergei(Sergey) MENYAILO
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「セヴァストーポリ市長代行」 “Acting Governor of the City of Sevastopol”"
+    date_of_birth: '1960-08-22'
+    place_of_birth: アラギル(ロシア)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.13
+    name:
+      ja: オリガ・コヴィティディ　
+      en: Olga(Ol’ga) KOVITIDI
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦院議員(「クリミア共和国」選出) Member of the Federation Council of the Russian Federation(from “the Republic of Crimea”)
+    date_of_birth: '1962-05-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.14
+    name:
+      ja: ピョートル・ヤロシュ　
+      en: Petr(Pyotr) JAROSH(YAROSH)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦移住庁「クリミア共和国支局長代行」 “Acting Head of the Federal Migration Service Office for the Republic of Crimea” of the Russian Federation
+    date_of_birth: '1971-01-30'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.15
+    name:
+      ja: オレグ・コジュラ
+      en: Oleg KOZYURA(KOZHURA)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦移住庁「セヴァストーポリ市支局長代行」 “Acting Head of the Federal Migration Service Office for the City of Sevastopol” of the Russian Federation
+    date_of_birth: 1962-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.16
+    name:
+      ja: ナタリヤ・ポクロンスカヤ
+      en: Natalia(Nataliya) POKLONSKAYA
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国検事長」 “Prosecutor of the Republic of Crimea”"
+    date_of_birth: '1980-03-18'
+    place_of_birth: ミハイロフカ(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.17
+    name:
+      ja: イーゴリ・シェフチェンコ
+      en: Igor SHEVCHENKO
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「セヴァストーポリ市検事長」 “Prosecutor of the City of Sevastopol”"
+    date_of_birth: '1979-02-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.18
+    name:
+      ja: イーゴリ・ギルキン
+      en: Igor GIRKIN
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国軍最高司令官」(自称) Self-proclaimed “Commander-in-chief of the Donetsk People’s Republic”"
+    date_of_birth: '1970-12-17'
+    place_of_birth: モスクワ(ロシア)
+    aliases:
+    - イーゴリ・ストレルコフ (also known as Igor STRELKOV)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.19
+    name:
+      ja: ゲルマン・プロコピフ
+      en: German(Herman) PROKOPIV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク親衛隊司令官」(自称) Self-proclaimed “Commander of the Luhansk Guard”"
+    date_of_birth: '1993-07-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.20
+    name:
+      ja: ヴァレリー・ボロトフ
+      en: Valeriy(Valery/Valerii) BOLOTOV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国元首」(自称) Self-proclaimed “the Head of the Luhansk People’s Republic”"
+    date_of_birth: 1970-XX-XX
+    place_of_birth: スタハノフ(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.21
+    name:
+      ja: アンドリー(アンドレイ)・プルギン(プルヒン)
+      en: Andriy(Andrei/Andrey) PURGIN(PURHIN)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国副首相」(自称) Self-proclaimed “Vice Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1972-01-26'
+    place_of_birth: ドネツク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.22
+    name:
+      ja: デニス・プシーリン
+      en: Denys(Denis) PUSHYLIN(PUSHILIN)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国」指導者(自称) One of the leaders of “the Donetsk People’s Republic” (Self-proclaimed)"
+    date_of_birth: '1981-05-09'
+    place_of_birth: マキイウカ(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.23
+    name:
+      ja: セルゲイ(セルヒー)・ツィプラコフ
+      en: Sergey(Sergei/Serhiy) TSYPLAKOV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国」指導者(自称) One of the leaders of “the Luhansk People’s Republic” (Self-proclaimed)"
+    date_of_birth: '1983-05-01'
+    place_of_birth: ドネツク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.24
+    name:
+      ja: ヴャチェスラフ(ヴヤチェスラウ)・ポノマリョフ
+      en: Viacheslav(Vyacheslav/Vyacheclav) PONOMARIOV(PONOMAREV/PONOMAROV)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「スロヴヤンスク人民市長」(自称) Self-proclaimed “People’s Mayor of Sloviansk”"
+    date_of_birth: '1965-05-02'
+    place_of_birth: スロヴヤンスク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.25
+    name:
+      ja: イーゴリ・ベズレル　
+      en: Igor BEZLER
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ホルリウカの民兵」指導者(自称) One of the leaders of “the Militia of Horlivka” (Self-proclaimed)"
+    date_of_birth: '1965-12-30'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.26
+    name:
+      ja: イーゴリ(イーホル)・カキジャノフ
+      en: Igor(Ihor) KAKIDZYANOV(KAKIZYANOV/KAKIDZHANOV)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国軍」指導者(自称) One of the leaders of “the Armed forces of the Donetsk People’s Republic” (Self-proclaimed)"
+    date_of_birth: '1980-07-25'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.27
+    name:
+      ja: オレグ(オレフ)・ツァリョフ(ツァリョーフ)　
+      en: Oleg(Oleh) TSARIOV(TSAROV/TSARYOV/TSAREV)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ウクライナ最高会議議員 Member of Verkhovna Rada (Parliament) of Ukraine
+    date_of_birth: '1970-06-02'
+    place_of_birth: ドニプロペトロウスク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.28
+    name:
+      ja: ロマン・リャギン(リャーヒン)
+      en: Roman LYAGIN(LIAHIN/LYAHIN)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国中央選挙管理委員会委員長」(自称) Self-proclaimed “Chairman of the Central Electoral Commission of the Donetsk People’s Republic”"
+    date_of_birth: '1980-05-30'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.29
+    name:
+      ja: アレクサンドル(オレクサンドル)・マリヒン
+      en: Aleksandr(Oleksandr) MALIKHIN(MALYKHIN)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国中央選挙管理委員会委員長」(自称) Self-proclaimed “Chairman of the Central Electoral Commission of the Luhansk People’s Republic”"
+    date_of_birth: '1981-01-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.30
+    name:
+      ja: アレクサンドル・ボロダイ
+      en: Aleksandr BORODAI(BORODAY)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国首相」(自称) Self-proclaimed “Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1972-07-25'
+    place_of_birth: モスクワ(ロシア)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.31
+    name:
+      ja: アレクサンドル(オレクサンドル)・ホダコフスキー(ホダコウスキー)
+      en: Aleksandr(Oleksandr) KHODAKOVSKY(KHODAKOVSKYY/KHODAKOVSKII)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国安全保障相」(自称) Self-proclaimed “Minister of Security of the Donetsk People’s Republic”"
+    date_of_birth: '1972-12-18'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.32
+    name:
+      ja: アレクサンドル(オレクサンドル)・カリュスキー
+      en: Aleksandr(Oleksandr) KALYUSSKY(KALIUSKY/KALYUSKII/KALIUSKYY/KALYUSKYY)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国社会問題担当副首相」(自称) Self-proclaimed “Vice Prime Minister for Social Affairs of the Donetsk People’s Republic”"
+    date_of_birth: '1975-10-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.33
+    name:
+      ja: アレクサンドル(オレクサンドル)・フリャコフ
+      en: Aleksandr(Oleksandr) KHRYAKOV(KHRIAKOV)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国情報マスコミ相」(自称) Self-proclaimed “Minister of Information and Mass Communications of the Donetsk People’s Republic”"
+    date_of_birth: '1958-11-06'
+    place_of_birth: ドネツク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.34
+    name:
+      ja: マラト・バシロフ
+      en: Marat BASHIROV
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国首相」(自称) Self-proclaimed “Prime Minister of the Luhansk People’s Republic”"
+    date_of_birth: '1964-01-20'
+    place_of_birth: イジェフスク(ロシア)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.35
+    name:
+      ja: ヴァシル(ヴァシリー/ヴァシーリー)・ニキチン
+      en: Vasyl(Vasily/Vasiliy/Vasili/Vasilii) NIKITIN
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国副首相」(自称) Self-proclaimed “Vice Prime Minister of the Luhansk People’s Republic”"
+    date_of_birth: '1971-11-25'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.36
+    name:
+      ja: アレクセイ(オレクシー)・カリャキン
+      en: Aleksey(Aleksei/Oleksiy) KARYAKIN(KARIAKIN)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国最高会議議長」(自称) Self-proclaimed “Chairman of the Supreme Council of the Luhansk People’s Republic”"
+    date_of_birth: 1980-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.37
+    name:
+      ja: ユーリー・イヴァキン
+      en: Yuriy(Yurii) IVAKIN
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国内相」(自称) Self-proclaimed “Minister of Internal Affairs of the Luhansk People’s Republic”"
+    date_of_birth: '1954-08-13'
+    place_of_birth: ペレヴァリスク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.38
+    name:
+      ja: イーゴリ(イーホル)・プロトニツキー
+      en: Igor(Ihor) PLOTNITSKY(PLOTNYTSKY/PLOTNYTSKYY/PLOTNITSKII)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国国防相」(自称) Self-proclaimed “Minister of Defense of the Luhansk People’s Republic”"
+    date_of_birth: 1964-XX-XX
+    place_of_birth: ルハンスク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.39
+    name:
+      ja: ニコライ(ミコーラ)・コジツィン
+      en: Nikolay(Nikolai/Mykola) KOZITSYN
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「コザック軍司令官」(自称) Self-proclaimed “Commander of Cossack Forces”"
+    date_of_birth: 1956-XX-XX
+    place_of_birth: ドネツク(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.40
+    name:
+      ja: アレクセイ(オレクシー)・モズゴヴォイ(モズゴヴィ)
+      en: Aleksei(Oleksiy) MOZGOVOY(MOZGOVOI/MOZGOVY/MOZHOVY/MOZHOVYY)
+    type: individual
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 東ウクライナの武装勢力の指導者の一人 One of the leaders of armed groups in Eastern Ukraine
+    date_of_birth: '1975-04-03'
+    place_of_birth: ニージュナヤ・ドゥヴァンカ(ウクライナ)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.41
+    name:
+      ja: ヴァレリ・カウロフ
+      en: Valery(Valeriy/Valerii) KAUROV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ノヴォロシア共和国大統領」（自称） Self-proclaimed “President of the Republic of Novorussia”"
+    date_of_birth: '1956-04-02'
+    place_of_birth: 'オデッサ州(ウクライナ) Place of birth: Odessa(Odesa) Region(Ukraine)'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.42
+    name:
+      ja: フョードル・ベレジン　
+      en: Fedor(Fedir) BEREZIN
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国元国防次官」（自称） Self-proclaimed “Former Deputy Minister of Defense of the Donetsk People’s Republic”"
+    date_of_birth: '1960-02-07'
+    place_of_birth: 'ドネツク州(ウクライナ) Place of birth: Donetsk Region(Ukraine)'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.43
+    name:
+      ja: セルゲイ・ズドリリューク
+      en: Sergey(Sergei/Serhiy/Serhii)　 ZDRILIUK(ZDRILYUK/ZDRYLIUK/ZDRYLYUK)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 東ウクライナの武装勢力の指導者の一人 One of the Leaders of armed groups in Eastern Ukraine(Self-proclaimed)
+    date_of_birth: 1972-XX-XX
+    place_of_birth: ヴィンニツァ州（ウクライナ） Vinnytsia Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.44
+    name:
+      ja: ウラジーミル・アンチュフェエフ
+      en: Vladimir(Volodymyr) ANTYUFEYEV(ANTYUFEEV)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国第一副首相」（自称） Self-proclaimed “First Deputy Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1951-02-19'
+    place_of_birth: ノヴォシビルスク州（ロシア） Novosibirsk Region(Russian Federation)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.45
+    name:
+      ja: パヴェル・グバレフ
+      en: Pavel(Pavlo) GUBAREV（HUBARIEV/HUBAREV）
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドンバス民兵長官」（自称）、「ノヴォロシア」指導者の一人（自称） Self-proclaimed “Head of Donbass People’s Militia”, One of the Leaders of “Novorussia”(Self-proclaimed)"
+    date_of_birth: 1983-XX-XX
+    place_of_birth: ルハンスク州（ウクライナ） Luhansk(Lugansk) Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.46
+    name:
+      ja: エカテリーナ（カテリーナ）・グバレヴァ
+      en: Ekaterina(Kateryna) GUBAREVA（HUBARIEVA/HUBAREVA）
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国外相」（自称） Self-proclaimed “Minister of Foreign Affairs of the Donetsk People’s Republic”"
+    date_of_birth: 1983-XX-XX
+    place_of_birth: ヘルソン州（ウクライナ） Kherson Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.47
+    name:
+      ja: オクサーナ・チグリナ
+      en: Oksana CHIGRINA(CHYHRYNA)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国政府報道官」 （自称） Self-proclaimed “Spokesperson of the Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: '1981-07-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.48
+    name:
+      ja: ボリス・リトヴィノフ
+      en: Boris(Borys) LITVINOV(LYTVYNOV)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国最高会議議長」（自称） Self-proclaimed “Chairman of the Supreme Council of the Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: '1954-01-13'
+    place_of_birth: ドネツク州（ウクライナ） Donetsk Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.49
+    name:
+      ja: アレクサンドル・ザハルチェンコ
+      en: Aleksandr(Alexander/Oleksandr) ZAKHARCHENKO
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国首長」（自称） Self-proclaimed “Head of the Donetsk People’s Republic”"
+    date_of_birth: 1976-XX-XX
+    place_of_birth: ドネツク州（ウクライナ） Donetsk Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.50
+    name:
+      ja: ウラジーミル・コノノフ
+      en: Vladimir(Volodymyr) KONONOV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国国防相」（自称） Self-proclaimed “Minister of Defense of the Donetsk People’s Republic”"
+    date_of_birth: '1974-10-14'
+    place_of_birth: ルハンスク州（ウクライナ） Luhansk(Lugansk) Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.51
+    name:
+      ja: ミロスラフ・ルデンコ
+      en: Miroslav(Myroslav) RUDENKO
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドンバス人民軍司令官」（自称） Self-proclaimed “Commander of Donbass(Donbas) People’s Militia”"
+    date_of_birth: '1983-01-21'
+    place_of_birth: ドネツク州 (ウクライナ) Donetsk Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.53
+    name:
+      ja: アレクサンドル・カラマン
+      en: Aleksandr(Alexander/Oleksandr) KARAMAN
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国副首相（社会問題担当）」（自称） Self-proclaimed “Deputy Prime Minister (for Social Issues) of Donetsk People’s Republic”"
+    date_of_birth: '1956-07-26'
+    place_of_birth: モルドヴィア共和国（ロシア） Republic of Mordovia(Russian Federation)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.54
+    name:
+      ja: セルゲイ・コジヤコフ
+      en: Sergey(Sergei/Serhiy/Serhii)　KOZYAKOV(KOZ’YAKOV)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「元ルハンスク人民共和国中央選挙管理委員会委員長」（自称） Self-proclaimed “Former Chairman of the Central Electoral Commission of the Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: 1982-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.55
+    name:
+      ja: オレグ・アキモフ
+      en: Oleg(Oleh) AKIMOV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国議員」 （自称） Self-proclaimed “Member of National Council of Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: '1981-09-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.56
+    name:
+      ja: ラリサ・アイラペチャン
+      en: Larisa(Larysa) AYRAPETYAN(AIRAPETYAN)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国保健相」（自称） Self-proclaimed “Minister of Health of the Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: '1970-02-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.57
+    name:
+      ja: ユーリー・シヴォコネンコ
+      en: Yuriy(Yurii) SIVOKONENKO
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国議会議員」（自称） Self-proclaimed “Member of National Council of Donetsk People’s Republic”"
+    date_of_birth: '1957-08-07'
+    place_of_birth: ドネツク州(ウクライナ) Donetsk Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.58
+    name:
+      ja: アレクサンドル・コフマン
+      en: Aleksandr(Alexander/Oleksandr) KOFMAN
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国議会議員」（自称） Self-proclaimed “Member of National Council of Donetsk People’s Republic”"
+    date_of_birth: '1977-08-30'
+    place_of_birth: ドネツク州(ウクライナ) Donetsk Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.59
+    name:
+      ja: ラヴィル・ハリコフ
+      en: Ravil KHALIKOV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国第一副首相」（自称） Self-proclaimed “First Deputy Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1969-02-23'
+    place_of_birth: モルドヴィア共和国（ロシア） Republic of Mordovia(Russian Federation)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.60
+    name:
+      ja: ドミトリー・セミョノフ
+      en: Dmitry(Dmitriy/Dmytro) SEMYONOV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国副首相」（自称） Self-proclaimed “Deputy Prime Minister of the Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: '1977-06-01'
+    place_of_birth: モスクワ市（ロシア） Moscow City(Russian Federation)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.61
+    name:
+      ja: オレグ・ブグロフ
+      en: Oleg(Oleh) BUGROV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国国防相」（自称） Self-proclaimed “Minister of Defense of the Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: 1973-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.62
+    name:
+      ja: レシャ・ラプテヴァ
+      en: Lesya LAPTEVA
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国教育科学文化宗教相」（自称） Self-proclaimed “Minister of Education, Science, Culture and Religion of the Luhansk(Lugansk) People’s Republic"
+    date_of_birth: '1976-03-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.63
+    name:
+      ja: エヴゲーニ・ミハイロフ
+      en: Yevgeniy(Yevhen/ Evgeny) MIKHAYLOV(MYKHAYLOV)
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国官房長官」（自称） Self-proclaimed “Head of the Administration for Government Affairs of the Donetsk People’s Republic”"
+    date_of_birth: '1963-03-17'
+    place_of_birth: アルハンゲルスク州（ロシア） Arkhangelsk Region(Russian Federation)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.64
+    name:
+      ja: イーゴリ・コステノク
+      en: Igor(Ihor) KOSTENOK
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国教育相」（自称） Self-proclaimed “Minister of Health of the Donetsk People’s Republic”"
+    date_of_birth: '1961-03-15'
+    place_of_birth: ドネツク州（ウクライナ） Donetsk Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.65
+    name:
+      ja: エヴゲーニ・オルロフ
+      en: Yevgeniy(Yevhen/Evgeny) ORLOV
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国議会議員」（自称） Self-proclaimed “Member of National Council of Donetsk People’s Republic”"
+    date_of_birth: 1980-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.66
+    name:
+      ja: ヴラジスラフ・デイネゴ
+      en: Vladislav(Vladyslav) DEYNEGO
+    type: individual
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国議会副議長」（自称） Self-proclaimed “Deputy Chairman of National Council of Luhansk(Lugansk) People’s Republic”"
+    date_of_birth: '1964-03-12'
+    place_of_birth: スーミ州（ウクライナ） Sumy Region(Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.67
+    name:
+      ja: ウラジーミル・ビデョフカ
+      en: Vladimir BIDYOVKA
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議長」（自称） Self-proclaimed “Chairman of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1981-03-07'
+    place_of_birth: ドネツク州（ウクライナ） Donetsk Region (Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.68
+    name:
+      ja: オリガ・マケエヴァ
+      en: Olga (Ol’ga) MAKEEVA
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会副議長」（自称） Self-proclaimed “Deputy Chairman of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1974-11-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.69
+    name:
+      ja: アレクサンドル・アナンチェンコ
+      en: Alexandr ANANCHENKO
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国首相」（自称） Self-proclaimed “Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1966-02-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.70
+    name:
+      ja: ウラジーミル・アントノフ
+      en: Vladimir ANTONOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国副首相」（自称） Self-proclaimed “Deputy Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1979-12-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.71
+    name:
+      ja: タチヤナ・ペレヴェルゼヴァ
+      en: Tatiana (Tatyana) PEREVERZEVA
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国副首相」（自称） Self-proclaimed “Deputy Prime Minister of the Donetsk People’s Republic”"
+    date_of_birth: '1964-06-20'
+    place_of_birth: ドネツク州（ウクライナ） Donetsk Region (Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.72
+    name:
+      ja: アレクセイ・ディーキー
+      en: Aleksei (Alexey) DIKIY
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国内相」（自称） Self-proclaimed “Minister of the Interior of the Donetsk People’s Republic”"
+    date_of_birth: '1974-07-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.73
+    name:
+      ja: ウラジーミル・パヴレンコ
+      en: Vladimir PAVLENKO
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国国家安全保障相」（自称） Self-proclaimed “Minister of State Security of the Donetsk People’s Republic”"
+    date_of_birth: '1962-04-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.74
+    name:
+      ja: ナタリヤ・ニコノロヴァ
+      en: Nataliya NIKONOROVA
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国外相」（自称） Self-proclaimed “Minister of Foreign Affairs of the Donetsk People’s Republic”"
+    date_of_birth: '1984-09-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.75
+    name:
+      ja: イーゴリ・アンチポフ
+      en: Igor ANTIPOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国情報相」（自称） Self-proclaimed “Minister of Information of the Donetsk People’s Republic”"
+    date_of_birth: '1961-05-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.76
+    name:
+      ja: アレクセイ・コストルビツキー
+      en: Aleksei (Alexey) KOSTRUBITSKY
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国民間防衛・非常事態・災害復旧相」（自称） Self-proclaimed “Minister of Civil Defence, Emergencies and Disaster Relief of the Donetsk People’s Republic”"
+    date_of_birth: '1978-08-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.77
+    name:
+      ja: ユーリー・シロヴァトコ
+      en: Yuriy (Yurii) SIROVATKO
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国法相」（自称） Self-proclaimed “Minister of Justice of the Donetsk People’s Republic”"
+    date_of_birth: '1978-04-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.78
+    name:
+      ja: レオニード・パセチュニク
+      en: Leonid PASECHNIK
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国首長」（自称） Self-proclaimed “Head of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1970-03-15'
+    place_of_birth: ルハンスク州（ウクライナ） Luhansk Region (Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.79
+    name:
+      ja: デニス・ミロシュニチェンコ
+      en: Denis (Denys) MIROSHNICHENKO
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議長」（自称） Self-proclaimed “Chairman of the People’s Council of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1987-12-08'
+    place_of_birth: ルハンスク州（ウクライナ） Luhansk Region (Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.80
+    name:
+      ja: ドミトリー・ホロシロフ
+      en: Dmitrii (Dmitry) KHOROSHILOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会第一副議長」（自称） Self-proclaimed “First Deputy Chairman of the People’s Council of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1982-12-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.81
+    name:
+      ja: アンドレイ・ソペリニク
+      en: Andrei (Andrey) SOPELNIK
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会副議長」（自称） Self-proclaimed “Deputy Chairman of the People’s Council of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1975-03-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.82
+    name:
+      ja: オレグ・コヴァリ
+      en: Oleg KOVAL
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会副議長」（自称） Self-proclaimed “Deputy Chairman of the People’s Council of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1974-09-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.83
+    name:
+      ja: セルゲイ・コズロフ
+      en: Sergei (Sergey) KOZLOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国首相」（自称） Self-proclaimed “Prime Minister of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1963-11-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.84
+    name:
+      ja: ユーリー・ゴヴトヴィン
+      en: Yurii (Yuriy) GOVTVIN
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国第一副首相」（自称） Self-proclaimed “First Deputy Prime Minister of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1968-04-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.85
+    name:
+      ja: エレーナ・コステンコ
+      en: Elena KOSTENKO
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国副首相」（自称） Self-proclaimed “Deputy Prime Minister of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1968-11-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.86
+    name:
+      ja: アンナ・トドロヴァ
+      en: Anna TODOROVA
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国副首相」（自称） Self-proclaimed “Deputy Prime Minister of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1988-02-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.87
+    name:
+      ja: イーゴリ・コルネト
+      en: Igor KORNET
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国内相」（自称） Self-proclaimed “Minister of the Interior of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1973-04-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.88
+    name:
+      ja: エヴゲーニー・カツァヴァロフ
+      en: Evgenii KATCAVALOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国非常事態・災害復旧相」（自称） Self-proclaimed “Minister of Emergencies and Disaster Relief of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1972-02-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.89
+    name:
+      ja: ザウル・イスマイロフ
+      en: Zaur ISMAILOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国法相」（自称） Self-proclaimed “Minister of Justice of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: 1978-XX-XX
+    place_of_birth: ルハンスク州（ウクライナ） Luhansk Region (Ukraine)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.90
+    name:
+      ja: アナトーリー・アントノフ
+      en: Anatolii ANTONOV
+    type: individual
+    effective_date: '2022-02-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国国家安全保障相」（自称） Self-proclaimed “Minister of State Security of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1966-11-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.91
+    name:
+      ja: アルチョム・クラマレンコ
+      en: Artyom (Artem) KRAMARENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国農産業政策・食料相」（自称） Self-proclaimed “Minister of Agricultural Policy and Food of the Donetsk People’s Republic”"
+    date_of_birth: '1980-01-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.92
+    name:
+      ja: エヴゲーニー・ラヴレノフ
+      en: Evgenii LAVRENOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国所得・徴収相」（自称） Self-proclaimed “Minister of Revenue and Tax Collection of the Donetsk People’s Republic”"
+    date_of_birth: '1979-12-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.93
+    name:
+      ja: アレクサンドル・オプリシェンコ
+      en: Alexandr OPRISHCHENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国保健相代行」（自称） Self-proclaimed “Acting Minister of Health of the Donetsk People’s Republic”"
+    date_of_birth: '1976-04-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.94
+    name:
+      ja: ミハイル・ジェルチャコフ
+      en: Mikhail ZHELTIAKOV (ZHELTYAKOV)
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国文化相」（自称） Self-proclaimed “Minister of Culture of the Donetsk People’s Republic”"
+    date_of_birth: '1961-01-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.95
+    name:
+      ja: アレクサンドル・グロマコフ
+      en: Alexandr GROMAKOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国青年・スポーツ・観光相」（自称） Self-proclaimed “Minister of Youth, Sports and Tourism of the Donetsk People’s Republic”"
+    date_of_birth: '1958-09-04'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.96
+    name:
+      ja: ミハイル・クシャコフ
+      en: Mikhail KUSHAKOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国教育・科学相」（自称） Self-proclaimed “Minister of Education and Science of the Donetsk People’s Republic”"
+    date_of_birth: '1958-11-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.97
+    name:
+      ja: ウラジーミル・ルシャク
+      en: Vladimir RUSHCHAK
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国産業商務相」（自称） Self-proclaimed “Minister of Industry and Trade of the Donetsk People’s Republic”"
+    date_of_birth: '1971-09-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.98
+    name:
+      ja: イーゴリ・ハレパ
+      en: Igor KHALEPA
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国通信相」（自称） Self-proclaimed “Minister of Communications of the Donetsk People’s Republic”"
+    date_of_birth: '1969-05-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.99
+    name:
+      ja: セルゲイ・ナウメツ
+      en: Sergei (Sergey) NAUMETS
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国建設・住宅公営事業相」（自称） Self-proclaimed “Minister of Construction and Housing and Communal Services of the Donetsk People’s Republic”"
+    date_of_birth: '1976-07-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.100
+    name:
+      ja: ドミトリー・ポドリパノフ
+      en: Dmitry PODLIPANOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国運輸相」（自称） Self-proclaimed “Minister of Transport of the Donetsk People’s Republic”"
+    date_of_birth: '1964-11-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.101
+    name:
+      ja: ラリサ・トルスティキナ
+      en: Larisa TOLSTYKINA
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国労働・社会政策相」（自称） Self-proclaimed “Minister of Labour and Social Policy of the Donetsk People’s Republic”"
+    date_of_birth: '1967-10-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.102
+    name:
+      ja: アナトリー・ネステレンコ
+      en: Anatolii NESTERENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国石炭・エネルギー相代行」（自称） Self-proclaimed “Acting Minister of Coal and Energy of the Donetsk People’s Republic”"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.103
+    name:
+      ja: ヤナ・チャウソヴァ
+      en: Yana CHAUSOVA
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国財務相」（自称） Self-proclaimed “Minister of Finance of the Donetsk People’s Republic”"
+    date_of_birth: '1980-09-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.104
+    name:
+      ja: アレクセイ・ポロヴャン
+      en: Aleksei (Alexey) POLOVYAN
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国経済発展相」（自称） Self-proclaimed “Minister of Economic Development of the Donetsk People’s Republic”"
+    date_of_birth: '1979-05-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.105
+    name:
+      ja: ナタリヤ・パシェンコ
+      en: Nataliya(Natalia) PASHCHENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国保健相」（自称） Self-proclaimed “Minister of Health of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1975-10-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.106
+    name:
+      ja: アンドレイ・ルステンコ
+      en: Andrei (Andrey) LUSTENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国教育・科学相」（自称） Self-proclaimed “Minister of Education and Science of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1975-06-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.107
+    name:
+      ja: スヴェトラーナ・マラホヴァ
+      en: Svetlana MALAKHOVA
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国労働・社会政策相」（自称） Self-proclaimed “Minister of Labour and Social Policy of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1964-08-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.108
+    name:
+      ja: ドミトリー・シドロフ
+      en: Dmitrii (Dmitry) SIDOROV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国文化・スポーツ・青年相」（自称） Self-proclaimed “Minister of Culture, Sports and Youth of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1989-09-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.109
+    name:
+      ja: セルゲイ・ボロディン
+      en: Sergei (Sergey) BORODIN
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国国家税・徴税委員会委員長」（自称） Self-proclaimed “Chairman of the State Committee for Taxes and Duties of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1968-01-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.110
+    name:
+      ja: ユーリー・プロニコ
+      en: Yurii (Yuriy) PRONKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国農業・食料相」（自称） Self-proclaimed “Minister of Agriculture and Food of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1962-04-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.111
+    name:
+      ja: エヴゲーニー・マヌイロフ
+      en: Evgenii MANUILOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国財務相」（自称） Self-proclaimed “Minister of Finance of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1967-01-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.112
+    name:
+      ja: スヴェトラーナ・ポドリパエヴァ
+      en: Svetlana PODLIPAEVA
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国経済発展相」（自称） Self-proclaimed “Minister of Economic Development of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1968-09-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.113
+    name:
+      ja: マクシム・プロタソフ
+      en: Maksim PROTASOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国建設・住宅公営事業相」（自称） Self-proclaimed “Minister of Construction and Housing and Communal Services of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1976-02-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.114
+    name:
+      ja: オレグ・フェチソフ
+      en: Oleg FETISOV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国通信・マスコミ相」（自称） Self-proclaimed “Minister of Communications and Mass Media of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1971-03-30'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.115
+    name:
+      ja: ユーリー・デグチャリョフ
+      en: Yurii(Yuriy) DEGTYAREV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国天然資源・環境保全相」（自称） Self-proclaimed “Minister of Natural Resources and Environmental Security of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1977-07-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.116
+    name:
+      ja: セルゲイ・ネヴェロフ
+      en: Sergei(Sergey) NEVEROV
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国産業商務相」（自称） Self-proclaimed “Minister of Industry and Trade of the Luhansk (Lugansk) People’s Republic”"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.117
+    name:
+      ja: ユーリー・アファナシエフスキー
+      en: Yurii(Yuriy) AFANASEVSKII(AFANASEVSKY)
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国国家関税委員会委員長」（自称） Self-proclaimed “Chairman of the State Customs Committee of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1968-12-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.118
+    name:
+      ja: エレーナ・クラフチェンコ
+      en: Elena KRAVCHENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国中央選挙管理委員会委員長」（自称） Self-proclaimed “Chairman of the Central Electoral Commission of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1983-02-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.119
+    name:
+      ja: マクシム・スヴィドチェンコ
+      en: Maksim SVIDCHENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国中央選挙管理委員会副委員長」（自称） Self-proclaimed “Deputy Chairman of the Central Electoral Commission of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1978-04-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.120
+    name:
+      ja: エカテリーナ・テレシェンコ
+      en: Ekaterina TERESHCHENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国中央選挙管理委員会書記」（自称） Self-proclaimed “Secretary of the Central Electoral Commission of the Luhansk (Lugansk) People’s Republic”"
+    date_of_birth: '1986-05-31'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.121
+    name:
+      ja: ルスラン・ドゥボフスキー
+      en: Ruslan DUBOVSKII (DUBOVSKIY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国石炭・エネルギー相」（自称） Self-proclaimed“Minister of Coal and Energy of the Donetsk People’s Republic”"
+    date_of_birth: '1974-02-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.122
+    name:
+      ja: ヴィターリー・クラヴェツ
+      en: Vitalii (Vitaly) KRAVETS
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1975-04-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.123
+    name:
+      ja: ヤロスラフ・アニカ
+      en: Yaroslav ANIKA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1990-06-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.124
+    name:
+      ja: エヴゲーニー・グリツェンコ
+      en: Evgenii (Yevgeny) GRITSENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1977-07-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.125
+    name:
+      ja: アンドレイ・ヴォロシロフ
+      en: Andrei (Andrey) VOROSHILOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1978-04-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.126
+    name:
+      ja: アレクサンドル・クレンコフ
+      en: Aleksandr (Alexander) KURENKOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1962-06-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.127
+    name:
+      ja: ウラジスラフ・ベルディチェフスキー
+      en: Vladislav BERDICHEVSKII (BERDICHEVSKY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1967-09-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.128
+    name:
+      ja: イリーナ・ポポヴァ
+      en: Irina POPOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1966-08-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.130
+    name:
+      ja: セルゲイ・プロコペンコ
+      en: Sergei (Sergey) PROKOPENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1986-10-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.131
+    name:
+      ja: スヴェトラーナ・クマノヴァ
+      en: Svetlana KUMANOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1966-11-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.132
+    name:
+      ja: マリーナ・マグダリナ
+      en: Marina MAGDALINA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1984-01-04'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.133
+    name:
+      ja: キリル・マカロフ
+      en: Kirill MAKAROV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1995-11-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.134
+    name:
+      ja: アレクサンドル・マルコフ
+      en: Aleksandr (Alexander) MALKOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1953-07-18'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.135
+    name:
+      ja: イーゴリ・マルティノフ
+      en: Igorj MARTINOV (MARTYNOV)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1969-06-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.136
+    name:
+      ja: イーゴリ・マトルス
+      en: Igorj (Igor) MATRUS
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1981-07-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.137
+    name:
+      ja: ウラジーミル・メドヴェージェフ
+      en: Vladimir MEDVEDEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1980-10-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.138
+    name:
+      ja: ユリヤ・ミハイロヴァ
+      en: Yuljya (Yulia) MIKHAILOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: 1991-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.139
+    name:
+      ja: ウラジーミル・モシュキン
+      en: Vladimir MOSHKIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1980-06-25'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.140
+    name:
+      ja: アーラ・オボレンスカヤ
+      en: Alla OBOLENSKAYA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1964-07-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.141
+    name:
+      ja: ドミートリー・オギレツ
+      en: Dmitrii (Dmitry) OGILETS
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1968-09-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.142
+    name:
+      ja: オレグ・オノプコ
+      en: Oleg ONOPKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: 10月10日（year unknown）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.143
+    name:
+      ja: ウラジーミル・パクレエフ
+      en: Vladimir PAKREEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1977-07-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.144
+    name:
+      ja: マクシム・パルシン
+      en: Maksim (Maxim) PARSHIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1976-08-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.145
+    name:
+      ja: イーゴリ・パシュコフ
+      en: Igorj (Igor) PASHKOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1961-02-04'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.146
+    name:
+      ja: ヴァシーリー・ペルツェフ
+      en: Vasily PERTSEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1981-08-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.147
+    name:
+      ja: ユーリー・ポキンテリツァ
+      en: Yurii (Yuri) POKINTELITSA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1966-05-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.148
+    name:
+      ja: ナターリヤ・ポリャンスカヤ
+      en: Nataljya (Natalya) POLYANSKAYA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1971-11-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.149
+    name:
+      ja: レオニード・プリセンコ
+      en: Leonid PRISENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1961-07-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.150
+    name:
+      ja: ナターリヤ・プシェニチナヤ
+      en: Nataljya (Natalya) PSHENICHNAYA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1981-06-30'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.151
+    name:
+      ja: リュボミル・プーシキン
+      en: Lyubomir PUSHKIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1977-05-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.152
+    name:
+      ja: ウラジスラフ・ルサノフ
+      en: Vladislav RUSANOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1966-06-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.153
+    name:
+      ja: ウラジーミル・サヴェロフ
+      en: Vladimir SAVELOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1965-02-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.154
+    name:
+      ja: アナスタシア・セリヴァノヴァ
+      en: Anastasia SELIVANOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1983-08-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.155
+    name:
+      ja: アレクサンドル・セリョジェンコ
+      en: Aleksandr (Alexander) SERYOZHENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1965-03-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.156
+    name:
+      ja: エレーナ・シシュキナ
+      en: Elena SHISHKINA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1978-04-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.157
+    name:
+      ja: アレクサンドル・コロトキー
+      en: Aleksandr (Alexander) KOROTKII (KOROTKIY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1925-03-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.158
+    name:
+      ja: オクサーナ・シギディナ
+      en: Oksana SIGIDINA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1976-08-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.159
+    name:
+      ja: ヴァレーリー・スコロホドフ
+      en: Valerii (Valery) SKOROKHODOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1976-05-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.160
+    name:
+      ja: ナターリヤ・ストレリチュク
+      en: Nataljya (Natalya) STRELJCHUK (STRELCHUK)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1974-09-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.161
+    name:
+      ja: パーヴェル・シェポチコ
+      en: Pavel SHEPOTJKO (SHEPOTKO)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1986-04-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.162
+    name:
+      ja: セルゲイ・テリヌィフ
+      en: Sergei (Sergey) TELJNYKH (TELNYKH)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1972-04-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.163
+    name:
+      ja: ロマン・ウダロフ
+      en: Roman UDALOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1994-05-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.164
+    name:
+      ja: アレクサンドラ・ウサチェヴァ
+      en: Aleksandra (Alexandra) USACHEVA (USACHOVA)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: ９月28日（year unknown）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.165
+    name:
+      ja: ナターリヤ・ヴォルコヴァ
+      en: Nataljya (Natalya) VOLKOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1976-10-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.166
+    name:
+      ja: ユーリー・ザカブルク
+      en: Yurii (Yuri) ZAKABLUK
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1957-08-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.167
+    name:
+      ja: マリーナ・ジェイノヴァ
+      en: Marina ZHEINOVA (ZHEYNOVA)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1985-02-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.168
+    name:
+      ja: アレクセイ・ジグリン
+      en: Aleksei ZHIGULIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1979-01-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.170
+    name:
+      ja: タチヤーナ・ジュラヴリョヴァ
+      en: Tatjyana (Tatyana) ZHURAVLYOVA (ZHURAVLEVA)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1967-12-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.171
+    name:
+      ja: アブドゥ・ハッサン
+      en: Abdu HASSAN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1994-06-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.172
+    name:
+      ja: セルゲイ・アブコフ
+      en: Sergei ABUKOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1971-03-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.173
+    name:
+      ja: ウラジーミル・アンドリエンコ
+      en: Vladimir ANDRIENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1957-04-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.174
+    name:
+      ja: アレクサンドル・アヴデエフ
+      en: Aleksandr (Alexander) AVDEEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1958-12-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.175
+    name:
+      ja: オクサーナ・バベンコ
+      en: Oksana BABENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1987-06-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.176
+    name:
+      ja: アンドレイ・バエフスキー
+      en: Andrei (Andrey) BAEVSKII (BAEVSKY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1972-08-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.177
+    name:
+      ja: アレクサンドル・バナフ
+      en: Aleksandr (Alexander) BANAKH
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1985-07-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.178
+    name:
+      ja: リナト・ビリャロフ
+      en: Rinat BILYALOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1969-10-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.179
+    name:
+      ja: マリヤ・ボガトヴァ
+      en: Mariya (Maria) BOGATOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1997-04-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.180
+    name:
+      ja: アナトーリー・ボンダルチュク
+      en: Anatolii (Anatoly) BONDARCHUK
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1948-06-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.181
+    name:
+      ja: アレクサンドル・ボンダレンコ
+      en: Aleksandr (Alexander) BONDARENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1983-09-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.182
+    name:
+      ja: アレクサンドル・ビィカドロフ
+      en: Aleksandr (Alexander) BYKADOROV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1985-09-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.183
+    name:
+      ja: ナターリヤ・チェカリョヴァ
+      en: Nataljya (Natalya) CHEKARYOVA (CHEKAREVA)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1969-05-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.184
+    name:
+      ja: セルゲイ・チュチン
+      en: Sergei (Sergey) CHUCHIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1959-12-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.185
+    name:
+      ja: ドミートリー・チュラゼ
+      en: Dmitrii (Dmitry) CHURADZE
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1974-10-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.186
+    name:
+      ja: ドミートリー・デゾルツェフ
+      en: Dmitrii (Dmitry) DEZORTSEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1966-06-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.187
+    name:
+      ja: イリーナ・ディアノヴァ
+      en: Irina DIANOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1962-10-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.188
+    name:
+      ja: アレクセイ・ドロフェエフ
+      en: Aleksei (Alexey) DOROFEEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1986-11-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.189
+    name:
+      ja: ウラジーミル・ドゥボフカ
+      en: Vladimir DUBOVKA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1982-09-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.190
+    name:
+      ja: アレクサンドル・ジャゴベツ
+      en: Aleksandr (Alexander) DYAGOVETS
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1962-01-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.191
+    name:
+      ja: オリガ・グリャズノヴァ
+      en: Oljga (Olga) GRYAZNOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1983-05-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.192
+    name:
+      ja: ナターリヤ・グバレヴァ
+      en: Nataljya (Natalya) GUBAREVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1981-06-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.193
+    name:
+      ja: エヴゲーニー・イリエンコ
+      en: Evgenii (Evgeny) ILJENKO (ILYENKO)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1995-11-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.194
+    name:
+      ja: ヴィクトル・イシェンコ
+      en: Viktor ISHCHENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1958-09-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.195
+    name:
+      ja: ゲルマン・カディロフ
+      en: German KADYROV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1965-10-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.196
+    name:
+      ja: アレクサンドル・カミショフ
+      en: Aleksandr (Alexander) KAMISHOV (KAMYSHOV)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1987-05-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.197
+    name:
+      ja: マクシム・クニシュ
+      en: Maksim (Maxim) KNYSH
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1983-05-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.198
+    name:
+      ja: マクシム・コロリュク
+      en: Maksim (Maxim) KOROLYUK
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1982-12-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.199
+    name:
+      ja: イリーナ・コステンコ
+      en: Irina KOSTENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1967-05-08'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.200
+    name:
+      ja: ゲンナージー・コヴァリチュク
+      en: Gennadii (Gennady) KOVALJCHUK (KOVALCHUK)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1969-09-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.201
+    name:
+      ja: セルゲイ・コヴァリチュク
+      en: Sergei (Sergey) KOVALJCHUK (KOVALCHUK)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1966-01-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.202
+    name:
+      ja: アレクサンドル・コフティリン
+      en: Aleksandr (Alexander) KOVTYRIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1977-10-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.203
+    name:
+      ja: オリガ・クラフツォヴァ
+      en: Oljga (Olga) KRAVTSOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1972-02-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.204
+    name:
+      ja: ユリヤ・クリュコヴァ
+      en: Yuljya (Julia) KRYUKOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1978-05-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.205
+    name:
+      ja: クラヴディヤ・クリバツカヤ
+      en: Klavdiya (Klavdia) KULYBATSKAYA (KULBATSKAYA)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1967-03-30'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.206
+    name:
+      ja: コンスタンチン・クジミン
+      en: Konstantin KUZJMIN (KUZMIN)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1976-11-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.207
+    name:
+      ja: ユーリー・レオノフ
+      en: Yurii (Yury) LEONOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1980-04-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.208
+    name:
+      ja: ロマン・レパ
+      en: Roman LEPA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1974-06-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.209
+    name:
+      ja: ヤロスラフ・リソベイ
+      en: Yaroslav LISOBEY
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Donetsk People’s Republic”"
+    date_of_birth: '1988-01-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.210
+    name:
+      ja: イリーナ・アンドルフ
+      en: Irina ANDRUKH
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1959-09-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.211
+    name:
+      ja: アレクセイ・ベレツキー
+      en: Aleksei BELETSKII (BELETSKY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1988-07-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.212
+    name:
+      ja: ゲンナージー・ブネエフ
+      en: Gennadii (Gennadiy) BUNEEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1958-02-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.213
+    name:
+      ja: オレグ・ダドノフ
+      en: Oleg DADONOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1968-07-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.214
+    name:
+      ja: ベーラ・デメシュコ
+      en: Bella DEMESHKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1979-02-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.215
+    name:
+      ja: セルゲイ・ディデンコ
+      en: Sergei DIDENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1974-06-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.216
+    name:
+      ja: エレーナ・ファラホヴァ
+      en: Elena FARAKHOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1984-12-31'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.217
+    name:
+      ja: ヴァレーリー・ガリンキン
+      en: Valerii (Valeriy) GALINKIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1947-08-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.218
+    name:
+      ja: スヴェトラーナ・ギザイ
+      en: Svetlana GIZAI (GIZAY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1965-01-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.219
+    name:
+      ja: ドミートリー・ゴルダ
+      en: Dmitrii (Dmitry) GOLDA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1984-08-02'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.221
+    name:
+      ja: アンドレイ・グバレフ
+      en: Andrei GUBAREV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1974-10-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.222
+    name:
+      ja: スヴェトラーナ・フヴォロスチャン
+      en: Svetlana KHVOROSTYAN (KHVOROSTIAN)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1990-03-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.223
+    name:
+      ja: ヴィターリー・キシュキノフ
+      en: Vitalii (Vitaliy) KISHKINOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1983-01-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.224
+    name:
+      ja: オリガ・コブツェヴァ
+      en: Oljga (Olga) KOBTSEVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1966-09-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.225
+    name:
+      ja: デニス・コレスニコフ
+      en: Denis KOLESNIKOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1980-06-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.226
+    name:
+      ja: アレクサンドラ・コヴァレンコ
+      en: Aleksandra KOVALENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1988-09-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.227
+    name:
+      ja: アレクサンドル・クリエレンコ
+      en: Aleksandr KRIYERENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1993-10-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.228
+    name:
+      ja: ドミートリー・クカルスキー
+      en: Dmitrii (Dmitry) KUKARSKII (KUKARSKY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1982-01-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.229
+    name:
+      ja: アンドレイ・リツォエフ
+      en: Andrei LITSOEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1967-02-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.230
+    name:
+      ja: ロマン・ルィセンコ
+      en: Roman LYSENKO
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1962-08-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.231
+    name:
+      ja: パーヴェル・マールィ
+      en: Pavel MALYI (MALY)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1968-11-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.232
+    name:
+      ja: ルスラン・マルダノフ
+      en: Ruslan MARDANOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1980-09-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.233
+    name:
+      ja: ジャンナ・マルフィナ
+      en: Zhanna MARFINA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1974-01-31'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.234
+    name:
+      ja: アンナ・モシナ
+      en: Anna MOSINA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1957-10-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.235
+    name:
+      ja: ジナイダ・ナデン
+      en: Zinaida NADEN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1947-07-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.236
+    name:
+      ja: パーヴェル・ピラヴォフ
+      en: Pavel PILAVOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1969-02-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.237
+    name:
+      ja: アーラ・ポドティンナヤ
+      en: Alla PODTYNNAYA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1953-06-08'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.238
+    name:
+      ja: ウラジーミル・ポリャコフ
+      en: Vladimir POLYAKOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1987-04-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.240
+    name:
+      ja: エレーナ・ラフムコヴァ
+      en: Elena RAKHMUKOVA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1956-09-25'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.241
+    name:
+      ja: イーゴリ・リャブシキン
+      en: Igorj (Igor) RYABUSHKIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1970-05-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.242
+    name:
+      ja: イワン・サナエフ
+      en: Ivan SANAEV (SANAYEV)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1986-06-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.243
+    name:
+      ja: ウラジーミル・サンキン
+      en: Vladimir SANKIN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1984-06-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.244
+    name:
+      ja: ナターリヤ・セルグン
+      en: Nataljya (Natalya) SERGUN
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1973-09-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.245
+    name:
+      ja: セルゲイ・セロフ
+      en: Sergei SEROV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1967-12-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.246
+    name:
+      ja: コンスタンチン・スクルィプニク
+      en: Konstantin SKRYPNIK (SKRYPNYK)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1974-04-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.247
+    name:
+      ja: ヴャチェスラフ・スヴェトロフ
+      en: Vyacheslav (Viacheslav) SVETLOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1970-01-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.248
+    name:
+      ja: アンドレイ・タンボフツェフ
+      en: Andrei TAMBOVTSEV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1986-08-06'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.249
+    name:
+      ja: ユーリー・テリカノフ
+      en: Yurii (Yuriy) TELIKANOV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1955-05-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.250
+    name:
+      ja: マクシム・ウヴァロフ
+      en: Maksim UVAROV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1980-08-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.251
+    name:
+      ja: アレクサンドル・エルモレンコ
+      en: Aleksandr ERMOLENKO (YERMOLENKO)
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1985-12-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.252
+    name:
+      ja: ユーリー・ユロフ
+      en: Yurii (Yuriy) YUROV
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1969-06-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.253
+    name:
+      ja: ネリ・ザディラカ
+      en: Nelli ZADIRAKA
+    type: individual
+    effective_date: '2022-05-10'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人民議会議員」（自称） Self-proclaimed “Member of the People’s Council of the Luhansk People’s Republic”"
+    date_of_birth: '1949-08-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.254
+    name:
+      ja: キリロ・ストレモウソフ
+      en: Kyrylo STREMOUSOV
+    type: individual
+    effective_date: '2022-07-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ヘルソン市「平和と秩序のための救済委員会」会長 President of the ‘Salvation Committee for Peace and Order’ in Kherson
+    date_of_birth: 1976-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.255
+    name:
+      ja: ヴォロディミル・サルド
+      en: Volodymir SALDO
+    type: individual
+    effective_date: '2022-07-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ヘルソン市「平和と秩序のための救済委員会」メンバー Member of the ‘Salvation Committee for Peace and Order’ in Kherson
+    date_of_birth: '1956-06-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.256
+    name:
+      ja: セルヒー・チェレフコ
+      en: Serhiy CHEREVKO
+    type: individual
+    effective_date: '2022-07-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ヘルソン市「平和と秩序のための救済委員会」メンバー Member of the ‘Salvation Committee for Peace and Order’ in Kherson
+    date_of_birth: '1975-08-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.257
+    name:
+      ja: テチャーナ・クジミチ
+      en: Tetiana KUZMICH
+    type: individual
+    effective_date: '2022-07-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ヘルソン市「平和と秩序のための救済委員会」メンバー Member of the ‘Salvation Committee for Peace and Order’ in Kherson
+    date_of_birth: '1968-04-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.258
+    name:
+      ja: ハリーナ・ダニリチェンコ
+      en: Galina DANILCHENKO
+    type: individual
+    effective_date: '2022-07-05'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア占領軍指名メリトポリ市長代行 Appointed acting mayor of Melitopol by Russian occupation forces
+    date_of_birth: 1964-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.259
+    name:
+      ja: オレフ（オレグ）・クリュチコフ
+      en: Oleg（Oleh） KRYUCHKOV
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア占領当局クリミア報道官兼クリミア首長補佐官 The Spokesperson for the Russian occupation authority in Crimea and Advisor to the Head of Crimea
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.260
+    name:
+      ja: セルヒー（セルゲイ）・ブルハーコフ（ブルガーコフ）
+      en: Sergei (Sergey, Sergej, Serhiy, Serhii) BULGAKOV (BULHAKOV)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国副検察官兼上級司法顧問」（自称） Self-proclaimed “Deputy Prosecutor and Senior Counselor of Justice for the Republic of Crimea”"
+    date_of_birth: '1976-03-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.261
+    name:
+      ja: アンドリー（アンドレイ）・ドルホポロフ（ドルゴポロフ）
+      en: Andrey (Andrei, Andrej, Andriy, Andrii) DOLGOPOLOV (DOLHOPOLOV, DOVHOPOLOV)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国シンフェローポリ市キーウ地区裁判所長」（自称） Self-proclaimed “Chairman of the Kyiv District Court in Simferopol in the Republic of Crimea”"
+    date_of_birth: '1959-02-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.262
+    name:
+      ja: ミハイロ（ミハイル）・ビロウソフ（ベロウソフ）
+      en: Mikhail (Mykhailo, Mykhaylo) BELOUSOV (BILOUSOV)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国シンフェローポリ市キーウ地区裁判所裁判官」（自称） Self-proclaimed “Judge of the Kyiv District Court in Simferopol in the Republic of Crimea”"
+    date_of_birth: '1964-11-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.263
+    name:
+      ja: ヴィクトル・モジェリャンスキー（メジェリャンスキー）
+      en: Viktor MEZHEILIANSKY（MOZHELYANSKY, MOZHEKYANSKIY, MOZHEKYANSKYY)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国シンフェローポリ市キーウ地区裁判所裁判官」（自称） Self-proclaimed “Judge of the Kyiv District Court in Simferopol in the Republic of Crimea”"
+    date_of_birth: '1964-05-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.264
+    name:
+      ja: マリヤ・エルマコヴァ
+      en: Mariya (Maria, Mariia) ERMAKOVA (YERMAKOVA)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国ジャンコイ地区裁判所裁判官」（自称） Self-proclaimed “Judge of the Dzhankoi District Court of the Republic of Crimea”"
+    date_of_birth: 1984-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.265
+    name:
+      ja: パウロ（パーヴェル）・クリッロ
+      en: Pavel (Pavlo) KRYLLO (KRILLO)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「セヴァストポリ市ガガーリン地区裁判所裁判官」（自称） Self-proclaimed“Judge of the Gagarinskiy District Court of Sevastopol”"
+    date_of_birth: '1981-12-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.266
+    name:
+      ja: ヴィタリー・ホツェンコ
+      en: Vitaliy(Vitaly, Vitalii) KHOTSENKO
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国首相」（自称） Self-proclaimed “Chairperson of the Government of the Donetsk People’s Republic”"
+    date_of_birth: '1986-03-18'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.267
+    name:
+      ja: ヴォロディーミル（ウラジーミル）・エジコフ
+      en: Vladimir（Vladimir, Volodymyr） EZHIKOV
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国副首相」（自称） Self-proclaimed “Deputy Chairperson of the Government of the Donetsk People’s Republic”"
+    date_of_birth: '1987-06-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.268
+    name:
+      ja: ヴォロディーミル（ウラジーミル）・バンドゥラ
+      en: Vladimir（Volodymyr） BANDURA
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「スヴャトヒルスク市長」（自称） Self-proclaimed “Mayor of Svyatohirsk”"
+    date_of_birth: '1990-07-15'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.269
+    name:
+      ja: エウヘン（エヴゲーニー）・バリツキー
+      en: Yevgeniy（Evgeniy, Evgenii) BALYTSKYI (BALITSKIY, BALITSKYY, BALITSKY)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州知事」（自称） Self-proclaimed “Governor of the Zaporizhzhia Region”"
+    date_of_birth: '1969-12-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.270
+    name:
+      ja: ヴォロディーミル（ウラジーミル）・ロホフ（ロゴフ）
+      en: Vladimir (Volodimir) ROGOV (ROHOV)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州軍民政府主要評議会議長」（自称） Self-proclaimed “Representative of the Main Council of Zaporozhzhia Region’s military-civil administration”"
+    date_of_birth: '1976-12-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.271
+    name:
+      ja: アントン・コリツォフ
+      en: Anton KOLTSOV
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州知事」（自称） Self-proclaimed “Head of the Zaporozhye Region”"
+    date_of_birth: '1973-06-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.272
+    name:
+      ja: アントン・ティツキー
+      en: Anton TITSKIY (TYTSKY, TYTSKYY, TYTSKIY)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州青年問題担当相」（自称） Self-proclaimed “Minister of Youth Affairs of the Zaporozhye Region”"
+    date_of_birth: '1990-02-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.273
+    name:
+      ja: セルヒー（セルゲイ）・エリセーエフ
+      en: Sergey(Sergei, Sergej, Serhiy, Serhii) YELISEYEV
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン州知事代行」（自称） Self-proclaimed “Acting Chairman of the Government of the Kherson Region”"
+    date_of_birth: '1971-05-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.274
+    name:
+      ja: ミハイロ（ミハイル）・ロディコフ
+      en: Mikhail(Mykhailo, Mykhaylo) RODIKOV
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン州教育・科学相」（自称） Self-proclaimed “Head of the Ministry of Education and Science of the Government of the Kherson Region”"
+    date_of_birth: '1958-01-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.275
+    name:
+      ja: コスチャンティン（コンスタンチーン）・イヴァシチェンコ
+      en: Konstantin（Kostyantyn） IVASHCHENKO
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「マリウポリ市長」（自称） Self-proclaimed “Mayor of Mariupol”"
+    date_of_birth: '1963-10-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.276
+    name:
+      ja: アンドリー（アンドレイ）・シフタ（シグタ）
+      en: Andrey (Andrei, Andrej, Andriy, Andrii) SIGUTA （SIHUTA）
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「メリトポリ区長」（自称） Self-proclaimed “Head of the Melitopol District”"
+    date_of_birth: '1979-05-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.277
+    name:
+      ja: オレクサンドル（アレクサンドル）・コベツ
+      en: Aleksandr（Oleksandr） KOBETS
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン市長」（自称） Self-proclaimed “Mayor of the City of Kherson”"
+    date_of_birth: '1959-09-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.278
+    name:
+      ja: オレクサンドル（アレクサンドル）・サウレンコ
+      en: Aleksandr（Oleksandr） SAULENKO
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ベルジャンスク市長兼ベルジャンスク州知事」（自称） Self-proclaimed “Head of Berdyansk and the Berdyansk Region”"
+    date_of_birth: '1962-05-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.279
+    name:
+      ja: ミキータ（ニキータ）・サモイレンコ
+      en: Nikita（Mykyta) SAMOILENKO (SAMOJLENKO)
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ベルジャンスク市副市長」（自称） Self-proclaimed “Deputy Mayor of Berdyansk”"
+    date_of_birth: '1992-08-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.280
+    name:
+      ja: アンドリー（アンドレイ）・シェフチク
+      en: Andrei(Andrey, Andrej, Andriy, Andrii) SHEVCHIK
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「エネルホダール市長」（自称） Self-proclaimed “Mayor of Enerhodar”"
+    date_of_birth: '1973-06-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.281
+    name:
+      ja: オレクシー（アレクセイ）・セリヴァノフ
+      en: Alexei（Aleksei, Aleksey, Oleksiy, Oleksii) SELIVANOV
+    type: individual
+    effective_date: '2022-10-07'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州内務省副局長」（自称） Self-proclaimed “Deputy Head of the Department of the Ministry of Internal Affairs for the Zaporozhye Region”"
+    date_of_birth: '1980-12-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.282
+    name:
+      ja: ヴォロディミル（ウラジーミル）・ベスパロフ
+      en: Volodymyr (Vladimir) BESPALOV
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン軍民政府内務大臣」（自称） Self-proclaimed “Minister of Domestic Policy of the Kherson Military-civilian Administration”"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.283
+    name:
+      ja: ヴィクトル・イェメリャネンコ（エメリヤネンコ）
+      en: Victor YEMELYANENKO (EMELIANENKO, EMELYANENKO)
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ軍民政府副長官」（自称） Self-proclaimed “Deputy head of the Zaporozhye military-civilian administration”"
+    date_of_birth: '1953-10-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.284
+    name:
+      ja: パヴロ（パーヴェル）・フィリプチューク
+      en: Pavlo (Pavel) FILIPCHUK
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「カホウカ行政府長官」（自称） Self-proclaimed “Head of the Kakhovka administration”"
+    date_of_birth: '1983-07-05'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.285
+    name:
+      ja: ヴァレリー・パフニッツ
+      en: Valery (Valerij, Valeriy) PAKHNYTS (PAHNITS, PAKHNITS)
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「スタロビリスク区長代行兼同区第一副長官」（自称） Self-proclaimed “Acting head, first deputy head of the Starobilsk administration”"
+    date_of_birth: '1953-01-22'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.286
+    name:
+      ja: イーホル（イーゴル）・セメンチェフ
+      en: Ihor (Igor) SEMENCHEV
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「平和と秩序のための救援委員会」メンバー Member of the “Rescue Committee for Peace and Order”"
+    date_of_birth: '1982-01-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.287
+    name:
+      ja: ヘンナディー（ゲンナディー）・シェレステンコ
+      en: Hennadiy (Gennadiy) SHELESTENKO
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ジャーナリスト、「ヘルソン軍民政府メンバー」（自称） Journalist, Self-proclaimed “Member of the Kherson Military-civilian Administration”
+    date_of_birth: '1966-08-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.288
+    name:
+      ja: アンドリー（アンドレイ）・トロフィモフ
+      en: Andriy (Andrei) TROFIMOV
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ軍民政府副長官」（自称） Self-proclaimed “Deputy head of the Zaporozhye military-civilian administration”"
+    date_of_birth: '1972-08-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.289
+    name:
+      ja: テチャーナ（タチヤナ）・トミリナ（トゥミリナ）
+      en: Tetyana TOMILINA (TUMILINA)
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン国立大学学長」（自称） Self-proclaimed “Rector of Kherson State University”"
+    date_of_birth: '1966-04-18'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.290
+    name:
+      ja: ヴラジスラフ・クズネツォフ
+      en: Vladyslav (Vladislav) KUZNETSOV
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国政府第一副首相」（自称） Self-proclaimed “First Deputy Chairman of the Government of the Luhansk People’s Republic”"
+    date_of_birth: '1969-03-18'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.291
+    name:
+      ja: イェヴヘン（エヴゲーニー）・ソンツェフ
+      en: Yevhen (Evgeniy) SOLNTSEV
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国政府第一副首相」（自称） Self-proclaimed “First Deputy Chairman of the Government of the Donetsk People’s Republic”"
+    date_of_birth: 1980-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.292
+    name:
+      ja: オレクサンドル（アレクサンドル）・コストマロフ
+      en: Oleksandr (Alexander) KOSTOMAROV
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国首長府第一副長官」（自称） Self-proclaimed “First Deputy Head of the Administration of the Head of the Donetsk People’s Republic”"
+    date_of_birth: '1977-05-13'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.293
+    name:
+      ja: オレクサンドル（アレクサンドル）・ヤヌコーヴィチ
+      en: Oleksandr (Aleksandr, Alexander) YANUKOVYCH (YANUKOVICH)
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 株式会社「マコ・ホールディング」社オーナー Owner of Joint-Stock Company Mako Holding
+    date_of_birth: 1973-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.294
+    name:
+      ja: セルヒー（セルゲイ）・クルチェンコ
+      en: Serhiy (Sergei, Sergii, Serhii, Serhij, Sergey, Sergej) KURCHENKO
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ガス・アリヤンス」社オーナー Owner of Gaz-Alliance"
+    date_of_birth: '1985-09-21'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.295
+    name:
+      ja: アンドリー（アンドレイ）・ピンチュク
+      en: Andriy (Andrii, Andrij, Andrey, Andrei, Andrej) PINCHUK
+    type: individual
+    effective_date: '2023-01-27'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 元「ドネツク人民共和国安全保障相」（自称） Self-proclaimed Former “State Security Minister of the Donetsk People's Republic”
+    date_of_birth: '1977-12-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.296
+    name:
+      ja: アンドリー（アンドレイ）・アレクセエンコ
+      en: Andriy (Andrej, Andrey) ALEKSEENKO (ALEKSEYENKO)
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン州行政府長官」（自称） Self-proclaimed “Head of the authorities in the Kherson region”"
+    date_of_birth: '1978-04-23'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.297
+    name:
+      ja: ヴォロディミル（ウラジーミル）・ボブリシェフ
+      en: Volodymyr (Vladimir) BOBRYSHEV
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 元「ヘルソン州内務省人事部長」（自称） Former Self-proclaimed “Head of the Human Resources Department of the Kherson Region Ministry of Internal Affairs”
+    date_of_birth: '1966-01-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.298
+    name:
+      ja: ヘンナディー（ゲンナージー）・ハルクシャ（ガルクシャ）
+      en: Hennadiy（Gennadiy) HARKUSHA (GARKUSHA)
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 元「ドネツク人民共和国安全保障相」（自称） Self-proclaimed Former “State Security Minister of the Donetsk People's Republic”
+    date_of_birth: '1968-01-26'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.299
+    name:
+      ja: ヴォロディミル（ウラジーミル）・リパンジン
+      en: Volodymyr (Vladimir) LIPANDIN
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 元「ヘルソン市警察本部長」（自称） Former Self-proclaimed “Chief of police of the city of Kherson”
+    date_of_birth: '1971-02-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.300
+    name:
+      ja: ヴァシーリー・ノスコフ
+      en: Vasiliy NOSKOV
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国文化・スポーツ・青年省次官」（自称） Self-proclaimed “Deputy Minister of Culture, Sports and Youth of the Luhansk People’s Republic”"
+    date_of_birth: '1993-07-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.301
+    name:
+      ja: デニス・クラショフ
+      en: Denys (Denis) KURASHOV
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国通信省次官」（自称） Self-proclaimed “Deputy Minister of Communications of the People’s Republic of Donetsk”"
+    date_of_birth: '1978-05-31'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.302
+    name:
+      ja: ドミトロ（ドミートリー）・シュミレフ
+      en: Dmytro (Dmitriy) SHMELEV
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国国税大臣」（自称） Self-proclaimed “Minister of Revenue of the People’s Republic of Donetsk”"
+    date_of_birth: '1981-11-07'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.303
+    name:
+      ja: ティムール・サマトフ
+      en: Timur SAMATOV
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国産業・貿易大臣」（自称） Self-proclaimed “Minister of Industry and Trade of the People’s Republic of Luhansk”"
+    date_of_birth: '1992-04-04'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.304
+    name:
+      ja: コスチャンティン（コンスタンチーン）・ザヴィゼノフ
+      en: Kostyantyn (Konstantin) ZAVIZENOV
+    type: individual
+    effective_date: '2023-02-28'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国エネルギー大臣」（自称） Self-proclaimed “Minister of Energy of the People’s Republic of Luhansk”"
+    date_of_birth: 1974-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.305
+    name:
+      ja: グレブ・ミハイロフ
+      en: Gleb MIKHAILOV
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国検事長」（自称） Self-proclaimed “Prosecutor of the Luhansk People's Republic”"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.306
+    name:
+      ja: キリル・オシプチュク
+      en: Kirill OSIPCHUK
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州検事長」（自称） Self-proclaimed “Prosecutor of the Zaporizhzhia region”"
+    date_of_birth: 1974-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.307
+    name:
+      ja: アンドレイ・ペトロフ
+      en: Andrey PETROV
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン州検事長」（自称） Self-proclaimed “Prosecutor of the Kherson region”"
+    date_of_birth: '1974-03-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.308
+    name:
+      ja: アンドレイ・スピヴァク
+      en: Andrey SPIVAK
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国検事長」（自称） Self-proclaimed “Prosecutor of the Donetsk People’s Republic”"
+    date_of_birth: '1977-12-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.309
+    name:
+      ja: アレクセイ・パリキン
+      en: Alexey PARIKIN
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「セヴァストーポリ市第一副市長」（自称） Self-proclaimed “First Deputy Governor of the City of Sevastopol”"
+    date_of_birth: '1978-12-03'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.310
+    name:
+      ja: セルゲイ・トルマチョフ
+      en: Sergey TOLMACHEV
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州第一副知事」（自称） Self-proclaimed “First Deputy Governor of the Zaporizhzhia region”"
+    date_of_birth: 1972-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.311
+    name:
+      ja: アルテム（アルチョム）・ジョハ（ジョガ）
+      en: Artem (Artyom) ZHOGA
+    type: individual
+    effective_date: '2023-05-26'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国」（自称）軍のスパルタ大隊司令官 Commander of the Sparta battalion of the armed forces of the self-proclaimed “Donetsk People’s Republic”"
+    date_of_birth: '1975-01-18'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.312
+    name:
+      ja: エレオノラ・フェドレンコ
+      en: Eleonora (Eleanor) FEDORENKO
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国首長児童権利担当顧問」（自称） Self-proclaimed “Advisor on Childrens’ Rights to the head of the Donetsk People’s Republic”"
+    date_of_birth: '1972-10-28'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.313
+    name:
+      ja: オレフ（オレグ）・モルフン（モルグン）
+      en: Oleh (Oleg) MORHUN (MORGUN)
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「マリウポリ市長」（自称） Self-proclaimed “Mayor of Mariupol”"
+    date_of_birth: '1967-03-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.314
+    name:
+      ja: ダリヤ・モロゾヴァ
+      en: Darya (Daria) MOROZOVA
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国人権弁務官」（自称） Self-proclaimed “Commissioner of Human Rights of the Donetsk People’s Republic”"
+    date_of_birth: '1989-02-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.315
+    name:
+      ja: ヴィタリー・スク
+      en: Vitaly (Vitalij, Vitaliy) SUK
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: オレシキ児童寄宿舎舎監長 Director of the Oleshky Children’s Boarding House
+    date_of_birth: '1970-03-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.316
+    name:
+      ja: コンスタンチン・バシュク
+      en: Konstantin BASYUK
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦連邦院議員（「ヘルソン州」選出） Member of the Federation Council of the Russian Federation (from “Kherson region”)
+    date_of_birth: '1966-05-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.317
+    name:
+      ja: ドミトリー（ドミトロ）・ヴォロナ
+      en: Dmitry (Dmytro) VORONA
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦連邦院議員（「ザポリッジャ州」選出） Member of the Federation Council of the Russian Federation (from “ Zaporizhzhia region”)
+    date_of_birth: '1980-07-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.318
+    name:
+      ja: ダリヤ・ラントラトヴァ
+      en: Dariya LANTRATOVA
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ロシア連邦連邦院議員（「ルハンスク人民共和国」（自称）選出） Member of the Federation Council of the Russian Federation (from self-proclaimed“Luhansk People’s Republic”)
+    date_of_birth: '1984-05-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.319
+    name:
+      ja: ヴィクトル・ジンコフ
+      en: Viktor ZINKOV
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国最高裁判所裁判官」（自称） Self-proclaimed “Judge of the Supreme Court of the Republic of Crimea”"
+    date_of_birth: '1970-04-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.320
+    name:
+      ja: タチヤーナ（テチャーナ）・マネジナ
+      en: Tatyana (Tetyana) MANEZHINA (MANEZHYNA)
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国文化大臣」（自称） Self-proclaimed “Minister of Culture of the Republic of Crimea”"
+    date_of_birth: '1963-06-14'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.321
+    name:
+      ja: ナターリヤ・デシャトヴァ（リュートヴァ）
+      en: Natalya (Natalia, Nataliya) DESYATOVA (DESIATOVA, LYUTOVA)
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン美術館館長」（自称） Self-proclaimed “Director of the Kherson Fine Arts Museum”"
+    date_of_birth: '1966-07-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.322
+    name:
+      ja: タチヤーナ（テチャーナ）・ブラトチェンコ
+      en: Tatiana (Tetiana) BRATCHENKO
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: ヘルソン州立博物館館長 Director of the Kherson Regional Museum
+    date_of_birth: '1949-11-17'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.323
+    name:
+      ja: ナターリヤ・カプストニコヴァ
+      en: Natalya KAPUSTNIKOVA
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: マリウポリ郷土史博物館館長 Director of the Mariupol Museum of Local History
+    date_of_birth: '1977-08-12'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.324
+    name:
+      ja: アンドレイ・マリギン
+      en: Andrei MALGIN
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: タウリダ中央博物館館長 Director of the Central Museum of Taurida
+    date_of_birth: '1965-06-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.325
+    name:
+      ja: ヴィクトリア・セルデュコヴァ
+      en: Viktoria SERDYUKOVA
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国人権弁務官」（自称） Self-proclaimed “Commissioner for Human Rights in the Luhansk People’s Republic”"
+    date_of_birth: 1981-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.326
+    name:
+      ja: レオニード・ハルチェンコ（クロト）
+      en: Leonid KHARCHENKO (Krot)
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国」（自称）軍情報総局（GRU）第２局クロト偵察大隊隊長 Head of the Krot Reconnaissance Battalion of the 2nd Department of the Military Intelligence Agency (GRU) of the self-proclaimed “Donetsk People’s Republic”"
+    date_of_birth: '1972-01-10'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.327
+    name:
+      ja: セルゲイ・ドゥビンスキー（フムルィ）
+      en: Sergey DUBINSKY (Khmuryi)
+    type: individual
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ドネツク人民共和国」（自称）軍情報総局（GRU）長 Head of the Military Intelligence Agency (GRU) of the self-proclaimed“Donetsk People’s Republic”"
+    date_of_birth: '1962-08-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.328
+    name:
+      ja: コンスタンチン・フェドレンコ
+      en: Konstantin FEDORENKO
+    type: individual
+    effective_date: '2024-03-01'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 連邦国家予算教育機関アルテク・インターナショナル児童センター所長 Director of the Federal State Budgetary Educational Institution Artek International Children’s Center
+    date_of_birth: '1976-12-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.329
+    name:
+      ja: ウラジーミル・コヴァレンコ
+      en: Vladimir KOVALENKO
+    type: individual
+    effective_date: '2024-03-01'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 全ロシア青少年軍事愛国公共運動青年軍（ユナルミヤ）セヴァストーポリ市支部参謀長 Chief of Staff of the Regional Branch of the All-Russian Young Army Military Patriotic Social Movement (Yunarmiya) in the city of Sevastopol
+    date_of_birth: '1962-02-04'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.330
+    name:
+      ja: ウラジーミル・ネチャエフ
+      en: Vladimir NECHAEV
+    type: individual
+    effective_date: '2024-03-01'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「セヴァストーポリ国立大学学長代理」(自称) Self-proclaimed “Acting rector of the Sevastopol State University”"
+    date_of_birth: '1972-12-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.331
+    name:
+      ja: オレナ(エレナ/アリョーナ)・シャプロヴァ
+      en: Olena (Elena/Alyona) SHAPUROVA
+    type: individual
+    effective_date: '2024-06-21'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ザポリッジャ州教育科学相」（自称） Russian-imposed“Minister of the Ministry of Education and Science of Zaporizhzhia region”"
+    date_of_birth: '1976-11-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.332
+    name:
+      ja: アーラ・バルハトノヴァ
+      en: Alla BARKHATNOVA
+    type: individual
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ヘルソン州労働・社会政策大臣」（自称） Self-proclaimed “Minister of Labour and Social Policy of Kherson Region”"
+    date_of_birth: '1973-09-25'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.333
+    name:
+      ja: イワン・クソフ
+      en: Ivan KUSOV
+    type: individual
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国教育科学大臣」（自称） Self-proclaimed “Minister of Education and Science of the Luhansk People’s Republic”"
+    date_of_birth: '1987-01-24'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.334
+    name:
+      ja: ヴァレンチナ・ラヴリク
+      en: Valentina LAVRIK
+    type: individual
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「クリミア共和国教育科学青年大臣」（自称） Self-proclaimed “Minister of Education, Science and Youth of the Republic of Crimea”"
+    date_of_birth: '1969-02-25'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.335
+    name:
+      ja: インナ・シュヴェンク
+      en: Inna SHVENK
+    type: individual
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: "「ルハンスク人民共和国子どもの権利担当委員」（自称） Self-proclaimed “Commissioner for Children’s Rights of the Luhansk People’s Republic”"
+    date_of_birth: '1991-10-25'
+    aliases:
+    - インナ・ミチェンコ
+    - Inna MISHCHENKO
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-individuals.336
+    name:
+      ja: オリガ・ヴォルコヴァ
+      en: Olga VOLKOVA
+    type: individual
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-crimea-individuals
+    sanction_list_en: Crimea and Sevastopol (Individuals)
+    title:
+      ja: 非政府組織デルフィニ代表 Head of the Non-Governmental Organisation Delfini
+    date_of_birth: '1974-10-09'
+    aliases:
+    - オルハ・ヴォルコヴァ
+    - Olha VOLKOVA
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

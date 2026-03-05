@@ -1,0 +1,186 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ベラルーシ(団体(特定銀行を除く))
+  - en: Belarus (Entities excl. Banks)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.belarus-organizations.1
+    name:
+      ja: ベラルーシ共和国国家軍需産業委員会
+      en: State Authority for Military Industry of the Republic of Belarus
+    type: organization
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: 115, Nezavisimost ave., Minsk, 220114, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.2
+    name:
+      ja: ミンスク装輪牽引車工場（ＭＺＫＴ）
+      en: Minsk Wheel Tractor Plant
+    type: organization
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: 150, Paritizanski ave., Minsk, 220021, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.3
+    name:
+      ja: 株式会社ベラルーシ機材輸出公社
+      en: CJSC Beltechexport
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Nezavisimosti ave. 86b, Minsk, 220012, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.4
+    name:
+      ja: シネジス・グループ
+      en: Synesis Group
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Platonova str. 20b, Minsk, 220005, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.5
+    name:
+      ja: 株式会社アガト電子機器工場
+      en: OJSC AGAT Electromechanical Plant
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Nezavisimosti ave. 115, Minsk, 220114, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.6
+    name:
+      ja: 株式会社第140修理工場
+      en: OJSC 140 Repair Plant
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: L. Chalovskoy str. 19, Borisov, Minsk Region, 222512, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.7
+    name:
+      ja: 株式会社ベルシナ
+      en: JSC Belshina
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Shosse Minskoe 4, Bobruisk, Mogilev Region, 213824, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.8
+    name:
+      ja: ダナ・ホールディングス／ダナ・アストラ
+      en: Dana Holdings/Dana Astra
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Petra Mstislavtsa str. 9, Minsk, 220076, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.9
+    name:
+      ja: ソフラ・グループ
+      en: Sohra Group
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Revolucyonnaya str. 17, Minsk, 220030, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.10
+    name:
+      ja: 有限会社ブレミノ・グループ
+      en: LLC Bremino Group
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Zavodskaya str. 1k, Bolbasovo Village, Orsha District, Vitebsk Region, 211004, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.11
+    name:
+      ja: 株式会社新石油会社（ＮＮＫ）
+      en: JSC NNK (Novaia naftavaia kampania)
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Rakovskaya str. 14v, Minsk, 220004, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-organizations.12
+    name:
+      ja: 株式会社グロドノ窒素
+      en: OJSC Grodno Azot
+    type: organization
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-organizations
+    sanction_list_en: Belarus (Entities excl. Banks)
+    address: Kosmonavtov ave. 100, Grodno, Grodno Region, 230013, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

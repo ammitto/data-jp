@@ -1,0 +1,398 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 中央アフリカ共和国（個人）
+  - en: Central African Republic (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.car-individuals.1
+    name:
+      ja: フランソワ・ヤングボンダ・ボジゼ
+      en: FRANÇOIS YANGOUVONDA BOZIZÉ
+    type: individual
+    effective_date: '2014-08-21'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)ウガンダ共和国 (b)中央アフリカ共和国バンギ（Bangui）（2019年12月に同人がウガンダ共和国から帰国した後）"
+    title:
+      ja: "（a）元中央アフリカ共和国元首、 （b）教授"
+    date_of_birth: '1946-10-14'
+    place_of_birth: "(a)ガボン共和国ムイラ（Mouila）、 (b)南スーダン共和国イゾ（Izo）"
+    nationality: "（a）中央アフリカ共和国、 （b）南スーダン共和国"
+    list_date: 2014年5月9日 （2014年11月4日、2018年2月16日、2019年3月1日及び2020年7月28日修正）
+    aliases:
+    - "(a)ボジゼ・ヤングボンダ（Bozize Yangouvonda）"
+    - "(b)サミュエル・ペーター・ムデ（Samuel Peter Mudde（1948年12月16日"
+    - 南スーダン共和国イゾ生まれ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: D00002264、2013年6月11日発行（南スーダン共和国ジュバにて外務省が発行したサミュエル・ペーター・ムデ（Samuel Peter Mudde）名義の外交旅券。有効期限は2017年6月11日）
+      national_id: Ｍ4800002143743 （旅券に記載された身分登録番号）
+    remarks:
+    - ja: 母の氏名はマルティヌ・コフィオ（Martine Kofio）である。写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.2
+    name:
+      ja: ヌールッディーン・アダム
+      en: NOURREDINE ADAM
+    type: individual
+    effective_date: '2014-08-21'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)中央アフリカ共和国ビラオ（Birao）、 (b)スーダン共和国"
+    title:
+      ja: 将軍、治安大臣、「民主的成果の防衛のための特別委員会（CEDAD）」総局長
+    date_of_birth: '1970-01-01'
+    place_of_birth: "(a)中央アフリカ共和国ンドゥレ（Ndele）、 (b)スーダン共和国アルジェナナ（Algenana）"
+    nationality: "(a)中央アフリカ共和国、 (b)スーダン共和国"
+    list_date: 2014年5月9日 （2014年11月4日、2019年3月1日及び2019年9月6日修正）
+    aliases:
+    - "(a)ニュルルディヌ・アダム（Nureldine Adam）"
+    - "(b)ヌルルディヌ・アダム（Nourreldine Adam）"
+    - "(c)ヌルディヌ・アダム（Nourreddine Adam）"
+    - "(d)マハマト・ヌラディヌ・アダム(Mahamat Nouradine Adam)"
+    - "(e)モハメド・アダム・ブレマ・アブダラ（Mohamed Adam Brema Abdallah）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)中央アフリカ共和国番号 Ｄ00001184、 (b)Ｐ04838205（2018年6月10日発行（スーダン共和国バフリで発行。2023年6月9日に失効。旅券番号はモハメド・アダム・ブレマ・アブダラ（Mohamed Adam Brema Abdallah）の名義で発行。）。）"
+      national_id: 202-2708-8368（スーダン共和国）
+    remarks:
+    - ja: 写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.4
+    name:
+      ja: アルフレッド・イェカトム
+      en: ALFRED YEKATOM
+    type: individual
+    effective_date: '2015-10-16'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)中央アフリカ共和国ロバイェ州（Lobaye province）ムバイキ（Mbaiki）（電話：＋236 72154707 ／＋236 75094341） (b)中央アフリカ共和国オムベラ・ムポコ州（Ombella-Mpoko province）ビムボ（Bimbo）（以前の居所） (c)ハーグ（The Hague）（2018年11月17日に同人が国際刑事裁判所に移送された後）"
+    title:
+      ja: 中央アフリカ国軍（FACA）伍長頭
+    date_of_birth: '1976-06-23'
+    place_of_birth: 中央アフリカ共和国
+    nationality: 中央アフリカ共和国
+    list_date: 2015年8月20日 （2020年7月28日修正）
+    aliases:
+    - "(a)アルフレッド・イェカトム・サラグバ（Alfred Yekatom Saragba）"
+    - "(b)アルフレッド・エカトム（Alfred Ekatom）"
+    - "(c)アルフレッド・サラグバ（Alfred Saragba）"
+    - "(a)ロムボト大佐（Colonel Rombhot）"
+    - "(b)ラムボ大佐（Colonel Rambo）"
+    - "(c)ラムボト大佐（Colonel Rambot）"
+    - "(d)ロムボト大佐（Colonel Rombot）"
+    - "(e)ロムボ大佐（Colonel Romboh）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 大規模な武装民兵集団を管理及び指揮してきている。父（養父）の名前はエカトム・サラグバ（Ekatom Saragba）（イェカトム・サラグバ（Yekatom Saragba）とも綴る）。兄弟であるイヴ・サラグバ（Yves Saragba）は、現在ロバイェ州バタリモ（Batalimo）のアンチ・バラカ（Anti-Balaka）司令官であり、元中央アフリカ国軍（FACA）兵士。身体的特徴は、瞳の色：黒、髪の色：禿頭、顔の色：黒、身長：170センチ、体重：100キロ。写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.5
+    name:
+      ja: ハビブ・スス
+      en: HABIB SOUSSOU
+    type: individual
+    effective_date: '2015-10-16'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: 中央アフリカ共和国ボダ（電話：+236 72198628）
+    title:
+      ja: "(a)ロバイェ州のアンチ・バラカ調整官、 (b)中央アフリカ国軍（FACA）先任伍長"
+    date_of_birth: '1980-03-13'
+    place_of_birth: 中央アフリカ共和国ボダ（Boda）
+    nationality: 中央アフリカ共和国
+    list_date: 2015年8月20日 （2020年7月28日修正）
+    aliases:
+    - スス・アビブ（Soussou Abib）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2014年４月11日にボダ地区の、2014年６月28日にはロバイェ州全体のアンチ・バラカ（Anti-Balaka）の地域司令官（ＣＯＭＺＯＮＥ）に任命された。同人の指揮の下、人道機関及び援助関係者に対し、対象を特定した殺害、衝突、及び攻撃の発生が継続している。身体的特徴は、瞳の色：茶、髪の色：黒、身長：160センチ、体重：60キロ。写真はインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.6
+    name:
+      ja: ウマル・ユヌス・アブドゥライ
+      en: OUMAR YOUNOUS ABDOULAY
+    type: individual
+    effective_date: '2015-10-16'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)中央アフリカ共和国ブリア（Bria）（電話：+236 75507560）、(b)中央アフリカ共和国ビラオ（Birao）、(c)スーダン共和国南ダルフール（Darfur）のトゥルス（Tullus）（以前の居所）"
+    title:
+      ja: 元セレカ（Séléka）将軍
+    date_of_birth: '1970-04-02'
+    nationality: スーダン共和国
+    list_date: 2015年8月20日 （2015年10月20日及び2016年8月23日修正）
+    aliases:
+    - "(a)ウマル・ユヌス（Oumar Younous）"
+    - "(b)オマル・ユヌス（Omar Younous）"
+    - "(c)ウマル・ソディアム（Oumar Sodiam）"
+    - "(d)ウマル・ユヌス・ムベティバンギ（Oumar Younous M’Betibangui）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 中央アフリカ共和国外交旅券番号D00000898、2013年4月11日発行（2018年4月10日まで有効）
+    remarks:
+    - ja: ダイヤモンド密輸業者で、セレカの中将（three-star general）。前中央アフリカ暫定大統領ミシェル・ジョトディア（Michel Djotodia）の腹心。身体的特徴は、髪の色：黒、身長：180センチ。フラニ（Fulani）民族に所属。写真はインターポール(国際刑事警察機構）・国連安全保障理事会特別手配書に含まれているものを利用可能。2015年10月11日付けで死亡したとの報道あり。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.7
+    name:
+      ja: アルーン・ゲイ
+      en: HAROUN GAYE
+    type: individual
+    effective_date: '2016-02-26'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "（a）中央アフリカ共和国バンギ（Bangui） （b）バミンギ・バンゴラン県（Bamingui-Bangoran）ンデレ（Ndélé）"
+    title:
+      ja: 中央アフリカ復興人民戦線（FPRC）政治的調整報告者（rapporteur）
+    date_of_birth: '1968-01-30'
+    list_date: 2015年12月17日 （2020年7月28日修正）
+    aliases:
+    - "(a)アルーン・ゲイ（Haroun Geye）"
+    - "(b)アルーン・ゲイ（Aroun Gaye）"
+    - "(c)アルーン・ゲイ（Aroun Geye）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 中央アフリカ共和国番号O00065772 （アルファベットOに続きゼロ３つ、2019年12月30日に失効）
+    remarks:
+    - ja: ゲイは、バンギにおける非主流派の旧セレカ系武装集団である中央アフリカ復興人民戦線（FRPC）（リスト未掲載）の指導者の一人である。同人はまた、バンギPK5地区のいわゆる「防衛委員会」（「PK5抵抗運動」又は「テキサス」として知られる）（リスト未掲載）の指導者の一人でもある。同集団は、住民から資金を巻き上げ、物理的暴力を使うことを示唆して脅し、また実際に物理的暴力を使用している。ゲイは、ヌールッディーン・アダム（リストの2番目に掲載）によって2014年11月２日にFPRCの政治的調整の報告者に任命された。2014年5月9日、決議第2127号（2013年）によって設立された中央アフリカ共和国に関する国連安全保障理事会委員会は、アダムを制裁リストに含めた。写真はインターポール(国際刑事警察機構）・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.8
+    name:
+      ja: ユジェンヌ・バレ・ンガイコセ
+      en: EUGÈNE BARRET NGAïKOSSET
+    type: individual
+    effective_date: '2016-02-26'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: 中央アフリカ共和国バンギ
+    title:
+      ja: "(a)中央アフリカ共和国大統領親衛隊元大尉、 (b)中央アフリカ共和国海軍元大尉"
+    date_of_birth: '1967-10-08'
+    list_date: 2015年12月17日 （2018年4月26日及び2019年3月1日修正）
+    aliases:
+    - "(a)ユジェンヌ・ンゲイコセ（Eugene Ngaikosset）"
+    - "(b)ユジェンヌ・ンゲイコワセ（Eugene Ngaikoisset）"
+    - "(c)ユジェンヌ・ンガコセ（Eugene Ngakosset）"
+    - "(d)ユジェンヌ・バレ・ンゲイコセ（Eugene Barret Ngaikosse）"
+    - "(e)ユジェンヌ・ンゲイクエセ（Eugene Ngaikouesset）"
+    - "(a)「パウアの虐殺者（The Butcher of Paoua）」"
+    - "(b)ンガコセ（Ngakosset）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: 中央アフリカ共和国軍（FACA）軍隊身分登録番号911-10-77
+    remarks:
+    - ja: ユジェンヌ・バレ・ンガイコセ大尉は、フランソワ・ボジゼ元大統領（リストの１番目に掲載）の大統領親衛隊の元メンバーの一人であり、アンチ・バラカ運動に関係している。同人は、ブラザビル（Brazzaville）市からの本国送還後、2015年5月17日に刑務所から脱走し、元国軍（FACA）の戦闘員を含め、自らのアンチ・バラカの派閥を創設した。写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.9
+    name:
+      ja: ジョセフ・コニー
+      en: JOSEPH KONY
+    type: individual
+    effective_date: '2016-04-01'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)中央アフリカ共和国ヴァカガ県（Vakaga）、(b)中央アフリカ共和国オート・コット県（Haute-Kotto）、(c)中央アフリカ共和国バス・コット県（Basse-Kotto）、(d)中央アフリカ共和国オー・ムボムー県（Haut-Mbomou）、(e)中央アフリカ共和国ムボムー県（Mbomou）、(f)コンゴ民主共和国オー・ウエレ州（Haut-Uolo）、(g)コンゴ民主共和国バ・ズエレ州（Bas-Uolo）、(h)報告されている住所：カフィア・キンジ地域（Kafia Kingi）（最終的な地位が確定していないスーダン共和国と南スーダン共和国の国境地帯にある領域）。2015年1月時点で、神の抵抗軍500名がスーダン共和国から追放されたとの報告がある。"
+    title:
+      ja: 神の抵抗軍司令官
+    date_of_birth: '1964-09-18'
+    place_of_birth: "(a)ウガンダ共和国グル県（Gulu District）オモロ郡（Omoro County）パラロ教区（Palaro Parish）パラロ村、 (b)ウガンダ共和国グル県オモロ郡オデク準郡（Odek）、(c)ウガンダ共和国アチャク準郡（Atyak）"
+    nationality: ウガンダ共和国
+    list_date: '2016-03-07'
+    aliases:
+    - "(a)コニー（Kony）"
+    - "(b)ジョセフ・ラオ・コニー（Joseph Rao Kony）"
+    - "(c)ジョセフ・コニー（Josef Kony）"
+    - 血まみれの救世主（Le Messie sanglant）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: コニーは、神の抵抗軍（LRA）（制裁対象団体リストの2番目に掲載）の創設者及び指導者である。同人の指導の下、LRAは、中部アフリカ全体で、市民数千人の拉致、殺害及び身体切断に従事している。ＬＲＡは、中央アフリカ共和国全体で、市民数百人の拉致、強制移住、性的暴力及び殺害に責任を有しており、市民の財産を略奪し、破壊している。父親の氏名はルイジ・オボル（Luizi Obol）である。母親の氏名はノラ・オボル（Nora Obol）である。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.10
+    name:
+      ja: アリ・コニー
+      en: ALI KONY
+    type: individual
+    effective_date: '2016-10-21'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: カフィア・キンジ地域（Kafia Kingi）（最終的な地位が確定していないスーダン共和国と南スーダン共和国の国境地帯にある領域）
+    title:
+      ja: 神の抵抗軍副官
+    date_of_birth: "(a)1994年 (b)1993年 (c)1995年 (d)1992年"
+    list_date: '2016-08-23'
+    aliases:
+    - "(a)アリ・ラロボ（Ali Lalobo） (b)アリ・モハンマド・ラボロ（Ali Mohammad Labolo） (c)アリ・モハンメド（Ali Mohammed） (d)アリ・モハンメド・ラロボ（Ali Mohammed Lalobo） (e)アリ・モハンメド・コニー（Ali Mohammed Kony） (f)アリ・モハンメド・ラボラ（Ali Mohammed Labola） (g)アリ・モハンメド・サロンゴ（Ali Mohammed Salongo） (h)アリ・バシール・ラロボ（Ali Bashir Lalobo） (i)アリ・ラロボ・バシール（Ali Lalobo Bashir）"
+    - "（a）オティム・カペレ（Otim Kapere）"
+    - "（b）「バシール」（“Bashir”）"
+    - "（c）「シーザー」（“Caesar”）"
+    - "（d）「ワン・Ｐ」（“One-P”）"
+    - "（e）「１・Ｐ」（“1-P”）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アリ・コニーは、制裁対象団体である神の抵抗軍（LRA）（制裁対象団体リストの2番目に掲載）の副官であり、制裁対象者であるLRA指導者ジョセフ・コニー（制裁対象者リストの9番目に掲載）の息子である。アリは、2010年にLRA指導部の階級組織に編入された。同人は、ジョセフ・コニーとともに根拠を置いているLRA指導者階層グループの一員である。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.11
+    name:
+      ja: サリム・コニー
+      en: SALIM KONY
+    type: individual
+    effective_date: '2016-10-21'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)カフィア・キンジ地域（Kafia Kingi）（最終的な地位が確定していないスーダン共和国と南スーダン共和国の国境地帯にある領域）、(b)中央アフリカ共和国"
+    title:
+      ja: 神の抵抗軍副官
+    date_of_birth: "(a)1992年 (b)1991年 (c)1993年"
+    list_date: '2016-08-23'
+    aliases:
+    - "(a)サリム・サーレハ・コニー（Salim Saleh Kony） (b)サリム・サーレハ（Salim Saleh） (c)サリム・オガロ（Salim Ogaro） (d)オコル・サリム（Okolu Salim） (e)サリム・サーレハ・オボル・オガロ（Salim Saleh Obol Ogaro） (f)シモン・サリム・オボル（Simon Salim Obol）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: サリム・コニーは、制裁対象団体である神の抵抗軍（LRA）（制裁対象団体リストの2番目に掲載）の副官であり、制裁対象者であるLRA指導者ジョセフ・コニー（制裁対象者リストの9番目に掲載）の息子である。サリムは、2010年にLRA指導部の階級組織に編入された。同人は、ジョセフ・コニーとともに根拠を置いているLRA指導者階層グループの一員である。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.12
+    name:
+      ja: アブドゥライエ・ヒセーヌ
+      en: ABDOULAYE HISSENE
+    type: individual
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)中央アフリカ共和国バンギ（Bangui）ＫＭ５地区 (b)中央アフリカ共和国ナナ・グリビジ県（Nana-Grebizi） (c)チャド共和国ンジャメナ市（Ndjamena）ンジャリ（Ndjari） (d)バミンギ・バンゴラン県（Bamingui-Bangoran）ンデレ（Ndélé）（2016年8月からの主要拠点）"
+    title:
+      ja: "「将軍」"
+    date_of_birth: '1967-01-01'
+    place_of_birth: "(a)中央アフリカ共和国バミンギ・バンゴラン県（Bamingui-Bangoran）ンドゥレ（Ndele） (b)チャド共和国ハラゼ・マンゲイーニュ県（Haraze Mangueigne）"
+    nationality: "(a)中央アフリカ共和国、(b)チャド共和国"
+    list_date: 2017年5月17日 （2019年3月1日、2019年4月18日及び2020年7月28日修正）
+    aliases:
+    - "(a)アブドゥライエ・イセーヌ（Abdoulaye Issène） (b)アブドゥライエ・ヒセイン（Abdoulaye Hissein） (c)ヒセーヌ・アブドゥライエ（Hissene Abdoulaye） (d)アブドゥライエ・イセーヌ・ラマダンヌ（Abdoulaye Issène Ramadane） (e)アブドゥライエ・イセーヌ・ラマダン（Abdoulaye Issene Ramadan） (f)イセーヌ・アブドゥライエ（Issene Abdoulaye）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)中央アフリカ共和国外交旅券番号 Ｄ00000897、2013年4月5日発行（2018年4月4日まで有効） (b)中央アフリカ共和国外交旅券番号 Ｄ00004262、2014年3月11日発行（2019年3月10日に失効）"
+      national_id: チャド共和国身分登録番号103-00653129-22、2009年4月21日発行（2019年4月21日失効）
+    remarks:
+    - ja: ヒセーヌは、ミシェル・ジョトディア（Michel Djotodia）元中央アフリカ大統領政権下において青年・スポーツ大臣であった。それ以前は、正義平和愛国者協定（Convention of Patriots for Justice and Peace）という政治団体の代表であった。また、同人は、バンギ、特に「ＰＫ５」（第３地区）周辺における武装民兵の指導者として、自身の地位を確立した。2016年10月、アブドゥライエ・ヒセーヌは、当時旧セレカの全派閥から軍事指導者及び指揮戦闘員を集めるために作られた組織である国防評議会（ＣＮＤＳ）の代表の職に就任した。その後も同職に就いているが、実際には中央アフリカ復興人民戦線（ＦＰＲＣ）の戦闘員のみを統制している。父の氏名はアブドゥレ（Abdoulaye）である。母の氏名はアブスィタ・ムーサ（Absita Moussa）である。写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.13
+    name:
+      ja: マルタン・クンタマジ
+      en: MARTIN KOUMTAMADJI
+    type: individual
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: "(a)中央アフリカ共和国ヴァカガ県（Vakaga）アム・ダフォック（Am Dafock） (b)チャド共和国ンジャメナ（Ndjamena）（2019年11月に同人が逮捕された後）"
+    title:
+      ja: 中央アフリカ人民民主戦線（FDPC）総裁及び最高司令官
+    date_of_birth: '1965-10-05'
+    place_of_birth: "(a)チャド共和国ンディナバ（Ndïnaba） (b)中央アフリカ共和国コボ（Kobo） (c)中央アフリカ共和国カボ（Kabo）"
+    nationality: "(a)チャド共和国 (b)中央アフリカ共和国 (c)コンゴ共和国"
+    list_date: 2020年4月20日 （2020年5月5日及び2020年7月28日修正）
+    aliases:
+    - "(a)アブドゥライエ・ミスキーヌ（Abdoulaye Miskine） (b)アブドゥライエ・ミスキーヌ（Abdoullaye Miskine） (c)マルタン・ナディンガー・クンタマジ（Martin Nadingar Koumtamadji） (d)マルタン・ンクンタマジ（Martin Nkoumtamadji） (e)マルタン・クンタ・マジ（Martin Koumta Madji） (f) オマル・マハマト（Omar Mahamat）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)中央アフリカ共和国外交旅券番号 06FBO2262、2007年2月22日発行（2012年2月21日失効） (b)コンゴ共和国公用旅券番号 SA0020249、2019年1月22日発行（2022年1月21日まで有効）"
+    remarks:
+    - ja: マルタン・クンタマジは、2005年にFDPCを設立した。同人は、2012年12月にセレカ連合に加わり、反政府勢力がバンギ（Bangui）において政権を掌握した後、2013年4月に離脱した。同人は、カメルーンにおいて逮捕された後、コンゴ共和国のブラザビル（Brazzaville）に移送された。同人は、中央アフリカ共和国に戻る前にブラザビルにいた際も、中央アフリカ共和国の地にいた自らの部隊の指揮を執り続けていた（2014年11月から2019年までの間。）。FDPCは、2019年2月6日に中央アフリカ共和国の平和と和解のための政治合意に署名したが、マルタン・クンタマジは、中央アフリカ共和国の平和、安定及び安全に対する脅威であり続けている。写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.14
+    name:
+      ja: ビ・シディ・スルマン
+      en: BI SIDI SOULEMAN
+    type: individual
+    effective_date: '2020-09-25'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    address: 中央アフリカ共和国ウハム・ペンデ県（Ouham-Pendé）クイ（Koui）
+    title:
+      ja: 帰還・要求・復権（Retour, Réclamation et Réhabilitation）（３Ｒ）の代表及び自称「将軍」
+    date_of_birth: '1962-07-20'
+    place_of_birth: 中央アフリカ共和国ボカランガ（Bocaranga）
+    nationality: 中央アフリカ共和国
+    list_date: 2020年8月5日 （2021年2月22日修正）
+    aliases:
+    - "(a)シディキ（Sidiki） (b)シディキ「将軍」（“General” Sidiki） (c)シディキ・アッバス（Sidiki Abbas） (d)スレイマーヌ・ビ・シディ（Souleymane Bi Sidi） (e)ビ・シディ・スルマーヌ（Bi Sidi Soulemane）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: レセパセ番号 N°235/MISPAT/DIRCAB/DGPC/DGAEI/SI/SP、2019年3月15日発行（中央アフリカ共和国内務大臣発行）
+    remarks:
+    - ja: ビ・シディ・スルマンは、中央アフリカ共和国を拠点とする民兵集団「帰還・要求・復権（Retour, Réclamation, Réhabilitation）（３Ｒ）」を率いており、2015年の結成以来、市民の殺害、拷問、強姦及び強制移住、武器の不法取引、違法な課税活動並びに他の民兵との武力衝突を行ってきた。ビ・シディ・スルマン自身も拷問に参加してきた。2019年2月6日、３Ｒは中央アフリカ共和国の平和と和解のための政治協定に署名したが、同協定に違反する行為に関与しており、中央アフリカ共和国の平和、安定及び安全に対する脅威であり続けている。例えば、2019年5月21日、３Ｒは、３つの村で非武装の文民34名を殺害し、成人男性を即決処刑した。ビ・シディ・スルマンは、これら攻撃が行われた日に３Ｒの部隊にこれらの村に向かうよう指示したことを国連機関に対して公然と認めたが、３Ｒに殺害指示を与えたことは認めなかった。2020年12月、選挙プロセスを阻害するために設立された武装集団の連合に参加した後、ビ・シディ・スルマンは戦闘において殺害されたと報告されている。写真はインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書に含まれているものを利用可能。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.car-individuals.15
+    name:
+      ja: アリ・ダラッサ
+      en: ALI DARASSA
+    type: individual
+    effective_date: '2022-01-28'
+    sanction_list: jp/mof-asset-freeze-car-individuals
+    sanction_list_en: Central African Republic (Individuals)
+    title:
+      ja: 中央アフリカにおける平和連合（Unité pour la Paix en Centrafrique（UPC））の創設者及び指導者
+    date_of_birth: '1978-09-22'
+    place_of_birth: 中央アフリカ共和国ウハム県（Ouham）カボ（Kabo）
+    nationality: 中央アフリカ共和国
+    list_date: '2021-12-21'
+    aliases:
+    - "(a)アリ・ダラッサ・マハマト（Ali Darassa Mahamat） (b)アリ・マハマト・ダラッサ（Ali Mahamat Darassa） (c)アリ・ダラス（Ali Daras） (d)アリ・ダラッサ（Ali Darrassa）"
+    - アリ・ダラッサ将軍（Général Ali Darassa）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: '10978000004482'
+    remarks:
+    - ja: アリ・ダラッサは、中央アフリカ共和国を拠点とする武装集団「中央アフリカにおける平和連合（Unité pour la Paix en Centrafrique）（UPC）」を創設し、現在も率いている。UPCは、2014年の創設以来、文民を殺害、拷問、強姦し、移動させ、多数の人権侵害や国際人道法違反を犯し、武器密売、違法な課税活動、中央アフリカ共和国の国防・治安部隊や他の民兵に対する戦闘に従事してきた。2020年12月、同人は、2019年２月６日に署名された「平和と和解のための政治合意（Accord politique pour la paix et la réconciliation）（APPR）」の下でのUPCによるコミットメントに反して、選挙に反対するために武器を取り、首都バンギへの侵攻を試みた「変革のための愛国者同盟（Coalition des patriotes pour le changement）（CPC）」の創設において主導的役割を担った。同人に対するインターポール(国際刑事警察機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals

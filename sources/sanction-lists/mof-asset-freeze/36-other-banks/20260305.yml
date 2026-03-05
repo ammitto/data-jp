@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ロシア及びベラルーシ以外（特定銀行)
+  - en: Other Countries (Designated Banks)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.other-banks.1
+    name:
+      ja: エムアールビー・バンク
+      en: MRB Bank
+    type: organization
+    effective_date: '2025-01-10'
+    sanction_list: jp/mof-asset-freeze-other-banks
+    sanction_list_en: Other Countries (Designated Banks)
+    address: Stalin Street 20, Tsinkhval, Georgia
+    aliases:
+    - "(別称"
+    - インターナショナル・セトルメント・バンク有限会社
+    - メジュドゥナロドニー・ラッショトニー・バンク) (a.k.a. International Settlement Bank LLC
+    - a.k.a. Mezhdunarodnyi Raschetnyi Bank）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

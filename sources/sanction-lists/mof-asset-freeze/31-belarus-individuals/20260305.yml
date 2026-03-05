@@ -1,0 +1,335 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ベラルーシ(個人)
+  - en: Belarus (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.belarus-individuals.1
+    name:
+      ja: アレクサンドル・ルカシェンコ
+      en: Aleksandr LUKASHENKO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国大統領 President of the Republic of Belarus
+    date_of_birth: '1954-08-30'
+    place_of_birth: ヴィテプスク州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.2
+    name:
+      ja: ヴィクトル・フレニン
+      en: Viktor KHRENIN
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国防大臣 Minister of Defence of the Republic of Belarus
+    date_of_birth: '1971-08-01'
+    place_of_birth: グロドノ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.3
+    name:
+      ja: イヴァン・テルテリ
+      en: Ivan TERTEL
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国家保安委員長 Chairman of the State Security Committee of the Republic of Belarus
+    date_of_birth: '1966-09-08'
+    place_of_birth: グロドノ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.4
+    name:
+      ja: アナトリー・ラッポ
+      en: Anatoly LAPPO
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国家国境委員長 Chairman of the State Border Committee of the Republic of Belarus
+    date_of_birth: 1963-XX-XX
+    place_of_birth: モギリョフ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.5
+    name:
+      ja: アレクサンドル・ヴォリフォヴィチ
+      en: Aleksandr VOLFOVICH
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国家安全保障会議国家書記 State Secretary of the Security Council of the Republic of Belarus
+    date_of_birth: '1967-06-28'
+    place_of_birth: カザン（ロシア）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.6
+    name:
+      ja: ドミトリー・パントゥス
+      en: Dmitry PANTUS
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国家軍需産業委員長 Minister of State Authority for Military Industry of the Republic of Belarus
+    date_of_birth: '1982-09-06'
+    place_of_birth: グロドノ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.7
+    name:
+      ja: ヴィクトル・グレヴィチ
+      en: Viktor GULEVICH
+    type: individual
+    effective_date: '2022-03-03'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国軍参謀総長兼国防第一次官 Chief of the General Staff, First Deputy Minister of Defence of the Republic of Belarus
+    date_of_birth: '1969-05-14'
+    place_of_birth: ミンスク州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.8
+    name:
+      ja: ヴィクトル・ルカシェンコ
+      en: Viktor LUKASHENKO
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国オリンピック委員会会長 President of the National Olympic Committee of the Republic of Belarus
+    date_of_birth: '1975-11-28'
+    place_of_birth: モギリョフ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.9
+    name:
+      ja: ドミトリー・ルカシェンコ
+      en: Dmitry LUKASHENKO
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: 大統領スポーツクラブ中央評議会議長 Chairman of the Central Council of the President's Sport Club
+    date_of_birth: '1980-03-23'
+    place_of_birth: モギリョフ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.10
+    name:
+      ja: ナタリア・コチャノヴァ
+      en: Natalia KOCHANOVA
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国民議会共和国院議長 Chair of the Council of the Republic of the National Assembly of the Republic of Belarus
+    date_of_birth: '1960-09-25'
+    place_of_birth: ヴィテプスク州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.11
+    name:
+      ja: ナタリア・エイスモント
+      en: Natalia EISMONT
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国大統領報道官 Press Secretary of the President of the Republic of Belarus
+    date_of_birth: '1984-02-16'
+    place_of_birth: ミンスク市（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.12
+    name:
+      ja: イヴァン・クブラコフ
+      en: Ivan KUBRAKOV
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国内務大臣 Minister of Internal Affairs of the Republic of Belarus
+    date_of_birth: '1975-05-05'
+    place_of_birth: モギリョフ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.13
+    name:
+      ja: ドミトリー・ゴラ
+      en: Dmitry GORA
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国捜査委員長 Chairman of the Investigative Committee of the Republic of Belarus
+    date_of_birth: 1970-XX-XX
+    place_of_birth: トビリシ市（ジョージア）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.14
+    name:
+      ja: アンドレイ・シュヴェド
+      en: Andrei SHVED
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国検事総長 Prosecutor General of the Republic of Belarus
+    date_of_birth: '1973-04-21'
+    place_of_birth: ゴメリ州（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.15
+    name:
+      ja: オレグ・ガイドゥケヴィチ
+      en: Oleg GAIDUKEVICH
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ベラルーシ共和国国民議会代表者院国際関係委員会副委員長 Deputy Chairman of the Standing Commission on International Affairs of the House of Representatives of the National Assembly of the Republic of Belarus
+    date_of_birth: '1977-03-26'
+    place_of_birth: ミンスク市（ベラルーシ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.16
+    name:
+      ja: アレクセイ・オレクシン
+      en: Aleksei OLEKSIN
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: 有限会社ブレミノ・グループ共同オーナー Co-owner of LLC Bremino Group
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.17
+    name:
+      ja: ニコライ・ヴォロベイ
+      en: Nikolay VOROBEY
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: 有限会社ブレミノ・グループ共同オーナー Co-owner of LLC Bremino Group
+    date_of_birth: '1963-05-04'
+    place_of_birth: ウクライナ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.18
+    name:
+      ja: アレクサンドル・シャトロフ
+      en: Aleksandr SHATROV
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: シネジス・グループ共同創業者 Co-founder of Synesis Group
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-individuals.19
+    name:
+      ja: アレクサンドル・ザイツェフ
+      en: Aleksandr ZAITSEV
+    type: individual
+    effective_date: '2022-03-08'
+    sanction_list: jp/mof-asset-freeze-belarus-individuals
+    sanction_list_en: Belarus (Individuals)
+    title:
+      ja: ソフラ・グループ・オーナー Owner of Sohra Group
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

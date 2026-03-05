@@ -1,0 +1,265 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: イエメン共和国
+  - en: Republic of Yemen
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.yemen.1
+    name:
+      ja: アブドルハーリク・アル・ホーシー
+      en: ABD AL-KHALIQ AL-HOUTHI （original script：عبدالخالق الحوثي）
+    type: individual
+    effective_date: '2014-12-17'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    title:
+      ja: ホーシー派軍事司令官
+    date_of_birth: 1984-XX-XX
+    nationality: イエメン
+    list_date: 2014 年11月7日（2014年11月20日及び2016年8月26日改訂）
+    aliases:
+    - "（a）アブドルハーリク・アル・ホーシー（Abd-al-Khaliq al-Huthi）（b）アブドルハーリク・バドルッディーン・アル・ホーシー(Abd-al-Khaliq Badr-al-Din al Huthi)（c）アブドルハーリク・バドルッディーン・アル・ホーシー(‘Abd al-Khaliq Badr al-Din al-Huthi)（d）アブドルハーリク・アル・ホーシー(Abd al-Khaliq al-Huthi)"
+    - アブー・ユーヌス(Abu-Yunus)
+    reason:
+    - ja: アブドルハーリク・アル・ホーシーは、安全保障理事会決議第2140号（2014年）のパラグラフ17及び18の規定に定めた指定基準に該当し、パラグラフ11及び15の規定に従い、2014年11月7日に制裁対象に指定された。 アブドルハーリク・アル・ホーシーは、イエメンにおける平和的な政権移行のための2011年11月23日のイエメン政府と反政府勢力との合意の実施を妨害する活動及びイエメンにおける政治プロセスを妨害する活動等のイエメンの平和、安全又は安定を脅かす活動に関与してきた。 2013年10月下旬、アブドルハーリク・アル・ホーシーは、イエメン軍の軍服を着た武装集団を率い、イエメンのダンマージュ県各地を攻撃した。戦闘により複数の死者を出した。 2014年9月下旬、アブドルハーリク・アル・ホーシーの指示を受けて、人数及び身元不明の戦闘員らが、イエメンのサヌアにある外交団施設への攻撃を準備していたとされる。アル・ホーシーは、2014年8月30日にアムラン市からサヌア市の同派抗議キャンプへの武器の運搬を調整した。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: '性別・男性。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+  - id: jp.mof.yemen.2
+    name:
+      ja: アブドッラー・ヤヒヤー・アル・ハキーム
+      en: ABDULLAH YAHYA AL HAKIM （original script：عبد الله يحيى الحاكم）
+    type: individual
+    effective_date: '2014-12-17'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: ダフヤン、サアダ県、イエメン
+    title:
+      ja: ホーシー派軍事副司令官
+    date_of_birth: "(a)1985年頃（b）1984年から1986年までの間"
+    place_of_birth: "（a）ダフヤン、イエメン（b）サアダ県、イエメン"
+    nationality: イエメン
+    list_date: 2014年11月7日（2014年11月20日改訂）
+    aliases:
+    - "（a）アブー・アリー・アル・ハキーム(Abu Ali al Hakim)（b）アブー・アリー・アル・ハキーム(Abu-Ali al-Hakim)（c）アブダッラー・アル・ハキーム(Abdallah al-Hakim)（d）アブー・アリー・アル・ハキーム(Abu Ali Alhakim)（e）アブダッラー・アル・ムアイヤド(Abdallah al–Mu’ayyad)"
+    reason:
+    - ja: アブドッラー・ヤヒヤー・アル・ハキームは、安全保障理事会決議第2140号（2014年）のパラグラフ17及び18の規定に定めた指定基準に該当し、パラグラフ11及び15の規定に従い，2014年11月7日に制裁対象に指定された。 アブドッラー・ヤヒヤー・アル・ハキームは，イエメンにおける平和的な政権移行のための2011年11月23日のイエメン政府と反政府勢力との合意の実施及びイエメンにおける政治プロセスを妨害する等，イエメンの平和，安全又は安定を脅かす活動に関与してきた。 2014年6月，アブドッラー・ヤヒヤー・アル・ハキームは，アブドラッボ・マンスール・ハーディ・イエメン大統領に対するクーデターを計画する会合を開催したとされる。アル・ハキームは，軍・治安部隊司令官と会った。アリー・アブドッラー・サーレハ前イエメン大統領に忠実な党派の指導者である部族長らもイエメンの首都サヌアを乗っ取る軍事的な試みを調整することを目的としたこの会合に出席した。 2014年8月29日，議長声明において，国連安全保障理事会議長は，2014年7月8日にイエメン軍師団本部を含めイエメンのアムラン市を制圧したアブドッラー・ヤヒヤー・アル・ハキームにより指揮された軍隊の行動を非難した。アル・ハキームは，2014年7月のアムラン県の暴力的な制圧を主導し，イエメンのアムラン県及びハムダーン郡で行われていた紛争に関する決定を下す権限を有する軍事司令官であった。 2014年9月初旬時点で，アブドッラー・ヤヒヤー・アル・ハキームは，戦闘開始に備え，戦闘作戦行動を監督するためにサヌア県に滞在していた。アル・ハキームの役割は，イエメン政府を転覆させる軍事行動を組織することであり，アル・ハキームは，サヌア県に出入りする全ての道路を確保し，管理する責任を負っていた。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: '性別・男性。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+  - id: jp.mof.yemen.4
+    name:
+      ja: アブドルマリク・アル・ホーシー
+      en: ABDULMALIK AL-HOUTHI
+    type: individual
+    effective_date: '2015-05-19'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    list_date: 2015年4月14日（2016年8月26日改訂）
+    aliases:
+    - アブドルマリク・アル・ホーシー（Abdulmalik al-Huthi）
+    reason:
+    - ja: アブドルマリク・アル・ホーシーは、安全保障理事会決議第2140号（2014年）の11及び15の規定並びに安全保障理事会決議第2216号（2015年）の14の規定に従い、2015年4月14日に制裁対象に指定された。 アブドルマリク・アル・ホーシーは、イエメンの平和、安全又は安定を脅かす活動に関与してきた集団の指導者の一人である。 2014年9月、ホーシー派部隊がサヌアを奪取し、2015年１月、ホーシー派が支配する正統でない統治当局を通じて、イエメンの正統な政府を交代させようと一方的に試みた。アブドルマリク・アル・ホーシーは、兄フセイン・バドルッディーンの死後2004年に、イエメンのホーシー派運動の指導的地位を担っている。ホーシー派の指導者として、アブドルマリク・アル・ホーシーは、自らの要求に応じない場合に更なる騒擾を引き起こすことでイエメン当局を繰り返し脅迫し、ハーディ大統領、首相、主要閣僚を拘留した。ハーディ大統領は、その後アデンに逃れた。ホーシー派は、サーレハ前大統領とその息子アフマド・アリー・サーレハに対して忠実な軍部隊の支援を得て、アデンに対する新たな攻勢に出た。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: イエメンのホーシー派集団指導者。イエメンの平和、安全又は安定を脅かす活動に関与してきた。
+  - id: jp.mof.yemen.6
+    name:
+      ja: スルタン・サーレハ・アイダアイダ・ザービン
+      en: SULTAN SALEH AIDA AIDA ZABIN （original script：سلطان صالح عيضة عيضة زابن）
+    type: individual
+    effective_date: '2021-05-28'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン、サナア
+    title:
+      ja: "(a)イエメンのサナアに拠点を置く「内務省」刑事調査局（Criminal Investigation Department:CID）の局長（Director）又はジェネラル・マネージャー（General Manager） (b)准将"
+    date_of_birth: '1986-02-05'
+    place_of_birth: イエメン、サアダ県、ラジーハ地区
+    nationality: イエメン
+    list_date: 2021年2月25日 （2021年4月5日改訂）
+    aliases:
+    - "（a)アブー・サーカル・ザービン（Abu Saqar Zabin） （b)アブー・サーガル・ザービン（Abu Sagar Zabin）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: "(a)イエメン国民識別番号：10010095104（2013年12月26日発行）(b)イエメン軍事識別番号：20432（2018年発行）"
+    remarks:
+    - ja: 'スルタン・サーレハ・アイダアイダ・ザービンは、適用される国際人道法の違反及びイエメンにおける人権侵害を含め、イエメンの平和、安全及び安定を脅かす行為に関わってきた。 ザービンは、政治活動を行う女性に対する脅迫、並びに組織的な逮捕、拘禁、拷問、性的暴力及び強姦の実行政策において重要な役割を担ってきた。CID の局長としてザービンは、自宅軟禁、警察署、正式な刑務所、拘置所及び秘密に付された拘置所を含む複数の拘禁場所の使用に関し、直接責任を負い、又は、同人の権限により責任を負うとともに、共犯している。これらの場所では、少なくとも1 名の未成年者を含む女性が強制的に失踪させられ、繰り返し尋問され、強姦され、拷問され、適時の治療を拒否され、強制労働させられた。ザービン自身が直接拷問を加えた場合もあった。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク: https://www.interpol.int/en/How-we-work/Notices/View-UNNotices-Individuals'
+  - id: jp.mof.yemen.7
+    name:
+      ja: サーレハ・メスフェル・サーレハ・アル・シャーイル
+      en: SALEH MESFER SALEH AL SHAER （original script：صالح مسفر صالح الشاعر）
+    type: individual
+    effective_date: '2022-02-25'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン
+    title:
+      ja: 少将、ホーシー派と対立する人々が所有する財産及び資金の「司法管理者（Judicial Custodian）」
+    place_of_birth: イエメン、サアダ県アル・サフラ郡
+    nationality: イエメン
+    list_date: '2021-11-09'
+    aliases:
+    - "（a）サーレハ・モスフェル・サーレハ・アル・シャーイル（Saleh Mosfer Saleh al Shaer）（b）サーレハ・ムスフェル・サーレハ・アル・シャーイル (Saleh Musfer Saleh al Shaer）（c）サーレハ・メスフェル・アル・シャーイル（Saleh Mesfer al Shaer）（d）サーレハ・アル・シャイ（Saleh al Shae）（e）サーレハ・アル・シャーイル（Saleh al Sha’ir）（f）アブー・ヤーセル（Abu Yasser）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a) 05274639（イエメン）（2013年10月7日発行、2019年10月7日失効）(b) 00481779（イエメン）（2000年12月9日発行、2006年12月9日失効）"
+      national_id: "(a) 1388114（イエメン）(b) 10010057512（イエメン）"
+    remarks:
+    - ja: ホーシー派「兵站担当副防衛大臣」として、ホーシー派が密輸された武器を不法に取得することをほう助した。「司法管理者」として、ホーシー派によって逮捕された、又は、イエメン国外への避難を余儀なくされた私人が所有する資産や団体を大規模かつ違法に専有することに直接的に関与した。身体的特徴：茶色い目、白髪、肌の色は中間、やせ型、身長体重は不明。部族：ハーシド部族連合の一員。写真は、インターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク（https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals）上で閲覧可能。
+  - id: jp.mof.yemen.8
+    name:
+      ja: ムハンマド・アブドゥルカリーム・アル・ガマーリー
+      en: MUHAMMAD ABD AL-KARIM AL-GHAMARI （original script：محمد عبدالكريم الغماري）
+    type: individual
+    effective_date: '2022-02-25'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン
+    title:
+      ja: 少将、ホーシー派参謀総長
+    date_of_birth: 1979-XX-XX
+    place_of_birth: イエメン、ハッジャ県ワシュハ郡ダーイン地区
+    nationality: イエメン
+    list_date: '2021-11-09'
+    aliases:
+    - ムハンマド・アル・ガマーリー（Mohammad Al-Ghamari）（1984年生まれ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: マアリブを含むイエメンの平和、安全及び安定を直接的に脅かすホーシー派による軍事的取組及びサウジアラビアに対する越境攻撃を指揮する主導的役割を担うホーシー派軍事部門参謀総長。写真は、インターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク（https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals）上で閲覧可能。
+  - id: jp.mof.yemen.9
+    name:
+      ja: ユースフ・アル・マダーニー
+      en: YUSUF AL-MADANI （original script：يوسف المداني）
+    type: individual
+    effective_date: '2022-02-25'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン
+    title:
+      ja: ホーシー派第５軍管区司令官
+    date_of_birth: 1977-XX-XX
+    place_of_birth: イエメン、ハッジャ県ムスタバア地区
+    nationality: イエメン
+    list_date: '2021-11-09'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: イエメンの平和、安全及び安定を脅かす、ホーシー派部隊の有名な指導者であり、ホデイダ、ハッジャ、アル・マハウィート及びライマにおける司令官。アル・マダーニーは、2021年の時点でマアリブを標的とする攻撃を命じられた。写真は、インターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク（https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals）上で閲覧可能。
+  - id: jp.mof.yemen.10
+    name:
+      ja: マンスール・アル・サアーディー
+      en: MANSUR AL-SA’ADI （original script：منصور السعادي ）
+    type: individual
+    effective_date: '2024-02-22'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン
+    title:
+      ja: 少将、ホーシー派海軍・沿岸防衛軍司令官
+    date_of_birth: 1988-XX-XX
+    place_of_birth: イエメン
+    nationality: イエメン
+    list_date: '2022-09-26'
+    aliases:
+    - "（a）マンスール・アフメド・アル・サアーディー（Mansoor Ahmed Al Saadi）"
+    - "（b）マンスール・アフマド・アル・サアーディー（Mansur Ahmad al-Sa’adi）"
+    - "（c）アブー・サッジャード（Abu Sajjad）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 紅海の国際海運に対する致死的な攻撃を首謀し、イエメンの平和、安全及び安定を直接的に脅かすホーシー派の海軍の取組において主導的役割を担う。身体的特徴：茶色い目、茶髪。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク（https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals）
+  - id: jp.mof.yemen.11
+    name:
+      ja: ムトラク・アーミル・アル・マッラーニー
+      en: MOTLAQ AMER AL-MARRANI （original script：مطلق عامر المراني ）
+    type: individual
+    effective_date: '2024-02-22'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン
+    title:
+      ja: 元ホーシー派国家安全保障局（NSB）（諜報機関）副局長
+    date_of_birth: '1984-01-01'
+    place_of_birth: イエメン、ジャウフ
+    nationality: イエメン
+    list_date: '2022-09-26'
+    aliases:
+    - "（a）ムトラク・アリー・アーミル・アル・マッラーニー（Mutlaq Ali Aamer Al Marrani）"
+    - "（b）アブー・イマード （Abu Emad）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ホーシー派国家安全保障局（NSB）元副局長。拘束中に拷問等の虐待を受けたホーシー派国家安全保障局（NSB）による被拘禁者を監督し、国際人道法に違反して、人道支援活動家の違法な逮捕・拘束や人道支援の違法な流用を計画・指揮した。身体的特徴：茶色い目、茶髪。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク（https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals）
+  - id: jp.mof.yemen.12
+    name:
+      ja: アフマド・アル・ハムズィー
+      en: AHMAD AL-HAMZI （original script：أحمد الحمزي ）
+    type: individual
+    effective_date: '2024-02-22'
+    sanction_list: jp/mof-asset-freeze-yemen
+    sanction_list_en: Republic of Yemen
+    address: イエメン
+    title:
+      ja: 少将、ホーシー派空軍・防空軍司令官
+    date_of_birth: 1985-XX-XX
+    place_of_birth: イエメン、サヌア
+    nationality: イエメン
+    list_date: '2022-10-04'
+    aliases:
+    - "（a）アフマド・アリー・アル・ハムズィー（Ahmad 'Ali al-Hamzi）"
+    - "（b）アフマド・アリー・アハサン・アル・ハムズィー（Ahmad 'Ali Ahsan al-Hamzi）"
+    - "（c）アフメド・アリー・アル・ハムズィー（Ahmed Ali al-Hamzi）"
+    - "（d）ムティー・アル・ハムズィー（Muti al-Hamzi）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ホーシー派の空軍、防空軍及び無人航空機プログラムの司令官であるアフマド・アル・ハムズィーは、イエメンの平和、安全及び安定を直接的に脅かすホーシー派の海軍の取組において主導的役割を担う。身体的特徴：茶色い目、茶髪。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク（https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals）

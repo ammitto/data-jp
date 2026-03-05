@@ -1,0 +1,564 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: リビア (Ⅱ)
+  - en: Libya (II)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.libya-2.1
+    name:
+      ja: アーイシャ・ムアンマル・ムハンメド・アブミンヤール・カダフィ
+      en: AISHA MUAMMAR MUHAMMED ABU MINYAR QADHAFI
+    type: organization
+    effective_date: '2011-03-08'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: オマーン国 （推定される状況・居住地：オマーン国）
+    date_of_birth: '1978-01-01'
+    place_of_birth: トリポリ、リビア
+    aliases:
+    - アーイシャ・ムハンメド・アブドル・サラーム （Aisha Muhammed Abdul Salam） （リビア旅券番号：215215）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)オマーン国旅券番号：03824970、発行日：2014年5月4日、発行地：マスカット、オマーン国、有効期限：2024年5月3日 (b)リビア旅券番号：428720 (c)旅券番号：B/011641"
+      national_id: '98606612'
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号17に従い制裁リストに掲載（資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク： https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日、2013年3月21日、2014年9月26日、2016年11月11日、2020年2月25日、2023年10月16日）
+  - id: jp.mof.libya-2.2
+    name:
+      ja: ハンニバル・ムアンマル・カダフィ
+      en: HANNIBAL MUAMMAR QADHAFI
+    type: organization
+    effective_date: '2011-03-08'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: レバノン共和国（拘留中）
+    date_of_birth: '1975-09-20'
+    place_of_birth: トリポリ、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: リビア旅券番号：B/002210
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日、2014年9月26日、2016年11月11日）
+  - id: jp.mof.libya-2.3
+    name:
+      ja: ハミース・ムアンマル・カダフィ
+      en: KHAMIS MUAMMAR QADHAFI
+    type: organization
+    effective_date: '2011-03-08'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    date_of_birth: 1978-XX-XX
+    place_of_birth: トリポリ、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。推定される状況・居住地：死亡。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日、2014年9月26日）
+  - id: jp.mof.libya-2.4
+    name:
+      ja: ムアンマル・モハンメド・アブミンヤール・カダフィ
+      en: MUAMMAR MOHAMMED ABU MINYAR QADHAFI
+    type: organization
+    effective_date: '2011-03-08'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: 革命指導者（Leader of the Revolution） 軍の最高司令官（Supreme Commander of Armed Forces）
+    date_of_birth: 1942-XX-XX
+    place_of_birth: シルテ（Sirte）、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。推定される状況・居住地：死亡。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日、2013年9月4日）
+  - id: jp.mof.libya-2.5
+    name:
+      ja: ムアタシム・カダフィ
+      en: MUTASSIM QADHAFI
+    type: organization
+    effective_date: '2011-03-08'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: 国家安全保障担当補佐官（National Security Adviser）
+    date_of_birth: '1974-02-05'
+    place_of_birth: トリポリ、リビア
+    aliases:
+    - "(a)アルムアタシム・ベラ・ムアンマル・カダフィ（Almuatesem Bellah Muammer Qadhafi） (b)ムアタシム・ビラ・アブミンヤール・カダフィ（Mutassim Billah Abuminyar Qadhafi）"
+    - "(a)ムアタスンブラ（Muatasmblla） (b)ムアタシムブラ（Muatasimbllah） (c)モアタッサム（Moatassam）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: リビア旅券番号：B/001897
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。推定される状況・居住地：死亡。2011年10月20日にリビアのシルテ（Sirte）で死亡したとされる。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日、2014年9月26日、2016年4月1日）
+  - id: jp.mof.libya-2.6
+    name:
+      ja: セイフ・アルイスラム・カダフィ
+      en: SAIF AL-ISLAM QADHAFI
+    type: organization
+    effective_date: '2011-03-08'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: リビア（推定される状況・居住地：リビアのジンタン（Zintan）で移動の自由を制限されている。）
+    title:
+      ja: カダフィ基金の総裁（Director, Qadhafi Foundation）
+    date_of_birth: '1972-06-25'
+    place_of_birth: トリポリ、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: リビア旅券番号：B014995
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止､資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日､2014年9月26日､2016年11月11日）
+  - id: jp.mof.libya-2.7
+    name:
+      ja: アブ・ゼイド・オマル・ドルダ
+      en: ABU ZAYD UMAR DORDA
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: リビア（推定される状況・居住地：死亡。）
+    title:
+      ja: "(a)対外治安庁長官（Director, External Security Organisation） (b)対外諜報機関の長（Head of external intelligence agency）"
+    date_of_birth: '1944-04-04'
+    place_of_birth: アールルヘイバット（Alrhaybat）
+    aliases:
+    - "(ａ)ドルダ・アブゼッド・オエ（Dorda Abuzed OE） (ｂ)アブ・ゼイド・オマル・ハメイド・ドルダ（Abu Zayd Umar Hmeid Dorda）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: リビア旅券番号：FK117RK0、発行日：2018年11月25日、発行地：トリポリ、有効期限：2026年11月24日
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15に従い制裁リストに掲載（渡航禁止）。国連安全保障理事会決議第1970号17に従い2011年3月17日に制裁リストに掲載（資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2014年6月27日、2016年4月1日、2020年2月25日、2022年7月18日）
+  - id: jp.mof.libya-2.8
+    name:
+      ja: アブ・バクル・ユーニス・ジャービル
+      en: ABU BAKR YUNIS JABIR
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: 国防相（Defence Minister）
+      en: General）
+    date_of_birth: 1952-XX-XX
+    place_of_birth: ジャロ（Jalo）、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15に従い制裁リストに掲載（渡航禁止）。国連安全保障理事会決議第1970号17に従い2011年３月17日に制裁リストに掲載（資産凍結）。推定される状況・居住地：死亡。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日）
+  - id: jp.mof.libya-2.9
+    name:
+      ja: マトーク・モハンメド・マトーク
+      en: MATUQ MOHAMMED MATUQ
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: 建設相（Secretary for Utilities）
+    date_of_birth: 1956-XX-XX
+    place_of_birth: ホムス（Khoms）、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15に従い制裁リストに掲載（渡航禁止）。国連安全保障理事会決議第1970号17に従い2011年3月17日に制裁リストに掲載（資産凍結）。推定される状況・居住地：不明（拘束されていると思われる。）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日）
+  - id: jp.mof.libya-2.10
+    name:
+      ja: モハンメド・ムアンマル・カダフィ
+      en: MOHAMMED MUAMMAR QADHAFI
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: オマーン国（推定される状況・居住地：オマーン国）
+    date_of_birth: 1970-XX-XX
+    place_of_birth: トリポリ、リビア
+    aliases:
+    - ムハンメド・ムアンマル・ムハンメド・アブドゥル・サラム（Muhammed Muammar Muhammed Abdul Salam）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: オマーン国旅券番号：03824969、発行日：2014年5月4日
+      national_id: オマーン国：97183904
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日、2013年9月4日、2014年9月26日、2021年4月29日）
+  - id: jp.mof.libya-2.11
+    name:
+      ja: サーディ・カダフィ
+      en: SAADI QADHAFI
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: トルコ
+    title:
+      ja: 特別部隊司令官（Commander Spercial Forces）
+    date_of_birth: '1973-05-27'
+    place_of_birth: トリポリ、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)014797 (b)524521 （c）リビア旅券番号：AA862825、発行日：2021年5月19日、発行地：トリポリ、有効期限：2029年5月18日"
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15に従い制裁リストに掲載（渡航禁止）。国連安全保障理事会決議第1970号17に従い2011年3月17日に制裁リストに掲載（資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年3月14日、2012年4月2日、2015年3月26日、2022年1月28日、2023年11月29日）
+  - id: jp.mof.libya-2.12
+    name:
+      ja: セイフ・アルアラブ・カダフィ
+      en: SAIF AL-ARAB QADHAFI
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    date_of_birth: 1982-XX-XX
+    place_of_birth: トリポリ、リビア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15に従い制裁リストに掲載（渡航禁止）。国連安全保障理事会決議第1970号17に従い2011年3月17日に制裁リストに掲載（資産凍結）。推定される状況・居住地：死亡。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2012年4月2日）
+  - id: jp.mof.libya-2.13
+    name:
+      ja: アブドラ・アルサヌーシ
+      en: ABDULLAH AL-SENUSSI
+    type: organization
+    effective_date: '2011-03-24'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: リビア（推定される状況・居住地：リビアにおいて拘留中）
+    title:
+      ja: 軍部諜報部長（Director Military Intelligence）
+    date_of_birth: 1949-XX-XX
+    place_of_birth: スーダン共和国
+    aliases:
+    - "(a)アブドラ・ウルド・アフメド（Abdoullah Ould Ahmed）（旅券番号：Ｂ0515260"
+    - 生年月日：1948年
+    - 出生地：マリ共和国キダル（Kidal）州アネフィフ（Anefif）
+    - 発行日2012年1月10日
+    - 発行地：マリ共和国バマコ
+    - 有効期限：2017年1月10日） (b)アブドラ・ウルド・アフメド（Abdoullah Ould Ahmed）（マリ共和国ID番号：073／SPICRE
+    - 発行日：2011年12月6日
+    - 発行地：マリ共和国キダル（Kidal）州エスック（Essouck））
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15に従い制裁リストに掲載（渡航禁止）。国連安全保障理事会決議第1970号17に従い2011年3月17日に制裁リストに掲載（資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年2月26日 （改訂日：2013年3月21日、2014年6月27日）
+  - id: jp.mof.libya-2.14
+    name:
+      ja: サフィーヤ・ファルカーシュ・アルバラシ
+      en: SAFIA FARKASH AL-BARASSI
+    type: organization
+    effective_date: '2011-08-26'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: "(a)オマーン国 (b)推定される居住地：エジプト・アラブ共和国"
+    date_of_birth: 1952-XX-XX
+    place_of_birth: アル・ベイダ（Al Bayda）、リビア
+    aliases:
+    - サフィーヤ・ファルカーシュ・モハンメド・アルハダッド（Safia Farkash Mohammed Al-Hadad）
+    - 1953年1月1日生まれ（オマーン国旅券番号：03825239
+    - 発行日：2014年5月4日
+    - 有効期限：2024年5月3日）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '03825239'
+      national_id: オマーン国：98606491
+    remarks:
+    - ja: 国連安全保障理事会決議第1973号19に従い制裁リストに掲載（資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2011年6月24日 （改訂日：2012年2月13日、2012年4月2日、2013年9月4日、2014年9月26日、2015年3月26日、2016年4月1日、2024年1月31日）
+  - id: jp.mof.libya-2.16
+    name:
+      ja: エルミアス・アレム
+      en: 'Ermias Alem （original script: ኤርሚኣስ ግርማይ）（ティグリニャ語）'
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: 既知の住所Tarig sure no.51，Tripoliから2015年にサブラタ（Sabratha）に移動した可能性がある。
+    title:
+      ja: 国境を越えた密売ネットワークの指導者 （Leader of a transnational trafficking network）
+    date_of_birth: 1980-XX-XX
+    place_of_birth: エリトリア国
+    nationality: エリトリア国
+    aliases:
+    - エルミアス・ジェルメイ
+    - グロ （Ermias Ghermay，Guro）
+    - "(a)エルミエス・ジェルメイ（Ermies Ghermay） (b)エルミアス・ジルメイ（Ermias Ghirmay）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。
+    un_designation_date: 2018年6月7日 （改訂日：2018年9月17日）
+  - id: jp.mof.libya-2.17
+    name:
+      ja: フィティウィ・アブデルラザック
+      en: Fitiwi Abdelrazak （original script：ፍትዊ ዓብዱረዛቕ）（ティグリニャ語）
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: 国境を越えた密売ネットワークの指導者 （Leader of a transnational trafficking network）
+    date_of_birth: おおむね30～35歳
+    place_of_birth: マサウア（Massaua）、エリトリア国
+    nationality: エリトリア国
+    aliases:
+    - アブドゥレザック（Abdurezak） アブデルラザック（Abdelrazaq） アブドゥルラザック（Abdulrazak） アブドラザック（Abdrazzak）
+    - フィトウィ・エスマイル・アブデルラザック （Fitwi Esmail Abdelrazak）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。
+    un_designation_date: 2018年6月7日 （改訂日：2018年9月17日）
+  - id: jp.mof.libya-2.18
+    name:
+      ja: アフマド・ウマール・イムハマッド・アルフィトゥリ
+      en: Ahmad Oumar Imhamad al-Fitouri （original script：احمد عمر امحمد الفیتوري）
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: "(a)ガラブリ（Garabulli）、リビア (b)ザーウィヤ(Zawiya)、リビア (c)ドバブシャ・サブラタ（Dbabsha-Sabratah）"
+    title:
+      ja: アナス・アルダバシ民兵司令官 （Commander of the Anas al-Dabbashi militia） 国境を越えた密売ネットワークの指導者 （Leader of a transnational trafficking network）
+    date_of_birth: '1988-05-07'
+    place_of_birth: おそらくサブラタ（Sabratha）、タリル（Talil）近郊、リビア
+    nationality: リビア
+    aliases:
+    - "(a)アルダバシ（Al-Dabachi） (b)アルアンム（Al Ammu） (c)ジ・アンクル（The Uncle） (d)アルアフワル（Al-Ahwal） (e)アルダバシ（Al Dabbashi）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: リビア旅券番号：LY53FP76 発行日：2015年9月29日 発行地：トリポリ
+      national_id: '119880387067'
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2018年6月7日 （改訂日：2018年9月17日、2020年2月25日）
+  - id: jp.mof.libya-2.19
+    name:
+      ja: ムスアブ・ムスタファ・アブアルカシム・オマール
+      en: Mus’ab Mustafa Abu al Qassim Omar （original script：مصعب مصطفى ابو القاسم عمر）
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: 住所
+    title:
+      ja: 国境を超えた密売ネットワークの指導者 （Leader of a transnational trafficking network）
+    date_of_birth: '1983-01-19'
+    place_of_birth: サブラタ（Sabratha）、リビア
+    nationality: リビア
+    aliases:
+    - ムスアブ・アブカリン （Mus’ab Abu Qarin）
+    - "(a)アブアルカシム・オマール・ムスアブ・ブクリン（ABU-AL QASSIM OMAR Musab Boukrin） (b)ザ・ドクター（The Doctor） (c)アルグレイン（Al-Grein）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)782633、発行日：2005年5月31日 (b)540794、発行日：2008年1月12日"
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2018年6月7日 （改訂日：2018年9月17日）
+  - id: jp.mof.libya-2.20
+    name:
+      ja: モハンメド・アルアミン・アルアラビ・カシュラフ
+      en: Mohammed Al-Amin Al-Arabi Kashlaf （original script：محمد الأمین العربي كشلاف）
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: ザーウィヤ（Zawiya）、リビア
+    title:
+      ja: シュハダ・アルナスル旅団司令官 （Commander of the Shuhada al-Nasr brigade） ザーウィヤ製油所警護隊長 （Head of the Petrol Refinery Guard of Zawiya’s refinery）
+    date_of_birth: '1985-12-02'
+    place_of_birth: ザーウィヤ（Zawiya）、リビア
+    nationality: リビア
+    aliases:
+    - "（ａ）カシュラフ（Kashlaf） （ｂ）コシュラフ（Koshlaf） （ｃ）アルカサブ（al-Qasab）"
+    - ケスラフ（Keslaf）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: C17HLRL3 発行日：2015年12月30日 発行地：ザーウィヤ（Zawiya）
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2018年6月7日 （改訂日：2018年9月17日、2020年2月25日、2023年11月29日）
+  - id: jp.mof.libya-2.21
+    name:
+      ja: アブド・アルラフマン・サリム・イブラヒム・アルミラッド
+      en: Abd Al-Rahman Salim Ibrahim al-Milad
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: ザーウィヤ（Zawiya）、リビア
+    title:
+      ja: ザーウィヤ沿岸警備隊司令官 （Commander of the Coast Guard in Zawiya）
+    date_of_birth: '1986-07-27'
+    place_of_birth: トリポリ、リビア
+    nationality: リビア
+    aliases:
+    - "（ａ）アブドゥラフマン・サレム・イブラヒム・ミラッド（Abdurahman Salem Ibrahim Milad）（ｂ）アブドゥラフマン・サリム・ミラッド・カシュラフ（Abdulrahman Salim Milad Kashlaf）"
+    - "(a)ラフマン・サリム・ミラッド（Rahman Salim Milad） (b)アルビジャ（al-Bija）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: リビア旅券番号：G52FYPRL、発行日：2014年5月8日、有効期限：2022年5月7日
+      national_id: '2519910'
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。母親の氏名はフリヤ・アル・アイブ（Huriyah Al-A’ib）。同人の軍人ＩＤ番号は36479。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2018年6月7日（改訂日：2021年４月29日、2023年11月29日）
+  - id: jp.mof.libya-2.22
+    name:
+      ja: イブラヒム・サイード・サリム・ジャドラン
+      en: Ibrahim Saeed Salim Jadhran
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: 武装民兵指導者 （Leader of armed militias）
+    date_of_birth: '1982-10-29'
+    nationality: リビア
+    aliases:
+    - イブラヒム・サイード・サレム・アワッド・アイサ・ハメッド・ダウド・アルジャドラン （Ibrahim Saeed Salem Awad Aissa Hamed Dawoud AlJadhran ）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: S/263963 発行日：2012年11月8日
+      national_id: "(a)119820043341 (b)個人ID番号：137803"
+    remarks:
+    - ja: 母親の氏名はサルマ・アブドラ・ユニス（Salma Abdula Younis）。国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2018年9月11日 （改訂日：2020年2月25日）
+  - id: jp.mof.libya-2.23
+    name:
+      ja: サラ・バディ
+      en: Salah Badi
+    type: organization
+    effective_date: '2020-06-30'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    title:
+      ja: Fakhr又は「リビアの誇り」として知られる反国民統一政府武装組織アルソムード戦線及びミスラタのアルマルサ中央防御旅団の上級司令官 （Senior commander of the armed anti-GNA Al-Somood front, also known as Fakhr or ‘Pride of Libya’, and the Misratan Al Marsa Central Shield Brigade）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。
+    un_designation_date: '2018-11-16'
+  - id: jp.mof.libya-2.24
+    name:
+      ja: オサマ・アルクーニ・イブラヒム
+      en: Osama Al Kuni Ibrahim （original script：أسامة الكوني ابراهيم）
+    type: organization
+    effective_date: '2021-11-26'
+    sanction_list: jp/mof-asset-freeze-libya-2
+    sanction_list_en: Libya (II)
+    address: ザーウィヤ（Zawiyah）､リビア
+    title:
+      ja: ザーウィヤのアルナスル収容所所長（Manager
+      en: of Al Nasr Detention Center in Zawiyah）
+    date_of_birth: '1976-04-02'
+    place_of_birth: トリポリ、リビア
+    nationality: リビア
+    aliases:
+    - "(a)オサマ・ミラッド（Osama Milad）(b)オサマ・アルミラッド（Osama al-Milad）(c)オサマ・ザーウィヤ（Osama Zawiya）(d)オサマ・ザーウィヤ（Osama Zawiyah）(e)オサマ・アルクーニ（Osama al Kuni）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アルナスル収容所の事実上の所長として､同人は､直接又は部下を通じて､適用される国際人権法に違反する行為やリビアにおいて人権侵害を構成する行為に携わり､支援を行ってきた。同人は､ザーウィヤ（Zawiyah）のネットワークの人身売買活動に本質的に関与している本リストに掲載された２名の個人､すなわちモハンメド・アルアミン・アルアラビ・カシュラフ（20．に指定した個人）やアブド・アルラフマン・アルミラッド（21．に指定した個人）のため､又は彼らの代理として､又は彼らの指示の下で行動してきた。国連安全保障理事会決議第1970号15及び17に従い制裁リストに掲載（渡航禁止、資産凍結）。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+    un_designation_date: 2021年10月25日（改訂日：2023年11月29日）

@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ハイチ共和国（団体）
+  - en: Republic of Haiti (Entities)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.haiti-organizations.1
+    name:
+      ja: グラン・グリフ
+      en: GRAN GRIF
+    type: organization
+    effective_date: '2025-08-13'
+    sanction_list: jp/mof-asset-freeze-haiti-organizations
+    sanction_list_en: Republic of Haiti (Entities)
+    address: ハイチ（Haiti）
+    list_date: '2025-07-08'
+    aliases:
+    - グラン・グリフ・ド・サヴィエン（サヴィエンの大きな鉤爪）
+    - サヴィエン・ギャング
+    - バズ・グラン・グリフ（グラン・グリフの基地） Gran Grif de Savien
+    - Savien gang
+    - Baz Gran Grif
+    reason:
+    - ja: '国連参照番号: HTe.001'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: リュクソン・エランはグラン・グリフ・ギャングの指導者
+  - id: jp.mof.haiti-organizations.2
+    name:
+      ja: ヴィヴ・アンサン
+      en: VIV ANSANM
+    type: organization
+    effective_date: '2025-08-13'
+    sanction_list: jp/mof-asset-freeze-haiti-organizations
+    sanction_list_en: Republic of Haiti (Entities)
+    address: ハイチ（Haiti）
+    list_date: '2025-07-08'
+    aliases:
+    - 共に生きる
+    - G-9
+    - G9ファミリー及び連合
+    - ジェイヌフ・ファミー・エ・アリエ
+    - G9ファミリー及び連合による革命の力
+    - フォス・レボリショネー・ジェイヌフ・オン・ファミー・エ・アリエ
+    - ジェイ・ペップ
+    - Gの人々 Living Together
+    - G9 Family and Allies
+    - G9 Fanmi e Alye
+    - The Revolutionary Forces of the G9 Family and Allies
+    - Fòs Revolisyonè G9 an Fanmi e Alye
+    - G-Pèp
+    - G-People
+    reason:
+    - ja: '国連参照番号: HTe.002'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ジミー・シュリジエは、ヴィヴ・アンサン・ギャング連合の指導者

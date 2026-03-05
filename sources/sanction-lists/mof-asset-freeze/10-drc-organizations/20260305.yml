@@ -1,0 +1,186 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: コンゴ民主共和国 (団体)
+  - en: Democratic Republic of the Congo (Entities)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.drc-organizations.1
+    name:
+      ja: エーディーエフ
+      en: ADF
+    type: organization
+    effective_date: '2015-07-31'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: コンゴ民主共和国北キヴ州
+    list_date: 2014年6月30日 （2016年10月19日及び2020年8月19日修正）
+    aliases:
+    - 民主同盟軍（Allied Democratic Forces）
+    - "(a)民主同盟軍－ウガンダ解放国民軍（Forces Democratiques Alliees-Armee Nationale de Liberation de l’Ouganda）"
+    - "(b)ADF/NALU"
+    - "(c)NALU"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ADF創設者であり指導者でもあるジャミール・ムクルは、2015年4月にタンザニアのダルエルサラームで逮捕された。ムクルは、その後、2015年7月にウガンダのカンパラに引き渡された。2016年6月現在、ムクルは裁判のため、警察の留置場に勾留されていると伝えられる。なお、ADFの全体指導者としてセカ・バルクがジャミール・ムクルの後継者となった。コンゴ民主共和国に関する専門家グループの複数の報告書において強調されているように、ADFは、セカ・バルクの指導下のものを含め、繰り返し、付け狙い、殺害及び傷害行為、強姦及びその他の性的暴力、児童を含む文民の誘拐、並びに村落や保健施設に対する攻撃を、特に2019年2月12日及び24日にベニ地区（Beni）マモーヴ（Mamove）において、2019年12月5日及び2020年1月30日にベニ地区（Beni）マントゥンビ（Mantumbi）において行い続けた。また、ADFは、少なくとも2015年から、コンゴ民主共和国ベニ地区（Beni）において、児童の継続的な徴募、襲撃時における児童の使用及び児童の強制労働を行い続けた。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.2
+    name:
+      ja: ブテンボ・エアラインズ（BAL）
+      en: BUTEMBO AIRLINES（BAL）
+    type: organization
+    effective_date: '2007-05-08'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: コンゴ民主共和国ブテンボ（Butembo）
+    list_date: '2007-03-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ブテンボを拠点に運行している個人所有の航空会社。2008年12月以降、BALはコンゴ民主共和国において航空機運航免許をもはや有していない。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.3
+    name:
+      ja: 大湖地域航空会社（コンパニー・アエリエンヌ・デ・グラン・ラック（CAGL））、大湖地域ビジネス会社（グレート・レイクス・ビジネス・カンパニー（GLBC））
+      en: COMPAGNIE AERIENNE DES GRANDS LACS（CAGL）、 GREAT LAKES BUSINESS COMPANY（GLBC）
+    type: organization
+    effective_date: '2007-05-08'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: "(a)コンゴ民主共和国ゴマ（Goma）モブツ大統領通り（Avenue President Mobutu）、(b)ルワンダ共和国ギセニ（Gisenyi）、(c)コンゴ民主共和国ゴマ（Goma）私書箱315"
+    list_date: '2007-03-29'
+    aliases:
+    - CAGL
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2008年12月現在、GLBCは運航可能な航空機をもはや有していないが、国連の制裁にかかわらず2008年に数機が飛行を継続した。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.4
+    name:
+      ja: コンゴメット貿易社
+      en: CONGOMET TRADING HOUSE
+    type: organization
+    effective_date: '2007-05-08'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: 北キヴ州ブテンボ（Butembo）
+    list_date: '2007-03-29'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 北キヴ州ブテンボにおける金の貿易業者としてはもはや存在しない。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.5
+    name:
+      ja: ルワンダ解放民主勢力（FDLR）
+      en: FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA（FDLR）
+    type: organization
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: "(a)コンゴ民主共和国北キヴ州、 (b)コンゴ民主共和国南キヴ州"
+    list_date: '2012-12-31'
+    aliases:
+    - "(a)FDLR"
+    - "(b)アバクングズィ戦闘勢力（Force Combattante Abacunguzi）"
+    - "(c)ルワンダ解放戦闘勢力（Combatant Force for the Liberation of Rwanda）"
+    - "(d)FOCA"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: メールアドレス：Fdlr@fmx.de; fldrrse@yahoo.fr; fdlr@gmx.net; fdlrsrt@gmail.com; humura2020@gmail.com。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.6
+    name:
+      ja: エム・ヴァントロワ
+      en: M23
+    type: organization
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    list_date: '2012-12-31'
+    aliases:
+    - 3月23日運動（Mouvement du 23 mars）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: メールアドレス：mouvementdu23mars1@gmail.com。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.7
+    name:
+      ja: マチャンガ有限会社
+      en: MACHANGA LTD
+    type: organization
+    effective_date: '2007-05-08'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: ウガンダ共和国カンパラ（Kampala）アッパー・コロロ・テラス（Upper Kololo Terrace）Plot 55A
+    list_date: 2007年3月29日 （2020年8月19日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 金輸出企業（取締役：ラジェンドラ・クマール・ヴァヤ（Rajendra Kumar Vaya）及びヒレンドラ・M・ヴァヤ（Hirendra M. Vaya））。2010年、エミレーツ・ゴールドの口座にあるマチャンガ有限会社の資産が英国ノヴァ・スコシア・モカッタ（Nova Scotia Mocatta）銀行により凍結される。マチャンガ有限会社の所有者はコンゴ民主共和国東部からの金の購入に引き続き関与している。ウガンダ共和国当局によると、マチャンガ有限会社は、2004年に年次申告書を提出したのを最後に、「活動していない状態」として記載されていた。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.8
+    name:
+      ja: 全ては平和と発展のために（非政府組織（NGO））
+      en: TOUS POUR LA PAIX ET LE DEVELOPPEMENT （NGO）
+    type: organization
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: コンゴ民主共和国北キヴ州ゴマ（Goma）
+    list_date: '2005-11-01'
+    aliases:
+    - TPD
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ゴマ拠点、南キヴ州、東カサイ州、西カサイ州、マニエマ州に地方委員会。公式には2008年以降全ての活動を停止。実際には、2011年6月現在、TPD事務所は活動中であり、国内避難民の帰還、地域和解イニシアティブ、土地問題解決等の問題に関与。TPD会長はユジェンヌ・セルフリ（Eugene Serufuli）、副会長はサヴリナ・カロンバ（Saverina Karomba）。北キヴ州議員のロベール・セニンガ（Robert Seninga）及びベルタン・キリヴィタ（Bertin Kirivita）が主要メンバーに名を連ねる。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.drc-organizations.9
+    name:
+      ja: ウガンダ・コマーシャル・インペックス（UCI）有限会社
+      en: UGANDA COMMERCIAL IMPEX （UCI） LTD
+    type: organization
+    effective_date: '2007-05-08'
+    sanction_list: jp/mof-asset-freeze-drc-organizations
+    sanction_list_en: Democratic Republic of the Congo (Entities)
+    address: "(a)ウガンダ共和国カンパラ、カムウォキャ（Kamwokya）カンジョキャ通り（Kanjokya Street）Plot 22、電話番号：+256-41-533-578/9、(b)ウガンダ共和国カンパラ、私書箱22709"
+    list_date: 2007年3月29日 （2020年8月19日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 金輸出企業（取締役に「チュニ（Chuni）」として知られるジャムナダス・V.・ロディア（Jamnadas.V.LODHIA）及びその息子のクナル・ロディア（Kunal LODHIA）及びジテンドラ・J.・ロディア（Jitendra J. LODHIA）がいる）。2011年1月、ウガンダ当局は、エミレーツ・ゴールドが金融資産の免除を受けて、UCIの債務をカンパラのクレーン銀行（Crane Bank）に支払い、口座を最終的に閉鎖した旨制裁委員会に対し通告した。UCIの取締役はコンゴ民主共和国東部からの金の購入に引き続き関与している。ウガンダ・コマーシャル・インペックス（UCI）有限会社は2013年に申告書を提出したのを最後に、ウガンダ共和国当局により、「不活動－活動してない状態」として記載されていた。同団体に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities

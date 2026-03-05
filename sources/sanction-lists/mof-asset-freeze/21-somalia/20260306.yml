@@ -1,0 +1,678 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ソマリア
+  - en: Somalia
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.somalia.1
+    name:
+      ja: アル・シャバーブ
+      en: AL-SHABAAB
+    type: organization
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    aliases:
+    - "(a)アル・シャバブ"
+    - "(b)シャバーブ"
+    - "(c)ザ・ユース"
+    - "(d)ムジャヒディン・アル・シャバーブ・ムーブメント"
+    - "(e)ムジャヒディーン・ユース・ムーブメント"
+    - "(f)ムジャヒディン・ユース・ムーブメント"
+    - "(g)エム・ワイ・エム"
+    - "(h)ハラカト・シャバブ・アル・ムジャヒディン"
+    - "(i)ヒズブル・シャバーブ"
+    - "(j)ヒズブル・シャバーブ"
+    - "(k)アル・シャバーブ・アル・イスラミヤ"
+    - "（l）ユース・ウィング"
+    - "(m)アル・シャバーブ・アルイスラーム"
+    - "(n)アル・シャバーブ・アルジハード"
+    - "(o)ザ・ユニティ・オブ・イスラミック・ユース"
+    - "(p)ハラカト・アル・シャバーブ・アルムジャーヒディーン"
+    - "(q)ハラカトゥル・シャバーブ・アル・ムジャーヒディーン"
+    - "(r)ムジャーヒディーン・ユース・ムーブメント (a) AL-SHABAB (b)SHABAAB (c)THE YOUTH (d)MUJAHIDIN AL-SHABAAB MOVEMENT (e)MUJAHIDEEN YOUTH MOVEMENT (f)MUJAHIDIN YOUTH MOVEMENT (g)MYM (h)HARAKAT SHABAB AL-MUJAHIDIN (i)HIZBUL SHABAAB (j)HISB’UL SHABAAB (k)AL-SHABAAB AL-ISLAMIYA (l)YOUTH WING (m)AL-SHABAAB AL-ISLAAM (n)AL-SHABAAB AL-JIHAAD (o)THE UNITY OF ISLAMIC YOUTH (p)HARAKAT AL-SHABAAB AL-MUJAAHIDIIN (q)HARAKATUL SHABAAB AL MUJAAHIDIIN (r)MUJAAHIDIIN YOUTH MOVEMENT"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アル・シャバーブは、2008年8月18日のジブチ合意又は政治的プロセスを脅かす行動、及び、ソマリア暫定連邦機構（TFIs）、アフリカ連合ソマリア・ミッション（AMISOM）、又はソマリアに関連する他の国際的な平和維持活動を脅かす行動にとどまらず、直接的又は間接的にソマリアの平和、安全、安定を脅かす行動に関与してきた。
+  - id: jp.mof.somalia.2
+    name:
+      ja: ヤシン・アリ・バイナフ
+      en: Yasin Ali Baynah
+    type: individual
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: スウェーデン（リンケビー、ストックホルム）、ソマリア（モガディシュ）
+    date_of_birth: '1965-12-24'
+    nationality: ソマリア
+    aliases:
+    - "(a)アリ"
+    - ヤシン・バイナフ
+    - "(b)アリ"
+    - ヤシン・モハメド
+    - "(c)バイナフ"
+    - ヤシン
+    - "(d)バイナフ"
+    - ヤッシン
+    - "(e)バイナフ"
+    - ヤシーン・カリ
+    - "(f)ベーナフ"
+    - "(g)ベーナフ"
+    - "(h)ベーナフ"
+    - "(i)ベーナフ"
+    - "(j)ベナフ"
+    - "(k)ベナフ"
+    - "(l)ベナフ"
+    - "(m)ベイナフ"
+    - "(n)ビナフ"
+    - "(o)カリ"
+    - ヤシーン・バイナフ (a)ALI, Yasin Baynah (b)ALI, Yassin Mohamed (c)BAYNAH, Yasin (d) BAYNAH, Yassin (e)BAYNAX, Yasiin Cali (f)BEENAH, Yasin (g)BEENAH, Yassin (h)BEENAX, Yasin (i)BEENAX, Yassin (j)BENAH, Yasin (k)BENAH, Yassin (l)BENAX, Yassin (m)BEYNAH, Yasin (n) BINAH, Yassin (o)CALI, Yasiin Baynax
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 別の国籍：スウェーデン ヤシン・アリ・バイナフは、暫定連邦「政府」（TFG）やアフリカ連合ソマリア・ミッション（AMISOM）に対する攻撃を扇動した。同人は、また、ジブチ合意の拒絶や、モガディシュにおけるTFG及びAMISOMへの攻撃を含む、ソマリアの平和と安定を脅かす行動に積極的に関与しているソマリア再解放同盟及びヒズブル・イスラムの代わりに、支援を動員し資金集めを行っている。
+  - id: jp.mof.somalia.3
+    name:
+      ja: ハッサン・ダヒル・アウェイス
+      en: Hassan Dahir Aweys
+    type: individual
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    date_of_birth: 1935-XX-XX
+    nationality: ソマリア
+    aliases:
+    - "(a)アリ"
+    - シェイク・ハッサン・ダヒル・アウェイス
+    - "(b)アウェス"
+    - ハッサン・ダヒル
+    - "(c)アウェス"
+    - シャイク・ハッサン・ダヒル
+    - "(d)アウェイエス"
+    - "(e)アウェイス"
+    - アフメド・ダヒル
+    - "(f)アウェイス"
+    - シェイク
+    - "(g)アウェイス"
+    - シェイク・ハッサン・ダヒル
+    - "(h)ダヒル"
+    - アウェイス・ハッサン
+    - "(i)イブラヒム"
+    - モハンメド・ハッサン
+    - "(j)ウワイス"
+    - ハッサン・ターヒル
+    - "(k)ウワイス"
+    - "(l)“ハッサン"
+    - シェイク” (a)ALI
+    - Sheikh Hassan Dahir Aweys (b)AWES
+    - Hassan Dahir (c)AWES
+    - Shaykh Hassan Dahir (d)AWEYES, Hassen Dahir (e)AWEYS, Ahmed Dahir (f)AWEYS, Sheikh (g)AWEYS
+    - Sheikh Hassan Dahir (h)DAHIR
+    - Aweys Hassan (i)IBRAHIM
+    - Mohammed Hassan (j)OAIS
+    - Hassan Tahir (k)UWAYS
+    - Hassan Tahir (l)"HASSAN, Sheikh"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 市民権：ソマリア ハッサン・ダヒル・アウェイスは、一般的かつ完全な武器禁輸の度重なる違反並びに／又はジブチ和平合意、暫定連邦「政府」（TFG）及びアフリカ連合ソマリア・ミッション（AMISOM）軍を脅かす行為の責任を有する様々な反体制武装集団の高位の政治的及びイデオロギー的指導者として活動している。2006年6月から2007年9月の間、アウェイスは、イスラム法廷連合の中央委員会議長を務め、2008年7月、同人は、ソマリア再解放同盟ソマリア－アスマラ派議長就任を宣言し、2009年5月、TFGに対抗する集団の同盟であるヒズブル・イスラムの議長に任命された。これらの立場で、アウェイスの言動及び行動は、TFGを分裂させ、AMISOMを武力でソマリアから追放しようとする絶対的かつ継続的な意図を示した。 ※同人は、外務省告示平成22年第260号別表(アル・カーイダ、タリバーン及び関連個人・団体に関する国連安保理決議第1267号、同第1333号及び同第1390号に基づく資産凍結等の措置の対象リスト)の268と同一人物である。
+  - id: jp.mof.somalia.4
+    name:
+      ja: ハッサン・アブドゥッラー・ヘルシー・アル・トゥルキー
+      en: Hassan Abdullah Hersi Al-Turki
+    type: individual
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    date_of_birth: 1944-XX-XX
+    place_of_birth: エチオピア・オガデン地方
+    nationality: ソマリア
+    aliases:
+    - "(a)アル・トゥルキー"
+    - ハッサン
+    - "(b)トゥルキー"
+    - "(c)トゥルキー"
+    - ハッサン・アブドゥッラーヒ・ヘルシー
+    - "(d)トゥルキー"
+    - シェイク・ハッサン
+    - "(e)ヒルシー"
+    - ハッサン・カブドゥッラーヒ
+    - "(f)ヒルシー"
+    - ハッサン・カブドゥッラー (a)AL-TURKI
+    - Hassan (b)TURKI
+    - Hassan (c)TURKI
+    - Hassan Abdillahi Hersi (d)TURKI
+    - Sheikh Hassan (e)XIRSI
+    - Xasan Cabdilaahi (f)XIRSI
+    - Xasan Cabdulle
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ハッサン・アブドゥッラー・ヘルシー・アル・トゥルキーは1990年代半ば以降、武装集団の高位の指導者の一人であり、多くの武器禁輸違反に関与してきた。2006年、アル・トゥルキーは、イスラム法廷連合によるモガディシュ奪取に軍隊を提供し、アル・シャバーブと同盟を結ぶ同集団の軍事指導者として頭角を現した。2006年以降、アル・トゥルキーは、自身の支配下にある区域をアル・シャバーブを含む様々な武装反対勢力の訓練のために提供している。2007年9月、アル・トゥルキーは、自身の指導下での軍事訓練を映し出すアルジャジーラのニュースのビデオに登場した。
+  - id: jp.mof.somalia.5
+    name:
+      ja: アフメド・アブディ・アウ・モハメド
+      en: Ahmed Abdi aw-Mohamed
+    type: individual
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    date_of_birth: '1977-07-10'
+    place_of_birth: ソマリア・ハルゲイサ
+    nationality: ソマリア
+    aliases:
+    - "(a)アブ・ズベイル"
+    - ムクタル・アブディラフマン
+    - "(b)アブズバイル"
+    - ムクタル・アブドゥルラヒム
+    - "(c)アウ・モハンメド"
+    - アフメド・アブディ
+    - "(d)アウ・モハムド"
+    - "(e)“ゴダネ”"
+    - "(f)“ゴダニ”"
+    - "(g)“ムクタル"
+    - シャイク”
+    - "(h)“ズベイル"
+    - アブ” (a)ABU ZUBEYR, Muktar Abdirahman (b)ABUZUBAIR, Muktar Abdulrahim (c)AW MOHAMMED, Ahmed Abdi (d)AW-MOHAMUD, Ahmed Abdi (e)"GODANE" (f)"GODANI" (g) "MUKHTAR, Shaykh" (h)"ZUBEYR, Abu"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アフメド・アブディ・アウ・モハメドはアル・シャバーブの高位の指導者で、2007年12月に組織の軍司令官（emir）に公に任命された。同人は、ソマリア全域にわたり、アル・シャバーブの作戦を統率している。アウ・モハメドは、ジブチ和平合意を外国による陰謀だと非難し、また、2009月5月のソマリアのメディアへの音声収録においては、モガディシュにおける最近の戦闘に、同人の部隊が関与していたことを認めた。
+  - id: jp.mof.somalia.6
+    name:
+      ja: フアド・モハメド・カラフ
+      en: Fuad Mohamed Khalaf
+    type: organization
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア（モガディシュ）
+    nationality: ソマリア
+    aliases:
+    - "(a)フアド・モハメド・カリフ"
+    - "(b)フアド・モハメド・カラフ"
+    - "(c)フアド・モハンメド・カラフ"
+    - "(d)フアド・モハメド・カラフ"
+    - "(e)フアド・モハンメド・カリフ"
+    - "(f)フアド・カラフ"
+    - "(g)フアド・ションガレ"
+    - "(h)フアド・ションゴレ"
+    - "(i)フアド・シャンゴレ"
+    - "(j)フアド・ソンガレ"
+    - "(k)フォウアド・ションガレ"
+    - "(l)フアド・ムハンマド・カラフ・ションゴレ (a)Fuad Mohamed Khalif (b)Fuad Mohamed Qalaf (c)Fuad Mohammed Kalaf (d)Fuad Mohamed Kalaf (e)Fuad Mohammed Khalif (f)Fuad Khalaf (g)Fuad Shongale (h)Fuad Shongole (i)Fuad Shangole (j)Fuad Songale (k)Fouad Shongale (l)Fuad Muhammad Khalaf Shongole"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 別の活動地域：ソマリア カラフは、アル・シャバーブに対する資金援助を行っており、2008年5月、同人は、ソマリアのキスマヨのモスクで2度にわたり、アル・シャバーブのための資金集めの催しを行った。2008年4月、カラフ及び他の数名は、モガディシュにあるエチオピア軍基地及びソマリア暫定連邦「政府」の部隊に対し、爆発装置のついた車両による攻撃を指示した。2008年5月、カラフ及び戦闘員集団は、モガディシュの警察署を攻撃及び占拠し、複数の兵士を殺害及び負傷させた。
+  - id: jp.mof.somalia.7
+    name:
+      ja: バシル・モハメド・マハムード
+      en: Bashir Mohamed Mahamoud
+    type: individual
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア（モガディシュ）
+    date_of_birth: 1979-XX-XX
+    nationality: ソマリア
+    aliases:
+    - "(a)バシル・モハメド・マフムード"
+    - "(b)バシル・マフムド・モハンメド"
+    - "(c)バシル・モハメド・モハムド"
+    - "(d)バシル・モハメド・モハムード"
+    - "(e)バシル・ヤレ"
+    - "(f)バシル・コルガブ"
+    - "(g)グレ・ガプ"
+    - "(h)“アブ・ムスカブ”"
+    - (i)“コルガブ” (a)Bashir Mohamed Mahmoud (b)Bashir Mahmud Mohammed (c)Bashir Mohamed Mohamud (d)Bashir Mohamed Mohamoud (e)Bashir Yare (f)Bashir Qorgab (g)Gure Gap (h)"Abu Muscab" (i)"Qorgab"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: バシル・モハメド・マハムードは、アル・シャバーブの軍司令官である。また、マハムードは、2008年の後半時点で、アル・シャバーブの指導者評議会の約10名のメンバー内の一人である。マハムード及び共謀者は、2009年6月10日のモガディシュにおけるソマリア暫定連邦「政府」に対する迫撃砲攻撃を担当した。
+  - id: jp.mof.somalia.9
+    name:
+      ja: ファレス・モハンメド・マナア
+      en: Fares Mohammed Mana'a
+    type: individual
+    effective_date: '2010-06-25'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    date_of_birth: '1965-02-08'
+    place_of_birth: イエメン・サダー
+    aliases:
+    - "(a)ファリス・マナア"
+    - "(b)ファレス・モハンメド・マナア (a)Faris Mana'a (b)Fares Mohammed Manaa"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: パスポート番号：514146（発行地：イエメン・サナア） IDカード番号：1417576（発行地：イエメン・アルアマナ）、発行日：1996年1月7日 フェレス・モハンメド・マナアは、武器禁輸に違反し、ソマリアに武器又は関連物資を、直接的又は間接的に、供給、販売または移送してきた。マナアは、武器売人として知られている。イエメンでは人口を上回る数の武器が流入しているとされるが、2009年10月、イエメン政府は、国内の武器流通を取り締まる努力の一環として、同人を筆頭とする武器商人のブラックリストを公表した。イエメン事情に詳しいコメンテーターで、半年毎の国別報告書の執筆者であり、またジェインズ・インテリジェンス・グループにも貢献する米国人ジャーナリストによると、「ファリス・マナアは主要な武器売人であり、そのことはよく知られている」とされる。2007年12月のイエメン・タイムズの記事は、同人を「武器商人シェイク・フェレス・マハメド・マナア」と書いている。また、2008年1月のイエメン・タイムズの記事は、同人を「武器貿易人シャイク・ファリス・マナア」と書いている。 2008年半ば現在、イエメンは、アフリカの角地域、特にソマリアへの小型船による不法武器貿易の中核として機能し続けている。未確認情報によれば、ファリス・マナアは、ソマリアへの数々の船舶輸送に関与していた。2004年、マナアは、東欧の武器市場からソマリア人兵士に売買されたとされる武器契約に関わった。1992年以降のソマリアに対する国連の武器禁輸措置にもかかわらず、マナアによるソマリアへの武器密輸関与は少なくとも2003年まで遡ることができる。マナアは、2003年、東欧から数千もの武器購入を申し入れ、武器の一部をソマリアで売却する計画を示唆した。
+  - id: jp.mof.somalia.10
+    name:
+      ja: ハッサン・マハト・オマール
+      en: Hassan Mahat Omar
+    type: individual
+    effective_date: '2011-10-18'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ケニア・ナイロビ
+    date_of_birth: '1979-04-10'
+    place_of_birth: ケニア・ガリッサ
+    nationality: エチオピアと思われる
+    aliases:
+    - "(a)ハッサン・フセイン・アダム"
+    - "(b)ハッサン・マハド・オマール"
+    - "(c)ハッサン・フセン・アダン"
+    - "(d)アサン・マハド・クマール"
+    - "(e)アブ・サルマン"
+    - "(f)アブ・サルマン"
+    - "(g)シェイク・ハッサン・フセイン (a) Hassaan Hussein Adam (b) Hassane Mahad Omar (c) Xassaan Xuseen Adan (d) Asan Mahad Cumar (e) Abu Salman (f) Abu Salmaan (g) Sheikh Hassaan Hussein"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: パスポート番号：A1180173（ケニア） 有効期限：2017年8月20日 IDカード番号：23446085 ハッサン・マハト・オマールは、ソマリアの平和、安全、及び安定を脅かす行動に従事している。同人はイマーム（導師）で、ナイロビにある非公式のアル・シャバーブ系組織であるマスジド・ウル・アフマールの指導者の一人である。同人はまた、アル・シャバーブ系のウェブサイトalqimmah.net.などを通じて、アル・シャバーブへの新メンバーの勧誘や資金集めに関与している。更に、同人は、アル・シャバーブのチャットルームサイト上で、TFGに対する攻撃を呼びかけるファトワ（勧告）を発出した。
+  - id: jp.mof.somalia.11
+    name:
+      ja: オマール・ハンマミ
+      en: Omar Hammami
+    type: individual
+    effective_date: '2011-10-18'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    date_of_birth: '1984-05-06'
+    place_of_birth: 米国・アラバマ州
+    nationality: 米国。また、シリア国籍も所持していると見られる。
+    aliases:
+    - "(a)アブ・マンスール・アル・アムリキ"
+    - "(b)アブ・マンソール・アル・アムリキ"
+    - "(c)アブ・マンスール・アル・アムリキ"
+    - "(d)ウマール・ハンマミ"
+    - "(e)アブ・マンスール・アル・アムリキ (a) Abu Maansuur Al-Amriki (b) Abu Mansour Al-Amriki (c) Abu Mansuur Al-Amriki (d) Umar Hammami (e) Abu Mansur Al-Amriki"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: パスポート番号：403062567（米国） 社会保障番号：423-31-3021（米国） ソマリア人女性と結婚。2005年にエジプトに居住。2009年にソマリアに移住した。 オマール・ハンマミは、ソマリアの平和、安全、及び安定を脅かす行動に従事している。同人はアル・シャバーブの上級メンバーである。同人はソマリアで外国人戦闘員の勧誘、資金管理、賃金支払に関与している。同人は爆発物や戦争全般の専門家と言われる。2007年10月以来、同人はＴＶ報道やアル・シャバーブのプロパガンダ・ビデオに出演している。同人は、アル・シャバーブ戦闘員の訓練ビデオにも出演している。同人はまた、アル・シャバーブの戦闘員となることを呼びかけるビデオやウェブサイトに出演している。
+  - id: jp.mof.somalia.13
+    name:
+      ja: アブード・ロゴ・モハンメド
+      en: Aboud Rogo Mohammed
+    type: individual
+    effective_date: '2012-09-14'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    date_of_birth: 1960-XX-XX
+    place_of_birth: ケニア・ラム島
+    aliases:
+    - "(a) アブード・モハンマド・ロゴ"
+    - "(b) アブード・セイフ・ロゴ"
+    - "(c) アブード・モハンメド・ロゴ"
+    - "(d) シェイク・アブード・ロゴ"
+    - "(e) アブード・ロゴ・ムハンマド"
+    - "(f) アブード・ロゴ・モハメド (a) Aboud Mohammad Rogo (b) Aboud Seif Rogo (c) Aboud Mohammed Rogo (d) Sheikh Aboud Rogo (e) Aboud Rogo Muhammad (f) Aboud Rogo Mohamed"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アブード・ロゴ・モハンメドはケニアを拠点として活動するイスラム過激派の指導者(cleric)であり、ソマリアに関する決議第751号（1992年）及びエリトリアに関する決議第1907号（2009年）に従って設立された安保理制裁委員会によって、直接または間接的にソマリアの平和、安全または安定を脅かす行為に従事する団体として指定されたアル・シャバーブに対して資金、物資、輸送又は技術的な支援を提供することによってソマリアの平和、安全又は安定を脅かしている。同人は、東アフリカ一帯に暴力を促進する宣伝活動の一環として、東アフリカ域内で過激派グループに対し影響力を行使している他、アル・シャバーブの資金調達活動も行っている。また同人はアル・ヒジラ（Al Hijra、旧ムスリム・ユース・センター）の主要な思想的指導者として、ソマリアにおける暴力的活動を実行するために主にスワヒリ語を話すアフリカ人を過激化し採用するための経路として過激派集団を使用している。2009年2月から2012年2月の間に実施された一連の煽動講義において、同人は、ソマリアの和平プロセスに対し、暴力による中断を繰り返し呼びかけた。また、同講義において、同人は、ソマリアで活動する国連及びアフリカ連合ソマリア・ミッション（AMISOM）軍に対し暴力を行使するよう繰り返し呼びかけ、聴衆に対し、ソマリアに渡航し、アル・シャバーブに参加してケニア政府と戦うよう呼びかけた。同人は、アル・シャバーブに加わったケニア人新兵に対し、ケニア当局の捜査のかわし方やモンバサやラムからキスマヨを初めとしたソマリア内のアル・シャバーブ拠点への道順についても指導している。また、同人は、アル・シャバーブに加わる非常に多くのケニア人新兵のソマリアへの渡航を手助けした。2011年9月、同人は、ケニアのモンバサにて、テロ活動を行わせるためにソマリアへ渡航させる人の募集活動をしており、2008年9月には同地にてソマリアにおけるアル・シャバーブの活動を支援するための資金集め会合を実施した。
+  - id: jp.mof.somalia.14
+    name:
+      ja: アブバケール・シャリフ・アフメド
+      en: Abubaker Shariff Ahmed
+    type: individual
+    effective_date: '2012-09-14'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    date_of_birth: 1962-XX-XX
+    place_of_birth: ケニア
+    aliases:
+    - "(a)マカブリ"
+    - "(b)シェイク・アブバカール・アフメド"
+    - "(c)アブバケール・シャリフ・アフメド"
+    - "(d)アブ・マカブリ・シャリフ"
+    - "(e)アブバケール・シャリフ"
+    - "(f)アブバカール・アフメド (a) Makaburi (b)Sheikh Abubakar Ahmed (c)Abubaker Shariff Ahmed (d) Abu Makaburi Shariff (e) Abubaker Shariff (f) Abubakar Ahmed"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：マジェンゴ地区、モンバサ、ケニア アブバケール・シャリフ・アフメドはソマリアにおける暴力的軍事活動を実行するムスリム系ケニア人青年層の指導的な世話人であり、採用者であるとともに、アブ－ド・ロゴの親しい関係である。同人はケニア及び東アフリカのその他の地域において過激派グループに物資的支援を行うとともに、キスマヨを含むソマリア国内のアル・シャバーブの拠点への頻繁な渡航を通じて、アル・シャバーブ上層部との密接な関係を維持している。また、ソマリアに関する決議第751号（1992年）及びエリトリアに関する決議第1907号（2009年）に従って設立された安保理制裁委員会によって、直接または間接的にソマリアの平和、安全または安定を脅かす行為に従事する団体として指定されたアル・シャバーブのための資金調達に従事している。同人は、モンバサのモスクにおいて、青年は、ソマリアに渡航し、過激派の活動に加わり、アルカイーダのために戦って、米国民を殺害すべきであると説いた。同人は、ナイロビのバス・ターミナルの爆破に関与していた疑いで2010年12月下旬、ケニア当局に逮捕された。また、同人はケニアに拠点を置き、アル・シャバーブと関係を持つモンバサの青年組織の指導者でもある。2010年の時点で、同人はモンバサのマジェンゴ地区において、アル・シャバーブの採用担当者及び世話人として活動していた。
+  - id: jp.mof.somalia.15
+    name:
+      ja: マーリム・サルマン
+      en: Maalim Salman
+    type: individual
+    effective_date: '2014-10-29'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    date_of_birth: １９７９年頃
+    place_of_birth: ケニア・ナイロビ
+    aliases:
+    - "(a)ムアッリム・サルマン"
+    - "(b)ムアレム・スレイマン"
+    - "(c)アメール・サルマン"
+    - "(d)マアッリン・スレイマン"
+    - "(e)マーリム・サルマン・アリ"
+    - "(f)マーリム・セルマン・アリ"
+    - "(g)マアッリン・セルマン"
+    - "(h)マアッリン・スレイマン (a) Mu’alim Salman (b) Mualem Suleiman (c) Ameer Salman (d) Ma’alim Suleiman (e) Maalim Salman Ali (f) Maalim Selman Ali (g) Ma’alim Selman (h) Ma’alin Sulayman"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: マーリム・サルマンは、アル・シャバーブ指導者であるアフメド・アブディ・アウ・モハメド（Ahmed Abdi aw-Mohamed）（別名ゴダネ（Godane））により、アル・シャバーブのアフリカにおける外国人戦闘員の長に指名された。同人は、アフリカにおける外国人戦闘員としてアル・シャバーブに参加しようとする外国人を訓練し、観光客、娯楽施設及び教会を標的としたアフリカにおける作戦に関与してきた。 主にソマリア国外の作戦に注力していたが、サルマンはソマリア国内に居住し、外国人戦闘員を国外に送り出す前にソマリアで訓練することで知られている。アル・シャバーブの外国人戦闘員の中には、ソマリア国内で活動する者もある。例えば、サルマンは、アフリカ連合ソマリア・ミッション（AMISOM）による攻勢に対して、アル・シャバーブの外国人戦闘員をソマリア南部に展開するよう指示した。 他のテロ攻撃の中で、アル・シャバーブは少なくとも６７名が死亡する結果となった2013年9月のケニア・ナイロビのウェストゲート・ショッピングモールにおける攻撃に責任がある。さらに最近、アル・シャバーブは、3名の警備員及び２名の民間人が死亡し、15名が負傷した2014年8月31日のモガディシュにおける国家情報治安庁（National Intelligence and Security Agency）の刑務所に対する攻撃についても犯行を主張している。
+  - id: jp.mof.somalia.16
+    name:
+      ja: アフメド・ディリエ
+      en: Ahmed Diriye
+    type: individual
+    effective_date: '2014-10-29'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    date_of_birth: 1972-XX-XX
+    place_of_birth: ソマリア
+    aliases:
+    - "(a)シェイク・アフメド・ウマル・アブ・ウバイダ"
+    - "(b)シェイク・オマル・アブ・ウバイダハ"
+    - "(c)シェイク・アフメド・ウマル"
+    - "(d)シェイク・マハド・オマル・アブディカリム"
+    - "(e)アブ・ウバイダ"
+    - "(f)アブ・ディリエ (a) Sheikh Ahmed Umar Abu Ubaidah (b) Sheikh Omar Abu Ubaidaha (c) Sheikh Ahmed Umar (d) Sheikh Mahad Omar Abdikarim (e) Abu Ubaidah (f) Abu Diriye"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アフメド・ディリエは、国連安全保障理事会決議第七百五十一号（1992年）及び同決議第千九百七号（2009年）に基づく安全保障理事会委員会により制裁対象リストに掲載された個人である前指導者であるアフメド・アブディ・アウ・モハメド（Ahmed Abdi aw-Mohamed）の死を受けて、アル・シャバーブの新指導者に任命された。これは、2014年9月6日に発表された、アル・シャバーブ報道官であるシェイク・アリ・ディーレ（Sheikh Ali Dheere）の声明において公表された。ディリエは、これまでアル・シャバーブの幹部の一人であり、指導者として、アル・シャバーブの作戦の指揮権を行使してきた。同人は、ソマリアの平和、安全及び安定を引き続き脅かしているアル・シャバーブの活動に直接的な責任を負う。ディリエは、シェイク・アフメド・ウマル・アブ・ウバイダ（Sheikh Ahmed Umar Abu Ubaidah）とのアラビア語の氏名も使用している。
+  - id: jp.mof.somalia.17
+    name:
+      ja: アフマド・イマン・アリ　
+      en: Ahmad Iman Ali
+    type: individual
+    effective_date: '2020-01-24'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ケニア
+    date_of_birth: 1973-XX-XX
+    place_of_birth: ケニア
+    aliases:
+    - "(a) シェイク・アフメド・イマン・アリ(b) シェイク・アフマド・イマン・アリ (c) アフメド・イマン・アリ (d) アブ・ジニラ） (a) Sheikh Ahmed Iman Ali (b) Shaykh Ahmad Iman Ali (c) Ahmed Iman Ali (d) Abu Zinira"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アフマド・イマン・アリは、有名なケニア人アル・シャバーブ司令官であり、2012年以来、ケニアにおける指導者を務めた。同人は、ケニアにおけるアル・シャバーブの活動を指揮し、2016年1月のソマリアのエル・アッデにおいてケニアのアフリカ連合ソマリア・ミッション（AMISOM）部隊を襲撃したように、ソマリアにおけるケニアのAMISOM部隊を定期的に標的にしている。また、同人は、2017年7月のケニアの治安部隊に所属しているイスラム教徒を動画で脅迫したように、ケニア政府及び市民を標的とするアル・シャバーブの宣伝の責任者でもある。これらの活動に加え、同人は時にナイロビのスラムで貧しい青年に特化して，アル・シャバーブの新兵の募集にも携わったほか、モスクを活用した資金の調達も行ってきた。同人の総合的な目標は、脅迫、襲撃の計画・実行によりケニアを不安定化させること及びケニアの治安部隊との闘いを若いイスラム教徒に慫慂することである。
+  - id: jp.mof.somalia.18
+    name:
+      ja: アブディファタ・アブバカー・アブディ
+      en: Abdifatah Abubakar Abdi
+    type: individual
+    effective_date: '2020-01-24'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    date_of_birth: '1982-04-15'
+    place_of_birth: ソマリア
+    nationality: ソマリア
+    aliases:
+    - ムサ・ムハジール Musa Muhajir　　　　　　　　　　　　
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ソマリア、またはケニア・モンバサ 2015年、アブディファタ・アブバカー・アブディは、ケニア政府によりアル・シャバーブのメンバーとして認知されている、またはその疑いのあるテロリスト指名手配者リストに掲載された。ケニア警察は、同人が、国連安全保障理事会ソマリア・エリトリア制裁リストに掲載されている組織であるアル・シャバーブのために、ソマリアにおいてアル・シャバーブを支援する要員を採用し、ソマリアの平和、安全または安定を脅かす活動を行っていると報告している。これらの採用には、ソマリアへ渡ろうとし、ケニア警察に逮捕された３名の女性が含まれている。同人は、多数の命を奪った2014年6月のケニアのムペケトニにおける襲撃の関連で、指名手配されており、更なる襲撃を計画していると考えられていた。同人はソマリア国外における活動に専従しているとも見られているが、ソマリアに居住し、アル・シャバーブのためにケニアとソマリアとの国境を越えようとする個人を採用していることで知られている。
+  - id: jp.mof.somalia.19
+    name:
+      ja: アブカー・アリ・アダン
+      en: Abukar Ali Adan
+    type: individual
+    effective_date: '2021-05-28'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    title:
+      ja: アル・シャバーブ副指導者
+    date_of_birth: 1972-XX-XX
+    aliases:
+    - "(a) アブカー・アリ・アデン"
+    - "(b)イブラヒム・アフガン"
+    - "(c)シェイク・アブカー (a)Abukar Ali Aden (b)Ibrahim Afghan (c)Sheikh Abukar"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第1844号(2008年)8(a)「2008年8月18日のジブチ合意、その政治過程を脅かす行為、ソマリア暫定連邦機関（TFIs）やアフリカ連合ソマリア・ミッション（AMISOM）を力で脅かす行為を含む、ソマリアの平和、安全、安定を脅かす行為に加担ないし支援を行っている」に従ってリストに記載。 アダンは、アル・カイーダ関係者、アラビア半島のアル・カイーダ（AQAP-QDe.129）及びマグレブのアル・カイーダ（AQIM-Qde.014）とも関係がある。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.somalia.20
+    name:
+      ja: マーリム・エイマン
+      en: Maalim Ayman
+    type: individual
+    effective_date: '2021-05-28'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    title:
+      ja: ケニア及びソマリアで襲撃・活動を行っている、アル・シャバーブの部隊ジェイシュ・エイマンの創設者・指導者
+    date_of_birth: 1973-XX-XX
+    place_of_birth: ケニア
+    aliases:
+    - "(a)マアリム・エイマン"
+    - "(b)モアリム・エイマン"
+    - "(c)ヌー・イブラヒム・アブディ"
+    - "(d)エイマン・カボ"
+    - "(e)アブディアジズ・ドゥボウ・アリ (a)Ma’alim Ayman (b)Mo’alim Ayman (c)Nuh Ibrahim Abdi (d)Ayman Kabo (e)Abdiaziz Dubow Ali"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：（a）ケニア・ソマリア国境、(b)ソマリア・下ジュバ地域・バダマドウ 国連安全保障理事会決議第1844号(2008年)8(a)「2008年8月18日のジブチ合意、その政治過程を脅かす行為、ソマリア暫定連邦機関（TFIs）やアフリカ連合ソマリア・ミッション（AMISOM）を力で脅かす行為を含む、ソマリアの平和、安全、安定を脅かす行為に加担ないし支援を行っている」に従ってリストに記載。 エイマンは、2020年1月5日のケニア・ラム郡キャンプ・シンバへの襲撃の準備を支援した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.somalia.21
+    name:
+      ja: マハド・カラテ
+      en: Mahad Karate
+    type: individual
+    effective_date: '2021-05-28'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    date_of_birth: 1957-XX-XX
+    place_of_birth: ソマリア・ハラディラ
+    aliases:
+    - "(a)マハド・モハメド・アリ・カラテ"
+    - "(b)マハド・ワルサメ・カレイ・カラテ"
+    - "(c)アブディラヒム・モハメド・ワルサメ (a)Mahad Mohamed Ali Karate (b)Mahad Warsame Qalley Karate (c)Abdirahim Mohamed Warsame"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ソマリア 国連安全保障理事会決議第1844号(2008年)8(a)「2008年8月18日のジブチ合意、その政治過程を脅かす行為、ソマリア暫定連邦機関（TFIs）やアフリカ連合ソマリア・ミッション（AMISOM）を力で脅かす行為を含む、ソマリアの平和、安全、安定を脅かす行為に加担ないし支援を行っている」に従ってリストに記載。 カラテは、150名近くが死亡した2015年のケニア・ガリッサ大学襲撃を行った、アル・シャバーブの一翼であるアムニヤットにおいて、重要な役割を果たした。アムニヤットはアル・シャバーブの諜報機関の一翼であり、ソマリア、ケニア、地域のその他の国々における自爆テロや暗殺において重要な役割を果たしており、アル・シャバーブのテロ活動の後方支援や援助を提供している。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.somalia.22
+    name:
+      ja: アリ・モハメド・ラージ
+      en: Ali Mohamed Rage
+    type: individual
+    effective_date: '2022-04-06'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    title:
+      ja: アル・シャバーブ報道官
+    date_of_birth: 1966-XX-XX
+    place_of_birth: ソマリア
+    nationality: ソマリア
+    aliases:
+    - "(a)アリ・モハンメド・ラージ"
+    - "(b)アリ・デーレ"
+    - "(c)アリ・デレ"
+    - "(d)アリ・モハメド・ラージ・カリ・デール"
+    - "(e)アリ・モハムド・ラージ (a)Ali Mohammed Rage (b)Ali Dheere (c)Ali Dhere (d) Ali Mohamed Rage Cali Dheer (e)Ali Mohamud Rage"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 国連安全保障理事会決議第2093号(2013年)43(a)「ソマリアにおける平和及び和解プロセスを脅かす行為又はソマリア連邦政府若しくはアフリカ連合ソマリア・ミッション（AMISOM）を力で脅かす行為を含む、ソマリアの平和、安全又は安定を脅かす行為に加担し、又は支援を行っている」に従ってリストに記載。 アル・シャバーブの報道官として、ラージは同グループのテロ活動の普及及び支援に関わっている。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.somalia.23
+    name:
+      ja: アブドゥラヒ・オスマン・モハメド・カドウ
+      en: ABDULLAHI OSMAN MOHAMED CADDOW
+    type: individual
+    effective_date: '2023-08-04'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    date_of_birth: 1983-XX-XX
+    nationality: ソマリア
+    aliases:
+    - "(a)カブドゥッラーヒ・クスマン・マサメド・カドウ"
+    - "(b)ダガカデ"
+    - "(c)ファラカデ"
+    - "(d)インジニア・イスマシール"
+    - "(e)エンジニア イスマイール (a)Cabdullahi Cusman Maxamed Caddow (b) Dhagacade (c) Faracade (d) Injineer Ismaaciil (e) Eng. Ismail)"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別:男性。国連安全保障理事会決議第1844号(2008年)8(a)「2008年8月18日のジブチ合意、その政治過程を脅かす行為、ソマリア暫定連邦機関（TFIs）やアフリカ連合ソマリア・ミッション（AMISOM）を力で脅かす行為を含む、ソマリアの平和、安全、安定を脅かす行為に加担ないし支援を行っている」に従ってリストに記載。アブドゥラヒ・オスマン・モハメド・カドウは、「Eng. Ismail」としても知られるアル・シャバーブの上級爆発物専門家であり、組織の爆発物管理と製造を行い、ソマリアの平和、安全及び安定を脅かす行為に関わってきた。同人は、2008年にモガディシュのアル・シャバーブとアル・カーティブのメディア部門に加わり、2014年にジリブ、ブアレ、サーコウ、サラグル、クーニョ・バロー、アラボウにおいて、いくつかの爆発物準備センターで活動するグループの爆発物製造ユニットのメンバーとなり、68人のアル・シャバーブ工作員からなるチームを指揮し、年間約600万ドルの爆発物製造資材を密輸している。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.somalia.24
+    name:
+      ja: アブディカーディル・モハメド・アブディカーディル
+      en: ABDIKADIR MOHAMED ABDIKADIR
+    type: individual
+    effective_date: '2024-07-16'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア
+    title:
+      ja: アル・シャバーブ上級指導者
+    date_of_birth: 1985-XX-XX
+    place_of_birth: ソマリア
+    nationality: ソマリア
+    aliases:
+    - "(a)アブドゥカーディル"
+    - "(b)アブドゥカーディル・モハメド・アブドゥカーディル"
+    - "(c)アブドゥルカーディル"
+    - "(d)アブドゥルカーディル・モハメド・アブドゥルカーディル"
+    - "(e)イクリマ (a) Abdukadir (b) Abdukadir Mohamed Abdukadir (c) Abdulkadir (d) Abdulkadir Mohamed Abdulkadir (e) Ikrima"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 別の国籍:ケニア 性別:男性 国連安全保障理事会決議第2662号(2022年)主文26(b)「(i)アル・シャバーブと共同で、アル・シャバーブ名の下に、アル・シャバーブの代理として、又はアル・シャバーブを支援して、アル・シャバーブによる行為若しくは活動の資金調達、計画、促進、準備又は実行に参加している」、及び「(iii) アル・シャバーブ又はその下部組織、関連団体、分派グループ若しくは派生グループによる勧誘、又はその他の行為や活動を支援している」に従ってリストに記載。
+  - id: jp.mof.somalia.25
+    name:
+      ja: モハメド・モハムッド・ミレ
+      en: MOHAMED MOHAMUD MIRE
+    type: individual
+    effective_date: '2024-07-16'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア・ジリブ、 又はソマリア・クーニョ・バロー
+    title:
+      ja: 以前はイスラム税(zakat）担当、 アル・シャバーブの評議会（shura）メンバー
+    date_of_birth: 1962-XX-XX
+    place_of_birth: ソマリア・キスマヨ
+    nationality: ソマリア
+    aliases:
+    - モハメド・ミレ
+    - Mohamed Mire
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性 国連安全保障理事会決議第2662号(2022年)主文26(a)「ソマリアの平和と和解プロセスを脅かす行為又はソマリア連邦政府若しくはアフリカ連合ソマリア暫定ミッション（ATMIS）を力で脅かす行為を含む、ソマリアの平和、安全又は安定を脅かす行為に加担又は支援を行った」並びに26(b)「(i)アル・シャバーブと共同で、アル・シャバーブ名の下に、アル・シャバーブの代理として、又はアル・シャバーブを支援して、アル・シャバーブによる行為若しくは活動の資金調達、計画、促進、準備又は実行に参加している」に従ってリストに記載。
+  - id: jp.mof.somalia.26
+    name:
+      ja: モハメド・オマル・モハメド
+      en: MOHAMED OMAR MOHAMED
+    type: individual
+    effective_date: '2024-07-16'
+    sanction_list: jp/mof-asset-freeze-somalia
+    sanction_list_en: Somalia
+    address: ソマリア、ベイ州、ディンソール地区、 又はソマリア、ベイ州、ブル・ハカバ地区
+    title:
+      ja: ディンソールのアル・シャバーブ・ グループの指導者（Wali）
+    date_of_birth: 1976-XX-XX
+    place_of_birth: ソマリア、ベイ州、 ベルダーレ地区、タフロー村
+    nationality: ソマリア
+    aliases:
+    - "(a)マド・ウムロウ"
+    - "(b) モハメド・オマル・ハジ"
+    - "(c) モハメド・オマル・マーリン"
+    - "(d) モハメド・ハジ・オマル"
+    - "(e)モアリン (a) Ma’d Umurow (b) Mohamed Omar Haji (c) Mohamed Omar Ma’alin (d) Mohamed Haji Omar (e) Mo’alin"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 称号：指導者（Wali） 性別：男性 国連安全保障理事会決議第2662号(2022年)の主文26(b)「(i)アル・シャバーブと共同で、アル・シャバーブ名の下に、アル・シャバーブの代理として、又はアル・シャバーブを支援して、アル・シャバーブによる行為若しくは活動の資金調達、計画、促進、準備又は実行に参加している」及び「(iii) アル・シャバーブ又はその下部組織、関連団体、分派グループ若しくは派生グループによる勧誘、又はその他の行為や活動を支援している」に従ってリストに記載。

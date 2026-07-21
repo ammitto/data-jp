@@ -1,0 +1,1023 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: シリア（個人）
+  - en: Syria (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.syria-individuals.1
+    name:
+      ja: アル・アサド・バッシャール
+      en: Al-Assad Bashar
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア共和国大統領 President of the Republic of Syria
+    date_of_birth: '1965-09-11'
+    place_of_birth: シリア共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: D1903
+  - id: jp.mof.syria-individuals.2
+    name:
+      ja: アル・シャラ・ファルーク
+      en: Al Shar’ Farouk
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア共和国副大統領 Vice-President of the Republic of Syria
+    date_of_birth: '1938-12-10'
+    place_of_birth: シリア共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.3
+    name:
+      ja: アル・シャアール・ムハンマド・イブラヒーム
+      en: Al-Chaar Mohammad Ibrahim
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア共和国内務相 Interior Minister of the Republic of Syria
+    date_of_birth: 1950-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.4
+    name:
+      ja: マフムード・アリ・ハビーブ
+      en: Mahmoud Ali Habib
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア共和国前国防相 Former Defense Minister of the Republic of Syria
+    date_of_birth: 1939-XX-XX
+    place_of_birth: シリア共和国タルトゥース
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.5
+    name:
+      ja: アル・アサド・マーヘル
+      en: Al-Assad Maher
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア共和国護衛隊司令官 Commander of the Army’s 4th Armoured Division
+    date_of_birth: '1967-12-08'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '4138'
+    remarks:
+    - ja: アサド大統領の弟
+  - id: jp.mof.syria-individuals.6
+    name:
+      ja: マフルーフ・ラーミー
+      en: Makhlouf Rami
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: ビジネスマン Syrian businessman
+    date_of_birth: '1969-07-10'
+    place_of_birth: シリア共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '454224'
+    remarks:
+    - ja: アサド大統領の従兄弟
+  - id: jp.mof.syria-individuals.7
+    name:
+      ja: マフルーフ・ハーフェズ
+      en: Makhluf Hafez
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア総合情報局幹部 Head of Unit in Syrian General Intelligence Directorate
+    date_of_birth: '1971-04-02'
+    place_of_birth: シリア共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '2246'
+  - id: jp.mof.syria-individuals.8
+    name:
+      ja: ナジーブ・アーティフ
+      en: Najib Atef
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: 元政治治安局ダラア支部長 Former Head of Political Security Directorate in Daraa
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.9
+    name:
+      ja: クドスィーヤ・アブドゥルファッターフ
+      en: Qudsiyah Abd Al-Fatah
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア軍事情報部長 Head of Syrian Military Intelligence
+    date_of_birth: 1953-XX-XX
+    place_of_birth: シリア共和国ハマ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: D0005788
+  - id: jp.mof.syria-individuals.10
+    name:
+      ja: マムルーク・アリ
+      en: Mamlouk Ali
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア総合情報局長 Head of Syrian General Intelligence Directorate
+    date_of_birth: '1946-02-19'
+    place_of_birth: シリア共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '983'
+  - id: jp.mof.syria-individuals.11
+    name:
+      ja: ザイトゥーン・ムハンマド・ディーブ
+      en: Zaytoun Mohammed Dib
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア政治治安局長 Head of Political Security Directorate
+    date_of_birth: '1951-05-20'
+    place_of_birth: シリア共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: D000001300
+  - id: jp.mof.syria-individuals.12
+    name:
+      ja: ガザーリ・ラストム
+      en: Ghazali Rustum
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア軍事情報部ダマスカス郊外支部長 Head of Syrian Military Intelligence, Damascus Countryside Branch
+    date_of_birth: '1953-05-03'
+    place_of_birth: シリア共和国ダラア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: D000000887
+  - id: jp.mof.syria-individuals.13
+    name:
+      ja: シャウカト・アーセフ
+      en: Shawkat Asif
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア軍副参謀長 Deputy Chief of Staff of Syrian Armed Forces
+    date_of_birth: '1950-01-15'
+    place_of_birth: シリア共和国タルトゥース
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.14
+    name:
+      ja: イフティヤール・ヒシャーム
+      en: Ikhtiyar Hisham
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア国家治安局長 Head of Syrian National Security Bureau
+    date_of_birth: 1941-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.15
+    name:
+      ja: ハムショー・ムハンマド
+      en: Hamsho Mohamed
+    type: individual
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: ビジネスマン Syrian businessman
+    date_of_birth: '1966-05-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '2954347'
+  - id: jp.mof.syria-individuals.16
+    name:
+      ja: ハッサン・ジャミール
+      en: Hassan Jamil
+    type: individual
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア空軍情報部（SAFI）長 Head of Syrian Air Force Intelligence
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.17
+    name:
+      ja: マフルーフ・ムハンマド
+      en: Makhlouf Mohammed
+    type: individual
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    date_of_birth: '1932-10-19'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ビジネスマン。アサド大統領（個人の1に掲げる者）の叔父。マフルーフ・ラーミー（個人の6に掲げる者）の父。
+  - id: jp.mof.syria-individuals.18
+    name:
+      ja: アスラン・オウス
+      en: Aslan Aous
+    type: individual
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: 共和国防衛隊旅団長 Head of Battalion in the Republican Guard
+    date_of_birth: 1958、59又は60年生まれ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.19
+    name:
+      ja: ジャーミウ・ジャーミウ
+      en: Jamea Jamea
+    type: individual
+    effective_date: '2012-03-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: 軍情報部デリゾール支部長 Branch Chief for Syrian Military Intelligence (SMI) in Deir ez-Zor
+    date_of_birth: '1954-06-16'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.20
+    name:
+      ja: ハイルベク・ナーシーフ・ムハンマド
+      en: Khayrbik Nasif Muhammad
+    type: individual
+    effective_date: '2012-03-09'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: 治安担当副大統領補 Deputy Vice-President of Syria for National Security Affairs
+    date_of_birth: 1937-XX-XX
+    place_of_birth: ハマ（Hama）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 0002250又は D000000483（外交旅券）
+  - id: jp.mof.syria-individuals.21
+    name:
+      ja: ラージハ・ダーウード
+      en: Rajiha Dawood
+    type: individual
+    effective_date: '2012-07-06'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国防相 Minister of Defense, Syrian Arab Republic
+    date_of_birth: 1947-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.22
+    name:
+      ja: シャーリーシュ・ズールヒンマ
+      en: Shalish Dhu Al-Himma
+    type: individual
+    effective_date: '2012-07-06'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: 大統領警護長 Head of Presidential Security
+    date_of_birth: 1946-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.23
+    name:
+      ja: アダノブ・ムニール
+      en: Adanov Munir
+    type: individual
+    effective_date: '2012-07-06'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア軍副参謀長 Deputy Chief of General Staff of the Syrian Army
+    date_of_birth: 1951-XX-XX
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.24
+    name:
+      ja: マヤーレ・アディーブ
+      en: Mayaleh Adib
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア中央銀行総裁 Governor of Central Bank of Syria
+    date_of_birth: 1955-XX-XX
+    place_of_birth: シリア・アラブ共和国ダラア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.25
+    name:
+      ja: ハルキー・ワーイル・ナーディル
+      en: Al-Halqi Wael Nader
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国首相 Prime Minister，Syrian Arab Republic
+    date_of_birth: 1964-XX-XX
+    place_of_birth: シリア・アラブ共和国ダラア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.26
+    name:
+      ja: シャアバーン・ブサイナ
+      en: Shaaban Bouthaina
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国大統領補佐官 Presidential Political and Media Advisor, Syrian Arab Republic
+    date_of_birth: 1953-XX-XX
+    place_of_birth: シリア・アラブ共和国ホムス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.27
+    name:
+      ja: ジュレイラーティー・ムハンマド
+      en: Al-Jleilati Mohammad
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国財務相 Minister of Finance, Syrian Arab Republic
+    date_of_birth: 1945-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.28
+    name:
+      ja: アッザーム・マンスール・ファドルッラー
+      en: Azzam Mansour Fadlallah
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国大統領府担当相 Minister of Presidential Affairs, Syrian Arab Republic
+    date_of_birth: 1960-XX-XX
+    place_of_birth: シリア・アラブ共和国スウェイダ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.29
+    name:
+      ja: ファルザート・フセイン・マフムード
+      en: Farzat Hussein Mahmoud
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相 Minister of State, Syrian Arab Republic
+    date_of_birth: 1957-XX-XX
+    place_of_birth: シリア・アラブ共和国ハマ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.30
+    name:
+      ja: ガラーワンジー・ウマル・イブラヒーム
+      en: Ghalawanji Omar Ibrahim
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国副首相（サービス担当）；地方自治相 Deputy Prime Minister for Services Affairs; Minister of Local Administration, Syrian Arab Republic
+    date_of_birth: 1954-XX-XX
+    place_of_birth: シリア・アラブ共和国タルトゥース
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.31
+    name:
+      ja: ハミース・イマード・ムハンマド・ディーブ
+      en: Khamis Imad Mohammad Deeb
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国電力相 Minister of Electricity, Syrian Arab Republic
+    date_of_birth: '1961-08-01'
+    place_of_birth: シリア・アラブ共和国ダマスカス郊外県
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.32
+    name:
+      ja: スウェイド・ジョゼフ・ショルジ
+      en: Sweid Joseph Jurji
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相 Minister of State, Syrian Arab Republic
+    date_of_birth: 1958-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.33
+    name:
+      ja: サーブーニー・イマード・アブドゥルガニー
+      en: Sabouni Imad Abdul-Ghani
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国通信技術相 Minister of Communications and Technology, Syrian Arab Republic
+    date_of_birth: 1964-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.34
+    name:
+      ja: ムアッリム・ワリード
+      en: Al-Moallem Walid
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国副首相・外務相 Deputy Prime Minister; Foreign and Expatriates Minister, Syrian Arab Republic
+    date_of_birth: 1941-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.35
+    name:
+      ja: アハマド・アブドゥッラー・スブヒー
+      en: Ahmad Al-Abdullah Subhi
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国農業・農地改革相 Minister of Agriculture and Agrarian Reform, Syrian Arab Republic
+    date_of_birth: 1951-XX-XX
+    place_of_birth: シリア・アラブ共和国イドリブ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.36
+    name:
+      ja: ジャミール・カドリー
+      en: Jamil Qadri
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国副首相（経済担当）；国内取引・消費者保護相 Deputy Prime Minister for Economic Affairs; Minister of Internal Trade and Consumer Protection, Syrian Arab Republic
+    date_of_birth: 1952-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.37
+    name:
+      ja: サイイド・ムハンマド・アブドゥッサッタール
+      en: Al-Sayyed Mohammad Abdul-Sattar
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国宗教相 Minister of Awqaf(Religious Endowments), Syrian Arab Republic
+    date_of_birth: 1958-XX-XX
+    place_of_birth: シリア・アラブ共和国タルトゥース
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.38
+    name:
+      ja: ナーセル・ハーラ・ムハンマド　
+      en: Al-Nasser Hala Mohammad
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国観光相 Minister of Tourism, Syrian Arab Republic
+    date_of_birth: 1964-XX-XX
+    place_of_birth: シリア・アラブ共和国ラッカ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.39
+    name:
+      ja: ハンナー・バッサーム
+      en: Hanna Bassam
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国水資源相 Minister of Water Resources, Syrian Arab Republic
+    date_of_birth: 1954-XX-XX
+    place_of_birth: シリア・アラブ共和国アレッポ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.40
+    name:
+      ja: ヤハヤー・ムアッラー・ムハンマド
+      en: Yehya Moalla Mohammad
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国高等教育相 Minister of Higher Education, Syrian Arab Republic
+    date_of_birth: 1951-XX-XX
+    place_of_birth: シリア・アラブ共和国ラタキア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.41
+    name:
+      ja: ワッズ・ハズワーン
+      en: Al-Wazz Hazwan
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国教育相 Minister of Education, Syrian Arab Republic
+    date_of_birth: 1962-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.42
+    name:
+      ja: ザーフェル・ミフベク・ムハンマド
+      en: Zafer Mihbek Mohammad
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国経済通商相 Minister of Economy and Foreign Trade, Syrian Arab Republic
+    date_of_birth: 1945-XX-XX
+    place_of_birth: シリア・アラブ共和国アレッポ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.43
+    name:
+      ja: イブラヒーム・サイード・マハムード
+      en: Ibrahim Said Mahmoud
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国運輸相 Minister of Transport, Syrian Arab Republic
+    date_of_birth: 1953-XX-XX
+    place_of_birth: シリア・アラブ共和国ラタキア
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.44
+    name:
+      ja: アッサーフ・サフワーン　
+      en: Al-Assaf Safwan
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国住宅・都市開発相 Minister of Housing and Urban Development, Syrian Arab Republic
+    date_of_birth: 1959-XX-XX
+    place_of_birth: シリア・アラブ共和国ハマ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.45
+    name:
+      ja: スィバーイー・ヤーセル　
+      en: Al-Sibaei Yasser
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国公共事業相 Minister of Public Works, Syrian Arab Republic
+    date_of_birth: 1951-XX-XX
+    place_of_birth: シリア・アラブ共和国ホムス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.46
+    name:
+      ja: ムウズィー・フネーディー・サイード　
+      en: Mu’zi Hneidi Said
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国石油鉱物資源相 Minister of Oil and Mineral Resources, Syrian Arab Republic
+    date_of_birth: 1954-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.47
+    name:
+      ja: ムシャウウィハ・ルバーナ　　　
+      en: Mshaweh Lubanah
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国文化相 Minister of Culture, Syrian Arab Republic
+    date_of_birth: 1955-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.48
+    name:
+      ja: ムハンマド・ザカリヤー・ジャーセム
+      en: Mohammad Zakarya Jassim
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国社会労働相 Minister of Social Affairs and Labor, Syrian Arab Republic
+    date_of_birth: 1968-XX-XX
+    place_of_birth: シリア・アラブ共和国ハサカ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.49
+    name:
+      ja: ハイダル・アリー
+      en: Haidar Ali
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国民和解相 Minister of State for National Reconciliation Affairs, Syrian Arab Republic
+    date_of_birth: 1962-XX-XX
+    place_of_birth: シリア・アラブ共和国ハマ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.50
+    name:
+      ja: ファラハ・サルキース・ナズィーラ
+      en: Farah Sarkis Nazira
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相（環境担当） Minister of State for Environment Affairs, Syrian Arab Republic
+    date_of_birth: 1962-XX-XX
+    place_of_birth: シリア・アラブ共和国アレッポ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.51
+    name:
+      ja: ナーイフ・サアド・アブドゥルッサラーム
+      en: Al-Nayef Sa’ad Abduel Salam
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国保健相 Minister of Health, Syrian Arab Republic
+    date_of_birth: 1959-XX-XX
+    place_of_birth: シリア・アラブ共和国アレッポ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.52
+    name:
+      ja: アフマド・ナジュム・ハマド
+      en: Al Ahmad Najm Hamad
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国司法相 Minister of Justice, Syrian Arab Republic
+    date_of_birth: 1969-XX-XX
+    place_of_birth: シリア・アラブ共和国アレッポ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.53
+    name:
+      ja: スフニー・アドナーン・アブドゥ
+      en: Al-Sukhni Adnan Abdo
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国工業相 Minister of Industry, Syrian Arab Republic
+    date_of_birth: 1961-XX-XX
+    place_of_birth: シリア・アラブ共和国アレッポ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.54
+    name:
+      ja: フレイジ・ファハド・ジャーセム
+      en: Al Freij Fahd Jassem
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国軍副司令官；国防相 Deputy Commander-in-Chief of the Army and the Armed Forces; Minister of Defence, Syrian Arab Republic
+    date_of_birth: 1950-XX-XX
+    place_of_birth: シリア・アラブ共和国ハマ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.55
+    name:
+      ja: ズウビー・ウムラーン・アーヘド
+      en: Al Zoubi Omran Ahed
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国広報相 Minister of Information, Syrian Arab Republic
+    date_of_birth: 1959-XX-XX
+    place_of_birth: シリア・アラブ共和国ダマスカス
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.56
+    name:
+      ja: サイイド・ムハンマド・トゥルキー
+      en: Al Sayyed Mohammad Turki
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相 Minister of State, Syrian Arab Republic
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.57
+    name:
+      ja: フレート・ナジュムッディーン
+      en: Khreit Najm-eddin
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相 Minister of State, Syrian Arab Republic
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.58
+    name:
+      ja: フセイン・アブドゥッラー・ハリール
+      en: Hussein Abdullah Khalil
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相 Minister of State, Syrian Arab Republic
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-individuals.59
+    name:
+      ja: シャーヒーン・ジャマール・シャアバーン
+      en: Shahin Jamal Sha'aban
+    type: individual
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-individuals
+    sanction_list_en: Syria (Individuals)
+    title:
+      ja: シリア・アラブ共和国国務相 Minister of State, Syrian Arab Republic
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

@@ -1,0 +1,1320 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 北朝鮮(協調；団体)
+  - en: DPRK (Coordinated - Entities)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.dprk-coord-organizations.1#47
+    name:
+      ja: フォーリン・トレード・バンク
+      en: FOREIGN TRADE BANK
+    type: organization
+    effective_date: '2013-04-05'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域中城洞ＦＴＢビルディング
+    aliases:
+    - エフ・ティー・ビー
+    - ムヨクバンク
+    - コリア・トレーディング・バンク FTB
+    - Mooyokbank
+    - Korea Trading Bank
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC:FTBDKPPY
+  - id: jp.mof.dprk-coord-organizations.2#23
+    name:
+      ja: デドン・クレジット・バンク
+      en: DAEDONG CREDIT BANK
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市平川区鞍山洞普通江ホテルスイート401；北朝鮮平壌特別市平川区鞍山洞普通江ホテル
+    aliases:
+    - ディー・シー・ビー
+    - テドン・クレジット・バンク
+    - DCB
+    - Taedong Credit Bank
+    - Dae-Dong Credit Bank
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT:DCBKKPPY
+  - id: jp.mof.dprk-coord-organizations.3#40
+    name:
+      ja: ディー・シー・ビー・ファイナンス・リミテッド
+      en: DCB Finance Limited
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: Akara Building, 24 de Castro Street, Wickhams Cay Ⅰ, Road Town, Tortola, British Virgin Islands; 中華人民共和国大連市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.4#35
+    name:
+      ja: コリア・デソン・バンク
+      en: Korea Daesong Bank
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市普通江区域セゴリ洞慶興通り
+    aliases:
+    - チョソン・テソン・ウンハン
+    - テソン・バンク
+    - Choson Taesong Unhaeng
+    - Taesong Bank
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC：KDBK KP PY
+  - id: jp.mof.dprk-coord-organizations.5#42
+    name:
+      ja: コリア・デソン・ジェネラル・トレーディング・コーポレーション
+      en: KOREA DAESONG GENERAL TRADING CORPORATION
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市普通江区域プルグンゴリ１洞
+    aliases:
+    - デソン・トレーディング
+    - デソン・トレーディング・カンパニー
+    - コリア・デソン・トレーディング・カンパニー
+    - コリア・デソン・トレーディング・コーポレーション Daesong Trading
+    - Daesong Trading Company
+    - Korea Daesong Trading Company
+    - Korea Daesong Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 電話：＋850-2-18111-8208 ファックス：＋850-2-381-4432 メールアドレス：daesong@star-co.net.kp
+  - id: jp.mof.dprk-coord-organizations.6#25
+    name:
+      ja: コリア・クワンソン・バンキング・コーポレーション
+      en: KOREA KWANGSON BANKING CORPORATION
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域中城洞勝利通り
+    aliases:
+    - ケー・ケー・ビー・シー KKBC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.7#28
+    name:
+      ja: ミュニションズ・インダストリー・デパートメント
+      en: Munitions Industry Department
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市
+    aliases:
+    - "（別称）軍需工業部"
+    - ミリタリー・サプライズ・インダストリー・デパートメント
+    - エム・アイ・ディー Military Supplies Industry Department
+    - MID
+    - "（旧称）マシーン・インダストリー・デパートメント Machine Industry Department"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.8#30
+    name:
+      ja: オフィス39
+      en: OFFICE 39
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区アーバン・タウン第二朝鮮労働党政府庁舎；北朝鮮平壌特別市キョンリム洞ソソン通り中区域；北朝鮮平壌特別市チャンワン通り
+    aliases:
+    - 朝鮮労働党39号室
+    - オフィス＃39
+    - オフィスNo.39
+    - ビューロー39
+    - セントラル・コミッティー・ビューロー39
+    - サード・フロアー
+    - 'ディヴィジョン39 Office #39'
+    - Office No. 39
+    - Bureau 39
+    - Central Committee Bureau 39
+    - Third Floor
+    - Division 39
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.9#31
+    name:
+      ja: レコネッサンス・ジェネラル・ビューロー
+      en: RECONNAISSANCE GENERAL BUREAU
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市兄弟山区域；北朝鮮平壌特別市綾羅島
+    aliases:
+    - 偵察総局
+    - チョンチャル・チョングック
+    - ケー・ピー・エー・ユニット586
+    - アール・ジー・ビー Chongch'al Ch'ongguk
+    - KPA Unit 586
+    - RGB
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.10#32
+    name:
+      ja: セコンド・エコノミック・コミッティー
+      en: Second Economic Committee
+    type: organization
+    effective_date: '2013-08-30'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮江東
+    aliases:
+    - 第2経済委員会
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.11#22
+    name:
+      ja: チョンチョンガン・シッピング・カンパニー
+      en: CHONGCHONGANG SHIPPING COMPANY
+    type: organization
+    effective_date: '2016-02-19'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区東興洞ヘウン817
+    aliases:
+    - チョン・チョン・ガン・シッピング・カンパニー・リミテッド
+    - チョンチョンガン・シッピング・カンパニー・リミテッド Chong Chon Gang Shipping Co. Ltd.
+    - Chongchongang Shipping Co LTD
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: IMO番号：5342883
+  - id: jp.mof.dprk-coord-organizations.12
+    name:
+      ja: ダンドン・ホンシャン・インダストリアル・デベロップメント・カンパニー・リミテッド
+    type: organization
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国丹東市
+    aliases:
+    - Dandong Hongxiang Industrial Development Company Limited
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.13
+    name:
+      ja: イー・ケー・オー・デベロップメント・アンド・インベストメント・カンパニー
+      en: EKO Development and Investment Company
+    type: organization
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 35 St. Abd al-Aziz al-Sud, al-Manial, Cairo, Egypt
+    aliases:
+    - イー・ケー・オー・デベロップメント・アンド・インベストメント・フード・カンパニー
+    - イー・ケー・オー・インポート・アンド・エクスポート・カンパニー EKO Development & Investment Food Company
+    - EKO Import and Export Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.14
+    name:
+      ja: ヘジン・シップ・マネジメント・カンパニー・リミテッド
+      en: Haejin Ship Management Company Limited
+    type: organization
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域東興洞; 北朝鮮平壌特別市中区東興洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: IMO番号：5814866
+  - id: jp.mof.dprk-coord-organizations.15
+    name:
+      ja: ピョンジン・シップ・マネジメント・カンパニー・リミテッド
+      en: Pyongjin Ship Management Company Limited
+    type: organization
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市平川区域陸橋１洞；北朝鮮平壌特別市平川区陸橋１洞102
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: IMO番号：5817790
+  - id: jp.mof.dprk-coord-organizations.16
+    name:
+      ja: セナット・シッピング・リミテッド
+      en: Senat Shipping Limited
+    type: organization
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 36-02 A, Suntec Tower, 9, Temasek Boulevard, Singapore 038989, Singapore; 9 Temasek Boulevard, 36-02A, Singapore 038989, Singapore; Panama City, Panama; PO Box 957, Offshore Incorporations Centre Road Town, Tortola, Virgin Islands, British
+    aliases:
+    - セナット・シッピング・アンド・トレーディング・プライベート・リミテッド
+    - セナット・シッピング・エージェンシー・リミテッド
+    - セナット・シッピング・アンド・トレーディング・リミテッド
+    - セナット・シッピング・アンド・トレーディング・プライベート・リミテッド Senat Shipping & Trading Pte Ltd
+    - Senat Shipping Agency Ltd
+    - Senat Shipping and Trading Ltd
+    - Senat Shipping and Trading Private Limited
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: IMO番号：51792455405737
+  - id: jp.mof.dprk-coord-organizations.17
+    name:
+      ja: ヨンジン・シップ・マネジメント・カンパニー・リミテッド
+      en: Yongjin Ship Management Company Limited
+    type: organization
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区東興洞；北朝鮮平壌特別市中区域東興洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: IMO番号：581488358149065000000
+  - id: jp.mof.dprk-coord-organizations.18
+    name:
+      ja: バンク・オブ・ダンドン
+      en: Bank of Dandong
+    type: organization
+    effective_date: '2017-07-28'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国丹東市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.19
+    name:
+      ja: ダーリアン・グローバル・ユニティ・シッピング・カンパニー・リミテッド
+      en: Dalian Global Unity Shipping Company Limited
+    type: organization
+    effective_date: '2017-07-28'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国大連市；北朝鮮平壌特別市；北朝鮮清津市；北朝鮮羅津；北朝鮮興南
+    aliases:
+    - ダーリアン・グローバル・ユニティ・シッピング・エージェンシー Dalian Global Unity Shipping Agency
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.20
+    name:
+      ja: コリア・ジンク・インダストリアル・グループ
+      en: Korea Zinc Industrial Group
+    type: organization
+    effective_date: '2017-07-28'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮；中華人民共和国大連市
+    aliases:
+    - コリア・ジンク・インダストリー・グループ
+    - ノース・コリアン・ジンク・インダストリー・グループ
+    - コリア・ジンク・インダストリー・ジェネラル・コーポレーション Korea Zinc Industry Group
+    - North Korean Zinc Industry Group
+    - Korea Zinc Industry General Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.21
+    name:
+      ja: ペクソル・トレーディング・コーポレーション
+      en: Paeksol Trading Corporation
+    type: organization
+    effective_date: '2017-07-28'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    aliases:
+    - コリア・ペク・ソル・トレーディング
+    - ペクソル・トレーディング
+    - ペクソル・コーポレーション
+    - ペク・ソル・トレーディング・コーポレーション
+    - ペクソル・トレーディング・コーポレーション Korea Paek Sol Trading
+    - Baeksul Trading
+    - Baeksol Trading
+    - Paekso'l Corporation
+    - Paek Sol Trading Corporation
+    - Paekso'l Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.22
+    name:
+      ja: ソンギ・トレーディング・カンパニー
+      en: Songi Trading Company
+    type: organization
+    effective_date: '2017-07-28'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.23
+    name:
+      ja: ダンドン・リッチ・アース・トレーディング・カンパニー・リミテッド
+      en: Dandong Rich Earth Trading Company Limited
+    type: organization
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国遼寧省丹東市濱江中路64号佳地広場B座1001号
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.24
+    name:
+      ja: ダンドン・ジーチョン・メタリック・マテリアル・カンパニー・リミテッド
+      en: Dandong Zhicheng Metallic Material Company Limited
+    type: organization
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国遼寧省丹東市
+    aliases:
+    - ダンドン・ジーチョン・メタル・マテリアルズ・カンパニー・リミテッド
+    - ダンドン・チャンタイ
+    - ダンドン・ジーチョン・メタリック・ミネラル・カンパニー・リミテッド
+    - ダンドン・チソン・メタル・マテリアルズ・カンパニー Dandong Zhicheng Metal Materials Company Limited
+    - Dandong Chengtai
+    - Dandong Zhicheng Metallic Mineral Company Limited
+    - Dandong Chisong Metal Materials Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.25
+    name:
+      ja: ジンホウ・インターナショナル・ホールディングス・カンパニー・リミテッド
+      en: Jinhou International Holdings Company Limited
+    type: organization
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国山東省威海市和平路106号
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.26
+    name:
+      ja: マンスデ・オーバーシーズ・プロジェクツ・アーキテクチュラル・アンド・テクニカル・サービスィーズ（プロプライエタリー）リミテッド
+      en: Mansudae Overseas Projects Architectural and Technical Services (Proprietary) Limited
+    type: organization
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ナミビア国家登録番号：2001/044
+  - id: jp.mof.dprk-coord-organizations.27
+    name:
+      ja: ミンジャン・インターナショナル・トレーディング・リミテッド
+      en: Mingzheng International Trading Limited
+    type: organization
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国香港特別行政区九龍旺角弥敦道707-713号銀高国際大廈9階A30室；中華人民共和国遼寧省瀋陽市和平区市府大路224-4号1305室
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.28
+    name:
+      ja: チンタオ・コンストラクション（ナミビア）シー・シー
+      en: Qingdao Construction (Namibia) CC
+    type: organization
+    effective_date: '2017-08-25'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: ERF 338, Platinum Street, Prosperita, Windhoek, Namibia；P.O. Box 26774, Windhoek, Namibia
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ナミビア国家登録番号：2008/0598
+  - id: jp.mof.dprk-coord-organizations.29
+    name:
+      ja: アグリカルチュラル・デベロップメント・バンク
+      en: Agricultural Development Bank
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.30
+    name:
+      ja: セントラル・バンク・オブ・ザ・デモクラティック・ピープルズ・リパブリック・オブ・コリア
+      en: Central Bank of the Democratic People's Republic of Korea
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中央区域勝利通り万寿洞58-1
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.31
+    name:
+      ja: チェイル・クレジット・バンク
+      en: Cheil Credit Bank
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市普通江通り平壌インフォメーションセンター3-18；中華人民共和国北京市；中華人民共和国瀋陽市　；中華人民共和国上海市
+    aliases:
+    - "（別称）ファースト・クレジット・バンク"
+    - "（旧称）キョンギョン・クレジット・バンク First Credit Bank f.k.a. Kyongyong Credit Bank"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC：KYCBKPPYXXX　　　　
+  - id: jp.mof.dprk-coord-organizations.32
+    name:
+      ja: ハナ・バンキング・コーポレーション・リミテッド
+      en: Hana Banking Corporation Limited
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中央区域勝利通り中城洞解放山ホテル；中華人民共和国丹東市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC：BRBKKPPIXXX　　　
+  - id: jp.mof.dprk-coord-organizations.33
+    name:
+      ja: インターナショナル・インダストリアル・デベロップメント・バンク
+      en: International Industrial Development Bank
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市平川区域井平洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.34
+    name:
+      ja: ジンミョン・ジョイント・バンク
+      en: Jinmyong Joint Bank
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮；中華人民共和国大連市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.35
+    name:
+      ja: ジンソン・ジョイント・バンク
+      en: Jinsong Joint Bank
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.36
+    name:
+      ja: コリョ・コマーシャル・バンク・リミテッド
+      en: Koryo Commercial Bank Limited
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市；中華人民共和国北京市；中華人民共和国瀋陽市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC：KCBKKPP1
+  - id: jp.mof.dprk-coord-organizations.37
+    name:
+      ja: リュギョン・コマーシャル・バンク
+      en: Ryugyong Commercial Bank
+    type: organization
+    effective_date: '2017-11-07'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮；中華人民共和国北京市；中華人民共和国丹東市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.38
+    name:
+      ja: チョンボン・シッピング・カンパニー・リミテッド
+      en: Chongbong Shipping Company Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市平川区域鳳鶴洞90 502号室
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO5878589
+  - id: jp.mof.dprk-coord-organizations.39
+    name:
+      ja: デウォン・インダストリーズ
+      en: Daewon Industries
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市
+    aliases:
+    - デウォン・インダストリー・カンパニー
+    - テウォン・インダストリーズ Daewon Industry Company
+    - Taewo'n Industries
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.40
+    name:
+      ja: ヘリョン・シッピング・カンパニー・リミテッド
+      en: Hoeryong Shipping Company Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市平川区域鳳南洞108
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO5817786
+  - id: jp.mof.dprk-coord-organizations.41
+    name:
+      ja: コリア・コンピューター・センター
+      en: Korea Computer Center
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市；ドイツ；中国；シリア；インド；アラブ首長国連邦
+    aliases:
+    - コリア・コンピューター・カンパニー
+    - チョソン・コンピューター・センター
+    - チュン・スン・コンピューター・センター Korea Computer Company
+    - Choson Computer Center
+    - Chung Sun Computer Center
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.42
+    name:
+      ja: コリア・ジェネラル・コーポレーション・フォー・エクスターナル・コンストラクション
+      en: Korea General Corporation for External Construction
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.43
+    name:
+      ja: コリア・オーシャン・シッピング・エージェンシー
+      en: Korea Ocean Shipping Agency
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市牡丹峰通；北朝鮮平安南道南浦特別市南浦支店；北朝鮮咸鏡南道興南市興南支店；北朝鮮咸鏡北道清津市松平区域清津支店；北朝鮮黄海南道海州市海州支店；北朝鮮黄海南道松林市松林支店 ；北朝鮮江原道元山市元山支店；北朝鮮咸鏡北道羅先市羅先支店
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.44
+    name:
+      ja: コリア・オイル・エクスプロレーション・コーポレーション
+      en: Korea Oil Exploration Corporation
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市大同江区域衣岩洞
+    aliases:
+    - チョソン・オイル・エクスプロレーション・カンパニー
+    - コリア・オイル・エクスプロレーション・カンパニー
+    - ケー・オー・イー・シー Chosun Oil Exploration Company
+    - Korea Oil Exploration Company
+    - KOEC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.45
+    name:
+      ja: コリア・ルンラド・ジェネラル・トレーディング・コーポレ－ション
+      en: Korea Rungrado General Trading Corporation
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    aliases:
+    - ルンラド・トレード・カンパニー Rungrado Trade Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.46
+    name:
+      ja: コリア・サムイルポ・シッピング・カンパニー
+      en: Korea Samilpo Shipping Company
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域東興洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO1701459
+  - id: jp.mof.dprk-coord-organizations.47
+    name:
+      ja: コリア・ズザボン・マリタイム・リミテッド
+      en: Korea Zuzagbong Maritime Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市牡丹峰区域キンマウル洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO1991835
+  - id: jp.mof.dprk-coord-organizations.48
+    name:
+      ja: コリアン・ブヨン・シッピング・カンパニー・リミテッド
+      en: Korean Buyon Shipping Company Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮江原道元山市
+    aliases:
+    - コリア・ブヨン・シッピング・カンパニー Korea Buyon Shipping Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO5057119
+  - id: jp.mof.dprk-coord-organizations.49
+    name:
+      ja: コリアン・ポリッシュ・シッピング・カンパニー・リミテッド
+      en: Korean Polish Shipping Company Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市牡丹峰区域キンマウル洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO1267131
+  - id: jp.mof.dprk-coord-organizations.50
+    name:
+      ja: クムガン・バンク
+      en: Kumgang Bank
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中城洞クムガン・バンク・ビルディング
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC：KMBKKPPY
+  - id: jp.mof.dprk-coord-organizations.51
+    name:
+      ja: ミリム・シッピング・カンパニー・リミテッド
+      en: Mirim Shipping Company Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域東興洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO5647684
+  - id: jp.mof.dprk-coord-organizations.52
+    name:
+      ja: ナムガン・コンストラクション
+      en: Namgang Construction
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.53
+    name:
+      ja: ノース・イースト・アジア・バンク
+      en: North East Asia Bank
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域解放山洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: SWIFT/BIC：NEABKPPY
+  - id: jp.mof.dprk-coord-organizations.54
+    name:
+      ja: オーシャン・バンカリング・ジョイント・ベンチャー・カンパニー
+      en: Ocean Bunkering Joint Venture Company
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市中区域烏灘洞
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO4199470
+  - id: jp.mof.dprk-coord-organizations.55
+    name:
+      ja: ラソン・インターナショナル・コマーシャル・バンク
+      en: Rason International Commercial Bank
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮羅先市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.56
+    name:
+      ja: テピョンサン・シッピング・カンパニー・リミテッド
+      en: Thaephyongsan Shipping Company Limited
+    type: organization
+    effective_date: '2017-12-15'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市西城区域西川洞90　402号室
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 船舶登録証明：IMO5878575
+  - id: jp.mof.dprk-coord-organizations.57
+    name:
+      ja: アポロン・オー・オー・オー
+      en: Apollon OOO
+    type: organization
+    effective_date: '2022-04-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: Ul. Semenovskaya D. 8B, Kv. 28, Vladivostok, 690091, Russian Federation
+    aliases:
+    - アポロン
+    - アポロン・エル・エル・シー Apollon
+    - Apollon LLC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ロシア国家登録番号：1152540004253
+  - id: jp.mof.dprk-coord-organizations.58
+    name:
+      ja: パルセック・エル・エル・シー
+      en: Parsek LLC
+    type: organization
+    effective_date: '2022-04-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: Sh. Entuziastov D. 54, Che 0 POM. VII CH K 9, Moscow, 111123, Russian Federation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ロシア国家登録番号：1097746565366
+  - id: jp.mof.dprk-coord-organizations.59
+    name:
+      ja: アール・ケー・ブリズ・オー・オー・オー
+      en: RK Briz, OOO
+    type: organization
+    effective_date: '2022-04-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: Ul. Partizanskaya D. 2 Pom. 1, Putyatin, 692815, Russian Federation
+    aliases:
+    - アール・ケー・ブリーズ
+    - アール・ケー・ブリズ
+    - アール・ケー・ブリズ・エル・エル・シー RK Breeze
+    - RK Briz
+    - RK Briz LLC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ロシア国家登録番号：1162503050654
+  - id: jp.mof.dprk-coord-organizations.60
+    name:
+      ja: ジール・エム・カンパニー・リミテッド
+      en: Zeel - M Co., Ltd
+    type: organization
+    effective_date: '2022-04-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: Ul. Russkaya D. 19, V, Vladivostok, 690039, Russian Federation
+    aliases:
+    - ジールエム
+    - ジル・エム
+    - ジル・エム・エル・エル・シー Zeelm
+    - Zil - M
+    - Zil - M LLC
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ロシア国家登録番号：1022502123995
+  - id: jp.mof.dprk-coord-organizations.61
+    name:
+      ja: ハプジャンガン・トレーディング・コーポレーション
+      en: Hapjanggang Trading Corporation
+    type: organization
+    effective_date: '2022-10-18'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.62
+    name:
+      ja: コリア・ロウンサン・トレーディング・コーポレーション
+      en: Korea Rounsan Trading Corporation
+    type: organization
+    effective_date: '2022-10-18'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.63
+    name:
+      ja: ミニストリー・オブ・ロケット・インダストリー
+      en: Ministry of Rocket Industry
+    type: organization
+    effective_date: '2022-10-18'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平川区域
+    aliases:
+    - ロケット・インダストリー・デパートメント Rocket Industry Department
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.64
+    name:
+      ja: ソンニサン・トレーディング・コーポレーション
+      en: Sungnisan Trading Corporation
+    type: organization
+    effective_date: '2022-10-18'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市樂浪区域チュンソン２洞
+    aliases:
+    - コリア・ソンリサン・トレーディング・コーポレーション Korea Sungrisan Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.65
+    name:
+      ja: ウンチョン・トレーディング・コーポレーション
+      en: Unchon Trading Corporation
+    type: organization
+    effective_date: '2022-10-18'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    aliases:
+    - ウンチョン・トレーディング・シー・オー・アール・ピー
+    - ウンチェン・トレーディング・シー・オー・アール・ピー Unchon Trading CORP.
+    - Unchen Trading CORP.
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.66
+    name:
+      ja: コリア・ヘグムガン・トレーディング・コーポレーション
+      en: Korea Haegumgang Trading Corporation
+    type: organization
+    effective_date: '2022-12-02'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    aliases:
+    - コリア・リミョンス・トレーディング・コーポレーション
+    - ヘグムガン・トレーディング・カンパニー
+    - ネグンガン・トレーディング・カンパニー
+    - ヘグムガン
+    - Korea Rimyongsu Trading Corporation
+    - Haegu'mgang Trading Company
+    - Naegu'ngang Trading Company
+    - Haegumgang
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.67
+    name:
+      ja: コリア・ナムガン・トレーディング・コーポレーション
+      en: Korea Namgang Trading Corporation
+    type: organization
+    effective_date: '2022-12-02'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市
+    aliases:
+    - ディー・ピー・アール・ケー・ナムガン・トレーディング・カンパニー DPRK Namgang Trading Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.68
+    name:
+      ja: ラザルス・グループ
+      en: Lazarus Group
+    type: organization
+    effective_date: '2022-12-02'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市普通江区域
+    aliases:
+    - ヒドゥン・コブラ
+    - オフィス９１
+    - ガーディアンズ・オブ・ピース
+    - ザ・ニュー・ロマンティック・サイバー・アーミー・チーム
+    - フーイズ・ハッキング・チーム
+    - レッド・ドット
+    - テンプ・ハーミット
+    - グループ７７
+    - ジンク
+    - エー・ピー・ティー・シー２６
+    - アップルワーム Hidden Cobra
+    - Office 91
+    - Guardians of Peace
+    - The New Romantic Cyber Army Team
+    - Whois Hacking Team
+    - Red Dot
+    - Temp.Hermit
+    - Group 77
+    - Zinc
+    - APT-C-26
+    - Appleworm
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 暗号資産アドレス： 0xa0e1c89Ef1a489c9C7dE96311eD5Ce5D32c20E4B； 0x098B716B8Aaf21512996dC57EB0615e2383E2f96； 0x3Cffd56B47B7b41c56258D9C7731ABaDc360E073； 0x53b6936513e738f44FB50d2b9476730C0Ab3Bfc1； 0x35fB6f6DB4fb05e6A4cE86f2C93691425626d4b1； 0xF7B31119c2682c88d88D455dBb9d5932c65Cf1bE； 0x3e37627dEAA754090fBFbb8bd226c1CE66D255e9； 0x08723392Ed15743cc38513C4925f5e6be5c17243；
+  - id: jp.mof.dprk-coord-organizations.69
+    name:
+      ja: アンダリエル
+      en: Andariel
+    type: organization
+    effective_date: '2023-09-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.70
+    name:
+      ja: ブルーノロフ
+      en: Bluenoroff
+    type: organization
+    effective_date: '2023-09-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮
+    aliases:
+    - スターダスト・チョルリマ
+    - エー・ピー・ティー３８ Stardust Chollima
+    - APT 38
+    - APT38
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.71
+    name:
+      ja: コリア・エキスポ・ジョイント・ベンチャー
+      en: Korea Expo Joint Venture
+    type: organization
+    effective_date: '2023-09-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 北朝鮮平壌特別市
+    aliases:
+    - コリア・エキスポ・ジョイント・ベンチャー・コーポレーション
+    - チョソン・エキスポ
+    - チョソン・エキスポ・ジョイント・ベンチャー Korea Expo Joint Venture Corporation
+    - Chosun Expo
+    - Chosun Expo Joint Venture
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.72
+    name:
+      ja: インテレクトLLC
+      en: Intellekt LLC
+    type: organization
+    effective_date: '2023-12-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: ロシア連邦モスクワ市
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ロシア国家登録番号：1197746161711
+  - id: jp.mof.dprk-coord-organizations.73
+    name:
+      ja: ヴェルソルＳ．Ｒ．Ｏ．
+      en: Versor S.R.O.
+    type: organization
+    effective_date: '2023-12-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: Karadzicova 8/A, Bratislava, Slovakia
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: スロバキア国家識別番号：46622764
+  - id: jp.mof.dprk-coord-organizations.74
+    name:
+      ja: エア・コリョ・トレーディング・コーポレーション
+      en: Air Koryo Trading Corporation
+    type: organization
+    effective_date: '2023-12-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    address: 中華人民共和国丹東市；北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-coord-organizations.75
+    name:
+      ja: キムスキー
+      en: Kimsuky
+    type: organization
+    effective_date: '2023-12-01'
+    sanction_list: jp/mof-asset-freeze-dprk-coord-organizations
+    sanction_list_en: DPRK (Coordinated - Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

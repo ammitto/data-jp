@@ -1,0 +1,212 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ハイチ共和国（個人）
+  - en: Republic of Haiti (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.haiti-individuals.1
+    name:
+      ja: ジミー・シュリジエ
+      en: Jimmy Cherizier
+    type: individual
+    effective_date: '2022-11-11'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    address: ハイチ共和国、ポルトープランス、デルマ(Delmas) 40B、マニウス通り（Imp Manius）16
+    title:
+      ja: 元警察官
+    date_of_birth: '1977-03-30'
+    place_of_birth: ポルトープランス、ハイチ共和国
+    nationality: ハイチ共和国
+    list_date: '2022-10-21'
+    aliases:
+    - バーベキュー（Barbeque）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: 001-843-989-7(ハイチ共和国)
+    remarks:
+    - ja: ジミー・シュリジエ（Jimmy Cherizier）は、ハイチの平和、安全及び安定を脅かす行為に関与し、深刻な人権侵害を構成する行為を計画、指示又は実行した。 ジミー・シュリジエはハイチで最も影響力のあるギャングの指導者の1人で、「G9 Family and Allies」として知られるハイチギャングの同盟を率いている。
+  - id: jp.mof.haiti-individuals.2
+    name:
+      ja: ジョンソン・アンドレ
+      en: JOHNSON ANDRE
+    type: individual
+    effective_date: '2024-01-29'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    title:
+      ja: "「5 Segond」ギャング指導者"
+    date_of_birth: 1997-XX-XX
+    place_of_birth: ポルトープランス、ハイチ共和国
+    nationality: ハイチ共和国
+    list_date: '2023-12-08'
+    aliases:
+    - イゾ（Izo）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ジョンソン・アンドレ（Johnson André）は、「5 Segond」ギャングの主要な指導者であり、ギャング同盟である「G-Pèp alliance」内での影響力を増大させている。同ギャングは、ハイチの安全及び安定を脅かす強姦、強盗、略奪、誘拐、麻薬取引、武器取引、武器弾薬の不法取引及び人道支援の提供への妨害を含む活動に関与した。同人は、ハイチ国家警察に指名手配されている。 過去3年間、同人は「5 Segond」ギャングにて影響力を保ち、ポルトープランスにて暴力行為を行った。さらに、同ギャングは現在も支配下に置く第一審裁判所を含め公共施設に対する攻撃、ハイジャックや誘拐、国内の幹線道路等での移動に制限を加え国内経済の停滞及び人道支援の提供妨害を行った。「5 Segond」ギャングは、不安定な治安環境に乗じ、薬物の密輸を通じ資金を得ている。
+  - id: jp.mof.haiti-individuals.3
+    name:
+      ja: ルネル・デスティナ
+      en: RENEL DESTINA
+    type: individual
+    effective_date: '2024-01-29'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    title:
+      ja: "「Grand Ravine」ギャング・主要指導者"
+    date_of_birth: '1982-06-11'
+    place_of_birth: ハイチ共和国
+    nationality: ハイチ共和国
+    list_date: '2023-12-08'
+    aliases:
+    - ティ・ラプリ（Ti Lapli）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ルネル・デスティナは、「Grand Ravine」ギャングの指導者であり、ジョンソン・アンドレと主な同盟関係にある。「Grand Ravine」は、約300名の構成員を有しており、ハイチの安全及び安定を脅かす様々な活動に関与した。同人の指導の下、「Grand Ravine」ギャングは殺人、強姦、武装強盗、財産の破壊、身代金を目的とした誘拐、車両窃盗及び土地の接収を含め犯罪行為が行われた。 2022年以降、同ギャングは支配地域を拡大しており、ハイチ国家警察の殺害、強盗、警察署への攻撃を繰り返している。 同ギャングは国内幹線道路沿いを支配下に置き、恐喝、車両の強奪、密輸及びその他違法な活動によって資金を得ている。国内要衝を支配することで、国内経済の停滞を引き起こし人道支援の提供を妨害した。
+  - id: jp.mof.haiti-individuals.4
+    name:
+      ja: ウィルソン・ジョゼフ
+      en: WILSON JOSEPH
+    type: individual
+    effective_date: '2024-01-29'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    title:
+      ja: "「400 Mawozo」ギャング指導者"
+    date_of_birth: '1993-02-28'
+    place_of_birth: ハイチ共和国
+    nationality: ハイチ共和国
+    list_date: '2023-12-08'
+    aliases:
+    - ランモ・サン・ジュー(Lanmo San Jou)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ウィルソン・ジョゼフ（別名 Lanmo San Jou）は、首都圏にて活動を行う「400 Mawozo」ギャングの指導者。 同人はギャング構成員による深刻な基本的人権の侵害及び一般市民への無差別攻撃による殺害及び傷害、人道支援の妨害、強姦、未成年の徴用、公共財産の破壊活動への直接又は間接的な責任を負っている。同活動によって多くの国内避難民が発生している。同人はハイチ国家警察より指名手配を受けている。
+  - id: jp.mof.haiti-individuals.5
+    name:
+      ja: ヴィトロム・イノソン
+      en: VITELHOMME INNOCENT
+    type: individual
+    effective_date: '2024-01-29'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    address: ハイチ共和国、ポルトープランス、タバール(Tabarre)49、ソワソン(Soisson)64
+    title:
+      ja: "「Kraze Barye」ギャング指導者"
+    date_of_birth: '1986-03-27'
+    place_of_birth: ポルトープランス、ハイチ共和国
+    nationality: ハイチ共和国
+    list_date: '2023-12-08'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: 004-341-263-3(ハイチ共和国)
+    remarks:
+    - ja: ヴィトロム・イノソンは、首都圏で最も力を有するギャングの一つである「Kraze Barye」ギャングの指導者であり、ハイチの安全及び安定を脅かす様々な活動に関与した。 同人の指導の下、「Kraze Barye」ギャングによる基本的人権への侵害及び殺人、強姦、子どもの徴用、武器の略奪、財産の略奪及び破壊、身代金誘拐、車両窃盗及び土地の接収を含め犯罪行為が行われた。同人は、ハイチ国家警察より指名手配を受けている。 「Kraze Barye」ギャングは様々な機会で、ハイチ国家警察を標的とし、複数名の警官の殺害及び警察署の損壊を行った。過去3年間、首都圏近郊の自治体にて繰り返し攻撃を行い、数千名の市民が避難を余儀なくされた。 同人は、政府主要人物及び著名な記者等を標的とした誘拐を企図した。
+  - id: jp.mof.haiti-individuals.6
+    name:
+      ja: プロファン・ヴィクトール
+      en: PROPHANE VICTOR
+    type: individual
+    effective_date: '2024-10-25'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    title:
+      ja: 前ハイチ国会議員
+    nationality: ハイチ共和国
+    list_date: '2024-09-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男
+  - id: jp.mof.haiti-individuals.7
+    name:
+      ja: リュクソン・エラン
+      en: LUCKSON ELAN
+    type: individual
+    effective_date: '2024-10-25'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    title:
+      ja: グラン・グリフ・ギャング指導者
+    date_of_birth: '1988-01-06'
+    nationality: ハイチ共和国
+    list_date: '2024-09-27'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男
+  - id: jp.mof.haiti-individuals.8
+    name:
+      ja: ディミトリ・エラール
+      en: DIMITRI HERARD
+    type: individual
+    effective_date: '2025-11-25'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    list_date: '2025-10-17'
+    reason:
+    - ja: '国連参照番号: HTi.008'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ジョブネル・モイーズ大統領の下で大統領府警護総局長を務めたディミトリ・エラール（Dimitri Herard）は、ハイチの平和、治安、安定を脅かす行為に関与し、同国の制度を損ない人道危機を悪化させる犯罪行為を支援してきた。同人は、ハイチにおける犯罪ネットワークやギャングの活動を容易にする上で重要な役割を果たし、ギャング「Ti Bwa」が特殊戦闘ユニットを創設することを支援する等した。同人はまた、ギャングの暴力を激化させ、国家を不安定化させた武器・弾薬の密輸を助長した疑いがある。
+  - id: jp.mof.haiti-individuals.9
+    name:
+      ja: ケンペス・サノン
+      en: KEMPES SANON
+    type: individual
+    effective_date: '2025-11-25'
+    sanction_list: jp/mof-asset-freeze-haiti-individuals
+    sanction_list_en: Republic of Haiti (Individuals)
+    list_date: '2025-10-17'
+    reason:
+    - ja: '国連参照番号: HTi.009'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ケンペス・サノン（Kempes Sanon）は、ポルトープランスのオー・ベル・エール地区を拠点とするギャング「Les Argentins」のリーダーとして、ハイチの平和、治安、安定を脅かす活動に関与してきた。同ギャングは約150名の構成員を有し、恐喝、誘拐、違法課税を含む組織的な人権侵害に関与している。同人は、特に、ギャング連合「Viv Ansanm」同盟への関与を通じ、ポルトープランスにおけるギャング勢力の統合に重要な役割を果たしてきた。同人の指導の下、ギャング「Les Argentins」はソリノ地区等への攻撃を繰り返し、多数の死傷者と数千人の国内避難民を発生させた。同人は、治安機関を含む政府機関内に個人ネットワークを維持しており、逮捕されることなく犯罪行為を継続している。2021年には誘拐・窃盗・暗殺罪で服役中の刑務所から脱獄し、その後もハイチの不安定化を助長している。

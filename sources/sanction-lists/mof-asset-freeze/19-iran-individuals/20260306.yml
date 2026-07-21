@@ -1,0 +1,691 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: イラン（個人）
+  - en: Iran (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.iran-individuals.1
+    name:
+      ja: モハンマド・ガンナディ
+      en: MOHAMMAD QANNADI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: イラン原子力庁研究・開発担当副長官 Vice President for Research & Development, Atomic Energy Organisation of Iran (AEOI)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.2
+    name:
+      ja: ベフマン・アスガルプール
+      en: BEHMAN ASGARPOUR
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: アラク重水研究炉計画運用部長 Operational Manager of the heavy water research reactor project at Arak
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.3
+    name:
+      ja: ダウード・アーガージャーニー
+      en: DAWOOD AGHA-JANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: ナタンズ・パイロット燃料濃縮プラント総裁 Head of the Pilot Fuel Enrichment Plant at Natanz
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.4
+    name:
+      ja: イーサン・モナージェミー
+      en: EHSAN MONAJEMI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: ナタンズ・パイロット燃料濃縮プラント建設計画部長 Construction Project Manager of the Pilot Fuel Enrichment Plant at Natanz
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.5
+    name:
+      ja: ジャファル・モハンマディ
+      en: JAFAR MOHAMMADI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: イラン原子力庁技術担当顧問（遠心分離機の弁の生産管理担当） Technical Adviser to the Atomic Energy Organisation of Iran (AEOI) (in charge of managing the production of valves for centrifuges)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.6
+    name:
+      ja: アリー・ハージーニアー・レイラーバーディ
+      en: ALI HAJINIA LEILABADI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: メスバーフ・エナジー・カンパニー総裁 Director General of Mesbah Energy Company
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.7
+    name:
+      ja: モハンマド・メフディ・ネジャード・ヌーリー
+      en: MOHAMMAD MEHDI NEJAD NOURI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: マレク・アシュタル防衛技術大学学長; 中将 Rector of Malek Ashtar University of Defence Technology; Lieutenant General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.8
+    name:
+      ja: ホセイン・サリーミー
+      en: HOSEIN SALIMI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード空軍司令官; 准将 Commander of the Air Force of IRGC; General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.9
+    name:
+      ja: アフマド・ヴァヒード・ダストジェルディ
+      en: AHMAD VAHID DASTJERDI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 航空宇宙産業機構総裁 Head of AIO
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.10
+    name:
+      ja: レザー・ゴリー・エスマエリ
+      en: REZA-GHOLI ESMAELI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 航空宇宙産業機構貿易国際部長 Head of Trade and International Affairs Dept, AIO
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.11
+    name:
+      ja: バフマンヤール・モルテザー・バフマンヤール
+      en: BAHMANYAR MORTEZA BAHMANYAR
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 航空宇宙産業機構財務予算部長 Head of Finance and Budget Dept, AIO
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.12
+    name:
+      ja: ヤフヤ・ラヒーム・サファヴィ
+      en: YAHYA RAHIM SAFAVI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード総司令官; 少将 Commander of IRGC; Major General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.13
+    name:
+      ja: フェレイドン・アッバース・ダヴァニ
+      en: FEREIDOUN ABBASI-DAVANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 国防軍需省上級科学者 Senior MODAFL scientist
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.14
+    name:
+      ja: モフセン・ファフリザーデ・マハバディ
+      en: MOHSEN FAKHRIZADEH-MAHABADI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 国防軍需省上級科学者; 物理学研究センター前所長 Senior MODAFL scientist; Former head of the Physics Research Centre (PHRC)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.15
+    name:
+      ja: サイード・ジャベル・サフダリ
+      en: SEYED JABER SAFDARI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: ナタンズ濃縮施設管理者 Manager of the Natanz Enrichment Facilities
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.16
+    name:
+      ja: アミール・ラヒミ
+      en: AMIR RAHIMI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: イスファハン・ニュークリアー・フュール・リサーチ・アンド・プ口ダクション・センター所長 Head of Esfahan Nuclear Fuel Research and Production Center
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.17
+    name:
+      ja: モフセン・ホジャティ
+      en: MOHSEN HOJATI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: ファジュル・インダストリアル・グループ社長 Head of Fajr Industrial Group
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.18
+    name:
+      ja: メヘルダード・アフラギ・ケタバチ
+      en: MEHRDAD AKHLAGHI KETABACHI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: シャヒード・バーゲリー・インダストリアル・グループ社長 Head of Shahid Bagheri Industrial Group (SBIG)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.19
+    name:
+      ja: ナーセル・マレキ
+      en: NASER MALEKI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: シャヒード・ヘンマット・インダストリアル・グループ社長; 国防軍需省職員 Head of SHIG; MODAFL official
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.20
+    name:
+      ja: アフマド・デラフシャンデ
+      en: AHMAD DERAKHSHANDEH
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    address: イラン Iran
+    title:
+      ja: バンク・セパ頭取 Chairman and Managing Director of Bank Sepah
+    date_of_birth: '1956-08-11'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.21
+    name:
+      ja: モルテザ・レザイー
+      en: MORTEZA REZAIE
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード副司令官; 准将 Deputy Commander of IRGC; Brigadier General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.22
+    name:
+      ja: アリ・アクバル・アフマディアン
+      en: ALI AKBAR AHMADIAN
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード統合参謀長; 中将 Chief of IRGC Joint Staff; Vice Admiral
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.23
+    name:
+      ja: モハンマド・レザ・ザヘディ
+      en: MOHAMMAD REZA ZAHEDI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード陸軍司令官; 准将 Commander of IRGC Ground Forces; Brigadier General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.24
+    name:
+      ja: モルテザ・サファリ
+      en: MORTEZA SAFARI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード海軍司令官; 准将 Commander of IRGC Navy; Rear Admiral
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.25
+    name:
+      ja: モハンマド・ヘジャジ
+      en: MOHAMMAD HEJAZI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: バシジ抵抗軍司令官; 准将 Commander of Bassij resistance force; Brigadier General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.26
+    name:
+      ja: カセム・ソレイマニ
+      en: QASEM SOLEIMANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: コッヅ部隊司令官; 准将 Commander of Qods force; Brigadier General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.27
+    name:
+      ja: モハンマド・バーゲル・ゾルガドル
+      en: MOHAMMAD-BAQER ZOLQADR
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 革命ガード将校; 治安担当内務次官; 准将 IRGC officer; Deputy Interior Minister for Security Affairs; Brigadier General
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.28
+    name:
+      ja: アミール・モアッイェド・アラーイー
+      en: AMIR MOAYYED ALAI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    aliases:
+    - セイイェド・アミール・モアッイェド・アラーイー Seyyed Amir Moayyed Alai
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 遠心分離機の組立及び技術の管理に関与。
+  - id: jp.mof.iran-individuals.29
+    name:
+      ja: モハンマド・フェダーイー・アシアーニー
+      en: MOHAMMAD FEDAI ASHIANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    aliases:
+    - モハンメド・フェダーイー・アシアーニー Mohammaed Fedai Ashiani
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 炭酸ウラニルアンモニウムの製造及びナタンズ濃縮施設（Natanz enrichment complex）の管理に関与。
+  - id: jp.mof.iran-individuals.30
+    name:
+      ja: アッバース・レザーイー・アシュティアーニー
+      en: ABBAS REZAEE ASHTIANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: イラン原子力庁(AEOI)探査・採掘担当事務所（Office of Exploration and Mining Affairs）高官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.31
+    name:
+      ja: ハーレ・バクティヤール
+      en: HALEH BAKHTIAR
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 99.9％に濃縮されたマグネシウムの生産に関与。
+  - id: jp.mof.iran-individuals.32
+    name:
+      ja: モルテザー・ベフザード
+      en: MORTEZA BEHZAD
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 遠心分離機の部品作成に関与。
+  - id: jp.mof.iran-individuals.33
+    name:
+      ja: モハンマド・エスラーミー博士
+      en: DR. MOHAMMAD ESLAMI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 防衛産業研修・研究機構所（Defence Industries Training and Research Institute）所長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.34
+    name:
+      ja: セイイェド・フセイン・ホセイニー
+      en: SEYYED HUSSEIN HOSSEINI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: アラク（Arak）重水研究炉計画（Heavy Water Research Reactor (IR－40) project）に関与するイラン原子力庁（AEOI）職員
+    aliases:
+    - セイイェド・ホセイン・ホセイニー
+    - セイイェド・フセイン・フセイニー
+    - セイイェド・ホセイン・フセイニー Seyyed Hossein Hosseini
+    - Seyyed Hussein Husseini
+    - Seyyed Hossein Husseini
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.35
+    name:
+      ja: Ｍ．ジャヴァード・キャリーミー・サーベット
+      en: M．JAVAD KARIMI SABET
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 決議第1747号（2007年）で指定されたノヴィン・エナジー・カンパニー（Novin Energy Company）社長
+    aliases:
+    - ジャヴァード・キャリーミー・サーベット Javad Karimi Sabet
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.36
+    name:
+      ja: ハミード＝レザー・モハジェラニー
+      en: HAMID-REZA MOHAJERANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: イスファハン（Esfahan）のウラン転換施設（Uranium Conversion Facility （UCF））の生産管理に関与。
+  - id: jp.mof.iran-individuals.37
+    name:
+      ja: モハンマド・レザー・ナクディ准将
+      en: BRIGADIER-GENERAL MOHAMMAD REZA NAQDI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: 密輸対策庁長官; 元国軍参謀本部兵站・産業研究担当部長 Head of State Anti-Smuggling Headquarters; Former Deputy Chief of Armed Forces General Staff for Logistics and Industrial Research
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 決議第1737号（2006年）及び決議第1747号（2007年）により課された制裁を迂回する取組に関与。
+  - id: jp.mof.iran-individuals.38
+    name:
+      ja: フーシャング・ノーバリー
+      en: HOUSHANG NOBARI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ナタンズ濃縮施設（Natanz enrichment complex）の管理に関与。
+  - id: jp.mof.iran-individuals.39
+    name:
+      ja: アッバース・ラシディ
+      en: ABBAS RASHIDI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ナタンズ（Natanz）の濃縮作業に関与。
+  - id: jp.mof.iran-individuals.40
+    name:
+      ja: ガーセム・ソレイマニ
+      en: GHASEM SOLEYMANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: サガンド・ウラン鉱山（Saghand Uranium Mine）・ウラン採掘操業（Uranium Mining Operations）課長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.41
+    name:
+      ja: ジャヴァード・ラヒーギ
+      en: Javad Rahiqi
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    title:
+      ja: イラン原子力庁(AEOI)イスファハン・ニュークリア・テクノロジー・センター所長 Head of AEOI Esfahan Nuclear Technology Center
+    date_of_birth: '1954-04-24'
+    place_of_birth: マルシャド
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iran-individuals.42
+    name:
+      ja: アズィーム・アーガージャーニー
+      en: AZIM AGHAJANI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    nationality: イラン Iran
+    aliases:
+    - アズィーム・アドハジャーニー Azim Adhajani
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 6620505; 9003213
+    remarks:
+    - ja: 決議第1747号(2007年）により指定されたコッヅ部隊司令官であるカセム・ソレイマニ准将の指揮下にあるIRGCコッヅ部隊のメンバー。イランから武器及び関連物資の輸出を禁じた決議第1747号(2007年）の5の規定の違反を手助けした。
+  - id: jp.mof.iran-individuals.43
+    name:
+      ja: アリ・アクバル・タバタバイ
+      en: ALI AKBAR TABATABAEI
+    type: individual
+    effective_date: '2025-09-28'
+    sanction_list: jp/mof-asset-freeze-iran-individuals
+    sanction_list_en: Iran (Individuals)
+    date_of_birth: 1967-XX-XX
+    nationality: イラン Iran
+    aliases:
+    - セイエド・アクバル・タハマゼヒ
+    - Sayed Akbar Tahmaesebi
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 決議第1747号(2007年）により指定されているコッヅ部隊司令官であるカセム・ソレイマニ准将の指揮下にあるIRGCコッヅ部隊のメンバー。アリ・アクバル・タバタバイはイランからの武器及び関連物資の輸出を禁じた決議第1747号(2007年）の5の規定の違反を手助けした。

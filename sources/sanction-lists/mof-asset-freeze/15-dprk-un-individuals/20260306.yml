@@ -1,0 +1,1698 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: 北朝鮮(決議1718号等；個人)
+  - en: DPRK (Resolution 1718 - Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.dprk-un-individuals.1
+    name:
+      ja: ユン・ホジン
+      en: Yun Ho-jin
+    type: individual
+    effective_date: '2009-07-24'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮平壌特別市
+    title:
+      ja: ナムチョンガン・トレーディング・コーポレーション代表 Director of Namchongang Trading Corporation
+    date_of_birth: '1944-10-13'
+    nationality: 北朝鮮
+    aliases:
+    - ユン・ホチン
+    - Yun Ho-chin
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.2
+    name:
+      ja: リ・ジェソン
+      en: Ri Je-son
+    type: individual
+    effective_date: '2009-07-24'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: アトミック・エナジー・インダストリー元部長 Former Minister of Atomic Energy Industry
+    date_of_birth: 1938-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - リ・チェソン
+    - Ri Che-son
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.3
+    name:
+      ja: ファン・ソクハ
+      en: Hwang Sok-hwa
+    type: individual
+    effective_date: '2009-07-24'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: ジェネラル・ビューロー・オブ・アトミック・エナジー局長 Director in the General Bureau of Atomic Energy (GBAE)
+    date_of_birth: '1943-09-26'
+    nationality: 北朝鮮
+    aliases:
+    - Hwang Sok Ha
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.4
+    name:
+      ja: リ・ホンソプ
+      en: Ri Hong-sop
+    type: individual
+    effective_date: '2009-07-24'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮平壌特別市
+    title:
+      ja: ヨンビョン・ニュークリアー・リサーチ・センター元局長及びニュークリアー・ウェポン・インスティテュート所長 Former director, Yongbyon Nuclear Research Center, and Head of Nuclear Weapons Institute
+    date_of_birth: '1940-02-26'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.5
+    name:
+      ja: ハン・ユロ
+      en: Han Yu-ro
+    type: individual
+    effective_date: '2009-07-24'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・リョンガクサン・ジェネラル・トレーディング・コーポレーション総社長 Director of Korea Ryongaksan General Trading Corporation
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.6
+    name:
+      ja: ペク・チャンホ
+      en: PAEK CHANG-HO
+    type: individual
+    effective_date: '2013-02-06'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリアン・コミッティー・フォー・スペース・テクノロジー衛星管制指揮所上級職員・所長 Senior official and head of the satellite control center of Korean Committee for Space Technology
+    date_of_birth: '1964-06-18'
+    aliases:
+    - パク・チャンホ
+    - PAK CHANG-HO
+    - PAEK CH’ANG-HO
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 381420754 旅券発行日：2011年12月7日 旅券失効日：2016年12月7日
+    remarks:
+    - ja: 出生地：北朝鮮開城市
+  - id: jp.mof.dprk-un-individuals.7
+    name:
+      ja: チャン・ミョンチン
+      en: CHANG MYONG-CHIN
+    type: individual
+    effective_date: '2013-02-06'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: 西海（ソヘ）衛星発射場総責任者。2012年4月13日及び12月12日に発射が行われた発射センターの長。 General Manager of the Sohae Satellite Launching Station and head of launch center at which the 13 April and 12 December 2012 launches took place
+    date_of_birth: 1966-XX-XX
+    aliases:
+    - チャン・ミョンジン
+    - JANG MYONG-JIN
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.8
+    name:
+      ja: ラ・ギョンス
+      en: RA KY’ONG-SU
+    type: individual
+    effective_date: '2013-02-06'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンク（TCB）職員 Tanchon Commercial Bank (TCB) official
+    date_of_birth: '1954-06-04'
+    nationality: 北朝鮮
+    aliases:
+    - ラ・キュンス
+    - チャン・ミョンホ
+    - ラ・キョンス
+    - Ra Kyung-Su
+    - Chang Myong Ho
+    - Chang Myo’ng-Ho
+    - Chang Myong-Ho
+    - Ra Kyong-Su
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 645120196（北朝鮮旅券）
+  - id: jp.mof.dprk-un-individuals.9
+    name:
+      ja: キム・グワンイル
+      en: KIM KWANG-IL
+    type: individual
+    effective_date: '2013-02-06'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンク（TCB）職員 Tanchon Commercial Bank (TCB) official
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.10
+    name:
+      ja: ヨン・チョンナム
+      en: YO’N CHO’NG NAM
+    type: individual
+    effective_date: '2013-04-05'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（KOMID）代表 Chief Representative for the Korea Mining Development Trading Corporation (KOMID)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.11
+    name:
+      ja: コ・チョルチェ
+      en: KO CH’O’L-CHAE
+    type: individual
+    effective_date: '2013-04-05'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（KOMID）副代表 Deputy Chief Representative for the Korea Mining Development Trading Corporation (KOMID)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.12
+    name:
+      ja: ムン・チョンチョル
+      en: MUN CHO’NG-CH’O’L
+    type: individual
+    effective_date: '2013-04-05'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮平壌特別市平川地区セマウル１洞タンチョン・コマーシャル・バンク方
+    title:
+      ja: タンチョン・コマーシャル・バンク（TCB）職員 Tanchon Commercial Bank (TCB) official
+    date_of_birth: '1964-12-23'
+    nationality: 北朝鮮
+    aliases:
+    - Mun Chong-Chol
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.13
+    name:
+      ja: チェ・チュンシク
+      en: CHOE CHUN-SIK
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: セコンド・アカデミー・オブ・ナチュラル・サイエンシーズ（ＳＡＮＳ）元局長；北朝鮮の長距離ミサイルプログラムの元長 Former Director of the Second Academy of Natural Sciences (SANS); Former head of the DPRK’s long-range missile program
+    date_of_birth: '1954-10-12'
+    nationality: 北朝鮮
+    aliases:
+    - チョ・チュンシク
+    - Choe Chun Sik
+    - Ch’oe Ch’un Sik
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.14
+    name:
+      ja: チェ・ソンイル
+      en: CHOE SONG IL
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンクのベトナムにおける代表者 Tanchon Commercial Bank Representative in Vietnam
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 472320665、旅券失効日：2017年9月26日 563120356
+  - id: jp.mof.dprk-un-individuals.15
+    name:
+      ja: ヒョン・クァンイル
+      en: HYON KWANG IL
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: ナショナル・エアロスペース・デベロップメント・アドミニストレーション科学開発局長 Department Director for Scientific Development at the National Aerospace Development Administration
+    date_of_birth: '1961-05-27'
+    nationality: 北朝鮮
+    aliases:
+    - ヒョン・グァンイル
+    - Hyon Gwang Il
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.16
+    name:
+      ja: チャン・ボムス
+      en: JANG BOM SU
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンクのシリアにおける代表者 Tanchon Commercial Bank Representative in Syria
+    date_of_birth: 1957-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - チャン・ポムス
+    - チャン・ヒョンウ
+    - Jang Pom Su
+    - Jang Hyon U
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 外交旅券番号：836110034 旅券失効日：2020年1月1日
+  - id: jp.mof.dprk-un-individuals.#17
+    name:
+      ja: チャン・ヨンソン
+      en: JANG YONG SON
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（KOMID）のイランにおける代表者 Korea Mining Development Trading Corporation (KOMID) Representative in Iran
+    date_of_birth: '1957-02-20'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 563110024（北朝鮮旅券）
+  - id: jp.mof.dprk-un-individuals.18
+    name:
+      ja: チョン・ミョングク
+      en: JON MYONG GUK
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンクのシリアにおける代表者 Tanchon Commercial Bank Representative in Syria
+    date_of_birth: 1976-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - チョン・ミョンクク
+    - チョン・ヨンサン
+    - Cho’n Myo’ng-kuk
+    - Jon Yong Sang
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 旅券番号：4721202031、旅券失効日：2017年2月21日 外交旅券番号：836110035、旅券失効日：2020年1月1日
+  - id: jp.mof.dprk-un-individuals.19
+    name:
+      ja: カン・ムンキル
+      en: KANG MUN KIL
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: ナムチョンガン（別称：ナムハン）の代表者 Representative of Namchongang (a.k.a. Namhung)
+    date_of_birth: '1963-02-09'
+    nationality: 北朝鮮
+    aliases:
+    - チャン・ウェンジ
+    - Jiang Wen-ji
+    - Jian Wenji
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: PS472330208、旅券失効日：2017年7月4日
+  - id: jp.mof.dprk-un-individuals.#20
+    name:
+      ja: カン・リョン
+      en: KANG RYONG
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（ＫＯＭＩＤ）のシリアにおける元代表者 Former Korea Mining Development Trading Corporation (KOMID) Representative in Syria
+    date_of_birth: '1969-08-21'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.21
+    name:
+      ja: キム・ジュンジョン
+      en: KIM JUNG JONG
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンクのベトナムにおける代表者 Tanchon Commercial Bank Representative in Vietnam
+    date_of_birth: '1966-11-07'
+    nationality: 北朝鮮
+    aliases:
+    - キム・チュンチョン
+    - Kim Chung Chong
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 199421147、旅券失効日：2014年12月29日 381110042、旅券失効日：2016年1月25日 563210184、旅券失効日：2018年6月18日
+  - id: jp.mof.dprk-un-individuals.#22
+    name:
+      ja: キム・ギュ
+      en: KIM KYU
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（KOMID）の渉外担当者 Korea Mining Development Trading Corporation (KOMID) External Affairs Officer
+    date_of_birth: '1968-07-30'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.23
+    name:
+      ja: キム・トンミョン
+      en: KIM TONG MY’ONG
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンクの頭取 President of Tanchon Commercial Bank
+    date_of_birth: 1964-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - キム・チンソク
+    - キム・ジンソク
+    - キム・ヒョクチョル
+    - Kim Chin-So 'k
+    - Kim Tong-Myong
+    - Kim Jin-Sok
+    - Kim Hyok-Chol
+    - Kim Tong-Myo’ng
+    - Kim Tong Myong
+    - Kim Hyok Chol
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 290320764（北朝鮮旅券）
+  - id: jp.mof.dprk-un-individuals.#24
+    name:
+      ja: キム・ヨンチョル
+      en: KIM YONG CHOL
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（KOMID）のイランにおける代表者 Korea Mining Development Trading Corporation (KOMID) Representative in Iran
+    date_of_birth: '1962-02-18'
+    nationality: 北朝鮮
+    aliases:
+    - ヨンチュル
+    - Kim Yong-Chol
+    - Kim Young-Chol
+    - Kim Young-Cheol
+    - Young-Chul
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 472310168（北朝鮮旅券）
+  - id: jp.mof.dprk-un-individuals.25
+    name:
+      ja: コ・テフン
+      en: KO TAE HUN
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タンチョン・コマーシャル・バンクの職員 Tanchon Commercial Bank official
+    date_of_birth: '1972-05-25'
+    nationality: 北朝鮮
+    aliases:
+    - キム・ミョンギ
+    - Kim Myong Gi
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 563120630、旅券失効日：2018年3月20日
+  - id: jp.mof.dprk-un-individuals.26
+    name:
+      ja: リ・マンゴン
+      en: RI MAN GON
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: ミュニションズ・インダストリー・デパートメント元部長 Former Minister of the Munitions Industry Department
+    date_of_birth: '1945-10-29'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: PO381230469、旅券失効日：2016年4月6日
+  - id: jp.mof.dprk-un-individuals.#27
+    name:
+      ja: リュ・ジン
+      en: RYU JIN
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・トレーディング・コーポレーション（KOMID）のシリアにおける代表者 Korea Mining Development Trading Corporation (KOMID) Representative in Syria
+    date_of_birth: '1965-08-07'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '563410081'
+  - id: jp.mof.dprk-un-individuals.28
+    name:
+      ja: ユ・チョルウ
+      en: YU CHOL U
+    type: individual
+    effective_date: '2016-03-11'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: ナショナル・エアロスペース・デベロップメント・アドミニストレーション長官 Director of the National Aerospace Development Administration
+    date_of_birth: '1959-08-08'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.29
+    name:
+      ja: パク・チュンイル
+      en: PAK CHUN IL
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: 駐エジプト大使 The DPRK Ambassador to Egypt
+    date_of_birth: '1954-07-28'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '563410091'
+  - id: jp.mof.dprk-un-individuals.30
+    name:
+      ja: キム・ソンチョル　
+      en: KIM SONG CHOL
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    date_of_birth: 1968-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - キム・ハクソン
+    - Kim Hak Song
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 381420565；654120219
+  - id: jp.mof.dprk-un-individuals.31
+    name:
+      ja: ソン・ジョンヒョク
+      en: SON JONG HYOK
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    date_of_birth: '1980-05-20'
+    nationality: 北朝鮮
+    aliases:
+    - ソン・ミン
+    - Son Min
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.32
+    name:
+      ja: キム・セゴン
+      en: KIM SE GON
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    date_of_birth: '1969-11-13'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: PD472310104
+  - id: jp.mof.dprk-un-individuals.33
+    name:
+      ja: リ・ウォンホ
+      en: RI WON HO
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    date_of_birth: '1964-07-17'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '381310014'
+  - id: jp.mof.dprk-un-individuals.34
+    name:
+      ja: チョ・ヨンチョル
+      en: JO YONG CHOL
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    date_of_birth: '1973-09-30'
+    nationality: 北朝鮮
+    aliases:
+    - Cho Yong Chol
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.#35
+    name:
+      ja: キム・チョルサム
+      en: KIM CHOL SAM
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: デドン・クレジット・バンク（DCB）の代表者 Representative for Daedong Credit Bank(DCB)
+    date_of_birth: '1971-03-11'
+    nationality: 北朝鮮
+    aliases:
+    - ジン・ティサン
+    - Jin Tiesan (金铁三)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 645120378（北朝鮮旅券）
+  - id: jp.mof.dprk-un-individuals.36
+    name:
+      ja: キム・ソクチョル
+      en: KIM SOK CHOL
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: ミャンマー
+    title:
+      ja: 元駐ミャンマー大使；コリア・マイニング・デベロップメント・トレーディング・コーポレーション（ＫＯＭＩＤ）のファシリテーター Former DPRK Ambassador to Burma; KOMID facilitator
+    date_of_birth: '1955-05-08'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '472310082'
+  - id: jp.mof.dprk-un-individuals.37
+    name:
+      ja: チャン・チャンハ
+      en: CHANG CHANG HA
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: セコンド・アカデミー・オブ・ナチュラル・サイエンシーズ（SANS）院長 President of the Second Academy of Natural Sciences(SANS)
+    date_of_birth: '1964-01-10'
+    nationality: 北朝鮮
+    aliases:
+    - ジャン・チャンハ
+    - Jang Chang Ha
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.38
+    name:
+      ja: チョ・チュンリョン
+      en: CHO CHUN RYONG
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: セコンド・エコノミック・コミッティー（SEC）委員長 Chairman of the Second Economic Committee(SEC)
+    date_of_birth: '1960-04-04'
+    nationality: 北朝鮮
+    aliases:
+    - Jo Chun Ryong
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.#39
+    name:
+      ja: ソン・ムンサン
+      en: SON MUN SAN
+    type: individual
+    effective_date: '2016-12-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: ジェネラル・ビューロー・オブ・アトミック・エナジー（GBAE）対外局長 Director General of the External Affairs Bureau of the General Bureau of Atomic Energy(GBAE)
+    date_of_birth: '1951-01-23'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.40
+    name:
+      ja: チョ・イルウ
+      en: CHO IL U　
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: レコネッサンス・ジェネラル・ビューロー第五局長 Director of the Fifth Bureau of the Reconnaissance General Bureau
+    date_of_birth: '1945-05-10'
+    nationality: 北朝鮮
+    aliases:
+    - チョ・チョル
+    - ジョ・チョル
+    - Cho Il Woo
+    - Cho Ch’o’l
+    - Jo Chol
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '736410010'
+    remarks:
+    - ja: 出生地：北朝鮮咸鏡北道茂山
+  - id: jp.mof.dprk-un-individuals.41
+    name:
+      ja: チョ・ヨンチュン
+      en: CHO YON CHUN
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: オーガナイゼーション・アンド・ガイダンス・デパートメント副部長 Vice Director of the Organization and Guidance Department　
+    date_of_birth: '1937-09-28'
+    nationality: 北朝鮮
+    aliases:
+    - ジョ・ヨンジュン
+    - Jo Yon Jun
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.42
+    name:
+      ja: チェ・フィ
+      en: CHOE HWI
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: 朝鮮労働党プロパガンダ・アンド・アジテーション・デパートメント第一副部長 First Vice Director of the Worker’s Party of Korea Propaganda and Agitation Department
+    date_of_birth: 1954-XX-XX
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.43
+    name:
+      ja: ジョ・ヨンウォン
+      en: JO YONG-WON
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: 朝鮮労働党オーガナイゼーション・アンド・ガイダンス・デパートメントの書記及び長；朝鮮労働党オーガナイゼーション・アンド・ガイダンス・デパートメント元副部長 Secretary and Chief of Organization and Guidance Department of the Worker’s Party of Korea; Former Vice Director of the Worker’s Party of Korea’s Organization and Guidance Department
+    date_of_birth: '1957-10-24'
+    nationality: 北朝鮮
+    aliases:
+    - チョ・ヨンウォン
+    - Cho Yongwon
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 108210124、旅券失効日：2023年６月４日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.44
+    name:
+      ja: キム・チョルナム
+      en: KIM CHOL NAM
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: コリア・クムサン・トレーディング・コーポレーション社長 President of Korea Kumsan Trading Corporation
+    date_of_birth: '1970-02-19'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '563120238'
+  - id: jp.mof.dprk-un-individuals.45
+    name:
+      ja: キム・ギョンオク
+      en: KIM KYONG OK
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮平壌特別市
+    title:
+      ja: オーガナイゼーション・アンド・ガイダンス・デパートメント副部長 Vice Director of the Organization and Guidance Department
+    date_of_birth: 1937-XX-XX
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.46
+    name:
+      ja: キム・トンホ
+      en: KIM TONG-HO
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: ベトナム
+    title:
+      ja: タンチョン・コマーシャル・バンクのベトナム代表 Vietnam Representative for Tanchon Commercial Bank
+    date_of_birth: '1969-08-18'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '745310111'
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.47
+    name:
+      ja: ミン・ビョンチョル
+      en: MIN BYONG CHOL
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: 朝鮮労働党オーガナイゼーション・アンド・ガイダンス・デパートメント部員 Member of the Worker’s Party of Korea’s Organization and Guidance Department
+    date_of_birth: '1948-08-10'
+    nationality: 北朝鮮
+    aliases:
+    - ミン・ピョンチョル
+    - ミン・ビョンチュン
+    - Min Pyo’ng-ch’o’l
+    - Min Byong-chol
+    - Min Byong Chun
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#48
+    name:
+      ja: ペク・セボン
+      en: PAEK SE BONG
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: セコンド・エコノミック・コミッティー元委員長；国防委員会元委員；ミュニションズ・インダストリー・デパートメント（ＭＩＤ）元副部長 Former Chairman of the Second Economic Committee; Former member of the National Defense Commission; Former Vice Director of Munitions Industry Department（MID）
+    date_of_birth: '1938-03-21'
+    nationality: 北朝鮮
+    aliases:
+    - ペク・セポン
+    - Paek Se Pong
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.49
+    name:
+      ja: パク・ハンセ
+      en: PAK HAN SE
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: セコンド・エコノミック・コミッティー副委員長 Vice Chairman of the Second Economic Committee
+    nationality: 北朝鮮
+    aliases:
+    - カン・ミョンチョル
+    - Kang Myong Chol
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '290410121'
+  - id: jp.mof.dprk-un-individuals.#50
+    name:
+      ja: パク・トチュン
+      en: PAK TO CHUN
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: ミュニションズ・インダストリー・デパートメント（ＭＩＤ）元書記；国務委員会元委員；朝鮮労働党ポリティカル・ビューロー局員 Former Secretary of Munitions Industry Department（MID）; Former State Affairs Commission member; Member of the Workers’ Party of Korea Political Bureau
+    date_of_birth: '1944-03-09'
+    nationality: 北朝鮮
+    aliases:
+    - パク・ドチュン
+    - Pak Do Chun
+    - Pak To’-Ch’un
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2022年7月27日死亡
+  - id: jp.mof.dprk-un-individuals.51
+    name:
+      ja: リ・ジェイル
+      en: RI JAE IL
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: 朝鮮労働党プロパガンダ・アンド・アジテーション・デパートメント副部長 Vice Director of the Workers’ Party of Korea Propaganda and Agitation Department
+    date_of_birth: 1934-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - リ・チェイル
+    - RI Chae-Il
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2021年2月4日死亡
+  - id: jp.mof.dprk-un-individuals.52
+    name:
+      ja: リ・スヨン
+      en: RI SU YONG
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: キューバ
+    title:
+      ja: コリア・リョンボン・ジェネラル・コーポレーション職員 Official for Korea Ryonbong General Corporation
+    date_of_birth: '1968-06-25'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '654310175'
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.53
+    name:
+      ja: リ・ヨンム
+      en: RI YONG MU
+    type: individual
+    effective_date: '2017-06-09'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: 国務委員会副委員長 Vice Chairman of the State Affairs Commission
+    date_of_birth: '1925-01-25'
+    nationality: 北朝鮮
+    aliases:
+    - Ri Yong-Mu
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2022年１月27日死亡
+  - id: jp.mof.dprk-un-individuals.#54
+    name:
+      ja: チェ・チュンヨン
+      en: CHOE CHUN YONG
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: イルシム・インターナショナル・バンクの代表者 Representative for Ilsim International Bank
+    nationality: 北朝鮮
+    aliases:
+    - Ch'oe Ch'un-yo'ng
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '654410078'
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#55
+    name:
+      ja: ハン・ジャンス
+      en: HAN JANG SU
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの元代表者 Former Representative of the Foreign Trade Bank
+    date_of_birth: '1969-11-08'
+    nationality: 北朝鮮
+    aliases:
+    - チャンス・ハン
+    - Chang-Su Han
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 745420176、旅券失効日：2020年10月19日
+    remarks:
+    - ja: 出生地：北朝鮮平壌特別市 性別：男性
+  - id: jp.mof.dprk-un-individuals.#56
+    name:
+      ja: チャン・ソンチョル
+      en: JANG SONG CHOL
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・マイニング・デベロップメント・コーポレーション（KOMID）の海外における代表者 Korea Mining Development Corporation(KOMID) representative overseas
+    date_of_birth: '1967-03-12'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.#57
+    name:
+      ja: チャン・ソンナム
+      en: JANG SUNG NAM
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: タングン・トレーディング・コーポレーションの海外支店の代表者 Chief of an overseas Tangun Trading Corporaton branch
+    date_of_birth: '1970-07-14'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 563120368、旅券発効日：2013年3月22日、旅券失効日：2018年3月22日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#58
+    name:
+      ja: チョ・チョルソン
+      en: JO CHOL SONG
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・クワンソン・バンキング・コーポレーションの代表者；コリア・クワンソン・バンキング・コーポレーションの元副代表者 Representative for the Korea Kwangson Banking Corporation; Former Deputy Representative for the Korea Kwangson Banking Corporation
+    date_of_birth: '1984-09-25'
+    nationality: 北朝鮮
+    aliases:
+    - Cho Ch'o'l-so'ng
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 654320502、旅券失効日：2019年9月16日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#59
+    name:
+      ja: カン・チョルス
+      en: KANG CHOL SU
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・リョンボン・ジェネラル・コーポレーションの職員 Official for Korea Ryonbong General Corporation
+    date_of_birth: '1969-02-13'
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '472234895'
+  - id: jp.mof.dprk-un-individuals.#60
+    name:
+      ja: キム・ムンチョル
+      en: KIM MUN CHOL
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・ユナイテッド・デベロップメント・バンクの代表者 Representative for Korea United Development Bank
+    date_of_birth: '1957-03-25'
+    nationality: 北朝鮮
+    aliases:
+    - Kim Mun-ch'o'l
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.#61
+    name:
+      ja: キム・ナムウン
+      en: KIM NAM UNG
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: イルシム・インターナショナル・バンクの代表者 Representative for Ilsim International Bank
+    nationality: 北朝鮮
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '654110043'
+  - id: jp.mof.dprk-un-individuals.#62
+    name:
+      ja: パク・イルギュ
+      en: PAK IL KYU
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・リョンボン・ジェネラル・コーポレーションの職員 Official for Korea Ryonbong General Corporation
+    nationality: 北朝鮮
+    aliases:
+    - Pak Il-Gyu
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '563120235'
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.63
+    name:
+      ja: パク・ヨンシク
+      en: PAK YONG SIK
+    type: individual
+    effective_date: '2017-08-16'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: ワーカーズ・パーティー・オブ・コリア・セントラル・ミリタリー・コミッションの元委員 Former Member of the Workers’Party of Korea Central Military Commission
+    date_of_birth: 1950-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - Pak Yo’ng-sik
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.dprk-un-individuals.#64
+    name:
+      ja: チェ・ソクミン
+      en: CH'OE SO'K MIN
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの海外における元代表者 Former overseas Foreign Trade Bank representative
+    date_of_birth: '1978-07-25'
+    nationality: 北朝鮮
+    aliases:
+    - Choe Sok Min
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#65
+    name:
+      ja: チュ・ヒョク
+      en: CHU HYO'K
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの海外における元副代表者 Former overseas Foreign Trade Bank Deputy representative
+    date_of_birth: '1986-11-23'
+    nationality: 北朝鮮
+    aliases:
+    - ジュ・ヒョク
+    - Ju Hyok
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 836420186、旅券発効日：2016年10月28日、旅券失効日：2021年10月28日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.66
+    name:
+      ja: キム・ジョンシク
+      en: KIM JONG SIK
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: ワーカーズ・パーティー・オブ・コリア・ミュニションズ・インダストリー・デパートメントの副部長 Deputy Director of the Workers’ Party of Korea Munitions Industry Department
+    date_of_birth: 1967-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - キム・チョンシク
+    - Kim Cho'ng-sik
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#67
+    name:
+      ja: キム・ギョンイル
+      en: KIM KYONG IL
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: リビア
+    title:
+      ja: フォーリン・トレード・バンクのリビアにおける副代表 Foreign Trade Bank deputy chief representative in Libya
+    date_of_birth: '1979-08-01'
+    nationality: 北朝鮮
+    aliases:
+    - Kim Kyo'ng-il
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '836210029'
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#68
+    name:
+      ja: キム・トンチョル
+      en: KIM TONG CHOL
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの海外における元副代表者 Former overseas Foreign Trade Bank Deputy representative
+    date_of_birth: '1966-01-28'
+    nationality: 北朝鮮
+    aliases:
+    - Kim Tong-ch'o'l
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 927234267 108120258 (北朝鮮旅券)、旅券発行日：2018年2月14日、旅券失効日：2023年2月14日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#69
+    name:
+      ja: コ・チョルマン
+      en: KO CHOL MAN
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの海外における代表者 overseas Foreign Trade Bank representative
+    date_of_birth: '1967-09-30'
+    nationality: 北朝鮮
+    aliases:
+    - Ko Ch'o'l-man
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '472420180'
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#70
+    name:
+      ja: ク・ジャヒョン
+      en: KU JA HYONG
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: リビア
+    title:
+      ja: フォーリン・トレード・バンクのリビアにおける首席代表者 Foreign Trade Bank chief representative in Libya
+    date_of_birth: '1957-09-08'
+    nationality: 北朝鮮
+    aliases:
+    - ク・チャヒョン
+    - Ku Cha-hyo'ng
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#71
+    name:
+      ja: ムン・ギョンファン
+      en: MUN KYONG HWAN
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: バンク・オブ・イースト・ランドの海外における代表者 overseas Bank of East Land representative
+    date_of_birth: '1967-08-22'
+    nationality: 北朝鮮
+    aliases:
+    - Mun Kyo'ng-hwan
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 381120660、旅券失効日：2016年3月25日
+  - id: jp.mof.dprk-un-individuals.#72
+    name:
+      ja: ペ・ウォンウク
+      en: PAE WON UK
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: デソン・バンクの海外における代表者 overseas Daesong Bank representative
+    date_of_birth: '1969-08-22'
+    nationality: 北朝鮮
+    aliases:
+    - Pae Wo'n-uk
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 472120208、旅券失効日：2017年2月22日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#73
+    name:
+      ja: パク・ボンナム
+      en: PAK BONG NAM
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: イルシム・インターナショナル・バンクの海外における代表者 overseas Ilsim International Bank representative
+    date_of_birth: '1969-05-06'
+    nationality: 北朝鮮
+    aliases:
+    - ルイ・ワイミン
+    - パク・ポンナム
+    - Lui Wai Ming
+    - Pak Pong Nam
+    - Pak Pong-nam
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#74
+    name:
+      ja: パク・ムンイル
+      en: PAK MUN IL
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・デソン・バンクの海外における元代表者 Former overseas representative of Korea Daesong Bank
+    date_of_birth: '1965-01-01'
+    nationality: 北朝鮮
+    aliases:
+    - Pak Mun-il
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 563335509、旅券失効日：2018年8月27日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#75
+    name:
+      ja: リ・チュンファン
+      en: RI CHUN HWAN
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの海外における代表者 overseas Foreign Trade Bank representative
+    date_of_birth: '1957-08-21'
+    nationality: 北朝鮮
+    aliases:
+    - Ri Ch'un-hwan
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 563233049、旅券失効日：2018年5月9日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#76
+    name:
+      ja: リ・チュンソン
+      en: RI CHUN SONG
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: フォーリン・トレード・バンクの海外における代表者 overseas Foreign Trade Bank representative
+    date_of_birth: '1965-10-30'
+    nationality: 北朝鮮
+    aliases:
+    - Ri Ch'un-so'ng
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 654133553、旅券失効日：2019年3月11日
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.77
+    name:
+      ja: リ・ビョンチョル
+      en: RI PYONG CHUL
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    address: 北朝鮮
+    title:
+      ja: セントラル・ミリタリー・コミッション・オブ・ザ・ワーカーズ・パーティー・オブ・コリアの副委員長;ワーカーズ・パーティーの元書記及びポリティカル・ビューローの局員；ポリティカル・ビューロー・オブ・ザ・ワーカーズ・パーティー・オブ・コリアの元代理局員及びミュニションズ・インダストリー・デパートメントの第一副部長 Vice Chairman of the Workers’ Party of Korea (WPK) Central Military Commission ; FormerSecretary of the Worker’s Party and Member of the Political Bureau ;Former Alternate Member of the Political Bureau of the Workers’ Party of Korea and First Vice Director of the Munitions Industry Department
+    date_of_birth: 1948-XX-XX
+    nationality: 北朝鮮
+    aliases:
+    - Ri Pyo'ng-ch'o'l
+    - Ri Pyong Chol
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#78
+    name:
+      ja: リ・ソンヒョク
+      en: RI SONG HYOK
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリョ・バンク及びコリョ・クレジット・デベロップメント・バンクの海外における代表者 overseas representative for Koryo Bank and Koryo Credit Development Bank
+    date_of_birth: '1965-03-19'
+    nationality: 北朝鮮
+    aliases:
+    - リ・チェンヘ
+    - Li Cheng He
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: 654234735（北朝鮮旅券）
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.#79
+    name:
+      ja: リ・ウンソン
+      en: RI U'N SO'NG
+    type: individual
+    effective_date: '2017-12-28'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    title:
+      ja: コリア・ユニフィケーション・デベロップメント・バンクの海外における元代表者 Former overseas Korea Unification Development Bank representative
+    date_of_birth: '1969-07-23'
+    nationality: 北朝鮮
+    aliases:
+    - Ri Eun Song
+    - Ri Un Song
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 性別：男性
+  - id: jp.mof.dprk-un-individuals.80
+    name:
+      ja: ツァン・ユン・ユアン
+      en: TSANG YUNG YUAN
+    type: individual
+    effective_date: '2018-04-10'
+    sanction_list: jp/mof-asset-freeze-dprk-un-individuals
+    sanction_list_en: DPRK (Resolution 1718 - Individuals)
+    date_of_birth: '1957-10-20'
+    aliases:
+    - ネイル・ツァン
+    - ユン・ユアン・ツァン
+    - Neil Tsang
+    - Yun Yuan Tsang
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: '302001581'

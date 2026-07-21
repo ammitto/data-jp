@@ -1,0 +1,1089 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: コンゴ民主共和国（個人）
+  - en: Democratic Republic of the Congo (Individuals)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.drc-individuals.1
+    name:
+      ja: エリック・バデジ
+      en: ERIC BADEGE
+    type: individual
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ルワンダ（2016年初期時点）
+    date_of_birth: 1971-XX-XX
+    nationality: コンゴ民主共和国
+    list_date: 2012年12月31日（2016年10月13日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2013年3月にルワンダに逃亡し、2016年初期時点において現地に居住。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンクhttps://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.2
+    name:
+      ja: フランク・カコレレ・ブワンバレ
+      en: FRANK KAKOLELE BWAMBALE
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国キンシャサ（2016年6月時点）
+    title:
+      ja: コンゴ民主共和国国軍（FARDC）将軍
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    aliases:
+    - "(a)フランク・カコレレ（FRANK KAKORERE）"
+    - "(b)フランク・カコレレ・ブワンバレ（FRANK KAKORERE BWAMBALE）"
+    - "(c)エーグル・ブラン（AIGLE BLANC）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2008年1月に人民防衛国民会議（CNDP）を離脱。2011年6月現在、キンシャサ在住。2010年以降、カコレレは2011年3月のコンゴ民主共和国政府の武力紛争終了地域の安定化及び再建計画（STAREC）のゴマ及びベニへのミッション参加を含む、STARECのための活動に関わってきている。コンゴ民主共和国当局は、武装解除・動員解除・社会復帰プロセスの妨害の疑いにより、カコレレを2013年12月、北キヴ州ベニで逮捕した。カコレレは、コンゴ民主共和国を離れ、政府からベニ地方の情勢に対する支援要請を受けて帰国するまで、しばらくの間ケニアに居住。2015年10月、マンバサ(Mambasa)でマイマイのグループを支援した容疑により逮捕されたが起訴されなかった。2016年6月現在、キンシャサ居住。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.3
+    name:
+      ja: ガストン・イヤムレミエ
+      en: GASTON IYAMUREMYE
+    type: individual
+    effective_date: '2011-02-18'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ州（2016年6月時点）
+    title:
+      ja: "(a)ルワンダ解放民主勢力（FDLR）暫定議長、(b)FDLR-FOCA（FDLRの軍事部門）第一副議長、(c)FDLR-FOCA少将"
+    date_of_birth: 1948-XX-XX
+    place_of_birth: "(a)ルワンダ共和国北部州ムサンゼ郡（Musanze District）、(b)ルワンダ共和国ルヘンゲリ（Ruhengeri）"
+    nationality: ルワンダ共和国
+    list_date: 2010年12月1日（2016年10月13日修正）
+    aliases:
+    - "(a)ビリンギロ・ビクトール・ルムリ（Byiringiro VictorRumuli）"
+    - "(b)ビクトール・ルムリ（Victor Rumuri）"
+    - "(c)ミシェル・ビリンギロ（MichelByiringiro）"
+    - ルムリ（Rumuli）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.4
+    name:
+      ja: イノサン・カイナ
+      en: INNOCENT KAINA
+    type: individual
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ウガンダ（2016年初期時点）
+    title:
+      ja: 元3月23日運動（M23）副司令官
+    date_of_birth: '1973-11-01'
+    place_of_birth: コンゴ民主共和国ルチュル（Rutshuru）、ブナガナ （Bunagana）
+    list_date: 2012年11月30日（2016年10月13日修正）
+    aliases:
+    - イノサン・カイナ大佐 （Colonel Innocent KAINA）
+    - インディア・クイーン（India Queen）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2013年3月にボスコ・タガンダ派がルワンダに逃亡後、M23副司令官に就任。2013年11月にウガンダに逃亡。2016年初期時点でウガンダ居住。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.5
+    name:
+      ja: ジェローム・カクワヴ・ブカンデ
+      en: JÉRÔME KAKWAVU BUKANDE
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    place_of_birth: コンゴ民主共和国ゴマ（Goma）
+    nationality: コンゴ民主共和国
+    list_date: '2005-11-01'
+    aliases:
+    - ジェローム・カクワヴ （Jérôme Kakwavu）
+    - ジェローム司令官（Commandant Jérôme）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2004年12月コンゴ民主共和国国軍（FARDC）将軍に昇級。2011年6月現在、キンシャサのマカラ刑務所に留置。2011年3月25日、キンシャサ軍事高等裁判所は戦争犯罪の罪でカクワヴの裁判を開始。2014年11月、コンゴ民主共和国軍事裁判所において、強姦、殺人、拷問の罪で懲役10年を宣告された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.6
+    name:
+      ja: ジェルマン・カタンガ
+      en: GERMAIN KATANGA
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国（刑務所内）
+    date_of_birth: '1978-04-28'
+    place_of_birth: コンゴ民主共和国イトゥリ州マンバサ(Mambasa)
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2004年12月にコンゴ民主共和国国軍（FARDC）将軍に任命。2007年10月18日、コンゴ民主共和国政府により国際刑事裁判所（ICC）へ引き渡し。当初、2014年5月23日、戦争犯罪及び人道に対する罪で禁錮12年を宣告されたが、ICC上訴裁判部は減刑し、2016年1月18日に刑期は終了した。カタンガは、訴訟中、オランダで勾留されていたが、2015年12月にコンゴ民主共和国の刑務所に移送され、以前に犯したイトゥリでのその他の罪により訴追された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.7
+    name:
+      ja: トマ・ルバンガ
+      en: THOMAS LUBANGA
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    place_of_birth: コンゴ民主共和国イトゥリ州
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2020年11月2日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: UPC/L（コンゴ愛国同盟ルバンガ派）による人権侵害に関与したため2005年3月にキンシャサにて逮捕。2006年3月17日、コンゴ民主共和国当局により国際刑事裁判所（ICC）に移送された。2012年3月、国際刑事裁判所により、禁錮14年を宣告された。2014年12月1日、国際刑事裁判所の上訴裁判官は、ルバンガの有罪判決と量刑判決を確認した。2015年12月19日、刑期を務め上げるためコンゴ民主共和国内の刑務所に移送された。2020年3月15日、ICCの判決による刑期を終えた後、釈放された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.8
+    name:
+      ja: スルタニ・マケンガ
+      en: SULTANI MAKENGA
+    type: individual
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: 1973-XX-XX
+    place_of_birth: コンゴ民主共和国ルチュル（Rutshuru）
+    nationality: コンゴ民主共和国
+    list_date: 2012年11月12日
+    aliases:
+    - "(a)スルタニ・マケンガ大佐（MAKENGA"
+    - Colonel SULTANI）
+    - "(b)エマニュエル・スルタニ・マケンガ（MAKENGA"
+    - EMMANUEL SULTANI）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: コンゴ民主共和国で活動した「3月23日運動」（M23）グループの軍事指導者。2014年後期現在ウガンダ共和国に所在。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.9
+    name:
+      ja: カワ・パンガ・マンドロ
+      en: KHAWA　PANGA MANDRO
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ウガンダ（2016年5月時点）
+    date_of_birth: '1973-08-20'
+    place_of_birth: コンゴ民主共和国ブニア（Bunia）
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    aliases:
+    - "(a)カワ・パンガ（Kawa Panga）"
+    - "(b)カワ・パンガ・マンドロ（Kawa Panga Mandro）"
+    - "(c)カワ・マンドロ（Kawa Mandro）"
+    - "(d)イヴ・アンドゥル・カリム（Yves Andoul Karim）"
+    - "(e)マンドロ・パンガ・カワ（Mandro Panga Kahwa）"
+    - "(f)イヴ・カワ・パンガ・マンドロ（Yves Khawa Panga Mandro）"
+    - "(a)「チーフ・カワ（Chief Kahwa）」"
+    - "(b)「カワ（Kawa）」"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2005年4月にイトゥリ和平プロセス妨害のためにブニアにおいて刑務所に留置。2005年10月にコンゴ民主共和国当局により逮捕され、キサンガニの上訴裁判所で無罪判決が下されたが、その後、人道に対する罪、戦争犯罪、殺人、加重暴行及び暴行の新たな容疑でキンシャサの司法当局に移送された。2014年8月、キサンガニのコンゴ民主共和国軍事裁判所は、マンドロに対し、戦争犯罪と人道に対する罪で9年の懲役を宣告し、被害者に対する約8万5千ドルの支払いを命じた。マンドロは刑期を終え、2016年5月時点でウガンダに居住。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.10
+    name:
+      ja: カリクスト・ンバルシマナ
+      en: CALLIXTE MBARUSHIMANA
+    type: individual
+    effective_date: '2009-08-12'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: ルワンダ解放民主勢力（FDLR）執行書記
+    date_of_birth: 1963-XX-XX
+    place_of_birth: ルワンダ共和国北部州ルヘンゲリ、ンドゥス（Ndusu/Ruhengeri）
+    nationality: ルワンダ共和国
+    list_date: 2009年3月3日（2016年10月13日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2009年にキヴ州でFDLR部隊が犯した戦争犯罪及び人道に対する罪に対する国際刑事裁判所（ICC）の逮捕状に基づき2010年10月3日にパリで逮捕された。2011年1月25日にハーグに移送され、2011年後期に国際刑事裁判所により釈放された。2014年11月29日、5年の任期でFDLR執行書記に選任された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.11
+    name:
+      ja: イルタ・ドゥグラス・ンパモ
+      en: IRUTA DOUGLAS MPAMO
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ルワンダ共和国ギセニ（Gisenyi）（2011年6月時点）
+    date_of_birth: '1965-12-28'
+    place_of_birth: "(a)コンゴ民主共和国マシシ（Masisi）バシャリ（Bashali）、(b)コンゴ民主共和国ゴマ（Goma）、(c)コンゴ民主共和国ウヴィラ（Uvira）"
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日
+    aliases:
+    - ドゥグラス・イルタ・ンパモ（Douglas Iruta Mpamo）
+    - ンパノ（Mpano）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 大湖地域ビジネス会社（Great Lakes Business Company：GLBC）が運航する2機の航空機の墜落以降、職業は不明。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.12
+    name:
+      ja: シルヴェストル・ムダクムラ
+      en: SYLVESTRE MUDACUMURA
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ（North Kivu）州（2016年6月時点）
+    title:
+      ja: "(a)ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）司令官、(b)FDLR-FOCA中将"
+    date_of_birth: 1954-XX-XX
+    place_of_birth: ルワンダ共和国ギセニ県（Gisenyi prefectuire）キビリラ（Kibilira commune）ガトゥンバ（Gatumba sector）フェレジェ（Cellule Ferege）
+    nationality: ルワンダ共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    aliases:
+    - "(a)ムペンズィ・ベルナール（Mupenzi Bernard）"
+    - "(b)ムペンズィ少将（General Major Mupenzi）"
+    - "(c)ムダクムラ将軍（General Mudacumura）"
+    - "(a)ファラオ（Pharaoh）"
+    - "(b)ラジャ（Radja）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2012年7月12日、国際刑事裁判所（ICC）は、コンゴ民主共和国内で2009年から2010年に行われたとされる、市民への攻撃、殺人、切断、残酷な扱い、強姦、拷問、財産の破壊、略奪、個人の尊厳への侵害を含む9か条の戦争犯罪で逮捕状を発出した。
+  - id: jp.mof.drc-individuals.13
+    name:
+      ja: レオドミール・ムガラグ
+      en: LEODOMIR MUGARAGU
+    type: individual
+    effective_date: '2011-02-18'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ（North Kivu）州ワリカレ地区（Walikale）ボゴイ（Bogoyi）のキコマ（Kikoma）の森に位置するFDLR本部（2011年6月時点）
+    date_of_birth: "(a)1954年、(b)1953年"
+    place_of_birth: "(a)ルワンダ共和国キガリ（Kigali）、(b)ルワンダ共和国北部州ルシャシ （Rushashi）"
+    nationality: ルワンダ共和国
+    list_date: 2010年12月1日
+    aliases:
+    - "(a)マンズィ・レオン （Manzi Leon）"
+    - "(b)レオ・マンズィ （Leo Manzi）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）運営担当参謀長。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.14
+    name:
+      ja: レオポルド・ムジャンベレ
+      en: LEOPOLD MUJYAMBERE
+    type: individual
+    effective_date: '2009-08-12'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国キンシャサ（2016年6月時点）
+    title:
+      ja: "(a)ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）参謀総長、 (b)FDLR-FOCA副司令官臨時代理"
+    date_of_birth: '1962-03-17'
+    place_of_birth: ルワンダ共和国キガリ（Kigali）
+    nationality: ルワンダ共和国
+    list_date: 2009年3月3日（2016年10月13日修正）
+    aliases:
+    - "(a)ムセニェリ（Musenyeri）"
+    - "(b)アシール（Achille）"
+    - "(c)フレール・ペトルス・イブラヒム（Frere Petrus Ibrahim）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2014年、FDLR-FOCA副司令官代行就任。2016年5月上旬、コンゴ民主共和国ゴマでコンゴの治安部隊により逮捕され、キンシャサに移送された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.15
+    name:
+      ja: ジャミール・ムクル
+      en: JAMIL MUKULU
+    type: individual
+    effective_date: '2012-02-10'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: 報告によれば、ウガンダ国内の刑務所（2016年9月時点）
+    title:
+      ja: "(a)民主同盟軍（ADF）の長、(b)ADFの司令官"
+    date_of_birth: '1964-01-01'
+    place_of_birth: ウガンダ共和国カユンガ県（Kayunga District）ンテンジュル郡（Ntenjeru Sub County）ントケ村（Ntoke Village）
+    nationality: ウガンダ共和国
+    list_date: 2011年10月12日（2016年10月13日修正）
+    aliases:
+    - "(a)スティーヴン・アリラバチ（Steven Alirabaki）"
+    - "(b)ディヴィッド・チャグラニ（David Kyagulanyi）"
+    - "(c)ムセズィ・タレンゲラニミロ（Musezi Talengelanimiro）"
+    - "(d)ムゼー・ツツ（Mzee Tutu）"
+    - "(e)アブドゥラ・ジュンジュアカ（Abdullah Junjuaka）"
+    - "(f)アリラバチ・チャグラニ（Alilabaki Kyagulanyi）"
+    - "(g)フセイン・ムハマッド（Hussein Muhammad）"
+    - "(h)ニコラス・ルウム（Nicolas Luumu）"
+    - "(i)ジュリウス・エリウス・マシャウリ(Julius Elius Mashauri)"
+    - "(j)ダビッド・アモス・マゼンゴ(David Amos Mazengo)"
+    - "(a)ムシャラフ教授（Professor Musharaf）"
+    - "(b)タレンゲラニミロ（Talengelanimiro）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2015年4月にタンザニアで逮捕され、2015年7月にウガンダに引き渡された。2016年9月時点で、ムクルは、戦争犯罪及びジュネーブ議定書の重大な違反について、ウガンダの法律下での裁判のため警察の留置場に勾留されていると伝えられる。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.16
+    name:
+      ja: イグナス・ムルワナシヤカ
+      en: IGNACE MURWANASHYAKA
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ドイツ（刑務所内）
+    title:
+      ja: ルワンダ解放民主勢力（FDLR）議長
+    date_of_birth: '1963-05-14'
+    place_of_birth: "(a)ルワンダ共和国ブテラ（Butera）、(b)ルワンダ共和国ブタレ（Butare）ンゴマ（Ngoma）"
+    nationality: ルワンダ共和国
+    list_date: 2005年11月1日（2016年10月13日及び2020年2月25日修正）
+    aliases:
+    - ドクター・イグナス（Dr.　Ignace）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2019年4月16日にドイツの刑務所で死亡したと伝えられた。2009年11月17日にドイツ当局に逮捕され、2015年9月28日、外国のテログループの主導及び戦争犯罪の幇助によりドイツの裁判所から有罪の判決を受けた。懲役13年を宣告され、2016年6月時点でドイツの刑務所に収監されている。2014年11月29日、ルワンダ解放民主勢力（FDLR）の議長に5年の任期で再選した。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.17
+    name:
+      ja: ストラトン・ムソニ
+      en: STRATON MUSONI
+    type: individual
+    effective_date: '2007-05-08'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: 元ルワンダ解放民主勢力（FDLR）副議長
+    date_of_birth: '1961-04-06'
+    place_of_birth: ルワンダ共和国キガリ（Kigali）ムガンバジ（Mugambazi）
+    nationality: ルワンダ共和国
+    list_date: 2007年3月29日（2016年10月13日修正）
+    aliases:
+    - IO　ムソニ（IO Musoni）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2009年11月17日にドイツ当局に逮捕され、2015年9月28日、外国のテログループを主導したとしてドイツの裁判所から有罪の判決を受け、懲役8年を宣告された。ムソニは、裁判後、5年の刑期を終えると直ちに釈放された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.18
+    name:
+      ja: ジュール・ムテブチ
+      en: JULES MUTEBUTSI
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: 1964-XX-XX
+    place_of_birth: コンゴ民主共和国南キヴ州ミネンブウェ（Minembwe）
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    aliases:
+    - "(a)ジュール・ムテブシ（Jules Mutebusi）"
+    - "(b)ジュール・ムテブズィ（Jules Mutebuzi）"
+    - "(c)ムテブチ大佐（Colonel Mutebutsi）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: コンゴ民主共和国国軍（FARDC）の第10地域の元軍地域司令官補であり、2004年4月規律違反により除隊。2007年12月、同人は、コンゴ民主共和国側に越境しようとしたところをルワンダ当局により逮捕された。2014年5月9日にキガリで死亡したと伝えられた。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individual
+  - id: jp.mof.drc-individuals.19
+    name:
+      ja: ボードワン・ンガルイエ・ワ・ミャムロ
+      en: BAUDOIN NGARUYE WA MYAMURO
+    type: individual
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ルワンダ共和国ルバヴ（Rubavu）／ムデンデ（Mudende）
+    title:
+      ja: 准将
+    date_of_birth: '1978-04-01'
+    place_of_birth: "(a)コンゴ民主共和国ビブゥエ（Bibwe）、(b)コンゴ民主共和国ルベロ（Lubero）ルサマンボ（Lusamambo）"
+    nationality: コンゴ民主共和国
+    list_date: '2012-11-30'
+    aliases:
+    - ボードワン・ンガルイエ大佐（Colonel Baudoin NGARUYE）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: コンゴ民主共和国国軍（FARDC）ID：1-78-09-44621-80
+    remarks:
+    - ja: 2013年3月16日ルワンダ共和国に入国。2014年後期現在、ルワンダ共和国ンゴマ・キャンプにて生活。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.20
+    name:
+      ja: マチュウ・キュイ・ングジョロ
+      en: MATHIEU CHUI NGUDJOLO
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    date_of_birth: '1970-10-08'
+    place_of_birth: コンゴ民主共和国イトゥリ州ブニア（Bunia）
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    aliases:
+    - キュイ・ングジョロ（Cui Ngudjolo）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2003年10月、国連コンゴ民主共和国ミッション（MONUC）によりブニアにおいて逮捕。2008年2月7日にコンゴ民主共和国政府により国際刑事裁判所（ICC）へ引き渡される。2012年12月、国際刑事裁判所によりすべての罪状に関し無罪とされ、2015年2月27日、右判決は上訴部により支持された。ングジョロは、オランダで亡命申請したが却下された。2015年5月11日、コンゴ民主共和国に送還された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.21
+    name:
+      ja: フロリベール・ンガブ・ンジャブ
+      en: FLORIBERT NGABU NJABU
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: '1971-05-23'
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月1日（2016年10月13日修正）
+    aliases:
+    - "(a)フロリベール・ンジャブ・ンガブ（Floribert Njabu Ngabu）"
+    - "(b)フロリベール・ンジャブ（Floribert Ndjabu）"
+    - "(c)フロリベール・ンガブ・ンジャブ（Floribert Ngabu Ndjabu）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: コンゴ民主共和国旅券番号　OB 0243318
+    remarks:
+    - ja: 国民主義・統合主義戦線（FNI）による人権侵害に関与したため、2005年3月からキンシャサにて自宅拘留。2011年3月27日にハーグに移送され、国際刑事裁判所（ICC）にてジェルマン・カタンガ及びマシュー・ングジョロの裁判での証言を行った。2011年5月、オランダに庇護を申請。2012年10月、オランダの裁判所は同人の庇護申請を却下。2014年7月、同人はオランダからコンゴ民主共和国に国外追放され、逮捕された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.22
+    name:
+      ja: ローラン・ンクンダ
+      en: LAURENT NKUNDA
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: '1967-02-06'
+    place_of_birth: コンゴ民主共和国北キヴ州ルチュル（Rutshuru）
+    nationality: コンゴ民主共和国
+    list_date: '2005-11-01'
+    aliases:
+    - "(a)ンクンダ・ミヒゴ・ローラン（Nkunda Mihigo Laurent）"
+    - "(b)ローラン・ンクンダ・ブワタレ（Laurent Nkunda Bwatare）"
+    - "(c)ローラン・ンクンダバトゥワレ（Laurent Nkundabatware）"
+    - "(d)ローラン・ンクンダ・マホロ・バトゥワレ（Laurent Nkunda Mahoro Batware）"
+    - "(e)ローラン・ンクンダ・バトゥワレ（Laurent Nkunda Batware）"
+    - "(a)議長（Chairman）"
+    - "(b)ンクンダ将軍（General Nkunda）"
+    - "(c)パパ・シックス（Papa Six）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: コンゴ民主連合－ゴマ（RCD-G）元将軍。2006年、人民防衛国民議会（CNDP）創設者。RCD-G上級幹部（1998-2006年）。ルワンダ愛国戦線（RPF）士官（1992-1998年）。同人は2009年1月にルワンダでルワンダ当局により逮捕され、CNDP司令官を交代。以降、ルワンダのキガリで自宅拘留。コンゴ民主共和国東部で犯した犯罪により、コンゴ民主共和国政府がンクンダの引渡しを求めているものの、ルワンダは拒否。2010年、ンクンダによる違法拘留の訴えは、本件は軍事裁判所で審査されるものとして、ギセニにあるルワンダ裁判所で棄却される。ンクンダの弁護団はルワンダ軍事裁判所に上告。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.23
+    name:
+      ja: フェリシアン・ンサンズブキレ
+      en: FELICIEN NSANZUBUKIRE
+    type: individual
+    effective_date: '2011-02-18'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国南キヴ州（2016年6月時点）
+    title:
+      ja: "(a)ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）の分隊長、(b)FDLA-FOCA少佐"
+    date_of_birth: 1967-XX-XX
+    place_of_birth: "(a)ルワンダ共和国キガリ（Kigali）ムラマ（Murama）、(b)ルワンダ共和国キガリ（Kigali）ルブンゴ（Rubungo）、(c)ルワンダ共和国キガリ（Kigali）キニニャ（Kinyinya）"
+    nationality: ルワンダ共和国
+    list_date: 2010年12月1日（2016年10月13日修正）
+    aliases:
+    - フレッド・イラケザ （Fred Irakeza）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.24
+    name:
+      ja: パシフィック・ンタウングカ
+      en: PACIFIQUE NTAWUNGUKA
+    type: individual
+    effective_date: '2009-08-12'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ州ルチュル郡（Rutshuru Territory）（2016年6月時点）
+    title:
+      ja: "(a)ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）の北キヴ州作戦部門「ソノキ」司令官、(b)FDLR-FOCA旅団長"
+    date_of_birth: '1964-01-01'
+    place_of_birth: ルワンダ共和国ギセニ州ガセケ（Gaseke）
+    nationality: ルワンダ共和国
+    list_date: 2009年3月3日（2016年10月13日修正）
+    aliases:
+    - パシフィック・ンタウングラ（Pacifique Ntawungula）
+    - "(a)オメガ大佐（Colonel Omega）"
+    - "(b)ンゼリ（Nzeri）"
+    - "(c)イスラエル（Israel）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: エジプトで軍事訓練受けた。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.25
+    name:
+      ja: ジェームズ・ニャクニ
+      en: JAMES NYAKUNI
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    nationality: ウガンダ共和国
+    list_date: 2005年11月1日
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.26
+    name:
+      ja: スタニスラス・ンゼイマナ
+      en: STANISLAS NZEYIMANA
+    type: individual
+    effective_date: '2009-08-12'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）の元副司令官
+    date_of_birth: '1966-01-01'
+    place_of_birth: ルワンダ共和国ブタレ（Butare）ムグサ（Mugusa）
+    nationality: ルワンダ共和国
+    list_date: 2009年3月3日（2016年10月13日修正）
+    aliases:
+    - "(a)デオグラティアス・ビガルカ・イザバヨ（Deogratias Bigaruka Izabayo）"
+    - "(b)イザバヨ・デオ（Izabayo Deo）"
+    - "(c)ジュール・マテソ・ムランバ（Jules Mateso Mlamba）"
+    - "(a)ビガルカ（Bigaruka）"
+    - "(b)ビグルラ（Bigurura）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2013年初期、タンザニア滞在中に失踪。2016年6月現在、所在不明。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.27
+    name:
+      ja: デュードネ・オズィア・マズィオ
+      en: DIEUDONNÉ OZIA MAZIO
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: '1949-06-06'
+    place_of_birth: コンゴ民主共和国アリワラ（Ariwara）
+    nationality: コンゴ民主共和国
+    list_date: '2005-11-01'
+    aliases:
+    - オジア・マジオ（Ozia Mazio）
+    - "(a)オマリ（Omari）"
+    - "(b)ミスター・オマリ（Mr. Omari）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: アル地区コンゴ企業連合（FEC）会長であり、2008年9月23日、アリワラにて死去したと信じられている。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.28
+    name:
+      ja: ジャン‐マリ・ルゲレロ・ルニガ
+      en: JEAN-MARIE LUGERERO RUNIGA
+    type: individual
+    effective_date: '2013-02-27'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ルワンダ共和国ムデンデ、ルバヴ（Rubavu／Mudende）
+    title:
+      ja: 3月23日運動（M23）の議長
+    date_of_birth: '1966-09-09'
+    place_of_birth: コンゴ民主共和国ブカヴ（Bukavu）
+    list_date: 2012年12月31日（2016年10月13日修正）
+    aliases:
+    - ジャン‐マリ・ルゲレロ（Jean-Marie Rugerero）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2013年3月16日、ルワンダ共和国に入国。2016年現在、ルワンダ在住。2016年6月、コンゴの新党であるAlliance pour le Salut du Peuple(ASP)結成に参加した。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.29
+    name:
+      ja: ンタボ・ンタベリ・シェカ
+      en: NTABO NTABERI SHEKA
+    type: individual
+    effective_date: '2012-02-10'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ州ゴマ（Goma）（刑務所内）
+    title:
+      ja: マイマイ・シェカ・グループのコンゴ・ンドゥマ防衛、最高司令官
+    date_of_birth: '1976-04-04'
+    place_of_birth: コンゴ民主共和国ワリカレ地区（Walikale Territory） ワリカレ（Walikale）
+    nationality: コンゴ民主共和国
+    list_date: 2011年11月28日 （2020年8月19日修正）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 同人は2017年7月26日にMONUSCOに降伏し、それ以降コンゴ民主共和国当局によって拘留されている。同人の戦争犯罪、人道に対する罪及び反乱運動への参加の容疑に対する審理は、ゴマ軍事法廷において2018年11月に開始された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.30
+    name:
+      ja: ボスコ・タガンダ
+      en: BOSCO TAGANDA
+    type: individual
+    effective_date: '2005-11-25'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ベルギー（2022年12月14日時点）
+    date_of_birth: 1973-XX-XX
+    place_of_birth: ルワンダ共和国ビゴグウェ（Bigogwe）
+    nationality: コンゴ民主共和国
+    list_date: 2005年11月１日 （2016年10月13日、2020年8月19日及び2023年3月1日修正）
+    aliases:
+    - "(a)ボスコ・ンタガンダ（Bosco Ntaganda）"
+    - "(b)ボスコ・ンタジェンダ（Bosco Ntagenda）"
+    - "(c)タガンダ将軍（General Taganda）"
+    - "(a)リディア（Lydia）（APR参加時）"
+    - "(b)ターミネーター（Terminator）"
+    - "(c)タンゴ・ロメオ（Tango Romeo）（コールサイン）"
+    - "(d)ロメオ（Romeo）（コールサイン）"
+    - "(e)少佐（Major）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ルワンダ共和国で生まれる。幼少時、北キヴ州マシシ郡ニャミタバに転居。イトゥリ和平合意を受け、2004年12月11日の大統領令によりコンゴ民主共和国国軍（FARDC）准将に指名。人民防衛国民会議（CNDP）の元参謀長であり、2009年1月のローラン・ンクンダの逮捕以降、CNDPの軍事司令官。2009年1月以降、南北両キヴ州におけるルワンダ解放民主勢力（FDLR）掃討作戦である「ウモジャ・ウェトゥ」、「キミアⅡ」、「アマニ・レオ」の事実上の司令官補。2013年3月、ルワンダ共和国に入国、3月22日にキガリにて国際刑事裁判所（ICC）職員に自主的に投降した。オランダ・ハーグの国際刑事裁判所に移送。2014年6月9日、ICCは、同人に対する13の戦争犯罪と5の人道に対する罪を確認した。審理は2015年9月に開始。2019年7月8日、ICCは、同人が2002年から2003年にイトゥリにおいて犯した戦争犯罪及び人道に対する罪18件について有罪判決を下した。2019年11月7日、同人は、計30年の禁錮刑を言い渡された。同人は、有罪判決及び量刑の両方について上訴した。2021年3月30日、ICC上訴裁判所は同人の有罪判決及び量刑を確定した。2022年12月14日、刑の執行のため、同人はベルギーに移送された。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.31
+    name:
+      ja: イノサン・ズィムリンダ
+      en: INNOCENT ZIMURINDA
+    type: individual
+    effective_date: '2011-02-18'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: ムデンデ（Mudende）ルバヴ（Rubavu）
+    title:
+      ja: "(a)３月２３日運動（M23）の旅団指揮官、大佐、(b)コンゴ民主共和国国軍（FARDC）大佐"
+    date_of_birth: '1972-09-01'
+    place_of_birth: "(a)コンゴ民主共和国北キヴ州マシシ（Masisi）郡ングング（Ngungu）、(b)コンゴ民主共和国マシシ（Masisi）"
+    nationality: コンゴ民主共和国
+    list_date: '2010-12-01'
+    aliases:
+    - ズィムリンダ（Zimulinda）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2009年に中佐としてFARDCの一員となり、ングング地区を拠点としてFARDCの「キミアⅡ」作戦の旅団指揮官を務める。2009年7月、ズィムリンダは大佐に昇任しングングにおけるFARDCの部隊司令官に就任し、「キミアⅡ」及び「アマニ・レオ」作戦ではキチャンガにおける部隊司令官となる。ズィムリンダは2010年12月31日の大統領によるFARDC高官任命時には姿を現していないものの、事実上、キチャンガにおいてFARDC第22部隊の指揮を継続し、新たに付与されたFARDCの階級と制服を着用している。2010年12月、ズィムリンダの命令によって兵士が実行した徴兵活動が公開レポートで告発された。2013年3月16日、ルワンダ共和国に入国。2014年後期現在、ルワンダ共和国ンゴマ・キャンプに居住。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.32
+    name:
+      ja: ムインド・アキリ・ムンドス
+      en: MUHINDO AKILI MUNDOS
+    type: individual
+    effective_date: '2018-03-09'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: "(a)コンゴ民主共和国国軍（FARDC）将軍、第３１旅団司令官、(b)コンゴ民主共和国軍准将"
+    date_of_birth: '1972-11-10'
+    place_of_birth: コンゴ民主共和国
+    nationality: コンゴ民主共和国
+    list_date: '2018-02-01'
+    aliases:
+    - "(a)シャルル・ムインド・アキリ・ムンドス（Charles Muhindo Akili Mundos）"
+    - "(b)アキリ・ムインド（Akili Muhindo）"
+    - "(c)ムインド・ムンドス（MuhindoMundos）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: コンゴ民主共和国国軍の将軍であり、第31旅団の司令官。2014年9月の民主同盟軍（ADF）掃討作戦SukolaⅠを含む、ベニ及びルベロ地区のコンゴ共和国国軍作戦部門の司令官を2015年6月まで務めた。安保理決議第2293号7（e）に基づくコンゴ民主共和国の平和と安定、安全に対する脅威でもある。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.33
+    name:
+      ja: ギドン・シミライ・ムウィサ
+      en: GUIDON SHIMIRAY MWISSA
+    type: individual
+    effective_date: '2018-03-09'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: '1980-03-13'
+    place_of_birth: コンゴ民主共和国ワリカレ地区（Walikale）キゴマ（Kigoma）
+    list_date: '2018-02-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ムポフィ（Mpofi）で中等教育を修了後、16歳の時にシェ・カシキラ（She Kasikila）が率いる武装グループに入隊。カシキラの部下として共にコンゴ民主共和国国軍に合流後、彼の大隊S3となり、2007年に負傷した後、当時の司令官マンド（Mando）指揮下のマイマイ・シンバに合流。2008年に破壊的コンゴ防衛（NDC）の立ち上げに参加し、エーグル・ルマベ旅団の副司令官となった。安保理決議第2293号7（g）に基づくコンゴ民主共和国の平和と安定、安全に対する脅威でもある。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.34
+    name:
+      ja: リュシアン・ンザンバムウィタ
+      en: LUCIEN NZAMBAMWITA
+    type: individual
+    effective_date: '2018-03-09'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    date_of_birth: 1966-XX-XX
+    place_of_birth: ルワンダ共和国旧ビュンバ（Byumba）県キニャミ（Kinyami）郡リュヴュネ（Ruvune）地区ニャギタビレ（Nyagitabire）
+    nationality: ルワンダ共和国
+    list_date: '2018-02-01'
+    aliases:
+    - アンドレ・カルメ（André Kalume）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第2293号7（j）に基づくコンゴ民主共和国の平和と安定、安全に対する脅威。同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.35
+    name:
+      ja: ジェデオン・キュング・ムタンガ・ワ・バフクワ・カノンガ
+      en: GÉDÉON KYUNGU MUTANGA WA BAFUNKWA KANONGA
+    type: individual
+    effective_date: '2018-03-09'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: カタンガ反乱軍指揮官
+    date_of_birth: 1974-XX-XX
+    place_of_birth: カタンガ（Katanga）州（現タンガニーカ（Tanganyika）州）マノノ（Manono）
+    list_date: '2018-02-01'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: バルバカット族出身。リカシで初等教育を、マノノで中等教育を修了後、教育学の学位を取得。1999年にマイマイに合流し、2003年からカタンガ州で最も活発な部隊の一つを指揮。2006年に武装解除・動員解除・社会復帰（DDR）プロセスを通じて国連PKO軍に出頭。2011年に脱獄したが2016年10月に投降。安保理決議同人に対するインターポール(国際警察刑事機構)・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals第2293号7（e）に基づくコンゴ民主共和国の平和と安定、安全に対する脅威。
+  - id: jp.mof.drc-individuals.36
+    name:
+      ja: セカ・バルク
+      en: SEKA BALUKU
+    type: individual
+    effective_date: '2020-03-10'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ州ベニ（Beni）地区、メディナⅡカジュジュ基地（Kajuju camp of Medina II）（最終判明所在地）
+    title:
+      ja: 民主同盟軍（ADF）の総合的な指導者
+    date_of_birth: おおよそ1977年
+    nationality: ウガンダ共和国
+    list_date: '2020-02-06'
+    aliases:
+    - "(a)ムゼー・カジャジュ（Mzee Kajaju）"
+    - "(b)ムサ（Musa）"
+    - "(c)ルム（Lumu）"
+    - "(d)リュモンド（Lumonde）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: バルクは、民主同盟軍（ADF）の長年のメンバーであり、ADF創設者であるジャミール・ムクルに次ぐ司令官であったが、2014年のコンゴ民主共和国国軍（FARDC）による軍事掃討作戦SukolaⅠの後、ムクルの後継者となった。
+  - id: jp.mof.drc-individuals.37
+    name:
+      ja: プロトジェーヌ・ルヴガイミコレ
+      en: PROTOGÈNE RUVUGAYIMIKORE
+    type: individual
+    effective_date: '2023-12-04'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国北キヴ（North Kivu）州ニーラゴンゴ（Nyiragongo）
+    title:
+      ja: ルワンダ解放民主勢力（FDLR） 特別部隊「Commando de recherche et d'action en profondeur」（CRAP）（現マッカベ（Maccabe））司令官
+    date_of_birth: "（a）1968年、（b）1969年、（c）1970年"
+    place_of_birth: "（a）ルワンダ共和国ギセニ県（Gisenyi Prefecture）カラゴ（Karago Commune）ンウィヤニケ（Mwiyanike Sector）カランダリ（Karandaryi Cell）、（b）ルワンダ共和国西部州ニャビウ（Nyabihu District）"
+    nationality: ルワンダ共和国
+    list_date: '2023-10-25'
+    aliases:
+    - "（a）ルヒンダ（RUHINDA）"
+    - "（b）ガビ・ルヒンダ（GABY RUHINDA）"
+    - "（c）ゾッロ・ミデンデ（ZORRO MIDENDE）"
+    - ガトカラクラ（GATOKARAKURA）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第2293号（2016年）７（b）、７（e）及び７（h）に基づき、「コンゴ民主共和国で活動する外国武装グループの政治的・軍事的指導者であり、それらのグループに属する戦闘員の武装解除と自発的な本国帰還又は再定住を妨げており」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、安保理決議第2688号（2023年）２で再確認されたように、「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」に該当するものとしてリストに掲載されている。FDLR（Ｂ．団体とその他のグループ．５）の指導者として、同人は同グループの戦闘員を実質的に指揮・統制している。
+  - id: jp.mof.drc-individuals.38
+    name:
+      ja: ベルナール・マエシェ・ビヤムング
+      en: BERNARD MAHESHE BYAMUNGU
+    type: individual
+    effective_date: '2023-12-04'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    title:
+      ja: "（a）准将、（b）「３月23日運動」（M23）グループの作戦・情報担当副司令官"
+    date_of_birth: '1974-10-10'
+    place_of_birth: コンゴ民主共和国
+    nationality: コンゴ民主共和国
+    list_date: '2023-10-25'
+    aliases:
+    - タイガー・ワン（TIGER ONE）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第2293号（2016年）７（c）及び７（h）に基づき、「武装解除・動員解除・社会復帰（DDR）プロセスへの戦闘員の参加を妨害する、コンゴ民主共和国の国外から支援を受けているものを含むコンゴ民主共和国軍兵の政治的・軍事的指導者であり」、安保理決議第2688号（2023年）２で再確認されたように「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」に該当するものとしてリストに掲載されている。同人は、M23（Ｂ．団体とその他のグループ．６）の指導者として、武装グループの活動の宣伝と支援に関与している。同人は、2023年１月、M23の武装支部であるコンゴ革命軍（Congolese Revolutionary Army）の准将に昇進した。その後、スルタニ・マケンガ（Ａ．個人．８）の参謀長兼副官に任命され、それ以来、コンゴ民主共和国におけるM23のあらゆる活動の計画を認証してきた。コンゴ民主共和国当局から逮捕状が発出されている。
+  - id: jp.mof.drc-individuals.39
+    name:
+      ja: アポリネール・ハキジマナ
+      en: APOLLINAIRE HAKIZIMANA
+    type: individual
+    effective_date: '2024-04-16'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: "(a)中将、(b)ルワンダ解放民主勢力の軍事部門（FDLR-FOCA）防衛長官"
+    date_of_birth: 1964-XX-XX
+    nationality: ルワンダ共和国
+    list_date: '2024-02-20'
+    aliases:
+    - アミクウェ・ルピック（Amikwe Lepic）
+    - "(a)ル・ポエット（Le Poète）"
+    - "(b)アドニア（Adonia）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第2688号（2023年）で延長された同決議第 2293 号（2016 年）７(b)、７(e)及び７(h)に基づき、 「コンゴ民主共和国で活動する外国武装グループの政治的・軍事的指導者であり、それらのグループに属する戦闘員の武装解除と自発的な本国帰還又は再定住を妨げており」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、及び「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」に該当するものとしてリストに掲載されている。FDLR（Ｂ．団体とその他のグループ．５）の軍事指導者として、同人は同グループの活動の普及及び支援に関与している。
+  - id: jp.mof.drc-individuals.40
+    name:
+      ja: アフマド・マフムード・ハッサン
+      en: AHMAD MAHMOOD HASSAN
+    type: individual
+    effective_date: '2024-04-16'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    title:
+      ja: "(a)中将、(b)民主同盟連合（ADF）（Ｂ．団体とその他のグループ．１）上級指導者"
+    date_of_birth: "(a)1997年７月21日、(b)1993年"
+    nationality: タンザニア共和国
+    list_date: '2024-02-20'
+    aliases:
+    - "(a)アフメド・マハムド・ハッサン・アリヤニ（Ahmed Mahamud Hassan Aliyani）"
+    - "(b)アフマド・マフムード・ハッサン（Ahmad Mahmoud Hassan）"
+    - "(c)アフマド・マハムード・ハッサン（Ahmad Mahamood Hassan）"
+    - "(d)アフメド・マフムード・ハッサン（Ahmed Mahmoud Hassan）"
+    - "(a)アブ・ワカス（Abu Waqas）"
+    - "(b)サン・ジョヤージュ（Saint Joyage）"
+    - "(c)ジュンディ（Jundi）"
+    - "(d)アブワカシ（Abwakasi）"
+    - "(e)アブワカス（Abuwakas）"
+    - "(f)ムラブ（Murabu）"
+    - "(g)マラブゥ（Marabou）"
+    - "(h)ムワラブ（Mwarabu）"
+    - "(i)ルブラン（Leblanc）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: "(a)タンザニア共和国AB850901（有効期限2026年12月11日）、(b)タンザニア共和国AB187304（2016年11月28日失効）"
+    remarks:
+    - ja: 安保理決議第 2293 号（2016 年）７(b)、７(e)及び７(h)及び同決議第2641号（2022年）３に基づき、「コンゴ民主共和国で活動する外国武装グループの政治的・軍事的指導者であり、それらのグループに属する戦闘員の武装解除と自発的な本国帰還又は再定住を妨げており」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」及び「コンゴ民主共和国における即席爆発装置の生産、製造又は使用、若しくはコンゴ民主共和国における即席爆発装置による攻撃の実行、計画、命令、幇助、扇動又はその他の援助に関与したもの」に該当するものとしてリストに掲載されている。同人に対するインターポール（国際警察刑事機構）・国連安全保障理事会特別手配書のウェブ・リンク：http://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.drc-individuals.41
+    name:
+      ja: ミシェル・ルクンダ
+      en: MICHEL RUKUNDA
+    type: individual
+    effective_date: '2024-04-16'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    title:
+      ja: 武装組織トゥイルワンチョ（Twirwancho）司令官・軍事リーダー
+    date_of_birth: '1974-09-12'
+    place_of_birth: コンゴ民主共和国南キヴ州ミネンブウェ（Minembwe）
+    nationality: コンゴ民主共和国
+    list_date: '2024-02-20'
+    aliases:
+    - マカニカ（Makanika）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第2688号（2023年）で延長された同決議第2293号（2016 年）７(c)、７(d)及び７(e)に基づき、 「武装解除・動員解除・社会復帰（DDR）プロセスへの戦闘員の参加を妨害する、コンゴ民主共和国の国外から支援を受けているものを含むコンゴ民主共和国民兵の政治的・軍事的指導者であり」、「適用される国際法に違反して、コンゴ民主共和国における武力紛争において、子供を雇用又は使用し」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、及び「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」に該当するものとしてリストに掲載されている。武装されたコンゴの民兵組織の軍事リーダーとして、同人は同グループの活動の普及及び支援に関与している。
+  - id: jp.mof.drc-individuals.42
+    name:
+      ja: モハメド・アリ・ンカルボ
+      en: MOHAMED ALI NKALUBO
+    type: individual
+    effective_date: '2024-04-16'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    title:
+      ja: 民主同盟連合（ADF）（Ｂ．団体とその他のグループ．１）の運用、組織及び支援並び に広報及び宣伝のための上級リーダー
+    date_of_birth: "(a)1987年、(b)1988年、(c)1991年、(d)1992年、(e)1993年"
+    place_of_birth: ウガンダ共和国カンパラ
+    nationality: ウガンダ共和国
+    list_date: '2024-02-20'
+    aliases:
+    - "(a)メディ・ンカルボ（Meddie Nkalubo）"
+    - "(b)メディ・リー（Meddie Lee）"
+    - "(a)カシバンテ（Kasibante）"
+    - "(b)アブー・ショーカン（Abou Shaukan）"
+    - "(c)ディフェンダー（Defender）"
+    - "(d)パニー・ボーイ（Punny Boy）"
+    - "(e)アブル・ジハド（Abul Jihad）"
+    - "(f)アブ・ショーカン（Abu Shaukan）"
+    - "(g)パニシャー（Punisher）"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第 2293 号（2016 年）７(b)、７(d)、７(e)及び７(h)に基づき、安保理決議第 2688 号（2023 年）２で再確認された、「コンゴ民主共和国で活動する外国武装グループの政治的・軍事的指導者であり、それらのグループに属する戦闘員の武装解除と自発的な本国帰還又は再定住を妨げており」、「適用される国際法に違反して、コンゴ民主共和国における武力紛争において、子供を雇用又は使用し」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、及び「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」に該当するものとしてリストに掲載されている。同人は、武装グループの活動の計画、宣伝及び指示に関与している。同人は、グループの戦闘員を実質的に指揮統制している。
+  - id: jp.mof.drc-individuals.43
+    name:
+      ja: ウィリアム・アムリ・ヤクトゥンバ
+      en: WILLIAM AMURI YAKUTUMBA
+    type: individual
+    effective_date: '2024-04-16'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    title:
+      ja: "(a)コンゴ主権国民連合（CNPSC）の事務局長兼指導者（2023年２月まで）、(b)マイ・マイ・ヤクトゥンバ（Mai-Mai Yakutumba）創設者兼指導者"
+    date_of_birth: "(a)1970年、(b)1972年"
+    place_of_birth: コンゴ民主共和国南キヴ州フィツィ（Fizi）地区ルンボンジャ（Lunbondja）
+    nationality: コンゴ民主共和国
+    list_date: '2024-02-20'
+    aliases:
+    - ヤクトゥンバ
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第 2293 号（2016 年）７(c)、７(d)、７(e)及び７(g)に基づき、安保理決議第 2688 号（2023 年）２ で再確認された、「武装解除・動員解除・社会復帰（DDR）プロセスへの戦闘員の参加を妨害する、コンゴ民主共和国の国外から支援を受けているものを含むコンゴ民主共和国民兵の政治的・軍事的指導者であり」、「適用される国際法に違反して、コンゴ民主共和国における武力紛争において、子供を雇用又は使用し」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、及び「金又は野生生物及びその製品を含む天然資源の不正な搾取又は取引を通じて、コンゴ民主共和国の不安定化をもたらす活動に関与する個人や組織（武装グループや犯罪ネットワークを含む。）を支援すること」に該当するものとしてリストに掲載されている。コンゴ主権国民連合（CNPSC）の中で最も大きな民兵組織であるマイ・マイ・ヤクトゥンバ（Mai Mai Yakutumba）のリーダーとして、同人は、同組織の活動の計画、宣伝及び支援に関与している。同人は、同組織の戦闘員を実質的に指揮統制している。
+  - id: jp.mof.drc-individuals.44
+    name:
+      ja: ウィリー・ンゴマ
+      en: WILLY NGOMA
+    type: individual
+    effective_date: '2024-04-16'
+    sanction_list: jp/mof-asset-freeze-drc-individuals
+    sanction_list_en: Democratic Republic of the Congo (Individuals)
+    address: コンゴ民主共和国
+    title:
+      ja: "(a)少佐（Major）、(b)エム・ヴァントロワ（M23）（Ｂ．団体とその他のグループ．６）の軍事報道官"
+    date_of_birth: 1974-XX-XX
+    nationality: コンゴ民主共和国
+    list_date: '2024-02-20'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 安保理決議第 2293 号（2016 年）７(c)、７(e)及び７(h)に基づき、安保理決議第 2688 号（2023 年）２で再確 認された、「武装解除・動員解除・社会復帰（DDR）プロセスへの戦闘員の参加を妨害する、コンゴ民主共和国の国外から支援を受けているものを含むコンゴ民主共和国民兵の政治的・軍事的指導者であり」、「コンゴ民主共和国において、人権侵害や虐待、国際人道法違反に該当する行為を行い、殺害や傷害、強姦及びその他の性的暴力、拉致、強制移動、学校や病院への攻撃など、民間人を標的とする行為が含まれ」、及び「指定された個人又は団体を代表して、若しくはその指示を受けて行動すること、又は指定された個人又は団体が所有若しくは支配する団体を代表して、若しくはその指示を受けて行動すること」に該当するものとしてリストに掲載されている。エム・ヴァントロワ（M23）（Ｂ．団体とその他のグループ．６）のリーダーとして、同人は武装グループの活動の計画、宣伝及び支援に関与している。

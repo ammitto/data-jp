@@ -1,0 +1,1305 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: イラク前政権関係者等（Ⅰ）
+  - en: Former Iraqi Regime Officials (I)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.iraq-1.1
+    name:
+      ja: サッダーム・フセイン・アル・ティクリーティ
+      en: Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: '1937-04-28'
+    place_of_birth: ティクリート近郊アル・アウジャ
+    nationality: イラク
+    aliases:
+    - アブ・アリ
+    - Abu Ali
+    reason:
+    - ja: 決議1483に名前の記載あり。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.2
+    name:
+      ja: クサイ・サッダーム・フセイン・アル・ティクリーティ
+      en: Qusay Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1965-XX-XX
+    place_of_birth: バグダッド
+    nationality: イラク
+    reason:
+    - ja: サッダーム・フセインの次男、特別共和国防衛隊総監、共和国防衛隊総監、特別治安機関長官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.3
+    name:
+      ja: ウダイ・サッダーム・フセイン・アル・ティクリーティ
+      en: Uday Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1964-XX-XX
+    place_of_birth: バグダッド
+    nationality: イラク
+    reason:
+    - ja: サッダーム・フセインの長男、「フェダーイーン・サッダーム」部隊指揮官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.4
+    name:
+      ja: アービド・ハーミド・マフムード・アル・ティクリーティ
+      en: Abid Hamid Mahmud Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1957-XX-XX
+    place_of_birth: ティクリート近郊アル・アウジャ
+    nationality: イラク
+    aliases:
+    - アービド・ハーミド・ビド・ハーミド・マフムード
+    - アブデル・ハーミド・マフムード大佐
+    - アーベド・マフムード・ハンムード Abid Hamid Bid Hamid Mahmud, Col Abdel Hamid Mahmoud, Abed Mahmoud Hammud
+    reason:
+    - ja: サッダームの大統領秘書、大統領顧問
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.5
+    name:
+      ja: アリ・ハサン・アル・マジード・アル・ティクリーティ
+      en: Ali Hassan Al-Majid Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1943-XX-XX
+    place_of_birth: ティクリート近郊アル・アウジャ
+    nationality: イラク
+    aliases:
+    - アル・キマーウィ Al-Kimawi
+    reason:
+    - ja: 革命指導評議会評議員、大統領顧問
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.6
+    name:
+      ja: イッザト・イブラヒーム・アル・ドゥーリ
+      en: Izzat Ibrahim al-Duri
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1942-XX-XX
+    place_of_birth: アル・ドゥール
+    nationality: イラク
+    aliases:
+    - アブー・ブレイス
+    - アブー・アフマド Abu Brays, Abu Ahmad
+    reason:
+    - ja: イラク国軍副最高司令官、バアス党地域指導部副書記長、革命指導評議会副議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.7
+    name:
+      ja: ハーニー・アブド・アル・ラティーフ・ティルファーフ・アル・ティクリーティ
+      en: Hani Abd-Al-Latif Tilfah Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1962-XX-XX
+    place_of_birth: ティクリート近郊アル・アウジャ
+    nationality: イラク
+    reason:
+    - ja: 特別治安機関ナンバー2
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.9
+    name:
+      ja: ムハンマド・ハムザ・ズベイディ
+      en: Muhammad Hamza Zubaidi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1938-XX-XX
+    place_of_birth: バービル県バビロン
+    nationality: イラク
+    reason:
+    - ja: 元首相
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.11
+    name:
+      ja: バルザーン・アブド・アル・ガフール・スレイマーン・マジード・アル・ティクリーティ
+      en: Barzan Abd al-Ghafur Sulaiman Majid Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1960-XX-XX
+    place_of_birth: サラーハッディーン
+    nationality: イラク
+    aliases:
+    - バルザーン・ラズキ・アブド・アル・ガフール Barzan Razuki Abd al-Ghafur
+    reason:
+    - ja: 特別共和国防衛隊司令官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.12
+    name:
+      ja: ムザーヒム・サアブ・ハサン・アル・ティクリーティ
+      en: Muzahim Sa'b Hassan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1946-XX-XX
+    place_of_birth: サラーハッディーン又はティクリート近郊アル・アウジャ
+    nationality: イラク
+    reason:
+    - ja: 防空軍司令官、軍需産業庁次官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.13
+    name:
+      ja: イブラヒーム・アフマド・アブド・アル・サッタール・ムハンマド・アル・ティクリーティ
+      en: Ibrahim Ahmad Abd al-Sattar Muhammed Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1950-XX-XX
+    place_of_birth: モスル
+    nationality: イラク
+    reason:
+    - ja: 国軍の参謀総長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.14
+    name:
+      ja: サイフ・アル・ディーン・フレイヒ・ハサン・ターハ・アル・ラーウィ
+      en: Saif-al-Din Fulayyih Hassan Taha Al-Rawi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1953-XX-XX
+    place_of_birth: ラマーディ
+    nationality: イラク
+    aliases:
+    - イヤード・フタイエフ・アル・ラーウィ Ayad Futayyih Al-Rawi
+    reason:
+    - ja: 共和国防衛隊参謀総長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.15
+    name:
+      ja: ラーフィ・アブド・アル・ラティーフ・ティルファーフ・アル・ティクリーティ
+      en: Rafi Abd-al-Latif Tilfah Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1954-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    reason:
+    - ja: 公安局長官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.16
+    name:
+      ja: ターヘル・ジャリール・ハッブーシュ・アル・ティクリーティ
+      en: Tahir Jalil Habbush Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1950-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    reason:
+    - ja: 総合諜報局長官、公安局長官（1997年－1999年）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.17
+    name:
+      ja: ハーミド・ラジャー・サラーハ・アル・ティクリーティ
+      en: Hamid Raja Shalah Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1950-XX-XX
+    place_of_birth: サラーハッディーン県ベイジ
+    nationality: イラク
+    aliases:
+    - ハサン・アル・ティクリーティ
+    - ハーミド・ラジャー・サラーハ・ハッサム・アル・ティクリーティ Hassan Al-Tikriti, Hamid Raja-Shalah Hassum Al-Tikriti
+    reason:
+    - ja: 空軍司令官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.19
+    name:
+      ja: アブド・アル・タウワーブ・ムラー・フワイシュ
+      en: Abd-al-Tawwab Mullah Huwaysh
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1957-XX-XX
+    place_of_birth: モスル又はバグダッド
+    nationality: イラク
+    reason:
+    - ja: 副首相、軍需産業庁長官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.20
+    name:
+      ja: ターハ・ヤシン・ラマダーン・アル・ジズラーウィ
+      en: Taha Yassin Ramadan Al-Jizrawi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1938-XX-XX
+    place_of_birth: モスル
+    nationality: イラク
+    reason:
+    - ja: 1991年以来、副大統領
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.21
+    name:
+      ja: ルーカーン・ラズーキー・アブド・アル・ガフール・スレイマーン・アル・ティクリーティ
+      en: Rukan Razuki Abd-al-Ghafur Sulaiman Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1956-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    aliases:
+    - ルーカーン・アブダル・ガッフール・スレイマーン・アル・マージド
+    - ルーカーン・ラズーキー・アブド・アル・ガフール・アル・マージド
+    - ルーカーン・アブド・アル・ガッフール・アル・マージド・アル・ティクリーティ・アブー・ワーリド Rukan Abdal-Ghaffur Sulayman al-Majid, Rukan Razuqi Abd al-Ghafur Al-Majid, Rukan Abd al-Ghaffur al-Majid Al-Tikriti Abu Walid
+    reason:
+    - ja: 大統領府部族問題事務所長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.22
+    name:
+      ja: ジャマール・ムスタファ・アブダッラー・スルターン・アル・ティクリーティ
+      en: Jamal Mustafa Abdallah Sultan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: '1955-05-04'
+    place_of_birth: ティクリート近郊アル・サムナ
+    nationality: イラク
+    reason:
+    - ja: 大統領府部族問題事務所副所長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.23
+    name:
+      ja: ミズバーン・ハドル・ハーディ
+      en: Mizban Khadr Hadi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1938-XX-XX
+    place_of_birth: ディヤラ県マンダリ地区
+    nationality: イラク
+    reason:
+    - ja: 1991年以来、バアス党地域指導部メンバー及び革命指導評議会評議員
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.24
+    name:
+      ja: ターハ・ムヒー・アル・ディーン・マアルーフ
+      en: Taha Muhyi-al-Din Ma'ruf
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1924-XX-XX
+    place_of_birth: スレイマーニーヤ
+    nationality: イラク
+    reason:
+    - ja: 革命指導評議会副議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.25
+    name:
+      ja: ターリク・アジーズ
+      en: Tariq Aziz
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: '1936-07-01'
+    place_of_birth: モスル又はバグダッド
+    nationality: イラク
+    aliases:
+    - ターリク・ミハイル・アジーズ Tariq Mikhail Aziz
+    reason:
+    - ja: 副首相
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 旅券：No34409/129（1997年7月）
+  - id: jp.mof.iraq-1.27
+    name:
+      ja: スルターン・ハーシム・アフマド・アル・ターイ
+      en: Sultan Hashim Ahmad Al-Ta'i
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1944-XX-XX
+    place_of_birth: モスル
+    nationality: イラク
+    reason:
+    - ja: 国防相
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.28
+    name:
+      ja: ヒクマト・ミズバーン・イブラヒーム・アル・アッザーウィ
+      en: Hikmat Mizban Ibrahim al-Azzawi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1934-XX-XX
+    place_of_birth: ディヤーラ
+    nationality: イラク
+    reason:
+    - ja: 副首相兼財政相
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.36
+    name:
+      ja: サブアーウィ・イブラヒーム・ハサン・アル・ティクリーティ
+      en: Sab'awi Ibrahim Hassan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1947-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    reason:
+    - ja: 大統領顧問、1990年代初頭公安局長官、総合諜報機関長官（1990年－1991年）、サッダーム・フセインの異母兄弟
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.37
+    name:
+      ja: ワトバーン・イブラヒーム・ハサン・アル・ティクリーティ
+      en: Watban Ibrahim Hassan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1952-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    aliases:
+    - ワタブ・イブラヒーム・アル・ハサン Watab Ibrahim al-Hassan
+    reason:
+    - ja: 大統領顧問、1990年代初頭内相、サッダーム・フセインの異母兄弟
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.38
+    name:
+      ja: バルザン・イブラヒーム・ハサン・アル・ティクリーティ
+      en: Barzan Ibrahim Hassan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1951-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    reason:
+    - ja: 大統領顧問、ジュネーブ国連常駐代表（1989年－1998年）、1980年代初頭総合諜報機関長官、サッダーム・フセインの異母兄弟
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.39
+    name:
+      ja: フダー・サーリフ・マフディ・アンマーシュ
+      en: Huda Salih Mahdi Ammash
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1953-XX-XX
+    place_of_birth: バグダッド
+    nationality: イラク
+    reason:
+    - ja: バアス党地域指導部メンバー、1990年代半ば軍需産業庁生物研究所長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.44
+    name:
+      ja: ヤヒヤ・アブダッラー・アル・ウベイディ
+      en: Yahia Abdallah Al-Ubaidi
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    nationality: イラク
+    reason:
+    - ja: バアス党バスラ県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.45
+    name:
+      ja: ナーイフ・シンダーフ・サーミル・ガーリブ
+      en: Nayif Shindakh Thamir Ghalib
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    nationality: イラク
+    reason:
+    - ja: バアス党ナジャフ県担当地域指導部議長、国会議員
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 留意事項：2003年死亡
+  - id: jp.mof.iraq-1.46
+    name:
+      ja: サイフ・アル・ディーン・アル・マシュハダーニ
+      en: Saif-al-Din Al-Mashhadani
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1956-XX-XX
+    place_of_birth: バグダッド
+    nationality: イラク
+    reason:
+    - ja: バアス党アル・ムサンナー県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.47
+    name:
+      ja: ファーディル・マフムード・ガリーブ
+      en: Fadil Mahmud Gharib
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1944-XX-XX
+    place_of_birth: ドゥジェイル
+    nationality: イラク
+    aliases:
+    - ガリーブ・ムハンマド・ファーゼル・アル・マシャイヒ Gharib Muhammad Fazel al-Mashaikhi
+    reason:
+    - ja: バアス党バービル県担当地域指導部議長、イラク労働組合連盟議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.48
+    name:
+      ja: ムフシン・ハドル・アル・ハファージ
+      en: Muhsin Khadr Al-Khafaji
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    nationality: イラク
+    reason:
+    - ja: バアス党アル・カーディシーヤ県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.49
+    name:
+      ja: ラシード・タアーン・カージム
+      en: Rashid Taan Kathim
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    nationality: イラク
+    reason:
+    - ja: バアス党アル・アンバール県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.50
+    name:
+      ja: ウグラ・アビド・サクル・アル・ズベイシ
+      en: Ugla Abid Sakr Al-Zubaisi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1944-XX-XX
+    place_of_birth: アル・アンバール県クベイシ
+    nationality: イラク
+    aliases:
+    - サクル・アル・カビシ・アブド・アカラ
+    - Saqr al-Kabisi Abd Aqala
+    reason:
+    - ja: バアス党ミーサーン県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.51
+    name:
+      ja: ガージー・ハンムード・アル・ウベイディ
+      en: Ghazi Hammud Al-Ubaidi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1944-XX-XX
+    place_of_birth: バグダッド
+    nationality: イラク
+    reason:
+    - ja: バアス党ワシート県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.52
+    name:
+      ja: アーディル・アブダッラー・マフディ
+      en: Adil Abdallah Mahdi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1945-XX-XX
+    place_of_birth: アル・ドゥール
+    nationality: イラク
+    reason:
+    - ja: バアス党ジー・カール県担当地域指導部議長、バアス党前ディヤーラ県及びアル・アンバール県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.54
+    name:
+      ja: ハミース・シルハーン・アル・ムハンマド
+      en: Khamis Sirhan Al-Muhammad
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    nationality: イラク
+    aliases:
+    - ドクター・フヌ・ムヌ・ハミース Dr. Fnu Mnu Khamis
+    reason:
+    - ja: バアス党カルバラ県担当地域指導部議長
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.55
+    name:
+      ja: サアド・アブド・アル・マジード・アル・ファイサル・アル・ティクリーティ
+      en: Sa'd Abd-al-Majid Al-Faisal Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1944-XX-XX
+    place_of_birth: ティクリート
+    nationality: イラク
+    reason:
+    - ja: バアス党サラーハッディーン県担当地域指導部議長、前外務省安全保障担当次官
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.56
+    name:
+      ja: サージダ・ハイラッラー・ティルファーフ
+      en: Sajida Khayrallah Tilfah
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1937-XX-XX
+    place_of_birth: ティクリート近郊アル・アウジャ
+    nationality: イラク
+    reason:
+    - ja: サッダーム・フセインの第一夫人であり、いとこである。イラク前政権での要職を占めていたクサイ・サッダーム・フセイン、ウダイ・サッダーム・フセインを含む五人の子を産んだ（現在、サッダーム・フセインには少なくとも6人の子供がいる）。同人はサッダーム・フセインの唯一の公式な妻として認められている（現在、サッダーム・フセインには少なくとも二人の妻がいる）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.57
+    name:
+      ja: ラガド・サッダーム・フセイン・アル・ティクリーティー
+      en: Raghad Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1967-XX-XX
+    place_of_birth: イラク
+    nationality: イラク
+    reason:
+    - ja: サージダ・ハイラッラー・ティルファーフとサッダーム・フセインの娘
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：アンマン（ヨルダン）
+  - id: jp.mof.iraq-1.58
+    name:
+      ja: ラナ・サッダーム・フセイン・アル・ティクリーティー
+      en: Rana Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1969-XX-XX
+    place_of_birth: イラク
+    nationality: イラク
+    reason:
+    - ja: サージダ・ハイラッラー・ティルファーフとサッダーム・フセインの娘
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：アンマン（ヨルダン）
+  - id: jp.mof.iraq-1.59
+    name:
+      ja: ハラー・サッダーム・フセイン・アル・ティクリーティー
+      en: Hala Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1972-XX-XX
+    place_of_birth: イラク
+    nationality: イラク
+    reason:
+    - ja: サージダ・ハイラッラー・ティルファーフとサッダーム・フセインの娘
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.60
+    name:
+      ja: サミーラ・シャーフバンダル
+      en: Samira Shahbandar
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1946-XX-XX
+    place_of_birth: バグダッド
+    nationality: イラク
+    aliases:
+    - チャディアン
+    - Chadian
+    reason:
+    - ja: サッダーム・フセインの第二夫人であり、サッダーム・フセインの三男の母親である。同人のサッダーム・フセインの妻としての地位は、ウダイ・サッダーム・フセインが、サミーラ・シャーフバンダルにサッダーム・フセインを紹介した男性を公共の場で殺害したあと広く知られるようになった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.61
+    name:
+      ja: アリー・サッダーム・フセイン・アル・ティクリーティー
+      en: Ali Saddam Hussein Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1980-XX-XX
+    place_of_birth: イラク
+    nationality: イラク
+    aliases:
+    - ハッサン
+    - Hassan
+    reason:
+    - ja: サミーラ・シャーフバンダルとサッダーム・フセインの息子
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.62
+    name:
+      ja: ムハンマド・バルザーン・イブラヒーム・ハサン・アル・ティクリーティー
+      en: Mohammad Barzan Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1972-XX-XX
+    nationality: イラク
+    reason:
+    - ja: バルザーン・イブラヒーム・ハサン・アル・ティクリーティーの子。［サッダーム・フセインの異母兄弟であるバルザーン・イブラヒーム・ハサン・アル・ティクリーティーは前大統領顧問であり、イラクの国連大使であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ジュネーブ（スイス）
+  - id: jp.mof.iraq-1.63
+    name:
+      ja: サジャー・バルザーン・イブラヒーム・ハサン・アル・ティクリーティー
+      en: Saja Barzan Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1978-XX-XX
+    nationality: イラク
+    reason:
+    - ja: バルザーン・イブラヒーム・ハサン・アル・ティクリーティーの子。［サッダーム・フセインの異母兄弟であるバルザーン・イブラヒーム・ハサン・アル・ティクリーティは前大統領顧問であり、イラクの国連大使であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ジュネーブ（スイス）
+  - id: jp.mof.iraq-1.64
+    name:
+      ja: アリー・バルザーン・イブラヒーム・ハサン・アル・ティクリーティー
+      en: Ali Barzan Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1981-XX-XX
+    nationality: イラク
+    reason:
+    - ja: バルザーン・イブラヒーム・ハサン・アル・ティクリーティーの子。［サッダーム・フセインの異母兄弟であるバルザーン・イブラヒーム・ハサン・アル・ティクリーティーは前大統領顧問であり、イラクの国連大使であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ジュネーブ（スイス）
+  - id: jp.mof.iraq-1.65
+    name:
+      ja: ヌール・バルザーン・イブラヒーム・ハサン・アル・ティクリーティー
+      en: Noor Barzan Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1983-XX-XX
+    nationality: イラク
+    reason:
+    - ja: バルザーン・イブラヒーム・ハサン・アル・ティクリーティーの子。［サッダーム・フセインの異母兄弟であるバルザーン・イブラヒーム・ハサン・アル・ティクリーティーは前大統領顧問であり、イラクの国連大使であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ジュネーブ（スイス）
+  - id: jp.mof.iraq-1.66
+    name:
+      ja: ハウラ・バルザーン・イブラヒーム・ハサン・アル・ティクリーティー
+      en: Khawla Barzan Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1986-XX-XX
+    nationality: イラク
+    reason:
+    - ja: バルザーン・イブラヒーム・ハサン・アル・ティクリーティーの子。［サッダーム・フセインの異母兄弟であるバルザーン・イブラヒーム・ハサン・アル・ティクリーティーは前大統領顧問であり、イラクの国連大使であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ジュネーブ（スイス）
+  - id: jp.mof.iraq-1.67
+    name:
+      ja: スラヤー・バルザーン・イブラヒーム・ハサン・アル・ティクリーティー
+      en: Thoraya Barzan Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1980-XX-XX
+    nationality: イラク
+    reason:
+    - ja: バルザーン・イブラヒーム・ハサン・アル・ティクリーティーの子。［サッダーム・フセインの異母兄弟であるバルザーン・イブラヒーム・ハサン・アル・ティクリーティーは前大統領顧問であり、イラクの国連大使であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：イラク
+  - id: jp.mof.iraq-1.68
+    name:
+      ja: ジャウハル・マジード・アル・ドゥーリー
+      en: Jawhar Majid Al-Duri
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1942-XX-XX
+    place_of_birth: アル・ドゥール
+    nationality: イラク
+    reason:
+    - ja: イッザト・イブラヒーム・アル・ドゥーリの妻。［サッダーム・フセインの近親の家族の構成員であるイッザト・イブラヒーム・アル・ドゥーリは前政権イラク国軍の副最高司令官、バアス党民族指導書記長兼地域指導部書記長、革命指導評議会副議長であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.69
+    name:
+      ja: サンドゥス・アブド・アル・ガフール
+      en: Sundus Abd Al-Ghafur
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1967-XX-XX
+    place_of_birth: キルクーク
+    nationality: イラク
+    reason:
+    - ja: イッザト・イブラヒーム・アル・ドゥーリの妻。［サッダーム・フセインの近親の家族の構成員であるイッザト・イブラヒーム・アル・ドゥーリは前政権イラク国軍の副最高司令官、バアス党民族指導書記長兼地域指導部書記長、革命指導評議会副議長であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：イラク
+  - id: jp.mof.iraq-1.70
+    name:
+      ja: ニザール・アル・ラビーイー
+      en: Nidal Al-Rabi`i
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1965-XX-XX
+    place_of_birth: アル・ドゥール
+    nationality: イラク
+    reason:
+    - ja: イッザト・イブラヒーム・アル・ドゥーリの妻。［サッダーム・フセインの近親の家族の構成員であるイッザト・イブラヒーム・アル・ドゥーリは前政権イラク国軍の副最高司令官、バアス党民族指導書記長兼地域指導部書記長、革命指導評議会副議長であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：イラク
+  - id: jp.mof.iraq-1.71
+    name:
+      ja: インティッサール・アル・ウバイディー
+      en: Intissar Al-Ubaydi
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1974-XX-XX
+    nationality: イラク
+    reason:
+    - ja: イッザト・イブラヒーム・アル・ドゥーリの妻。［サッダーム・フセインの近親の家族の構成員であるイッザト・イブラヒーム・アル・ドゥーリは前政権イラク国軍の副最高司令官、バアス党民族指導書記長兼地域指導部書記長、革命指導評議会副議長であった。］
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：イラク
+  - id: jp.mof.iraq-1.75
+    name:
+      ja: アドナーン・Ｓ・ハサン・アフマド
+      en: Adnan S. Hasan Ahmed
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    aliases:
+    - ハサン・アフマド・Ｓ・アドナーン
+    - アフマド・スルタン
+    - Hasan Ahmed S. Adnan, Ahmed Sultan
+    reason:
+    - ja: 団体リストの199番を参照
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：アンマン（ヨルダン）
+  - id: jp.mof.iraq-1.78
+    name:
+      ja: アディーブ・シャーバーン・アル・アーニー
+      en: Adib Shaban Al-Ani
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1952-XX-XX
+    nationality: イラク
+    aliases:
+    - アディーブ・シャーバーン博士
+    - アディーブ・シャーバーン Dr. Adib Sha'ban, Adib Shaban
+    reason:
+    - ja: イラクオリンピック委員会で働き、ウダイ・サッダーム・フセインの主席補佐官であった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.81
+    name:
+      ja: ルーディ・スレワ
+      en: Roodi Slewa
+    type: organization
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    nationality: イラク
+    aliases:
+    - ルーディ・スライワ
+    - ルディ・ウンタイワン・スライワ
+    - ルディ・サリワ
+    - Rudi Slaiwah, Rudi Untaywan Slaywah
+    - Rudi Saliwa
+    reason:
+    - ja: イラク消費財会社におけるウダイ・サッダーム・フセインのパートナーとして仕えたことに加え、ルーディ・スレワはウダイ・サッダーム・フセインによる違法なアルコール及びタバコ配給の独占において主たる役割を果たした。前政権の下で、イラクのタバコとアルコール販売者は、仕事を行うために、スレワに対する不当な支払いの強要を受けた。スレワは、この不正な金儲けの計画による収益から毎月約1．5百万米ドルをウダイ・サッダーム・フセインに対して支払った。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.83
+    name:
+      ja: ムハンマド・ユーニース・アフマド
+      en: Muhammad Yunis Ahmad
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1949-XX-XX
+    place_of_birth: モースル、アル・モワール（イラク）
+    nationality: イラク
+    aliases:
+    - ムハンマド・ユーニース・アル・アフマド
+    - ムハンマド・ユーニース・アフメド
+    - ムハンマド・ユーニース・アフマド・アル・バドラーニー
+    - ムハンマド・ユーニース・アフメド・アル・モアリー Muhammad Yunis Al-Ahmed, Muhammad Yunis Ahmed, Muhammad Yunis Ahmad Al-Badrani, Muhammad Yunis Ahmed Al-Moali
+    reason:
+    - ja: イラク政府及び米国政府の入手可能な情報によれば、ムハンマド・ユーニース・アフマドは、1990年の湾岸戦争以前、アル・ムサンナー県知事であった。湾岸戦争後、イラク北部においてバアス党幹部に昇進した。同人は、バアス党の地方司令部の一員であり、また、サラーハッ・ディーン県、タミーム県及びスライマーニーヤ県における同党活動に責任を負っていた。同人は、2003年のフセイン政権崩壊まで同地位にあった。また、アフマド氏は、米国大統領令（US Executive Order）13315の附属書に掲載され本表の6番目に記されており、司令部で同人に次ぐ職を務めていたとされるイッザト・イブラーヒーミ・アッ・ドゥーリーと近い職務上の関係にあると報告されている。イラクの自由作戦後、連合暫定施政当局によるバアス党の廃止の後に、同党は、新しい指導部の下で再編成を行った。イラク政府及び米国政府の入手可能な情報によれば、再編成されたイラク・バアス党は、アッ・ドゥーリー氏を党首とし、またアフマド氏を副党首として再編成されていると伝えられている。最近、同人は、バアス党の事務局長に選出された。イラク政府及び米国政府の情報によれば、アッ・ドゥーリー氏は、サッダーム政権崩壊後に形成された反連合軍グループの軍事部門を率い、アフマド氏が同グループの政治部門を率いている。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ブルダーン、アル・ダワール・ストリート（シリア）、ダマスカス（シリア）、モースル（イラク）、ワーディー・アル・ハーウィー（イラク）、ドバイ（アラブ首長国連邦）、アル・ハッサケ（シリア）
+  - id: jp.mof.iraq-1.84
+    name:
+      ja: ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+      en: Yasir Sabawi Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1968-XX-XX
+    place_of_birth: アル・アウィージャ（イラク） イラク、バグダッド
+    nationality: イラク
+    aliases:
+    - "（別名1）ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー"
+    - ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+    - ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー Yassir Sabawi Ibrahim Hasan Al-Tikriti
+    - Yasser Sabawi Ibrahim Hasan Al-Tikriti
+    - Yasir Sab'awi Ibrahim Hasan Al-Tikriti
+    - Yasir Sabawi Ibrahim Hassan Al-Tikriti （別名2）アリ・タフィール・アブドラ Ali Thafir Abdallah
+    reason:
+    - ja: A：前イラク政権幹部との関係 入手可能な情報によれば「『イラクの自由』作戦」以後、ヤーセル・サバーウィー・イブラーヒーム・アル・ティクリーティーは、前政権の諸部隊並びにイラク軍及び連合軍並びにイラク国民に対して攻撃を遂行しているグループを支援した。 B：前イラク政権メンバーに対する支援 情報によれば、ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、米軍によるサッダーム・フセインの拘束以前、同人に資金を提供し、ボディーガードも務めた。さらに、「『イラクの自由』作戦」以後、サッダーム・フセインのために政権党員に対し資金を移転するとともに、サッダーム・フセインの妻（サージダ・ハイラーラ・ティルファーフ）に送金した旨申し立てられている。サージダ・ハイラーラ・ティルファーフは、国連安保理決議1518に基づき設立された委員会に指名され、また、米国政府による大統領令（US Executive Order）13315の附属書に掲載された。 C：新イラク政府・連合軍・イラク国民に対する活動 入手可能な情報によれば、ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、イラクにおいて多くの反連合軍活動を指揮し、イラクの北部及び中部にかけて反対勢力と連絡を保っていた。また、ヤーセル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、財政支援、武器及び爆薬を反連合軍部隊に対して提供した。 D：前イラク政権幹部との近い親類関係 ヤーセル・サバーウィー・イブラーヒーム・アル・ティクリーティーは、前イラク政権幹部と近い親類関係にあることから安保理決議1483の条件に該当する。同人の父、サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、サッダーム・フセインの元大統領顧問であった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：モースル（イラク）、アッザバーダーニー（シリア） 旅券：No.284158（イラク）、2005年8月21日まで有効
+  - id: jp.mof.iraq-1.85
+    name:
+      ja: オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+      en: Omar Sabawi Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: およそ1970年 1970年
+    place_of_birth: バグダッド（イラク）
+    nationality: イラク
+    aliases:
+    - "（別名1）ウマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー"
+    - オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+    - オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー Umar Sabawi Ibrahim Hasan Al-Tikriti
+    - Omar Sab'awi Ibrahim Hasan Al-Tikriti
+    - Omar Sabawi Ibrahim Hassan Al-Tikriti （別名2）ウマル・アフマド・アリー・アル・アルーシー Umar Ahmad Ali Al-Alusi
+    reason:
+    - ja: A：前イラク政権幹部との関係 入手可能な情報によれば、「『イラクの自由』作戦」以後、オマル・サバーウィー・イブラヒム・ハサン・アル・ティクリーティーは、前政権の諸部隊並びにイラク軍及び連合軍並びにイラク国民に対して攻撃を遂行しているグループを支援した。 B：前イラク政権メンバーに対する支援 入手可能な情報によれば、オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、「『イラクの自由』作戦」以後、前イラク・バース党員を支援していた。 C：新イラク政府、連合軍及びイラク国民に対する活動 入手可能な情報によれば、オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、反連合軍活動を指揮し、イラクの北部及び中部にかけて反対勢力と連絡を保っていた。情報によれば、オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、イラクのモースルにおける攻撃を含む反イラク政府活動に対し財政支援及び作戦指示を与えていた。 D：前イラク政権幹部との近い親類関係 オマル・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、前政権幹部と近い親類関係にあることから安保理決議1483の条件に該当する。同人の父、サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、サッダーム・フセインの元大統領顧問であった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ダマスカス（シリア） アッザバーダーニー、アルマハッタ近郊、アル・シャヒード・ストリート（シリア） イエメン 旅券：No.2863795S、2005年8月23日まで有効（イラク）
+  - id: jp.mof.iraq-1.86
+    name:
+      ja: アイマン・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+      en: Ayman Sabawi Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: '1971-10-21'
+    place_of_birth: バグダッド、アル・アウィージャ（イラク）
+    nationality: イラク
+    aliases:
+    - アイマン・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+    - カイス・ムハンマド・サルマン
+    - Aiman Sabawi Ibrahim Hasan Al-Tikriti
+    - Ayman Sab'awi Ibrahim Hasan Al-Tikriti
+    - Ayman Sabawi Ibrahim Hassan Al-Tikriti
+    - Qais Muhammad Salman
+    reason:
+    - ja: A：前イラク政権幹部との関係 入手可能な情報によれば、「『イラクの自由』作戦」以後、アイマン・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは前政権の諸部隊並びにイラク軍及び連合軍並びにイラク国民に対して攻撃を遂行しているグループを支援した。 B：新イラク政府、連合軍及びイラク国民に対する活動 アイマン・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、フェダイーン・サッダーム（サッダーム・フセインの息子ウダイが率いるイラクの準軍事組織）によるイラク中部で起きた連合軍に対する攻撃へ資金提供した疑いがあった。また、アイマン・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、イラクのインフラ、特に石油パイプライン及び給水・電力施設を攻撃するようバース党員に求めたと報告されている。 C：前イラク政権幹部との近い親類関係 アイマン・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、前政権幹部と近い親類関係にあることから、安保理決議1483の条件に該当する。同人の父、サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、サッダーム・フセインの元大統領顧問であった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：ブルダーン（シリア） バグダッド、アルマンスール、ムタナービー・エリア（イラク）
+  - id: jp.mof.iraq-1.87
+    name:
+      ja: イブラーヒーム・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+      en: Ibrahim Sabawi Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1983-XX-XX
+    place_of_birth: バグダッド（イラク） 、バグダッド（イラ）
+    nationality: イラク
+    aliases:
+    - "（別名1）イブラーヒーム・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー"
+    - イブラーヒーム・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+    - イブラーヒーム・サバーウィー・イブラーヒーム・アル・ハサン・アル・ティクリーティー Ibrahim Sab'awi Ibrahim Hasan Al-Tikriti
+    - Ibrahim Sabawi Ibrahim Hassan Al-Tikriti
+    - Ibrahim Sabawi Ibrahim Al-Hassan Al-Tikriti （別名2）ムハンマド・ダーウード・サルマン Muhammad Da'ud Salman
+    reason:
+    - ja: 前イラク政権幹部との近い親類関係：イブラーヒーム・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、前政権幹部と近い親類関係にあることから安保理決議1483の条件に該当する。同人の父、サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、サッダーム・フセイン大統領の顧問であった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：アッザバーダーニー、アルマハッタ近郊、アル・シャヒード・ストリート（シリア） ダマスカス、アッザバーダーニー、フアード・ダウォッド（シリア） イラクん 旅券：No.284173、2005年8月21日まで有効（イラク）
+  - id: jp.mof.iraq-1.88
+    name:
+      ja: バッシャール・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+      en: 'Bashar Sabawi Ibrahim Hasan Al-Tikriti （original script: بشار سبعاوي إبراهيم حسن التكريتي）'
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    address: ダマスカス、アッザバーダーニー、フアード・ダーウード農場、シリア; ベイルート、レバノン Fuad Dawod Farm, Az Zabadani, Damascus, Syrian Arab Republic; Beirut, Lebanon
+    date_of_birth: '1970-07-17'
+    place_of_birth: バグダッド、イラク Baghdad, Iraq
+    nationality: イラク Iraq
+    list_date: 2005年7月27日（2025年8月5日改訂）
+    aliases:
+    - バッシャール・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+    - バッシャール・サバーウィー・イブラーヒーム・アル・ハサン・アル・ティクリーティー
+    - バッシャール・サバーウィー・イブラーヒーム・ハサン・アル・バイヤート
+    - アリ・ザフィール・アブドッラー
+    - バッシャール・アル・ナースィリー Bashar Sab’awi Ibrahim Hasan Al-Tikriti
+    - Bashir Sab’awi Ibrahim Al-Hasan Al-Tikriti
+    - Bashir Sabawi Ibrahim Al-Hassan Al-Tikriti
+    - Bashar Sabawi Ibrahim Hasan Al-Bayjat
+    - Ali Zafir ‘Abdullah’
+    - BASHAR AL-NASIRI
+    reason:
+    - ja: '国連参照番号: IQi.085'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.iraq-1.89
+    name:
+      ja: サアド・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+      en: Sa'd Sabawi Ibrahim Hasan Al-Tikriti
+    type: individual
+    effective_date: '2010-07-16'
+    sanction_list: jp/mof-asset-freeze-iraq-1
+    sanction_list_en: Former Iraqi Regime Officials (I)
+    date_of_birth: 1988-XX-XX
+    nationality: イラク
+    aliases:
+    - サアド・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティー
+    - サアド・サバーウィー・ハサン・アル・ティクリーティー Sa'ad Sabawi Ibrahim Hasan Al-Tikriti
+    - Sa'd Sab'awi Hasan Al-Tikriti
+    reason:
+    - ja: 前イラク政権幹部との近い親類関係 サアド・サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、前政権幹部と近い親類関係にあることから安保理決議1483の条件に該当する。同人の父、サバーウィー・イブラーヒーム・ハサン・アル・ティクリーティーは、サッダーム・フセインの元大統領顧問であった。
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 住所：アッザバダーニー、アル・マハッタ近郊、アル・シャヒード・ストリート（シリア） イエメン

@@ -1,0 +1,514 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: シリア（団体）
+  - en: Syria (Entities)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.syria-organizations.1
+    name:
+      ja: シリア総合情報局
+      en: Syrian General Intelligence Directorate
+    type: organization
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.2
+    name:
+      ja: シリア軍事情報部
+      en: Syrian Military Intelligence
+    type: organization
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.3
+    name:
+      ja: シリア空軍情報部
+      en: Syrian Air Force Intelligence
+    type: organization
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.4
+    name:
+      ja: ベナ・プロパティーズ
+      en: Bena Properties
+    type: organization
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.5
+    name:
+      ja: アル・マシュレク投資ファンド
+      en: Al Mashreq Investment Fund
+    type: organization
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: P.O. Box 108, Damascus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - 963-112110059/963-112110043
+    fax:
+    - 963-933333149
+  - id: jp.mof.syria-organizations.6
+    name:
+      ja: ハムショー・インターナショナル・グループ
+      en: Hamcho International Group
+    type: organization
+    effective_date: '2011-09-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Baghdad Street, P.O. Box 8254, Damascus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - 963-112316675
+    fax:
+    - 963-112318875
+  - id: jp.mof.syria-organizations.7
+    name:
+      ja: シリアテル
+      en: Syriatel
+    type: organization
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Sahnaya，Daraa Highway，Damascus，P.O. Box　2900
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－61－26－270"
+    fax:
+    - "＋963－11－23－73－97－19"
+  - id: jp.mof.syria-organizations.8
+    name:
+      ja: シャーム・ホールディング
+      en: Cham Holding
+    type: organization
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Cham Holding Building Daraa Highway， Ashrafiyat Sahnaya Rif Dimasq
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－9962、 ＋963－11－1400、 ＋963－11－673－1044"
+    fax:
+    - "＋963－11－673－1274"
+  - id: jp.mof.syria-organizations.9
+    name:
+      ja: ミリタリー・ハウジング・エスタブリッシュメント
+      en: Military Housing Establishment
+    type: organization
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Adra, Damascus, P.O. Box 4582
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－581、 ＋963－11－223－2600/1/2"
+    fax:
+    - "＋963－11－222－6571、 ＋963－11－581－1248"
+  - id: jp.mof.syria-organizations.10
+    name:
+      ja: リアル・エステート銀行
+      en: Real Estate Bank
+    type: organization
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Insurance Bldg, Yousef Al-Azmeh Square, Dar Al-Mohandiseen, Damascus P.O. Box 2337
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－245－6777、 221－8602/3"
+    fax:
+    - "＋963－11－223－7938、 ＋963－11－221－1186"
+  - id: jp.mof.syria-organizations.11
+    name:
+      ja: 科学研究調査センター
+      en: Scientific Studies and Research Center
+    type: organization
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Barzeh Street, Damascus, P.O. Box 4470
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－772－603"
+    fax:
+    - "＋963－11－222－3771"
+  - id: jp.mof.syria-organizations.12
+    name:
+      ja: 政治治安局
+      en: Political Security Directorate
+    type: organization
+    effective_date: '2011-12-22'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Damascus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.13
+    name:
+      ja: シリア商業銀行
+      en: Commercial Bank of Syria
+    type: organization
+    effective_date: '2012-03-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Yousef Azmeh Square，P.O. Box 933，Damascus，Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－2218890"
+    fax:
+    - "＋963－11－2216975"
+  - id: jp.mof.syria-organizations.14
+    name:
+      ja: シリア・レバノン商業銀行
+      en: Syrian Lebanese Commercial Bank
+    type: organization
+    effective_date: '2012-03-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Syrian Lebanese Commercial Bank Building，6th Floor，Makdessi Street，Hamra，P.O. Box 11－8701，Beirut，Lebanon
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋961－1－741666"
+    fax:
+    - "＋961－1－738228、 ＋961－1－753215、 ＋961－1－736629"
+  - id: jp.mof.syria-organizations.15
+    name:
+      ja: シリア石油通商機構（Sytrol）
+      en: Syria Trading Oil Company (Sytrol)
+    type: organization
+    effective_date: '2012-03-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Prime Minister Building，17 Nissan Street，Damascus，Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－3340640"
+    fax:
+    - "＋963－11－3324376"
+  - id: jp.mof.syria-organizations.16
+    name:
+      ja: 石油公社（GPC）
+      en: General Petroleum Corporation (GPC)
+    type: organization
+    effective_date: '2012-03-09'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: New Sham-Building of Syrian Oil Company，P.O. Box 60694，Damascus，Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963－11－3141635"
+    fax:
+    - "＋963－11－3141634"
+  - id: jp.mof.syria-organizations.17
+    name:
+      ja: シリア石油会社
+      en: Syrian Petroleum Company (SPC)
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Dummar Province Expansion Square , Island 19, Building 32, PO Box 3378 or 2849
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-3137935、 ＋963-11-3137913"
+    fax:
+    - "＋963-11-3137979、 ＋963-11-3137977"
+  - id: jp.mof.syria-organizations.18
+    name:
+      ja: シリア石油輸送会社
+      en: Syrian Company for Oil Transport (SCOT)
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Banias Industrial Area, Latakia Entrance Way, P.O. Box 13, Banias, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.19
+    name:
+      ja: 公共放送機構
+      en: General Organization of Radio and TV
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Umayyad Square, P.O. Box 250, Damascus, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-2234930"
+  - id: jp.mof.syria-organizations.20
+    name:
+      ja: 民族治安局
+      en: Syrian National Security Bureau
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.21
+    name:
+      ja: シリア国際イスラム銀行
+      en: Syria International Islamic Bank (SIIB)
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Syria International Islamic Building, Main Highway Road, Al Mazzeh Area, P.O. Box 35494, Damascus, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.22
+    name:
+      ja: ドレックス・テクノロジーズ・ホールディング
+      en: Drex Technologies. Holding S.A.
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.23
+    name:
+      ja: ビジネス研究所
+      en: Business Lab
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Maysat Square Al Rasafi Street Bldg. 9, PO Box 7155, Damascus, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.24
+    name:
+      ja: インダストリアル・ソリューションズ
+      en: Industrial Solutions
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Baghdad Street 5, PO Box 6394, Damascus, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-4471080"
+  - id: jp.mof.syria-organizations.25
+    name:
+      ja: メカニカル・コンストラクション・ファクトリー
+      en: Mechanical Construction Factory
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: PO Box 35202, Industrial Zone, Al-Qadam Road, Damascus, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.syria-organizations.26
+    name:
+      ja: シロニクス
+      en: SYRONICS (Syrian Arab Co. For Electronic Industries)
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Kaboon Street，PO Box 5966，Damascus，Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-5111352"
+    fax:
+    - "＋963-11-5110117"
+  - id: jp.mof.syria-organizations.27
+    name:
+      ja: ハンダスィーイェ
+      en: HANDASIEH (Organization for Engineering Industries)
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: PO Box 21120 Baramkeh, PO Box 2849, Al Moutanabi Street, or PO Box 5966, Abou Bakr Al Seddeq St., Damascus, Syria
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-2121816、 ＋963-11-2121834、 ＋963-11-2214650、 ＋963-11-2212743、 ＋963-11-5110117"
+  - id: jp.mof.syria-organizations.28
+    name:
+      ja: シリア国防省
+      en: Ministry of Defence
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Umayyad Square, Damascus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-7770700"
+  - id: jp.mof.syria-organizations.29
+    name:
+      ja: シリア内務省
+      en: Ministry of Interior
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Merjeh Square, Damascus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-2219400、 ＋963-11-2219401、 ＋963-11-2220220、 ＋963-11-2210404"
+  - id: jp.mof.syria-organizations.34
+    name:
+      ja: 綿花取引組織　
+      en: Cotton Marketing Organization
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Bab Al Faraj P.O. Box 729, Aleppo
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-21-2239495、 ＋963-21-2239496、 ＋963-21-2239497、 ＋963-21-2239498"
+  - id: jp.mof.syria-organizations.35
+    name:
+      ja: マハルーカート・カンパニー
+      en: Mahrukat Company (The Syrian Company for the Storage and Distribution of Petroleum Products)
+    type: organization
+    effective_date: '2012-11-27'
+    sanction_list: jp/mof-asset-freeze-syria-organizations
+    sanction_list_en: Syria (Entities)
+    address: Al Adawi st., Petroleum building, Damascus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "＋963-11-44451348、 ＋963-11-4451349"
+    fax:
+    - "＋963-11-4445796"

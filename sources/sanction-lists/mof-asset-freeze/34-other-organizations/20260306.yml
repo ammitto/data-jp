@@ -1,0 +1,119 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ロシア及びベラルーシ以外（団体(特定銀行を除く)）
+  - en: Other Countries (Entities excl. Banks)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.other-organizations.1
+    name:
+      ja: ランバー・マリンSA
+      en: LUMBER MARINE SA
+    type: organization
+    effective_date: '2023-12-15'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: Office OT 17-32, 17th Floor, Office Tower, Central Park Towers, Dubai, United Arab Emirates
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.other-organizations.2
+    name:
+      ja: 株式会社IBEX 海運社
+      en: IBEX Shipping INC
+    type: organization
+    effective_date: '2024-05-24'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: Office 4, 1st Floor, Mitsi Building, 1, Stasinou Avenue, Nicosia, 1060, Cyprus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.other-organizations.3
+    name:
+      ja: 有限会社アジア海運ホールディングス
+      en: Azia Shipping Holdings Limited
+    type: organization
+    effective_date: '2024-05-24'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: Office 4, 1st Floor, Mitsi Building, 1, Stasinou Avenue, Nicosia, 1060, Cyprus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.other-organizations.4
+    name:
+      ja: サン・シップ・マネジメントD有限会社
+      en: Sun Ship Management D Ltd
+    type: organization
+    effective_date: '2024-06-21'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: PO Box 507065, Unit OT 17-32, Central Park Towers, Office Tower, Dubai, United Arab Emirates
+    aliases:
+    - "（別称"
+    - 株式会社SCFマネジメント・サービス・ドバイ） （a.k.a. SCF Management Services Dubai Ltd）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.other-organizations.5
+    name:
+      ja: キューブ・ベンチャーズ・シッピング・エスエー
+      en: Cube Ventures Shipping SA
+    type: organization
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: Trust Company Complex, Ajeltake Road, Majuro, Ajeltake Island, MH96960, Marshall Islands
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.other-organizations.6
+    name:
+      ja: セレスティアル・スター・コーポレーション
+      en: Celestial Star Corporation
+    type: organization
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: Suite 10, 3rd Floor, La Ciotat, Mont Fleuri, Mahe, Seychelles
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.other-organizations.7
+    name:
+      ja: ゲッシ・マリタイム・コーポレーション
+      en: Gessi Maritime Corporation
+    type: organization
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-other-organizations
+    sanction_list_en: Other Countries (Entities excl. Banks)
+    address: 1st Floor, Dekk House, Zippora Street, Providence Industrial Estate, Victoria, Mahe, Seychelles
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

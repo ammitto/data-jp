@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: ベラルーシ(特定銀行)
+  - en: Belarus (Designated Banks)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.belarus-banks.1
+    name:
+      ja: ベルアグロプロムバンク
+      en: Belagroprombank
+    type: organization
+    effective_date: '2022-03-11'
+    sanction_list: jp/mof-asset-freeze-belarus-banks
+    sanction_list_en: Belarus (Designated Banks)
+    address: Zhukova ave. 3, Minsk, 220036, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-banks.2
+    name:
+      ja: バンク・ダブラブィト
+      en: Bank Dabrabyt
+    type: organization
+    effective_date: '2022-03-11'
+    sanction_list: jp/mof-asset-freeze-belarus-banks
+    sanction_list_en: Belarus (Designated Banks)
+    address: Kommunisticheskaya str. 49, Minsk, 220002, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-banks.3
+    name:
+      ja: ベラルーシ共和国開発銀行
+      en: Development Bank of the Republic of Belarus
+    type: organization
+    effective_date: '2022-03-11'
+    sanction_list: jp/mof-asset-freeze-belarus-banks
+    sanction_list_en: Belarus (Designated Banks)
+    address: Masherova ave. 35, Minsk, 220002, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.belarus-banks.4
+    name:
+      ja: ベルインヴェストバンク（ベラルーシ開発復興銀行）
+      en: Belinvestbank (Belarusian Bank for Development and Reconstruction)
+    type: organization
+    effective_date: '2022-06-07'
+    sanction_list: jp/mof-asset-freeze-belarus-banks
+    sanction_list_en: Belarus (Designated Banks)
+    address: Masherova ave. 29, Minsk, 220002, Belarus
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

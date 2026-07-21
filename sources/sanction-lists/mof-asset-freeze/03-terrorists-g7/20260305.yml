@@ -1,0 +1,309 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: テロリスト等 (1)
+  - en: Terrorists (G7 Coordinated)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-05'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.terrorists-g7.1186
+    name:
+      ja: アル・ラシード信託
+      en: AL RASHID TRUST
+    type: organization
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: "(a)Kitas Ghar, Nazimabad 4, Dahgel-Iftah, Karachi, Pakistan (b)Jamia Maajid, Sulalman Park, Melgium Pura, Lahore, Pakistan (c)Office Dha’rbi-M’unin, Opposite Khyber Bank, Abbottabad Road, Mansehra, Pakistan (d)Office Dha’rbi-M’unin ZR Brothers, Katcherry Road, Chowk Yadgaar, Peshawar, Pakistan (e)Office Dha’rbi-M’unin, Rm No. 3, Moti Plaza, Near Liaquat Bagh, Muree Road, Rawalpindi, Pakistan (f)Office Dha’rbi-M’unin, Top Floor, Dr. Dawa Khan Dental Clinic Surgeon, Main Baxae, Mingora, Swat, Pakistan (g)Kitab Ghar, Darul Ifta Wal Irshad, Nazimabad No. 4, Karachi, Pakistan, Phone 6683301; Phone 0300-8209199; Fax 6623814 (h)302b-40, Good Earth Court, Opposite Pia Planitarium, Block 13a, Gulshan -I Igbal, Karachi, Pakistan; Phone 4979263 (i)617 Clifton Center, Block 5, 6th Floor, Clifton, Karachi, Pakistan; Phone 587-2545 (j)605 Landmark Plaza, 11 Chundrigar Road, Opposite Jang Building, Karachi, Pakistan; Phone 2623818-19 (k)Jamia Masjid, Sulaiman Park, Begum Pura, Lahore, Pakistan; Phone 042-6812081"
+    aliases:
+    - "(a)アル・ラシード信託(b)アル・ラシード信託(c)アル・ラシード信託（d）ウレマ援助組織（パキスタン）(e)アル・アミン福祉信託(f)アル・アミン信託(g)アル・アミーン信託(h)アル・アミーン信託(i)アル・マディナ信託(j)アル・マディナ信託 (a)Al-Rasheed Trust (b) Al　Rasheed Trust (c)Al-Rashid Trust (d)Aid Organization of the Ulema, Pakistan (e)Al Amin Welfare Trust (f)Al Amin Trust (g)Al Ameen Trust (h)Al-Ameen Trust (i)Al Madina Trust (j)Al-Madina Trust)"
+    reason:
+    - ja: '国連制裁員会による指定日: 2001年10月6日（2008年10月21日、12月10日、2011年12月13日、2019年12月6日及び2023年12月19日、2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 現存しないと報告されている。本部はパキスタンにあった。アフガニスタン（Herat Jalalabad、Kabul、Kandahar 及びMazar Sherif）において活動。コソヴォ及びチェチェンにおいても活動。アル・カーイダ及びタリバーンの資金調達に関与している。この団体は、２００８年１０月２１日まで、国連の資産凍結措置対象者リストに掲載されていたウレマ援助組織（２００２年４月２４日に制裁対象リストに掲載され２００６年７月２５日に改訂された。）の名称の下でも掲載されていた。２００８年１０月２１日、アル・ラシード信託及びウレマ援助組織をこの団体に統合した。国連の資産凍結措置対象者リストに掲載されていたムフティ・ラシド・アフマド・ラディヤノイによって設立された。国連の資産凍結措置対象者リストに掲載されているジャイシ・モハンメドと関係がある。２００１年１０月からパキスタンにおいて活動が禁止された。２０２３年１１月時点で、アル・ラシード信託名義での活動は確認されていない。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年５月６日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同団体に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+  - id: jp.mof.terrorists-g7.3290
+    name:
+      ja: アブド・エル・カーデル・マフムード・モハメド・エッサイード
+      en: 'ABD EL KADER MAHMOUD MOHAMED EL SAYED (original script: عبد القادر محمود محمد السيد)'
+    type: individual
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    date_of_birth: 1962-XX-XX
+    place_of_birth: エジプトEgypt
+    nationality: エジプトEgypt
+    aliases:
+    - エッサイード
+    - カーデル
+    - アブデル・カーデル・マフムード・モハメド・エッサイード Es Sayed, Kader
+    - Abdel Khader Mahmoud Mohamed el Sayed
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年4月24日（2004年11月26日、2007年6月7日、2011年5月16日、2019年5月1日、2021年11月15日、2025年10月6日、2025年10月21日改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: Italian Fiscal Code（イタリア納税者番号）：ＳＳＹＢＬＫ６２Ｔ２６Ｚ３３６Ｌ。２００４年２月２日にイタリアで懲役８年の判決を受けた。イタリア当局による裁判から逃亡中と考えられている。２０１２年に殺害されたと報告されている。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年４月２２日に終了した。国連安全保障理事会決議第２２５３号（２０１５年）に基づく見直しは２０１９年２月２１日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０２１年１１月１５日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.4291
+    name:
+      ja: ハーリド・アブド・アル・ラフマン・ハムド・アル・ファワズ
+      en: 'KHALID ABD AL-RAHMAN HAMD AL-FAWAZ (original script: خالد عبد الرحمن حمد الفواز)'
+    type: individual
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: 米国
+    date_of_birth: '1962-08-24'
+    place_of_birth: クウェート
+    nationality: サウジアラビア
+    aliases:
+    - "(a)ハーレド・アル・フォワズ　(b)ハーレド・Ａ・アル・フォワズ　(c)ハーリド・アル・ファッワーズ　(d)ハーリク・アル・ファッワーズ　(e)ハーレド・アル・ファッワーズ　(f)ハーレド・アル・ファッワーズ　(g)ハーリド・アブドゥルラフマン・Ｈ・アル・ファワズ(h)アブ・ハーリル (a.k.a.: (a)Khaled Al-Fauwaz (b)Khaled A. Al-Fauwaz (c)Khalid Al-Fawwaz (d)Khalik Al Fawwaz (e)Khaled Al-Fawwaz (f)Khaled Al Fawwaz (g)Khalid Abdulrahman H. Al Fawaz(h)Abu-Khalil)"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年4月24日（2004年11月26日、2007年4月23日，2010年10月21日、2014年8月4日、2019年12月6日、2023年12月14日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: ４５６６８２ （１９９０年１１月６日発行，１９９５年９月１３日失効）
+    remarks:
+    - ja: ２０１２年１０月５日に英国から米国に引き渡された。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年４月２２日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.5292
+    name:
+      ja: モスタファ・カーメル・モスタファ・イブラヒム
+      en: 'MOSTAFA KAMEL MOSTAFA IBRAHIM (original script: مصطفى كمال مصطفى ابراهيم)'
+    type: individual
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: 米国
+    date_of_birth: '1958-04-15'
+    place_of_birth: Alexandria, Egypt
+    nationality: 英国
+    aliases:
+    - "(a)ムスタファ・カーメル・ムスタファ (b)アダム・ラムジ・イアマン (c)カーメル・ムスタファ・ムスタファ (d)ムスタファ・カーメル・ムスタファ (e)アブー・ハムザ (f)モスタファ・カーメル・モスタファ (g)アブー・ハムザ・アル・マスリー (h)アブー・ハムザ(i) アブー・ハムザ・アル・ミスリー (a.k.a.:(a)Mustafa Kamel Mustafa (b)Adam Ramsey Eaman (c)Kamel Mustapha Mustapha (d)Mustapha Kamel Mustapha (e) Abu Hamza (f)Mostafa Kamel Mostafa (g) Abu Hamza Al-Masri (h)Abu Hamza (i) Abu Hamza Al-Misri)"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年4月24日（2004年11月26日、2006年7月25日、2008年3月14日、2010年10月21日、2014年8月4日、2019年12月6日及び2024年２月７日に改訂訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ２０１２年１０月５日に英国から米国に引き渡された。２０１４年５月に米国裁判所において、テロの罪で有罪判決を受けた。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年４月２２日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.6293
+    name:
+      ja: モハメド・ラクハル
+      en: 'MOHAMED LAKHAL (original script: محمد لكحل)'
+    type: individual
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    date_of_birth: '1970-02-05'
+    place_of_birth: Tunis, Tunisia
+    nationality: チュニジア
+    aliases:
+    - "(a)ラセド・ベン・ヘニ（1969年2月5日リビア国トリポリにて出生）(b)アル・アサド・ベン・ハニ（1969年2月5日リビア国トリポリにて出生）(c)モハメド・ベン・ベルガーシム・アワーニー(d)モハメド・アワーニー（1970年2月5日チュニジア国チュニスにて出生）(以前掲載の氏名)(e)モハメド・アブ・アブダ(f)アブ・オベイダ） (a.k.a.: (a)Lased Ben Heni, born 5 Feb. 1969 in Tripoli, Libyan Arab Jamahiriya (b)Al-As’ad Ben Hani, born 5 Feb. 1969 in Tripoli, Libyan Arab Jamahiriya (c)Mohamed Ben Belgacem Awani (d)Mohamed Aouani, born 5 Feb. 1970 in Tunis, Tunisia(formerly listed as) (e)Mohamed Abu Abda (f)Abu Obeida)"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年4月24日（2004年11月26日、2005年9月9日、2006年7月31日、2010年12月23日、2014年11月24日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      national_id: チュニジア国民ID番号　W374031（2011年4月11日発行）
+    remarks:
+    - ja: 化学教授。２００６年８月２７日にイタリアからチュニジアに追放された。２０１４年に名字をAouaniからLakhalに法的に変更した。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年４月２２日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.7294
+    name:
+      ja: モハメド・ベン・ベルガーシム・ベン・アブダッラー・アル・アワーディー
+      en: 'MOHAMED BEN BELGACEM BEN ABDALLAH AL-AOUADI (original script: محمد بن بلقاسم بن عبد الله العوادي)'
+    type: individual
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: 50th Street, Number 23, Zehrouni, Tunis, Tunisia
+    date_of_birth: '1974-12-11'
+    place_of_birth: Tunis, Tunisia
+    nationality: チュニジア
+    aliases:
+    - "(a)モハメド・ベン・ベルカーシム・アワーディー(b)ファタヒ・ハンナチ） （a.k.a.: (a)Mohamed Ben Belkacem Aouadi (b)Fathi Hannachi）"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年4月24日（2003年4月10日、2004年11月26日、2005年9月9日、12月20日、2006年7月31日、2007年6月7日、2010年12月23日、2014年11月24日、2016年2月23日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: チュニジア旅券 L 191609（1996年2月28日発行、2001年2月27日失効）
+      national_id: "(a)04643632（1999年6月18日発行） (b)Italian Fiscal Code（イタリア納税者番号）: DAOMMD74T11Z352Z"
+    remarks:
+    - ja: チュニジアのアンサール・アル・シャリア（AAS-T）のセキュリティ部門長。母の名前はウリダ・ビント・モハメド（Ourida Bint Mohamed）。２００４年１２月１日にイタリアからチュニジアに追放された。２０１３年８月にチュニジアで逮捕された。２０１３年９月１３日にBurj al-‘Amiriの民間刑務所に投獄された。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年４月２２日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.10297
+    name:
+      ja: サーミー・ベン・ハミース・ベン・サーレフ・エッセイド
+      en: 'SAMI BEN KHAMIS BEN SALEH ELSSEID (original script: سامي بن خميس بن صالح الصيد)'
+    type: individual
+    effective_date: '2002-04-20'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: Ibn Al-Haythman Street, Number 6, Manubah, Tunis, Tunisia
+    date_of_birth: '1968-02-10'
+    place_of_birth: Menzel Jemil, Bizerte, Tunisia
+    nationality: チュニジア
+    aliases:
+    - "(a)オマル・エル・ムハージル(b)サベール （a.k.a.: (a)Omar El Mouhajer (b)Saber）"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年4月24日（2003年4月10日、2004年11月26日、2005年9月9日、12月20日、2007年6月7日、12月21日、2009年8月10日、2010年12月23日、2014年11月24日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: チュニジア旅券 K929139 （1995年2月14日発行、2000年2月13日失効）
+      national_id: "(a)00319547（1994年12月８日発行） (b)Italian Fiscal Code（イタリア納税者番号）: SSDSBN68B10Z352F"
+    remarks:
+    - ja: 母の名前はベヤ・アル・サイダニ（Beya Al-Saidani）。２００８年６月２日にイタリアからチュニジアに追放された。２０１４年８月にチュニジアで投獄された。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年４月２２日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.11298
+    name:
+      ja: アーディル・ベン・アル・アズハル・ベン・ユーセフ・ハムディ
+      en: 'ADEL BEN AL-AZHAR BEN YOUSSEF HAMDI (original script: عادل بن الأزهر بن يوسف حمدي)'
+    type: individual
+    effective_date: '2002-08-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: チュニジア
+    date_of_birth: '1970-07-14'
+    place_of_birth: Tunis, Tunisia
+    nationality: チュニジア
+    aliases:
+    - 'アーディル・ベン・アル・アズハル・ベン・ユーセフ・ベン・ソルタン（1970年7月14日チュニジア国チュニスにて出生）(以前掲載の氏名) (b)ザカリーヤ） (a.k.a.: (a)Adel ben al-Azhar ben Youssef ben Soltane, born 14 Jul. 1970 in Tunis, Tunisia(formerly listed as) (b)Zakariya)'
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年9月3日（2005年12月20日、2007年6月7日、2010年12月23日、2014年11月24日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: チュニジア旅券 M408665 （2000年10月4日発行、2005年10月3日失効）
+      national_id: "(a)チュニジア国民ID番号　W334061（2011年3月9日発行） (b)Italian Fiscal Code（イタリア納税者番号）: BNSDLA70L14Z352B"
+    remarks:
+    - ja: ２００４年２月２８日にイタリアからチュニジアに追放された。２０１０年１月時点で、チュニジアにおいて外国テロ組織所属の罪で禁固１２年の刑に服役中。２０１３年にチュニジアで逮捕された。２０１４年に名字をBen SoltaneからHamdiに法的に変更した。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年６月２１日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.15302
+    name:
+      ja: メフディ・ベン・モハメド・ベン・モハメド・カンムーン
+      en: 'MEHDI BEN MOHAMED BEN MOHAMED KAMMOUN (original script: المهدي بن محمد بن محمد كمون)'
+    type: individual
+    effective_date: '2002-08-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: Via Masina Number 7, Milan, Italy
+    date_of_birth: '1968-04-03'
+    place_of_birth: Tunis, Tunisia
+    nationality: チュニジア
+    aliases:
+    - 'サルマン (a.k.a.: Salmane)'
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年9月3日（2005年12月20日、2007年6月7日、2010年12月23日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: チュニジア旅券 M307707（2000年4月12日発行、2005年4月11日失効）
+    remarks:
+    - ja: 'Italian Fiscal Code（イタリア納税者番号）: KMMMHD68D03Z352N。２００５年７月２２日にイタリアからチュニジアに追放された。２０１０年１月時点で、チュニジアにおいて外国テロ組織所属の罪で禁固８年の刑に服役中。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年６月２１日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals'
+  - id: jp.mof.terrorists-g7.17304
+    name:
+      ja: ターレク・ベン・ハビーブ・ベン・アットウミ・アル・マアルーフィ
+      en: 'TAREK BEN HABIB BEN AL-TOUMI AL-MAAROUFI (original script: طارق بن الحبيب بن التومي المعروفي)'
+    type: individual
+    effective_date: '2002-08-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: Rue Léon Théodore Number 107/1, 1090 Jette, Brussels, Belgium
+    date_of_birth: '1965-11-23'
+    place_of_birth: Ghardimaou, Tunisia
+    nationality: チュニジア
+    aliases:
+    - "(a)アブ・イスマイル(b)アブ・イスマイル・エル・ジェンドウビ(c)アブ・イスマイル・アル・ジョンドウビ (a.k.a.: (a)Abu Ismail (b)Abou Ismail el Jendoubi (c)Abou Ismail Al Djoundoubi)"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年9月3日（2004年11月26日、2005年12月20日、2006年7月31日、2007年7月3日、2009年8月10日、2010年1月25日、12月23日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    identification:
+      passport: チュニジア旅券 E590976（１９８７年６月１９日発行、１９９２年６月１８日失効）
+    remarks:
+    - ja: ベルギー国籍は２００９年１月２６日に剥奪された。２０１０年１０月時点で、ベルギーのNivellesにおいて拘留されている。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年６月８日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.18305
+    name:
+      ja: アブデルハリーム・ハーフィズ・アブデルファッターフ・レマドナ
+      en: ABDELHALIM HAFED ABDELFATTAH REMADNA (original script:عبدالحليم حافظ عبدالفتاح رمادنا ）
+    type: individual
+    effective_date: '2002-08-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    address: アルジェリア
+    date_of_birth: '1966-04-02'
+    place_of_birth: Biskra, Algeria
+    nationality: アルジェリア
+    aliases:
+    - "(a)アブデルハリーム・レマドナ(b)ジャロール (a.k.a.: (a)Abdelhalim Remadna (b)Jalloul)"
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年9月3日（2006年4月12日、2008年4月7日、2009年6月3日、2010年1月25日、12月23日、2019年5月1日及び2023年3月15日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: 2006年8月12日にイタリアからアルジェリアに強制送還された。国連安全保障理事会決議第1822号（2008年）に基づく見直しは2009年12月8日に終了した。国連安全保障理事会決議第2253号（2015年）に基づく見直しは2019年2月21日に終了した。国連安全保障理事会決議第2610号（2021年）に基づく見直しは2022年11月8日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+  - id: jp.mof.terrorists-g7.19306
+    name:
+      ja: イサーム・アリ・モハメド・アルーシュ
+      en: 'ISAM ALI MOHAMED ALOUCHE (original script: عصام علي محمد علوش)'
+    type: individual
+    effective_date: '2002-08-31'
+    sanction_list: jp/mof-asset-freeze-terrorists-g7
+    sanction_list_en: Terrorists (G7 Coordinated)
+    date_of_birth: '1974-03-21'
+    place_of_birth: Baghdad, Iraq
+    nationality: ヨルダン
+    aliases:
+    - マンスール・ザエール
+    - '１９７４年３月２１日イラク国バグダッドにて出生 (a.k.a.: Mansour Thaer, born 21 March 1974 in Baghdad, Iraq)'
+    reason:
+    - ja: '国連制裁員会による指定日: 2002年9月3日（2006年8月18日、2009年1月30日、2019年12月6日及び2024年２月７日に改訂）'
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    remarks:
+    - ja: ２００５年２月にドイツからヨルダンに追放された。国連安全保障理事会決議第１８２２号（２００８年）に基づく見直しは２０１０年６月２１日に終了した。国連安全保障理事会決議第２３６８号（２０１７年）に基づく見直しは２０１９年１２月４日に終了した。国連安全保障理事会決議第２６１０号（２０２１年）に基づく見直しは２０２３年１０月３０日に終了した。同人に対するインターポール（国際刑事警察機構）・国連安全保障理事会特別手配書のウェブ・リンク：https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals

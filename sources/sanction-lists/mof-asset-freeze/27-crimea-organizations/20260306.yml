@@ -1,0 +1,286 @@
+# yaml-language-server: $schema=../../schemas/jp-announcement.yml
+---
+announcement:
+  title:
+  - ja: クリミア等 (団体)
+  - en: Crimea and Sevastopol (Entities)
+  url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/list.html
+  publish_date: '2026-03-06'
+  authority: jp/mof
+  publisher: jp/mof
+  type: jp/asset-freeze-announcement
+  source_file: shisantouketsu20260305.xlsx
+  source_url: https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/shisantouketsu20260305.xlsx
+sanction_details:
+  instruments:
+  - id: jp/diet-foreign-exchange-and-foreign-trade-act
+  - id: jp/cabinet-order-foreign-exchange
+  entities:
+  - id: jp.mof.crimea-organizations.1
+    name:
+      ja: チョルノモルネフチガス(チョルノモルネフテガス)社
+      en: PJSC CHERNOMORNEFTEGAZ
+    type: organization
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: "(本社) Prospekt Kirova(Kirova Avenue)/Pereulok Sovnarkomovskii(Sovnarkomovskiy Lane) 52/1, Simfelopol,Crimea"
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+38-065-27-73458"
+  - id: jp.mof.crimea-organizations.2
+    name:
+      ja: フェオドシア社
+      en: FEODOSIIA(Feodosiia Enterprise on Supply of Oil Products/Feodosia)
+    type: organization
+    effective_date: '2014-08-05'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: Ulitsa Geologicheskaya(Geologicheskaia Street) 2，Feodosiia(Feodosia), Crimea
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+38-065-62-71683 / 57422 / 57433"
+  - id: jp.mof.crimea-organizations.3
+    name:
+      ja: "「ルハンスク人民共和国」（自称）"
+      en: Self-proclaimed “Luhansk(Lugansk) People's Republic”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: Square Geroev Velikoy Otechestvennoy Voyny 3, Luhansk,　Ukraine
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+380-642-58-58-88"
+  - id: jp.mof.crimea-organizations.4
+    name:
+      ja: "「ドネツク人民共和国」（自称）"
+      en: Self-proclaimed “Donetsk People's Republic”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: 83000, Pushkin Boulevard 34,Donetsk, Ukraine
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+380-99-954-05-63, +380-99-415-60-90"
+  - id: jp.mof.crimea-organizations.5
+    name:
+      ja: "「ノヴォロシア連邦」（自称）"
+      en: Self-proclaimed “Federal State of Novorossiya”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.6
+    name:
+      ja: "「大ドン軍」（自称）"
+      en: Self-proclaimed “International Union of Public Associations ‘Great Don Army’”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: 346465 October (C) District, Street Shosseynaya 1, Rostov Region, Russia
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+7-908-178-65-57"
+  - id: jp.mof.crimea-organizations.7
+    name:
+      ja: "「ソボル」（自称）"
+      en: Self-proclaimed “Sobol”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: Kiev Street 4 (area bus station‘Central’), Simferopol, Crimea
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+380-652-602-393"
+  - id: jp.mof.crimea-organizations.8
+    name:
+      ja: "「ルハンスク親衛隊」（自称）"
+      en: Self-proclaimed “Luhansk(Lugansk) Guard”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.9
+    name:
+      ja: "「南東部軍」（自称）"
+      en: Self-proclaimed “Army of the Southeast”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.10
+    name:
+      ja: "「ドンバス人民軍」（自称）"
+      en: Self-proclaimed “Donbass(Donbas) People's Militia”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: Prospect Zasyadko.13, Donetsk
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.11
+    name:
+      ja: "「ヴォストク大隊」（自称）"
+      en: Self-proclaimed “Vostok Battalion”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.12
+    name:
+      ja: "「ドネツク共和国」（自称）"
+      en: Self-proclaimed “Donetsk Republic”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.13
+    name:
+      ja: "「ルハンスク地域の平和」（自称）"
+      en: Self-proclaimed “Peace to Luhansk(Lugansk) Region”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.14
+    name:
+      ja: "「自由ドンバス」（自称）"
+      en: Self-proclaimed “Free Donbass（Donbas）”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: Sovetskaya street 79, Luhansk, Ukraine
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.15
+    name:
+      ja: "「人民連合」（自称）"
+      en: Self-proclaimed “People's Union”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.16
+    name:
+      ja: "「ルハンスク経済連合」（自称）"
+      en: Self-proclaimed “Luhansk(Lugansk) Economic Union”
+    type: organization
+    effective_date: '2014-12-09'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: Kotyubynskoho street 13, Luhansk, Ukraine
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+    phones:
+    - "+380-642-50-2585"
+  - id: jp.mof.crimea-organizations.17
+    name:
+      ja: "「クリミア共和国」追加的教育国家予算教育機関クリミア愛国者センター"
+      en: State Budgetary Educational Institution of Additional Education of “the Republic of Crimea” Crimea Patriot Center
+    type: organization
+    effective_date: '2024-06-21'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: 60 Let Oktyabrya Street, Building 13/64, Simferopol, Crimea, 295044, Ukraine
+    aliases:
+    - "（別称"
+    - "「クリミア共和国」追加的教育国家予算教育機関 兵役準備・軍人愛国教育地域センター"
+    - 地域兵役準備・軍事愛国教育センター
+    - クリムパトリオットセンター
+    - クリミア愛国者センター） （a.k.a. Gosudarstvennoe Byudzhetnoe Obrazovatelnoe Uchrezhdenie Dopolnitelnogo Obrazovaniya “Respubliki Krym” Regionalny Tsentr po Podgotovke k Voennoi Sluzhbe i Voenno-Patrioticheskomu Vospitaniyu, a.k.a. Regional Center for Preparation for Military Service and Military Patriotic Education, a.k.a. KrymPatriotTsentr, a.k.a. Crimea Patriot Centre, a.k.a. KrymPatriotCentre）
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze
+  - id: jp.mof.crimea-organizations.18
+    name:
+      ja: 連邦国家予算教育機関アルテク・インターナショナル児童センター
+      en: Federal State Budgetary Educational Institute International Children Center Artek
+    type: organization
+    effective_date: '2025-09-12'
+    sanction_list: jp/mof-asset-freeze-crimea-organizations
+    sanction_list_en: Crimea and Sevastopol (Entities)
+    address: 41 Lenningradskaya St., Gurzuf, Yalta, Crimea 298645, Ukraine
+    aliases:
+    - The Federal State Budget Educational Institution Artek International Childrens Center
+    - Federal State Budgetary Educational Institution International Children’s Centre Artek
+    measures:
+    - type:
+      - asset_freeze
+      ja: 資産凍結の対象
+      en: Subject to asset freeze

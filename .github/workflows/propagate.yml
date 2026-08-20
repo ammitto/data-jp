@@ -1,0 +1,77 @@
+name: Propagate data changes
+
+# This repository has no automated fetch, and saying otherwise cost a
+# commit a day.
+#
+# The workflow used to run `ammitto fetch jp` on a 06:00 cron. That
+# command has no path to Japan's data: the End-User List is a PDF, the
+# gem's from_pdf is a placeholder, and every run logged "Saved 0 files to
+# processed" and exited a success. It still wrote processed/_index.yaml
+# with `count: 0` and a fresh `fetched_at`, which `git status` saw as a
+# change — so the job committed "chore: update Japan sanctions data" every
+# morning, whose entire diff was that timestamp, and then dispatched a
+# full harmonize of ammitto/data off the back of it.
+#
+# The corpus is real and maintained: data-jp's own scripts under scripts/
+# produce the curated YAML in sources/, which is what harmonize reads for
+# jp's 5,097 published entities. Those scripts are not run here, and
+# wiring the one automatable list (METI's Foreign User List, via
+# update_foreign_user_list.rb) into processed/ would be worse than
+# nothing — harmonize prefers processed/ over sources/, so one auto-fetched
+# list of six would shadow the complete corpus.
+#
+# So this workflow no longer pretends to fetch. It propagates: when the
+# curated data actually changes on main, it tells ammitto/data to
+# harmonize. A person updating the corpus with scripts/ gets the same
+# downstream rebuild the cron used to fire pointlessly.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sources/**'
+      - 'processed/**'
+      - 'reference-docs/**'
+  workflow_dispatch:
+
+jobs:
+  propagate:
+    name: Trigger harmonization of ammitto/data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Trigger harmonization
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.AMMITTO_CI_PAT_TOKEN }}
+          script: |
+            try {
+              await github.rest.actions.createWorkflowDispatch({
+                owner: 'ammitto',
+                repo: 'data',
+                workflow_id: 'harmonize.yml',
+                ref: 'main'
+              });
+            } catch (error) {
+              // Fails the step rather than logging and carrying on. A
+              // token that is present but expired, revoked or
+              // under-scoped raises here, and console.log left the run
+              // green while the update never reached the dataset — the
+              // same silent shape this workflow is being fixed for.
+              core.setFailed('Could not trigger harmonization: ' + error.message);
+            }
+
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Harmonization dispatch failed - ${{ github.run_id }}',
+              body: 'data-jp changed but ammitto/data was not told to harmonize. See: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}',
+              labels: ['automation', 'data-update']
+            })

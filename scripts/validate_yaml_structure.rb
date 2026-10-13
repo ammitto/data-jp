@@ -4,6 +4,7 @@
 # Script to validate generated YAML against example file
 # Compares structure and content up to clause 6 (Article 6)
 
+require 'date'
 require 'yaml'
 require 'json'
 
@@ -30,15 +31,14 @@ class YamlValidator
     validate_content(generated, example)
 
     puts "\n=== Validation Results ==="
-    if @errors.empty?
+    success = @errors.empty?
+    if success
       puts "✅ All validations passed!"
-      true
     else
       puts "❌ Validation failed with #{@errors.size} error(s):"
       @errors.each_with_index do |error, idx|
         puts "  #{idx + 1}. #{error}"
       end
-      false
     end
 
     if @warnings.any?
@@ -47,6 +47,8 @@ class YamlValidator
         puts "  #{idx + 1}. #{warning}"
       end
     end
+
+    success
   end
 
   private

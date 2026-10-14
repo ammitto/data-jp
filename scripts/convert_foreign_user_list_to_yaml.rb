@@ -377,26 +377,15 @@ class ForeignUserListConverter
 
   def build_name(company)
     name = {}
-    text = company.to_s.strip
-
-    # Check if bilingual (contains both Japanese and English)
-    if text.include?("\n")
-      parts = text.split("\n").map(&:strip)
-      if parts.length >= 2
-        name['ja'] = parts[0] if parts[0].match?(/[\p{Hiragana}\p{Katakana}\p{Han}]/)
-        name['en'] = parts.find { |p| p.match?(/^[A-Za-z]/) }
-      end
-    end
-
-    # If not bilingual or couldn't parse, use as-is
-    if name.empty?
-      if text.match?(/[\p{Hiragana}\p{Katakana}\p{Han}]/)
-        name['ja'] = text
+    company.to_s.split("\n").map(&:strip).reject(&:empty?).each do |part|
+      if part.match?(/[\p{Hiragana}\p{Katakana}\p{Han}]/)
+        name['ja'] ||= part.sub(/\A[（(](.*)[）)]\z/, '\1')
       else
-        name['en'] = text
+        # Names may begin with digits, as in METI's "4.27 Co." and
+        # numbered research institutes. Keep the complete name line.
+        name['en'] ||= part
       end
     end
-
     name
   end
 

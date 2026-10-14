@@ -1,0 +1,25 @@
+name: Validate source data
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      BUNDLE_GEMFILE: .github/validation.Gemfile
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Validate announcements, legal instruments, and supporting taxonomies
+        run: bundle exec ruby scripts/validate_sources.rb
+      - name: Check Foreign User List conversion against authority rows
+        run: bundle exec ruby scripts/convert_foreign_user_list_test.rb

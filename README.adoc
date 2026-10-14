@@ -172,6 +172,14 @@ link:lib/mof_sanctions/[lib/mof_sanctions/] contains the MOF parser.
 `validate_yaml_structure.rb` is a specialized comparison of legal-instrument
 examples, not a validator for the sanctions corpus.
 
+Run `bundle exec ruby scripts/validate_sources.rb` to validate every announcement
+and legal-instrument document, plus the document-type and organization
+taxonomies, using the Ammitto gem's Japan schemas. The command exits unsuccessfully
+when any document is invalid or a source directory is empty. Index files and the
+supporting sanction-list catalog are metadata outside those four schema types.
+Pull requests run the same check with the gem revision pinned in
+`.github/validation.Gemfile`.
+
 == License
 
 Data in this repository is sourced from official Japanese government

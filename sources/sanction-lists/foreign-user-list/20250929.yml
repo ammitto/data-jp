@@ -7220,7 +7220,8 @@ sanction_details:
       en: Export license required
   - id: jp.meti.ful.297
     name:
-      en:
+      en: 4.27 Co. Pyongyang Branch
+      ja: 4.27貿易会社平壌支社
     type: organization
     effective_date: '2025-09-29'
     sanction_list: jp/meti-foreign-user-list
@@ -12075,7 +12076,8 @@ sanction_details:
     - 鼐实鑫电子(深圳)有限公司
   - id: jp.meti.ful.475
     name:
-      en:
+      en: 10th Research Institute of China Electronic Technology Group Corporation (CETC)
+      ja: 中国電子科技集団公司第十研究所
     type: organization
     effective_date: '2025-09-29'
     sanction_list: jp/meti-foreign-user-list
@@ -12103,7 +12105,8 @@ sanction_details:
     - "(中国西南電子技術研究所)"
   - id: jp.meti.ful.476
     name:
-      en:
+      en: 13th Research Institute, 9th Academy, China Aerospace Science and Technology Corporation (CASC)
+      ja: 中国航天科技集団公司第九研究院第十三研究所
     type: organization
     effective_date: '2025-09-29'
     sanction_list: jp/meti-foreign-user-list
@@ -12130,7 +12133,8 @@ sanction_details:
     - Beijing Aerospace Times Optical-Electronic Technology Co., Ltd.
   - id: jp.meti.ful.477
     name:
-      en:
+      en: 20th Research Institute of China Electronic Technology Group Corporation (CETC)
+      ja: 中国電子科技集団公司第二十研究所
     type: organization
     effective_date: '2025-09-29'
     sanction_list: jp/meti-foreign-user-list

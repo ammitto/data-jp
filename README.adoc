@@ -65,6 +65,62 @@ Each entity:
 | `source_file`, `source_url` | string | Foreign User entries: the file the entry was taken from
 |===
 
+== Harmonized field mapping
+
+The https://github.com/ammitto/ammitto/blob/74491e856c1e68aea52c0cf0e34061d48429d359/lib/ammitto/cli/harmonize/jp_announcement_transform.rb[general announcement reader] flattens top-level `entities` or `sanction_details.entities` for the https://github.com/ammitto/ammitto/blob/74491e856c1e68aea52c0cf0e34061d48429d359/lib/ammitto/sources/jp/transformer.rb[JP transformer]. The separately available https://github.com/ammitto/ammitto/blob/74491e856c1e68aea52c0cf0e34061d48429d359/lib/ammitto/data/japan/meti/transformer.rb[METI transformer] accepts `Data::Japan::Meti::Entity` fields, explicitly labeled below.
+
+Targets below use canonical Ruby fields. Entity classes are under
+`Ammitto::Ontology::Entities`; `SanctionEntry`, `OfficialAnnouncement`,
+`SanctionReason` and `SanctionPeriodModification` are under
+`Ammitto::Ontology::Sanction`; other target classes are under
+`Ammitto::Ontology::ValueObjects`. JSON-LD uses the serializer's wire keys:
+`SourceReference.fetched_at`, for example, is published as `retrievedAt`.
+
+[cols="2,3,4",options="header"]
+|===
+| Input field | Canonical target | Transformation
+
+| Entity `id`, or announcement `authority`, list and `entry_number`/position
+| `Entity.id`; `SanctionEntry.id`
+| General path prefers a supplied ID; otherwise derives one from authority, list and `entry_number` or record position, then mints source-qualified IRIs.
+
+| Entity `name.en`, `name.ja`
+| `NameVariant.full_name`, `script`, `is_primary`
+| General path selects English or Japanese as the primary text and also reads the Japanese variant.
+
+| Entity `type`
+| `PersonEntity` or `OrganizationEntity`
+| General path normalizes individual/person to person; otherwise selects an organization.
+
+| Entity `address`
+| `OrganizationEntity.addresses` → `Address.street`
+| General path wraps nonblank address values as street text for organizations.
+
+| Entity `remarks`, `reason`
+| `Entity.remarks`
+| General path joins text from both fields; English text is preferred within bilingual note objects.
+
+| METI model `id`
+| `OrganizationEntity.id`; `SanctionEntry.id`
+| Uses the final dot-separated ID segment as the source reference for IRI generation.
+
+| METI model `name_en`, `name_ja`, `aliases`
+| `NameVariant.full_name`, `script`, `is_primary`
+| Keeps English/Japanese names and aliases; alias script is selected from the text.
+
+| METI model `country_code`, `country_en`, `country_ja`
+| `Address.country_iso_code`, `country`
+| Builds a country address when a code and a country name are present.
+
+| METI model `wmd_types`
+| `OrganizationEntity.remarks`; `SanctionEntry.reason_details` → `SanctionReason.localized_descriptions`
+| Expands WMD codes into descriptions and category `wmd_proliferation`; the METI path constructs `export_restriction` effects.
+
+| METI model `list_date`
+| `TemporalPeriod.listed_date`, `is_indefinite`
+| Copies the listing date into an indefinite period.
+|===
+
 == Using the data
 
 Clone or download this repository and run either example from its root
